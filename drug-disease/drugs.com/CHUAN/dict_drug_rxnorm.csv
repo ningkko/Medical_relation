@@ -1,0 +1,2122 @@
+"generic_names","rxnorm1","rxnorm_str1","rxnorm2","rxnorm_str2"
+"vasopressin",NA,NA,11149,"vasopressin (usp)"
+"vasopressin",NA,NA,1098,"argipressin"
+"bethanechol",19257,"bethanechol",19257,"bethanechol"
+"pamabrom",54365,"pamabrom",54365,"pamabrom"
+"medroxyprogesterone",6691,"medroxyprogesterone",6691,"medroxyprogesterone"
+"norethindrone",7514,"norethindrone",7514,"norethindrone"
+"megestrol",6703,"megestrol",6703,"megestrol"
+"ethinyl estradiol and norgestimate",NA,NA,214559,"ethinyl estradiol / norgestimate"
+"levonorgestrel emergency contraceptive",NA,NA,NA,NA
+"ethinyl estradiol and levonorgestrel",NA,NA,214558,"ethinyl estradiol / levonorgestrel"
+"conjugated estrogens",NA,NA,4099,"estrogens, conjugated (usp)"
+"ethinyl estradiol and norgestrel",NA,NA,37075,"ethinyl estradiol / norgestrel"
+"ethinyl estradiol and norethindrone",NA,NA,384410,"ethinyl estradiol / norethindrone"
+"misoprostol",42331,"misoprostol",42331,"misoprostol"
+"mifepristone",6964,"mifepristone",6964,"mifepristone"
+"oxytocin",7824,"oxytocin",7824,"oxytocin"
+"carboprost",2051,"carboprost",2051,"carboprost"
+"dinoprostone topical",NA,NA,NA,NA
+"acetylcysteine",197,"acetylcysteine",197,"acetylcysteine"
+"sodium bicarbonate",36676,"sodium bicarbonate",36676,"sodium bicarbonate"
+"doxycycline",3640,"doxycycline",3640,"doxycycline"
+"metronidazole topical",NA,NA,NA,NA
+"azelaic acid topical",NA,NA,NA,NA
+"minocycline",6980,"minocycline",6980,"minocycline"
+"doxycycline delayed-release tablets",NA,NA,NA,NA
+"brimonidine topical",NA,NA,NA,NA
+"doxycycline injection",NA,NA,NA,NA
+"doxycycline tablets and capsules",NA,NA,NA,NA
+"sulfacetamide sodium and sulfur topical",NA,NA,NA,NA
+"isotretinoin",6064,"isotretinoin",6064,"isotretinoin"
+"ivermectin cream",NA,NA,NA,NA
+"doxycycline suspension",NA,NA,NA,NA
+"spironolactone",9997,"spironolactone",9997,"spironolactone"
+"clindamycin topical",NA,NA,NA,NA
+"tretinoin topical",NA,NA,NA,NA
+"sulfamethoxazole and trimethoprim",NA,NA,10831,"sulfamethoxazole / trimethoprim"
+"retin-a",NA,NA,NA,NA
+"adapalene and benzoyl peroxide",NA,NA,859393,"adapalene / benzoyl peroxide"
+"dapsone topical",NA,NA,NA,NA
+"adapalene topical",NA,NA,NA,NA
+"benzoyl peroxide topical",NA,NA,NA,NA
+"tetracycline",10395,"tetracycline",10395,"tetracycline"
+"tazarotene topical",NA,NA,NA,NA
+"cephalexin",2231,"cephalexin",2231,"cephalexin"
+"sulfamethoxazole and trimethoprim tablets",NA,NA,NA,NA
+"benzoyl peroxide and clindamycin topical",NA,NA,NA,NA
+"octreotide",7617,"octreotide",7617,"octreotide"
+"pegvisomant",278739,"pegvisomant",278739,"pegvisomant"
+"bromocriptine",1760,"bromocriptine",1760,"bromocriptine"
+"lanreotide",68092,"lanreotide",68092,"lanreotide"
+"pasireotide",1364105,"pasireotide",1364105,"pasireotide"
+"fluorouracil topical",NA,NA,NA,NA
+"ingenol topical",NA,NA,NA,NA
+"aminolevulinic acid",683,"aminolevulinic acid",683,"aminolevulinic acid"
+"amoxicillin",723,"amoxicillin",723,"amoxicillin"
+"penicillin g sodium",NA,NA,NA,NA
+"penicillin g potassium",NA,NA,NA,NA
+"clopidogrel",32968,"clopidogrel",32968,"clopidogrel"
+"prasugrel",613391,"prasugrel",613391,"prasugrel"
+"ticagrelor",1116632,"ticagrelor",1116632,"ticagrelor"
+"enoxaparin",67108,"enoxaparin",67108,"enoxaparin"
+"eptifibatide",75635,"eptifibatide",75635,"eptifibatide"
+"tirofiban",73137,"tirofiban",73137,"tirofiban"
+"colchicine",2683,"colchicine",2683,"colchicine"
+"indomethacin",5781,"indomethacin",5781,"indomethacin"
+"naproxen",7258,"naproxen",7258,"naproxen"
+"ibuprofen",5640,"ibuprofen",5640,"ibuprofen"
+"methylprednisolone",6902,"methylprednisolone",6902,"methylprednisolone"
+"ibuprofen capsules",NA,NA,NA,NA
+"sulindac",10237,"sulindac",10237,"sulindac"
+"methotrexate",6851,"methotrexate",6851,"methotrexate"
+"imatinib",282388,"imatinib",282388,"imatinib"
+"mercaptopurine",103,"mercaptopurine",103,"mercaptopurine"
+"dasatinib",475342,"dasatinib",475342,"dasatinib"
+"blinatumomab",1597258,"blinatumomab",1597258,"blinatumomab"
+"doxorubicin",3639,"doxorubicin",3639,"doxorubicin"
+"pegaspargase",34132,"pegaspargase",34132,"pegaspargase"
+"ponatinib",1364347,"ponatinib",1364347,"ponatinib"
+"mercaptopurine tablets",NA,NA,NA,NA
+"asparaginase erwinia chrysanthemi",NA,NA,NA,NA
+"vincristine liposome",NA,NA,NA,NA
+"nelarabine",274771,"nelarabine",274771,"nelarabine"
+"inotuzumab ozogamicin",1942950,"inotuzumab ozogamicin",1942950,"inotuzumab ozogamicin"
+"clofarabine",44151,"clofarabine",44151,"clofarabine"
+"prednisone",8640,"prednisone",8640,"prednisone"
+"vincristine",11202,"vincristine",11202,"vincristine"
+"cyclophosphamide",3002,"cyclophosphamide",3002,"cyclophosphamide"
+"asparaginase",1156,"asparaginase",1156,"asparaginase"
+"daunorubicin",3109,"daunorubicin",3109,"daunorubicin"
+"teniposide",10362,"teniposide",10362,"teniposide"
+"acetazolamide",167,"acetazolamide",167,"acetazolamide"
+"dexamethasone",3264,"dexamethasone",3264,"dexamethasone"
+"cytarabine",3041,"cytarabine",3041,"cytarabine"
+"enasidenib",1940332,"enasidenib",1940332,"enasidenib"
+"idarubicin",5650,"idarubicin",5650,"idarubicin"
+"ivosidenib",2049873,"ivosidenib",2049873,"ivosidenib"
+"decitabine",15657,"decitabine",15657,"decitabine"
+"venetoclax",1747556,"venetoclax",1747556,"venetoclax"
+"cytarabine and daunorubicin",NA,NA,NA,NA
+"gemtuzumab ozogamicin",1294580,"gemtuzumab ozogamicin",1294580,"gemtuzumab ozogamicin"
+"midostaurin",1919083,"midostaurin",1919083,"midostaurin"
+"gilteritinib",2105806,"gilteritinib",2105806,"gilteritinib"
+"glasdegib",2105845,"glasdegib",2105845,"glasdegib"
+"thioguanine",10485,"thioguanine",10485,"thioguanine"
+"mitoxantrone",7005,"mitoxantrone",7005,"mitoxantrone"
+"ofloxacin otic",NA,NA,NA,NA
+"ciprofloxacin and hydrocortisone",NA,NA,465711,"ciprofloxacin / hydrocortisone"
+"ciprofloxacin otic",NA,NA,NA,NA
+"colistin, hydrocortisone, neomycin, and thonzonium",NA,NA,NA,NA
+"tretinoin",10753,"tretinoin",10753,"tretinoin"
+"arsenic trioxide",18330,"arsenic trioxide",18330,"arsenic trioxide"
+"epinephrine injection",NA,NA,NA,NA
+"isoproterenol",6054,"isoproterenol",6054,"isoproterenol"
+"epinephrine",3992,"epinephrine",3992,"epinephrine"
+"hydrocortisone",5492,"hydrocortisone",5492,"hydrocortisone"
+"fludrocortisone",4452,"fludrocortisone",4452,"fludrocortisone"
+"dexamethasone tablets",NA,NA,NA,NA
+"elapegademase",2059219,"elapegademase",2059219,"elapegademase"
+"pegademase bovine",59768,"pegademase bovine",59768,"pegademase bovine"
+"probenecid",8698,"probenecid",8698,"probenecid"
+"mitotane",7004,"mitotane",7004,"mitotane"
+"cortisone",2878,"cortisone",2878,"cortisone"
+"triamcinolone",10759,"triamcinolone",10759,"triamcinolone"
+"cosyntropin",2890,"cosyntropin",2890,"cosyntropin"
+"somatropin",61148,"somatropin",61148,"somatropin"
+"somatropin, mammalian derived",NA,NA,NA,NA
+"haloperidol",5093,"haloperidol",5093,"haloperidol"
+"aripiprazole",89013,"aripiprazole",89013,"aripiprazole"
+"olanzapine",61381,"olanzapine",61381,"olanzapine"
+"loxapine",6475,"loxapine",6475,"loxapine"
+"olanzapine injection",NA,NA,NA,NA
+"risperidone",35636,"risperidone",35636,"risperidone"
+"citalopram",2556,"citalopram",2556,"citalopram"
+"amitriptyline and perphenazine",NA,NA,282427,"amitriptyline / perphenazine"
+"fluoxetine",4493,"fluoxetine",4493,"fluoxetine"
+"propranolol",8787,"propranolol",8787,"propranolol"
+"naltrexone",7243,"naltrexone",7243,"naltrexone"
+"disulfiram",3554,"disulfiram",3554,"disulfiram"
+"acamprosate",82819,"acamprosate",82819,"acamprosate"
+"ondansetron",26225,"ondansetron",26225,"ondansetron"
+"gabapentin",25480,"gabapentin",25480,"gabapentin"
+"chlordiazepoxide",2356,"chlordiazepoxide",2356,"chlordiazepoxide"
+"baclofen",1292,"baclofen",1292,"baclofen"
+"diazepam",3322,"diazepam",3322,"diazepam"
+"clonidine",2599,"clonidine",2599,"clonidine"
+"atenolol",1202,"atenolol",1202,"atenolol"
+"clorazepate",2353,"clorazepate",2353,"clorazepate"
+"oxazepam",7781,"oxazepam",7781,"oxazepam"
+"diazepam oral concentrate",NA,NA,NA,NA
+"propylthiouracil",8794,"propylthiouracil",8794,"propylthiouracil"
+"oxandrolone",7779,"oxandrolone",7779,"oxandrolone"
+"gabapentin enacarbil",NA,NA,NA,NA
+"ammonium chloride",712,"ammonium chloride",712,"ammonium chloride"
+"citric acid and sodium citrate",NA,NA,91198,"citric acid / sodium citrate"
+"terbutaline",10368,"terbutaline",10368,"terbutaline"
+"salmeterol",36117,"salmeterol",36117,"salmeterol"
+"ketotifen ophthalmic",NA,NA,NA,NA
+"azelastine ophthalmic",NA,NA,NA,NA
+"bepotastine ophthalmic",NA,NA,NA,NA
+"cromolyn sodium",NA,NA,NA,NA
+"epinastine ophthalmic",NA,NA,NA,NA
+"alcaftadine ophthalmic",NA,NA,NA,NA
+"prednisolone",8638,"prednisolone",8638,"prednisolone"
+"nedocromil ophthalmic",NA,NA,NA,NA
+"ketotifen",6146,"ketotifen",6146,"ketotifen"
+"cetirizine",20610,"cetirizine",20610,"cetirizine"
+"doxylamine",3642,"doxylamine",3642,"doxylamine"
+"carbinoxamine",20220,"carbinoxamine",20220,"carbinoxamine"
+"diphenhydramine",3498,"diphenhydramine",3498,"diphenhydramine"
+"diphenhydramine chewable tablets and orally-disintegrating tablets",NA,NA,NA,NA
+"loratadine",28889,"loratadine",28889,"loratadine"
+"promethazine",8745,"promethazine",8745,"promethazine"
+"chlorpheniramine",2400,"chlorpheniramine",2400,"chlorpheniramine"
+"cyproheptadine",3013,"cyproheptadine",3013,"cyproheptadine"
+"fexofenadine",87636,"fexofenadine",87636,"fexofenadine"
+"fluticasone nasal",NA,NA,NA,NA
+"montelukast",88249,"montelukast",88249,"montelukast"
+"azelastine nasal",NA,NA,NA,NA
+"mometasone nasal",NA,NA,NA,NA
+"levocetirizine",356887,"levocetirizine",356887,"levocetirizine"
+"azelastine and fluticasone nasal",NA,NA,NA,NA
+"fluticasone nasal spray",NA,NA,NA,NA
+"desloratadine",275635,"desloratadine",275635,"desloratadine"
+"hydroxyzine",5553,"hydroxyzine",5553,"hydroxyzine"
+"famotidine",4278,"famotidine",4278,"famotidine"
+"triprolidine",10849,"triprolidine",10849,"triprolidine"
+"dexchlorpheniramine and phenylephrine",NA,NA,728498,"dexchlorpheniramine / phenylephrine"
+"tetracaine topical",NA,NA,NA,NA
+"carbinoxamine liquid",NA,NA,NA,NA
+"corticotropin",376,"corticotropin",376,"corticotropin"
+"dexbrompheniramine",22696,"dexbrompheniramine",22696,"dexbrompheniramine"
+"ibuprofen, phenylephrine, and chlorpheniramine",NA,NA,NA,NA
+"dexbrompheniramine and phenylephrine",NA,NA,815449,"dexbrompheniramine / phenylephrine"
+"minoxidil topical",NA,NA,NA,NA
+"minoxidil",6984,"minoxidil",6984,"minoxidil"
+"sulfasalazine",9524,"sulfasalazine",9524,"sulfasalazine"
+"alpha 1-proteinase inhibitor",NA,NA,535,"alpha 1-antitrypsin"
+"lisinopril",29046,"lisinopril",29046,"lisinopril"
+"losartan",52175,"losartan",52175,"losartan"
+"enalapril",3827,"enalapril",3827,"enalapril"
+"fosinopril",50166,"fosinopril",50166,"fosinopril"
+"candesartan",214354,"candesartan",214354,"candesartan"
+"quinapril",35208,"quinapril",35208,"quinapril"
+"donepezil",135447,"donepezil",135447,"donepezil"
+"memantine",6719,"memantine",6719,"memantine"
+"rivastigmine",183379,"rivastigmine",183379,"rivastigmine"
+"galantamine",4637,"galantamine",4637,"galantamine"
+"vitamin e, tocopherol alpha",NA,NA,NA,NA
+"donepezil and memantine",NA,NA,1430990,"donepezil / memantine"
+"vitamin e",11256,"vitamin e",11256,"vitamin e"
+"etanercept",214555,"etanercept",214555,"etanercept"
+"ergoloid mesylates",NA,NA,4024,"ergoloid mesylates, usp"
+"ergoloid mesylates",NA,NA,3419,"dihydroergotoxine"
+"vitamin e capsules and tablets",NA,NA,NA,NA
+"metronidazole",6922,"metronidazole",6922,"metronidazole"
+"tinidazole",10612,"tinidazole",10612,"tinidazole"
+"nitazoxanide",31819,"nitazoxanide",31819,"nitazoxanide"
+"paromomycin",7934,"paromomycin",7934,"paromomycin"
+"chloroquine",2393,"chloroquine",2393,"chloroquine"
+"progesterone",8727,"progesterone",8727,"progesterone"
+"progesterone vaginal",NA,NA,NA,NA
+"tafamidis",1545063,"tafamidis",1545063,"tafamidis"
+"patisiran",2053490,"patisiran",2053490,"patisiran"
+"inotersen",2099289,"inotersen",2099289,"inotersen"
+"riluzole",35623,"riluzole",35623,"riluzole"
+"edaravone",1921877,"edaravone",1921877,"edaravone"
+"capecitabine",194000,"capecitabine",194000,"capecitabine"
+"fluorouracil",4492,"fluorouracil",4492,"fluorouracil"
+"mitomycin",632,"mitomycin",632,"mitomycin"
+"cisplatin",2555,"cisplatin",2555,"cisplatin"
+"nitroglycerin",4917,"nitroglycerin",4917,"nitroglycerin"
+"hydrocortisone rectal",NA,NA,NA,NA
+"clobetasol topical",NA,NA,NA,NA
+"lidocaine topical",NA,NA,NA,NA
+"lidocaine gel",NA,NA,NA,NA
+"zinc oxide topical",NA,NA,NA,NA
+"hydrocortisone acetate",NA,NA,NA,NA
+"benzocaine",1399,"benzocaine",1399,"benzocaine"
+"glycerin and lidocaine",NA,NA,1602012,"glycerin / lidocaine"
+"hydrocortisone topical",NA,NA,NA,NA
+"acetaminophen, aspirin, and caffeine",NA,NA,NA,NA
+"acetaminophen, aspirin, and caffeine powder packet",NA,NA,NA,NA
+"naproxen and pseudoephedrine",NA,NA,284641,"naproxen / pseudoephedrine"
+"acetaminophen, aspirin, and caffeine tablets",NA,NA,NA,NA
+"acetaminophen, dextromethorphan, doxylamine, and phenylephrine",NA,NA,NA,NA
+"acetaminophen, dextromethorphan, and phenylephrine",NA,NA,NA,NA
+"acetaminophen, dextromethorphan, and phenylephrine capsules and tablets",NA,NA,NA,NA
+"temozolomide",37776,"temozolomide",37776,"temozolomide"
+"procarbazine",8702,"procarbazine",8702,"procarbazine"
+"lomustine",6466,"lomustine",6466,"lomustine"
+"finasteride",25025,"finasteride",25025,"finasteride"
+"ketoconazole topical",NA,NA,NA,NA
+"darbepoetin alfa",283838,"darbepoetin alfa",283838,"darbepoetin alfa"
+"epoetin alfa",105694,"epoetin alfa",105694,"epoetin alfa"
+"ferrous sulfate",24947,"ferrous sulfate",24947,"ferrous sulfate"
+"ferrous fumarate",24941,"ferrous fumarate",24941,"ferrous fumarate"
+"epoetin beta and methoxy polyethylene glycol",NA,NA,NA,NA
+"ferrous gluconate",24942,"ferrous gluconate",24942,"ferrous gluconate"
+"ferrous sulfate capsules and tablets",NA,NA,NA,NA
+"ferumoxytol",473387,"ferumoxytol",473387,"ferumoxytol"
+"sodium ferric gluconate complex",261435,"sodium ferric gluconate complex",261435,"sodium ferric gluconate complex"
+"iron dextran",NA,NA,5992,"iron-dextran complex"
+"ferrous fumarate and folic acid",NA,NA,1008559,"ferrous fumarate / folic acid"
+"multivitamin with iron",NA,NA,NA,NA
+"pyridoxine",684879,"pyridoxine",684879,"pyridoxine"
+"oxymetholone",7813,"oxymetholone",7813,"oxymetholone"
+"iron/folic acid/cyanocobalamin/vitamin c/docusate",NA,NA,NA,NA
+"vitamin b complex and iron combinations tablets and capsules",NA,NA,NA,NA
+"ferrous fumarate, polysaccharide iron complex, vitamin c, and vitamin b3",NA,NA,NA,NA
+"multivitamins, folic acid, and iron capsules",NA,NA,NA,NA
+"lenalidomide",342369,"lenalidomide",342369,"lenalidomide"
+"cyanocobalamin/folic acid/iron",NA,NA,NA,NA
+"iron, succinic acid, vitamin c, folic acid, and vitamin b12",NA,NA,NA,NA
+"hydromorphone",3423,"hydromorphone",3423,"hydromorphone"
+"fentanyl transdermal",NA,NA,NA,NA
+"atracurium",1218,"atracurium",1218,"atracurium"
+"butorphanol",1841,"butorphanol",1841,"butorphanol"
+"methohexital",6847,"methohexital",6847,"methohexital"
+"propofol",8782,"propofol",8782,"propofol"
+"lidocaine injection",NA,NA,NA,NA
+"lidocaine and prilocaine topical",NA,NA,NA,NA
+"ketamine",6130,"ketamine",6130,"ketamine"
+"succinylcholine",10154,"succinylcholine",10154,"succinylcholine"
+"glycopyrrolate",NA,NA,NA,NA
+"rocuronium",68139,"rocuronium",68139,"rocuronium"
+"etomidate",4177,"etomidate",4177,"etomidate"
+"lidocaine viscous",NA,NA,NA,NA
+"vecuronium",71535,"vecuronium",71535,"vecuronium"
+"hyoscyamine",153970,"hyoscyamine",153970,"hyoscyamine"
+"cisatracurium",319864,"cisatracurium",319864,"cisatracurium"
+"sevoflurane",36453,"sevoflurane",36453,"sevoflurane"
+"lidocaine",6387,"lidocaine",6387,"lidocaine"
+"isosorbide mononitrate",NA,NA,NA,NA
+"aspirin",1191,"aspirin",1191,"aspirin"
+"metoprolol",6918,"metoprolol",6918,"metoprolol"
+"bisoprolol",19484,"bisoprolol",19484,"bisoprolol"
+"nitroglycerin sublingual",NA,NA,NA,NA
+"isosorbide dinitrate",6058,"isosorbide dinitrate",6058,"isosorbide dinitrate"
+"diltiazem",3443,"diltiazem",3443,"diltiazem"
+"aspirin tablets",NA,NA,NA,NA
+"nifedipine",7417,"nifedipine",7417,"nifedipine"
+"metoprolol injection",NA,NA,NA,NA
+"metoprolol succinate tablet, extended release",NA,NA,NA,NA
+"diltiazem long-acting capsules",NA,NA,NA,NA
+"ranolazine",35829,"ranolazine",35829,"ranolazine"
+"amlodipine",17767,"amlodipine",17767,"amlodipine"
+"carvedilol",20352,"carvedilol",20352,"carvedilol"
+"amlodipine and atorvastatin",NA,NA,404773,"amlodipine / atorvastatin"
+"verapamil immediate-release tablets",NA,NA,NA,NA
+"interferon alfa-2b",5880,"interferon alfa-2b",5880,"interferon alfa-2b"
+"iohexol",NA,NA,NA,NA
+"danazol",3102,"danazol",3102,"danazol"
+"mebendazole",6672,"mebendazole",6672,"mebendazole"
+"adalimumab",327361,"adalimumab",327361,"adalimumab"
+"celecoxib",140587,"celecoxib",140587,"celecoxib"
+"diclofenac",3355,"diclofenac",3355,"diclofenac"
+"infliximab",191831,"infliximab",191831,"infliximab"
+"golimumab",819300,"golimumab",819300,"golimumab"
+"certolizumab",NA,NA,709271,"certolizumab pegol"
+"secukinumab",1599788,"secukinumab",1599788,"secukinumab"
+"esomeprazole and naproxen",NA,NA,994202,"esomeprazole / naproxen"
+"fluvoxamine",42355,"fluvoxamine",42355,"fluvoxamine"
+"dronabinol",10402,"dronabinol",10402,"dronabinol"
+"ciprofloxacin",2551,"ciprofloxacin",2551,"ciprofloxacin"
+"levofloxacin",82122,"levofloxacin",82122,"levofloxacin"
+"moxifloxacin",139462,"moxifloxacin",139462,"moxifloxacin"
+"anthrax vaccine",NA,NA,1368371,"bacillus anthracis strain v770-np1-r antigens"
+"ofloxacin",7623,"ofloxacin",7623,"ofloxacin"
+"penicillin g procaine",NA,NA,NA,NA
+"procaine penicillin",NA,NA,NA,NA
+"meloxicam",41493,"meloxicam",41493,"meloxicam"
+"betamethasone",1514,"betamethasone",1514,"betamethasone"
+"magnesium salicylate",52364,"magnesium salicylate",52364,"magnesium salicylate"
+"tolmetin",10636,"tolmetin",10636,"tolmetin"
+"immune globulin",NA,NA,NA,NA
+"physostigmine",8299,"physostigmine",8299,"physostigmine"
+"pralidoxime",34345,"pralidoxime",34345,"pralidoxime"
+"atropine",1223,"atropine",1223,"atropine"
+"atropine auto-injector",NA,NA,NA,NA
+"heparin",5224,"heparin",5224,"heparin"
+"warfarin",11289,"warfarin",11289,"warfarin"
+"antithrombin",NA,NA,1009,"antithrombin iii"
+"sertraline",36437,"sertraline",36437,"sertraline"
+"amitriptyline",704,"amitriptyline",704,"amitriptyline"
+"paroxetine",32937,"paroxetine",32937,"paroxetine"
+"venlafaxine",39786,"venlafaxine",39786,"venlafaxine"
+"prazosin",8629,"prazosin",8629,"prazosin"
+"alprazolam",596,"alprazolam",596,"alprazolam"
+"clonazepam",2598,"clonazepam",2598,"clonazepam"
+"lorazepam",6470,"lorazepam",6470,"lorazepam"
+"buspirone",1827,"buspirone",1827,"buspirone"
+"escitalopram",321988,"escitalopram",321988,"escitalopram"
+"duloxetine",72625,"duloxetine",72625,"duloxetine"
+"trazodone",10737,"trazodone",10737,"trazodone"
+"bupropion",42347,"bupropion",42347,"bupropion"
+"mirtazapine",15996,"mirtazapine",15996,"mirtazapine"
+"lamotrigine",28439,"lamotrigine",28439,"lamotrigine"
+"iodixanol",27729,"iodixanol",27729,"iodixanol"
+"triamcinolone topical",NA,NA,NA,NA
+"benzocaine topical",NA,NA,NA,NA
+"benzocaine oral spray",NA,NA,NA,NA
+"benzocaine lozenges",NA,NA,NA,NA
+"filgrastim",68442,"filgrastim",68442,"filgrastim"
+"sargramostim",69634,"sargramostim",69634,"sargramostim"
+"lymphocyte immune globulin, anti-thymocyte ",NA,NA,NA,NA
+"eltrombopag",711942,"eltrombopag",711942,"eltrombopag"
+"theophylline",10438,"theophylline",10438,"theophylline"
+"caffeine citrate",NA,NA,NA,NA
+"piperacillin and tazobactam",NA,NA,74169,"piperacillin / tazobactam"
+"amiodarone tablets",NA,NA,NA,NA
+"verapamil",11170,"verapamil",11170,"verapamil"
+"dofetilide",49247,"dofetilide",49247,"dofetilide"
+"amiodarone",703,"amiodarone",703,"amiodarone"
+"mexiletine",6926,"mexiletine",6926,"mexiletine"
+"verapamil long-acting tablets",NA,NA,NA,NA
+"disopyramide",3541,"disopyramide",3541,"disopyramide"
+"phenytoin",8183,"phenytoin",8183,"phenytoin"
+"quinidine",9068,"quinidine",9068,"quinidine"
+"procainamide",8700,"procainamide",8700,"procainamide"
+"verapamil long-acting capsules",NA,NA,NA,NA
+"dimercaprol",3445,"dimercaprol",3445,"dimercaprol"
+"albendazole",430,"albendazole",430,"albendazole"
+"pyrantel",8984,"pyrantel",8984,"pyrantel"
+"ivermectin",6069,"ivermectin",6069,"ivermectin"
+"pyrantel pamoate suspension",NA,NA,NA,NA
+"furosemide",4603,"furosemide",4603,"furosemide"
+"hydrochlorothiazide and spironolactone",NA,NA,324042,"hydrochlorothiazide / spironolactone"
+"bumetanide",1808,"bumetanide",1808,"bumetanide"
+"torsemide",38413,"torsemide",38413,"torsemide"
+"amiloride",644,"amiloride",644,"amiloride"
+"triamterene",10763,"triamterene",10763,"triamterene"
+"ethacrynic acid injection",NA,NA,NA,NA
+"ethacrynic acid",NA,NA,NA,NA
+"alendronate",46041,"alendronate",46041,"alendronate"
+"lisdexamfetamine",700810,"lisdexamfetamine",700810,"lisdexamfetamine"
+"itraconazole",28031,"itraconazole",28031,"itraconazole"
+"amphotericin b",732,"amphotericin b",732,"amphotericin b"
+"amphotericin b lipid complex",NA,NA,NA,NA
+"voriconazole",121243,"voriconazole",121243,"voriconazole"
+"posaconazole",282446,"posaconazole",282446,"posaconazole"
+"amphotericin b liposomal",NA,NA,NA,NA
+"caspofungin",140108,"caspofungin",140108,"caspofungin"
+"isavuconazonium",1608322,"isavuconazonium",1608322,"isavuconazonium"
+"amoxicillin and clavulanate potassium",NA,NA,19711,"amoxicillin / clavulanate"
+"clindamycin",2582,"clindamycin",2582,"clindamycin"
+"lansoprazole",17128,"lansoprazole",17128,"lansoprazole"
+"amoxicillin and clavulanate extended-release tablets",NA,NA,NA,NA
+"ampicillin and sulbactam",NA,NA,1009148,"ampicillin / sulbactam"
+"amoxicillin and clavulanate",NA,NA,19711,"amoxicillin / clavulanate"
+"cefoxitin",2189,"cefoxitin",2189,"cefoxitin"
+"imipenem and cilastatin",NA,NA,34482,"cilastatin / imipenem"
+"clindamycin oral solution",NA,NA,NA,NA
+"albuterol inhalation",NA,NA,NA,NA
+"albuterol",435,"albuterol",435,"albuterol"
+"levalbuterol inhalation",NA,NA,NA,NA
+"fluticasone and salmeterol",NA,NA,284635,"fluticasone / salmeterol"
+"budesonide and formoterol",NA,NA,389132,"budesonide / formoterol"
+"beclomethasone inhalation",NA,NA,NA,NA
+"fluticasone inhalation",NA,NA,NA,NA
+"formoterol and mometasone",NA,NA,1002293,"formoterol / mometasone"
+"budesonide",19831,"budesonide",19831,"budesonide"
+"zafirlukast",114970,"zafirlukast",114970,"zafirlukast"
+"mometasone inhalation",NA,NA,NA,NA
+"budesonide inhalation",NA,NA,NA,NA
+"omalizumab",302379,"omalizumab",302379,"omalizumab"
+"ipratropium",7213,"ipratropium",7213,"ipratropium"
+"fluticasone and vilanterol",NA,NA,1424888,"fluticasone / vilanterol"
+"ipratropium inhalation",NA,NA,NA,NA
+"ciclesonide",274964,"ciclesonide",274964,"ciclesonide"
+"ipratropium inhalation solution",NA,NA,NA,NA
+"calcium chloride",1901,"calcium chloride",1901,"calcium chloride"
+"rosuvastatin",301542,"rosuvastatin",301542,"rosuvastatin"
+"tacrolimus topical",NA,NA,NA,NA
+"betamethasone topical",NA,NA,NA,NA
+"fluocinonide topical",NA,NA,NA,NA
+"pimecrolimus topical",NA,NA,NA,NA
+"fluocinolone topical",NA,NA,NA,NA
+"mometasone topical",NA,NA,NA,NA
+"desonide topical",NA,NA,NA,NA
+"crisaborole topical",NA,NA,NA,NA
+"fluticasone topical",NA,NA,NA,NA
+"desoximetasone topical",NA,NA,NA,NA
+"azathioprine",1256,"azathioprine",1256,"azathioprine"
+"rivaroxaban",1114195,"rivaroxaban",1114195,"rivaroxaban"
+"digoxin",3407,"digoxin",3407,"digoxin"
+"flecainide",4441,"flecainide",4441,"flecainide"
+"sotalol",9947,"sotalol",9947,"sotalol"
+"dronedarone",233698,"dronedarone",233698,"dronedarone"
+"propafenone",8754,"propafenone",8754,"propafenone"
+"esmolol",49737,"esmolol",49737,"esmolol"
+"ibutilide",41289,"ibutilide",41289,"ibutilide"
+"sotalol oral solution",NA,NA,NA,NA
+"adenosine",296,"adenosine",296,"adenosine"
+"estradiol vaginal",NA,NA,NA,NA
+"estradiol oral",NA,NA,NA,NA
+"estradiol transdermal",NA,NA,NA,NA
+"estradiol topical",NA,NA,NA,NA
+"estradiol",4083,"estradiol",4083,"estradiol"
+"estradiol and norethindrone",NA,NA,214551,"estradiol / norethindrone"
+"estradiol transdermal biweekly patch",NA,NA,NA,NA
+"conjugated estrogens and medroxyprogesterone",NA,NA,NA,NA
+"estradiol vaginal insert",NA,NA,NA,NA
+"amphetamine and dextroamphetamine",NA,NA,253146,"amphetamine / dextroamphetamine"
+"methylphenidate",6901,"methylphenidate",6901,"methylphenidate"
+"methylphenidate transdermal",NA,NA,NA,NA
+"atomoxetine",38400,"atomoxetine",38400,"atomoxetine"
+"dextroamphetamine",3288,"dextroamphetamine",3288,"dextroamphetamine"
+"guanfacine",40114,"guanfacine",40114,"guanfacine"
+"dexmethylphenidate",352372,"dexmethylphenidate",352372,"dexmethylphenidate"
+"methamphetamine",6816,"methamphetamine",6816,"methamphetamine"
+"amphetamine",725,"amphetamine",725,"amphetamine"
+"ziprasidone",115698,"ziprasidone",115698,"ziprasidone"
+"paliperidone",679314,"paliperidone",679314,"paliperidone"
+"mycophenolate mofetil",68149,"mycophenolate mofetil",68149,"mycophenolate mofetil"
+"oseltamivir",260101,"oseltamivir",260101,"oseltamivir"
+"h5n1 influenza virus vaccine",NA,NA,NA,NA
+"tisagenlecleucel",1986438,"tisagenlecleucel",1986438,"tisagenlecleucel"
+"cyanocobalamin",NA,NA,11248,"vitamin b 12"
+"atovaquone",60212,"atovaquone",60212,"atovaquone"
+"azithromycin",18631,"azithromycin",18631,"azithromycin"
+"tramadol",10689,"tramadol",10689,"tramadol"
+"acetaminophen and hydrocodone",NA,NA,214182,"acetaminophen / hydrocodone"
+"nabumetone",31448,"nabumetone",31448,"nabumetone"
+"ceftriaxone",2193,"ceftriaxone",2193,"ceftriaxone"
+"cefotaxime",2186,"cefotaxime",2186,"cefotaxime"
+"vancomycin",11124,"vancomycin",11124,"vancomycin"
+"amikacin",641,"amikacin",641,"amikacin"
+"vancomycin capsules",NA,NA,NA,NA
+"linezolid",190376,"linezolid",190376,"linezolid"
+"cefepime",20481,"cefepime",20481,"cefepime"
+"ceftazidime injection",NA,NA,NA,NA
+"aztreonam",1272,"aztreonam",1272,"aztreonam"
+"gentamicin",1596450,"gentamicin",1596450,"gentamicin"
+"daptomycin",22299,"daptomycin",22299,"daptomycin"
+"erythromycin ophthalmic",NA,NA,NA,NA
+"tobramycin and dexamethasone ophthalmic",NA,NA,NA,NA
+"moxifloxacin ophthalmic",NA,NA,NA,NA
+"tobramycin ophthalmic",NA,NA,NA,NA
+"azithromycin ophthalmic",NA,NA,NA,NA
+"ciprofloxacin ophthalmic",NA,NA,NA,NA
+"gentamicin ophthalmic",NA,NA,NA,NA
+"polymyxin b and trimethoprim ophthalmic",NA,NA,NA,NA
+"ofloxacin ophthalmic",NA,NA,NA,NA
+"dexamethasone and tobramycin",NA,NA,883815,"dexamethasone / tobramycin"
+"bacitracin ophthalmic",NA,NA,NA,NA
+"dexamethasone, neomycin, and polymyxin b",NA,NA,NA,NA
+"besifloxacin ophthalmic",NA,NA,NA,NA
+"loteprednol and tobramycin ophthalmic",NA,NA,NA,NA
+"clarithromycin",21212,"clarithromycin",21212,"clarithromycin"
+"erythromycin",4053,"erythromycin",4053,"erythromycin"
+"erythromycin tablets",NA,NA,NA,NA
+"cefadroxil",2177,"cefadroxil",2177,"cefadroxil"
+"cefazolin",2180,"cefazolin",2180,"cefazolin"
+"ampicillin",733,"ampicillin",733,"ampicillin"
+"cefadroxil capsules and tablets",NA,NA,NA,NA
+"penicillin v potassium oral solution",NA,NA,NA,NA
+"cefuroxime",2194,"cefuroxime",2194,"cefuroxime"
+"metronidazole vaginal",NA,NA,NA,NA
+"acetic acid",168,"acetic acid",168,"acetic acid"
+"clindamycin vaginal cream",NA,NA,NA,NA
+"clindamycin gel and lotion",NA,NA,NA,NA
+"clotrimazole topical",NA,NA,NA,NA
+"miconazole vaginal",NA,NA,NA,NA
+"sincalide",9800,"sincalide",9800,"sincalide"
+"magnesium sulfate",6585,"magnesium sulfate",6585,"magnesium sulfate"
+"omeprazole",7646,"omeprazole",7646,"omeprazole"
+"pantoprazole",40790,"pantoprazole",40790,"pantoprazole"
+"esomeprazole magnesium",NA,NA,NA,NA
+"dexlansoprazole",816346,"dexlansoprazole",816346,"dexlansoprazole"
+"esomeprazole sodium",NA,NA,NA,NA
+"rabeprazole",114979,"rabeprazole",114979,"rabeprazole"
+"pantoprazole injection",NA,NA,NA,NA
+"rifampin",9384,"rifampin",9384,"rifampin"
+"rifampin capsules",NA,NA,NA,NA
+"rifampin injection",NA,NA,NA,NA
+"erythromycin suspension",NA,NA,NA,NA
+"erythromycin injection",NA,NA,NA,NA
+"imiquimod topical",NA,NA,NA,NA
+"vismodegib",1242987,"vismodegib",1242987,"vismodegib"
+"sonidegib",1659191,"sonidegib",1659191,"sonidegib"
+"apremilast",1492727,"apremilast",1492727,"apremilast"
+"penicillin g benzathine",NA,NA,NA,NA
+"primidone",8691,"primidone",8691,"primidone"
+"nadolol",7226,"nadolol",7226,"nadolol"
+"zonisamide",39998,"zonisamide",39998,"zonisamide"
+"tamsulosin",77492,"tamsulosin",77492,"tamsulosin"
+"tadalafil",358263,"tadalafil",358263,"tadalafil"
+"dutasteride",228790,"dutasteride",228790,"dutasteride"
+"doxazosin",49276,"doxazosin",49276,"doxazosin"
+"terazosin",37798,"terazosin",37798,"terazosin"
+"silodosin",720825,"silodosin",720825,"silodosin"
+"alfuzosin",17300,"alfuzosin",17300,"alfuzosin"
+"dutasteride and tamsulosin",NA,NA,1001472,"dutasteride / tamsulosin"
+"flumazenil",4457,"flumazenil",4457,"flumazenil"
+"thiamine",10454,"thiamine",10454,"thiamine"
+"luspatercept",2262544,"luspatercept",2262544,"luspatercept"
+"cholic acid",1440856,"cholic acid",1440856,"cholic acid"
+"ursodiol",NA,NA,NA,NA
+"obeticholic acid",1798288,"obeticholic acid",1798288,"obeticholic acid"
+"quetiapine",51272,"quetiapine",51272,"quetiapine"
+"lithium",6448,"lithium",6448,"lithium"
+"lurasidone",1040028,"lurasidone",1040028,"lurasidone"
+"divalproex sodium",NA,NA,NA,NA
+"oxcarbazepine",32624,"oxcarbazepine",32624,"oxcarbazepine"
+"asenapine",784649,"asenapine",784649,"asenapine"
+"topiramate",38404,"topiramate",38404,"topiramate"
+"atezolizumab",1792776,"atezolizumab",1792776,"atezolizumab"
+"thiotepa",10473,"thiotepa",10473,"thiotepa"
+"erdafitinib",2123125,"erdafitinib",2123125,"erdafitinib"
+"darifenacin",136198,"darifenacin",136198,"darifenacin"
+"solifenacin",322167,"solifenacin",322167,"solifenacin"
+"onabotulinumtoxina",NA,NA,NA,NA
+"fluconazole",4450,"fluconazole",4450,"fluconazole"
+"ketoconazole",6135,"ketoconazole",6135,"ketoconazole"
+"tranexamic acid",10691,"tranexamic acid",10691,"tranexamic acid"
+"goserelin",50610,"goserelin",50610,"goserelin"
+"dextran",42635,"dextran",42635,"dextran"
+"prednisolone and sulfacetamide",NA,NA,690161,"prednisolone / sulfacetamide"
+"gentamicin and prednisolone",NA,NA,689325,"gentamicin / prednisolone"
+"bacitracin and polymyxin b ophthalmic",NA,NA,NA,NA
+"bacitracin, neomycin, and polymyxin b ophthalmic",NA,NA,NA,NA
+"hydrocortisone, neomycin, and polymyxin b",NA,NA,NA,NA
+"incobotulinumtoxina",NA,NA,NA,NA
+"hetastarch",5531,"hetastarch",5531,"hetastarch"
+"ioversol",NA,NA,NA,NA
+"busulfan injection",NA,NA,NA,NA
+"busulfan",1828,"busulfan",1828,"busulfan"
+"busulfan tablet",NA,NA,NA,NA
+"clozapine",2626,"clozapine",2626,"clozapine"
+"carbamazepine",2002,"carbamazepine",2002,"carbamazepine"
+"l-methylfolate",NA,NA,1592257,"levomefolate"
+"botulism antitoxin",NA,NA,NA,NA
+"botulism immune globulin",NA,NA,NA,NA
+"polyethylene glycol 3350",221147,"polyethylene glycol 3350",221147,"polyethylene glycol 3350"
+"bisacodyl",1596,"bisacodyl",1596,"bisacodyl"
+"magnesium sulfate, potassium sulfate, and sodium sulfate",NA,NA,NA,NA
+"polyethylene glycol electrolyte solution",NA,NA,NA,NA
+"magnesium, potassium, and sodium sulfates",NA,NA,NA,NA
+"citric acid, magnesium oxide, and sodium picosulfate",NA,NA,NA,NA
+"polyethylene glycol-electrolyte solution prep",NA,NA,NA,NA
+"neomycin",7299,"neomycin",7299,"neomycin"
+"sodium biphosphate and sodium phosphate",NA,NA,NA,NA
+"bisacodyl tablets",NA,NA,NA,NA
+"bisacodyl enema",NA,NA,NA,NA
+"everolimus",141704,"everolimus",141704,"everolimus"
+"carmustine",2105,"carmustine",2105,"carmustine"
+"fentanyl citrate",NA,NA,NA,NA
+"fentanyl",4337,"fentanyl",4337,"fentanyl"
+"tamoxifen",10324,"tamoxifen",10324,"tamoxifen"
+"letrozole",72965,"letrozole",72965,"letrozole"
+"trastuzumab",224905,"trastuzumab",224905,"trastuzumab"
+"epirubicin",3995,"epirubicin",3995,"epirubicin"
+"paclitaxel",56946,"paclitaxel",56946,"paclitaxel"
+"leuprolide",42375,"leuprolide",42375,"leuprolide"
+"neratinib",1940643,"neratinib",1940643,"neratinib"
+"palbociclib",1601374,"palbociclib",1601374,"palbociclib"
+"alpelisib",2169285,"alpelisib",2169285,"alpelisib"
+"anastrozole",84857,"anastrozole",84857,"anastrozole"
+"fulvestrant",282357,"fulvestrant",282357,"fulvestrant"
+"lapatinib",480167,"lapatinib",480167,"lapatinib"
+"docetaxel",72962,"docetaxel",72962,"docetaxel"
+"paclitaxel protein-bound",NA,NA,NA,NA
+"gemcitabine",12574,"gemcitabine",12574,"gemcitabine"
+"eribulin",1045453,"eribulin",1045453,"eribulin"
+"pertuzumab",1298944,"pertuzumab",1298944,"pertuzumab"
+"ixabepilone",337523,"ixabepilone",337523,"ixabepilone"
+"testosterone injection",NA,NA,NA,NA
+"methyltestosterone",6904,"methyltestosterone",6904,"methyltestosterone"
+"fluoxymesterone",4494,"fluoxymesterone",4494,"fluoxymesterone"
+"testosterone",10379,"testosterone",10379,"testosterone"
+"esterified estrogens",NA,NA,214549,"estrogens, esterified (usp)"
+"ethinyl estradiol",4124,"ethinyl estradiol",4124,"ethinyl estradiol"
+"exemestane",258494,"exemestane",258494,"exemestane"
+"guaifenesin",5032,"guaifenesin",5032,"guaifenesin"
+"albuterol extended-release tablets",NA,NA,NA,NA
+"cefdinir",25037,"cefdinir",25037,"cefdinir"
+"cimetidine",2541,"cimetidine",2541,"cimetidine"
+"fluticasone",41126,"fluticasone",41126,"fluticasone"
+"formoterol",25255,"formoterol",25255,"formoterol"
+"albuterol digital inhalation powder",NA,NA,NA,NA
+"streptomycin",10109,"streptomycin",10109,"streptomycin"
+"chloramphenicol",2348,"chloramphenicol",2348,"chloramphenicol"
+"dapsone",3108,"dapsone",3108,"dapsone"
+"rituximab",121191,"rituximab",121191,"rituximab"
+"nortriptyline",7531,"nortriptyline",7531,"nortriptyline"
+"capsaicin topical",NA,NA,NA,NA
+"capsaicin cream, gel, liquid, and lotion",NA,NA,NA,NA
+"silver sulfadiazine topical",NA,NA,NA,NA
+"lidocaine aerosol",NA,NA,NA,NA
+"albumin",NA,NA,NA,NA
+"naproxen sodium",NA,NA,NA,NA
+"trolamine cream and lotion",NA,NA,NA,NA
+"naproxen modified-release tablets",NA,NA,NA,NA
+"allopurinol",519,"allopurinol",519,"allopurinol"
+"allopurinol injection",NA,NA,NA,NA
+"flucytosine",4451,"flucytosine",4451,"flucytosine"
+"anidulafungin",341018,"anidulafungin",341018,"anidulafungin"
+"micafungin",325887,"micafungin",325887,"micafungin"
+"uridine triacetate",1665222,"uridine triacetate",1665222,"uridine triacetate"
+"telotristat ethyl",1872441,"telotristat ethyl",1872441,"telotristat ethyl"
+"dexrazoxane",42736,"dexrazoxane",42736,"dexrazoxane"
+"simvastatin",36567,"simvastatin",36567,"simvastatin"
+"telmisartan",73494,"telmisartan",73494,"telmisartan"
+"ramipril",35296,"ramipril",35296,"ramipril"
+"empagliflozin",1545653,"empagliflozin",1545653,"empagliflozin"
+"liraglutide",475968,"liraglutide",475968,"liraglutide"
+"alirocumab",1659152,"alirocumab",1659152,"alirocumab"
+"evolocumab",1665684,"evolocumab",1665684,"evolocumab"
+"canagliflozin",1373458,"canagliflozin",1373458,"canagliflozin"
+"canagliflozin and metformin",NA,NA,1545149,"canagliflozin / metformin"
+"icosapent",NA,NA,NA,NA
+"levocarnitine",42955,"levocarnitine",42955,"levocarnitine"
+"levocarnitine oral solution",NA,NA,NA,NA
+"sodium oxybate",9899,"sodium oxybate",9899,"sodium oxybate"
+"iopromide",NA,NA,NA,NA
+"mannitol",6628,"mannitol",6628,"mannitol"
+"trihexyphenidyl",10811,"trihexyphenidyl",10811,"trihexyphenidyl"
+"ticlopidine",10594,"ticlopidine",10594,"ticlopidine"
+"isoxsuprine",6066,"isoxsuprine",6066,"isoxsuprine"
+"carbamide peroxide",47686,"carbamide peroxide",47686,"carbamide peroxide"
+"carbamide peroxide otic solution",NA,NA,NA,NA
+"bevacizumab",253337,"bevacizumab",253337,"bevacizumab"
+"carboplatin",40048,"carboplatin",40048,"carboplatin"
+"topotecan",57308,"topotecan",57308,"topotecan"
+"ifosfamide",5657,"ifosfamide",5657,"ifosfamide"
+"hydroxyurea",5552,"hydroxyurea",5552,"hydroxyurea"
+"pembrolizumab",1547545,"pembrolizumab",1547545,"pembrolizumab"
+"abobotulinumtoxina",NA,NA,NA,NA
+"rimabotulinumtoxinb",NA,NA,NA,NA
+"bupivacaine",1815,"bupivacaine",1815,"bupivacaine"
+"ropivacaine",35780,"ropivacaine",35780,"ropivacaine"
+"cefotetan",2187,"cefotetan",2187,"cefotetan"
+"piperacillin",8339,"piperacillin",8339,"piperacillin"
+"amifostine",4126,"amifostine",4126,"amifostine"
+"acetaminophen",161,"acetaminophen",161,"acetaminophen"
+"pemigatinib",NA,NA,NA,NA
+"cholera vaccine",NA,NA,1812935,"vibrio cholerae cvd 103-hgr strain live antigen"
+"vinblastine",11198,"vinblastine",11198,"vinblastine"
+"modafinil",30125,"modafinil",30125,"modafinil"
+"amantadine",620,"amantadine",620,"amantadine"
+"armodafinil",641465,"armodafinil",641465,"armodafinil"
+"nintedanib",1592737,"nintedanib",1592737,"nintedanib"
+"interferon gamma-1b",5882,"interferon gamma-1b",5882,"interferon gamma-1b"
+"entecavir",306266,"entecavir",306266,"entecavir"
+"tenofovir disoproxil fumarate",NA,NA,NA,NA
+"tenofovir",117466,"tenofovir",117466,"tenofovir"
+"lamivudine",68244,"lamivudine",68244,"lamivudine"
+"adefovir",16521,"adefovir",16521,"adefovir"
+"tenofovir alafenamide",1721603,"tenofovir alafenamide",1721603,"tenofovir alafenamide"
+"peginterferon alfa-2a",120608,"peginterferon alfa-2a",120608,"peginterferon alfa-2a"
+"peginterferon alfa-2b",253453,"peginterferon alfa-2b",253453,"peginterferon alfa-2b"
+"ledipasvir and sofosbuvir",NA,NA,1591942,"ledipasvir / sofosbuvir"
+"ribavirin",9344,"ribavirin",9344,"ribavirin"
+"sofosbuvir",1484911,"sofosbuvir",1484911,"sofosbuvir"
+"sofosbuvir and velpatasvir",NA,NA,1799211,"sofosbuvir / velpatasvir"
+"glecaprevir and pibrentasvir",NA,NA,1940702,"glecaprevir / pibrentasvir"
+"dasabuvir, ombitasvir, paritaprevir, and ritonavir",NA,NA,NA,NA
+"elbasvir and grazoprevir",NA,NA,1734635,"elbasvir / grazoprevir"
+"sofosbuvir, velpatasvir, and voxilaprevir",NA,NA,NA,NA
+"plecanatide",1873752,"plecanatide",1873752,"plecanatide"
+"prucalopride",2107310,"prucalopride",2107310,"prucalopride"
+"interferon beta-1b",72257,"interferon beta-1b",72257,"interferon beta-1b"
+"ibrutinib",1442981,"ibrutinib",1442981,"ibrutinib"
+"chlorambucil",2346,"chlorambucil",2346,"chlorambucil"
+"ofatumumab",712566,"ofatumumab",712566,"ofatumumab"
+"fludarabine",24698,"fludarabine",24698,"fludarabine"
+"bendamustine",134547,"bendamustine",134547,"bendamustine"
+"obinutuzumab",974779,"obinutuzumab",974779,"obinutuzumab"
+"alemtuzumab",117055,"alemtuzumab",117055,"alemtuzumab"
+"idelalisib",1544460,"idelalisib",1544460,"idelalisib"
+"hyaluronidase and rituximab",NA,NA,1927884,"hyaluronidase / rituximab"
+"levothyroxine",10582,"levothyroxine",10582,"levothyroxine"
+"thyroid desiccated",NA,NA,10572,"thyroid (usp)"
+"levothyroxine capsules",NA,NA,NA,NA
+"thyroid",NA,NA,10572,"thyroid (usp)"
+"levothyroxine oral solution",NA,NA,NA,NA
+"nilotinib",662281,"nilotinib",662281,"nilotinib"
+"bosutinib",1307619,"bosutinib",1307619,"bosutinib"
+"anagrelide",596724,"anagrelide",596724,"anagrelide"
+"omacetaxine",NA,NA,NA,NA
+"cyclobenzaprine",21949,"cyclobenzaprine",21949,"cyclobenzaprine"
+"ibuprofen injection",NA,NA,NA,NA
+"tiotropium inhalation",NA,NA,NA,NA
+"albuterol and ipratropium",NA,NA,214199,"albuterol / ipratropium"
+"arformoterol inhalation",NA,NA,NA,NA
+"aclidinium",1303098,"aclidinium",1303098,"aclidinium"
+"roflumilast",1091836,"roflumilast",1091836,"roflumilast"
+"umeclidinium and vilanterol",NA,NA,1487518,"umeclidinium / vilanterol"
+"fluticasone, umeclidinium, and vilanterol",NA,NA,NA,NA
+"umeclidinium",1487514,"umeclidinium",1487514,"umeclidinium"
+"olodaterol and tiotropium",NA,NA,1658460,"olodaterol / tiotropium"
+"olodaterol",1546059,"olodaterol",1546059,"olodaterol"
+"formoterol and glycopyrrolate",NA,NA,1790638,"formoterol / glycopyrronium"
+"dyphylline",3714,"dyphylline",3714,"dyphylline"
+"oxycodone",7804,"oxycodone",7804,"oxycodone"
+"fentanyl transdermal system",NA,NA,NA,NA
+"acetaminophen and oxycodone",NA,NA,214183,"acetaminophen / oxycodone"
+"morphine",7052,"morphine",7052,"morphine"
+"buprenorphine transdermal",NA,NA,NA,NA
+"methadone",6813,"methadone",6813,"methadone"
+"buprenorphine",1819,"buprenorphine",1819,"buprenorphine"
+"methadone oral concentrate",NA,NA,NA,NA
+"pancrelipase",NA,NA,NA,NA
+"pancreatin",7880,"pancreatin",7880,"pancreatin"
+"pancreatin capsules and tablets",NA,NA,NA,NA
+"dupilumab",1876376,"dupilumab",1876376,"dupilumab"
+"baclofen intrathecal injection",NA,NA,NA,NA
+"dantrolene",3105,"dantrolene",3105,"dantrolene"
+"dantrolene capsules",NA,NA,NA,NA
+"dantrolene injection",NA,NA,NA,NA
+"baclofen oral solution",NA,NA,NA,NA
+"mepolizumab",1720597,"mepolizumab",1720597,"mepolizumab"
+"cerliponase alfa",NA,NA,NA,NA
+"praziquantel",8628,"praziquantel",8628,"praziquantel"
+"fidaxomicin",1111103,"fidaxomicin",1111103,"fidaxomicin"
+"vancomycin oral solution",NA,NA,NA,NA
+"penicillin v",7984,"penicillin v",7984,"penicillin v"
+"fibrin sealant topical",NA,NA,NA,NA
+"tizanidine",57258,"tizanidine",57258,"tizanidine"
+"sumatriptan",37418,"sumatriptan",37418,"sumatriptan"
+"dihydroergotamine",3418,"dihydroergotamine",3418,"dihydroergotamine"
+"ergotamine and caffeine suppositories",NA,NA,NA,NA
+"caffeine and ergotamine",NA,NA,214336,"caffeine / ergotamine"
+"zolmitriptan",135775,"zolmitriptan",135775,"zolmitriptan"
+"galcanezumab",2058846,"galcanezumab",2058846,"galcanezumab"
+"valproic acid",NA,NA,NA,NA
+"foscarnet",33562,"foscarnet",33562,"foscarnet"
+"ganciclovir",4678,"ganciclovir",4678,"ganciclovir"
+"valganciclovir",275891,"valganciclovir",275891,"valganciclovir"
+"valacyclovir",73645,"valacyclovir",73645,"valacyclovir"
+"cytomegalovirus immune globulin",22178,"cytomegalovirus immune globulin",22178,"cytomegalovirus immune globulin"
+"letermovir",1988648,"letermovir",1988648,"letermovir"
+"cidofovir",83171,"cidofovir",83171,"cidofovir"
+"ganciclovir ophthalmic",NA,NA,NA,NA
+"gadoterate meglumine",NA,NA,NA,NA
+"gadobutrol",NA,NA,NA,NA
+"gadopentetate dimeglumine",25486,"gadopentetate dimeglumine",25486,"gadopentetate dimeglumine"
+"gadobenate dimeglumine",NA,NA,NA,NA
+"gadoteridol",NA,NA,NA,NA
+"gadodiamide",NA,NA,NA,NA
+"cyclosporine",3008,"cyclosporine",3008,"cyclosporine"
+"acetaminophen, dextromethorphan, doxylamine, and pseudoephedrine",NA,NA,NA,NA
+"acetaminophen and chlorpheniramine",NA,NA,214179,"acetaminophen / chlorpheniramine"
+"acetaminophen, dextromethorphan, and pseudoephedrine",NA,NA,NA,NA
+"acetaminophen, dextromethorphan, guaifenesin, and phenylephrine",NA,NA,NA,NA
+"acetaminophen, dextromethorphan, and doxylamine",NA,NA,NA,NA
+"acetaminophen, chlorpheniramine, and dextromethorphan",NA,NA,NA,NA
+"acetaminophen, chlorpheniramine, and phenylephrine",NA,NA,NA,NA
+"acetaminophen, diphenhydramine, and phenylephrine",NA,NA,NA,NA
+"chlorpheniramine and hydrocodone&gt;",NA,NA,NA,NA
+"acetaminophen, diphenhydramine, and phenylephrine tablets",NA,NA,NA,NA
+"pseudoephedrine and triprolidine",NA,NA,214807,"pseudoephedrine / triprolidine"
+"acetaminophen/chlorpheniramine/dextromethorphan/pseudoephedrine caps &amp; tabs",NA,NA,NA,NA
+"dicyclomine",3361,"dicyclomine",3361,"dicyclomine"
+"belladonna",NA,NA,89781,"belladonna extract, usp"
+"oxaliplatin",32592,"oxaliplatin",32592,"oxaliplatin"
+"leucovorin",6313,"leucovorin",6313,"leucovorin"
+"irinotecan",51499,"irinotecan",51499,"irinotecan"
+"regorafenib",1312397,"regorafenib",1312397,"regorafenib"
+"cetuximab",318341,"cetuximab",318341,"cetuximab"
+"panitumumab",263034,"panitumumab",263034,"panitumumab"
+"tipiracil and trifluridine",NA,NA,1670310,"tipiracil / trifluridine"
+"ziv-aflibercept",NA,NA,NA,NA
+"levoleucovorin",877015,"levoleucovorin",877015,"levoleucovorin"
+"leucovorin calcium",NA,NA,NA,NA
+"ramucirumab",1535922,"ramucirumab",1535922,"ramucirumab"
+"barium sulfate",NA,NA,NA,NA
+"barium suspension",NA,NA,NA,NA
+"ioflupane i-123",NA,NA,NA,NA
+"podofilox topical",NA,NA,NA,NA
+"sinecatechins",753346,"sinecatechins",753346,"sinecatechins"
+"interferon alfa-n3",612937,"interferon alfa-n3",612937,"interferon alfa-n3"
+"fibrinogen",4385,"fibrinogen",4385,"fibrinogen"
+"fibrinogen concentrate",NA,NA,NA,NA
+"valsartan",69749,"valsartan",69749,"valsartan"
+"sacubitril and valsartan",NA,NA,1656339,"sacubitril / valsartan"
+"hydralazine",5470,"hydralazine",5470,"hydralazine"
+"loteprednol",NA,NA,NA,NA
+"sulfacetamide ophthalmic",NA,NA,NA,NA
+"gatifloxacin",228476,"gatifloxacin",228476,"gatifloxacin"
+"diclofenac ophthalmic",NA,NA,NA,NA
+"lodoxamide ophthalmic",NA,NA,NA,NA
+"gatifloxacin ophthalmic",NA,NA,NA,NA
+"lactulose",6218,"lactulose",6218,"lactulose"
+"docusate and senna",NA,NA,NA,NA
+"lactulose solution",NA,NA,NA,NA
+"linaclotide",1307404,"linaclotide",1307404,"linaclotide"
+"lubiprostone",623033,"lubiprostone",623033,"lubiprostone"
+"methylnaltrexone",29899,"methylnaltrexone",29899,"methylnaltrexone"
+"naloxegol",1551777,"naloxegol",1551777,"naloxegol"
+"tegaserod",139778,"tegaserod",139778,"tegaserod"
+"docusate",82003,"docusate",82003,"docusate"
+"docusate sodium 100mg capsules",NA,NA,NA,NA
+"psyllium",8928,"psyllium",8928,"psyllium"
+"magnesium hydroxide",6581,"magnesium hydroxide",6581,"magnesium hydroxide"
+"methylcellulose",6873,"methylcellulose",6873,"methylcellulose"
+"magnesium oxide",6582,"magnesium oxide",6582,"magnesium oxide"
+"docusate sodium",NA,NA,NA,NA
+"magnesium citrate",52356,"magnesium citrate",52356,"magnesium citrate"
+"polycarbophil",NA,NA,NA,NA
+"docusate capsules and tablets",NA,NA,NA,NA
+"docusate enema",NA,NA,NA,NA
+"ethinyl estradiol and norethindrone, and ferrous fumarate",NA,NA,NA,NA
+"ethinyl estradiol and etonogestrel",NA,NA,352376,"ethinyl estradiol / etonogestrel"
+"etonogestrel",14584,"etonogestrel",14584,"etonogestrel"
+"drospirenone and ethinyl estradiol",NA,NA,840781,"drospirenone / ethinyl estradiol"
+"ethinyl estradiol, norethindrone, and ferrous fumarate",NA,NA,NA,NA
+"levonorgestrel intrauterine system",NA,NA,NA,NA
+"ethinyl estradiol, norethindrone and ferrous fumarate tablets",NA,NA,NA,NA
+"ethinyl estradiol and desogestrel",NA,NA,NA,NA
+"cysteamine ophthalmic",NA,NA,NA,NA
+"ketorolac ophthalmic",NA,NA,NA,NA
+"ketorolac",35827,"ketorolac",35827,"ketorolac"
+"riboflavin ophthalmic",NA,NA,NA,NA
+"""""riboflavin 5-phosphate""""",NA,NA,NA,NA
+"levofloxacin ophthalmic",NA,NA,NA,NA
+"perindopril",54552,"perindopril",54552,"perindopril"
+"guaifenesin and pseudoephedrine",NA,NA,214599,"guaifenesin / pseudoephedrine"
+"brompheniramine, dextromethorphan, and pseudoephedrine",NA,NA,NA,NA
+"dextromethorphan, guaifenesin, and phenylephrine",NA,NA,NA,NA
+"chlorpheniramine and dextromethorphan",NA,NA,214390,"chlorpheniramine / dextromethorphan"
+"brompheniramine, dextromethorphan, guaifenesin, and phenylephrine",NA,NA,NA,NA
+"brompheniramine, dextromethorphan, and phenylephrine",NA,NA,NA,NA
+"guaifenesin and phenylephrine",NA,NA,214597,"guaifenesin / phenylephrine"
+"chlorpheniramine, hydrocodone, and pseudoephedrine",NA,NA,NA,NA
+"codeine, phenylephrine, and promethazine",NA,NA,NA,NA
+"benzonatate",18993,"benzonatate",18993,"benzonatate"
+"codeine and guaifenesin",NA,NA,214442,"codeine / guaifenesin"
+"dextromethorphan and guaifenesin",NA,NA,214488,"dextromethorphan / guaifenesin"
+"hydrocodone and homatropine syrup",NA,NA,NA,NA
+"dextromethorphan",3289,"dextromethorphan",3289,"dextromethorphan"
+"codeine and promethazine",NA,NA,214444,"codeine / promethazine"
+"homatropine and hydrocodone",NA,NA,214614,"homatropine / hydrocodone"
+"chlorpheniramine and hydrocodone",NA,NA,214392,"chlorpheniramine / hydrocodone"
+"hydroxychloroquine",5521,"hydroxychloroquine",5521,"hydroxychloroquine"
+"mesalamine",52582,"mesalamine",52582,"mesalamine"
+"vedolizumab",1538097,"vedolizumab",1538097,"vedolizumab"
+"natalizumab",354770,"natalizumab",354770,"natalizumab"
+"adalimumab-atto",NA,NA,NA,NA
+"ustekinumab",847083,"ustekinumab",847083,"ustekinumab"
+"cholestyramine",NA,NA,2447,"cholestyramine resin"
+"rifaximin",35619,"rifaximin",35619,"rifaximin"
+"tacrolimus",42316,"tacrolimus",42316,"tacrolimus"
+"adalimumab-adbm",NA,NA,NA,NA
+"canakinumab",853491,"canakinumab",853491,"canakinumab"
+"anakinra",72435,"anakinra",72435,"anakinra"
+"rilonacept",763450,"rilonacept",763450,"rilonacept"
+"corticorelin ovine triflutate",NA,NA,NA,NA
+"osilodrostat",NA,NA,NA,NA
+"nystatin topical",NA,NA,NA,NA
+"nystatin and triamcinolone",NA,NA,107011,"nystatin / triamcinolone"
+"terbinafine",37801,"terbinafine",37801,"terbinafine"
+"clotrimazole",2623,"clotrimazole",2623,"clotrimazole"
+"ciclopirox topical",NA,NA,NA,NA
+"econazole topical",NA,NA,NA,NA
+"miconazole",6932,"miconazole",6932,"miconazole"
+"miconazole powder",NA,NA,NA,NA
+"miconazole topical",NA,NA,NA,NA
+"potassium iodide",8597,"potassium iodide",8597,"potassium iodide"
+"potassium iodide drops",NA,NA,NA,NA
+"bexarotene",233272,"bexarotene",233272,"bexarotene"
+"romidepsin",877510,"romidepsin",877510,"romidepsin"
+"vorinostat",194337,"vorinostat",194337,"vorinostat"
+"methoxsalen",6854,"methoxsalen",6854,"methoxsalen"
+"hydroxocobalamin",5514,"hydroxocobalamin",5514,"hydroxocobalamin"
+"sodium nitrite and sodium thiosulfate",NA,NA,NA,NA
+"amyl nitrite",742,"amyl nitrite",742,"amyl nitrite"
+"sodium thiosulfate",36726,"sodium thiosulfate",36726,"sodium thiosulfate"
+"sodium nitrite",9894,"sodium nitrite",9894,"sodium nitrite"
+"loteprednol and tobramycin",NA,NA,NA,NA
+"dornase alfa",337623,"dornase alfa",337623,"dornase alfa"
+"ivacaftor",1243041,"ivacaftor",1243041,"ivacaftor"
+"tobramycin",10627,"tobramycin",10627,"tobramycin"
+"ivacaftor and lumacaftor",NA,NA,1655927,"ivacaftor / lumacaftor"
+"ivacaftor and tezacaftor",NA,NA,1996267,"ivacaftor / tezacaftor"
+"tiopronin",6765,"tiopronin",6765,"tiopronin"
+"captopril",1998,"captopril",1998,"captopril"
+"penicillamine",7975,"penicillamine",7975,"penicillamine"
+"nitrofurantoin",7454,"nitrofurantoin",7454,"nitrofurantoin"
+"methenamine",6832,"methenamine",6832,"methenamine"
+"trimethoprim",10829,"trimethoprim",10829,"trimethoprim"
+"nitrofurantoin oral suspension",NA,NA,NA,NA
+"sulfamethoxazole/trimethoprim",NA,NA,10831,"sulfamethoxazole / trimethoprim"
+"fosfomycin",4550,"fosfomycin",4550,"fosfomycin"
+"pentosan polysulfate sodium",NA,NA,NA,NA
+"cefpodoxime",20489,"cefpodoxime",20489,"cefpodoxime"
+"cefprozil",19552,"cefprozil",19552,"cefprozil"
+"tocilizumab",612865,"tocilizumab",612865,"tocilizumab"
+"pyrithione zinc shampoo",NA,NA,NA,NA
+"sulfur and salicylic acid lotion",NA,NA,NA,NA
+"selenium sulfide topical",NA,NA,NA,NA
+"pyrithione",35100,"pyrithione",35100,"pyrithione"
+"salicylic acid topical",NA,NA,NA,NA
+"sulfur and salicylic acid shampoo",NA,NA,NA,NA
+"sulfur and salicylic acid soap",NA,NA,NA,NA
+"salicylic acid and sulfur",NA,NA,496653,"salicylic acid / sulfur"
+"selenium sulfide",36345,"selenium sulfide",36345,"selenium sulfide"
+"dalteparin",67109,"dalteparin",67109,"dalteparin"
+"fondaparinux",321208,"fondaparinux",321208,"fondaparinux"
+"apixaban",1364430,"apixaban",1364430,"apixaban"
+"dabigatran",NA,NA,NA,NA
+"desirudin",114934,"desirudin",114934,"desirudin"
+"edoxaban",1599538,"edoxaban",1599538,"edoxaban"
+"urokinase",11055,"urokinase",11055,"urokinase"
+"intravenous fluids",NA,NA,NA,NA
+"haloperidol injection",NA,NA,NA,NA
+"desvenlafaxine",734064,"desvenlafaxine",734064,"desvenlafaxine"
+"vilazodone",1086769,"vilazodone",1086769,"vilazodone"
+"pregabalin",187832,"pregabalin",187832,"pregabalin"
+"phentolamine",8153,"phentolamine",8153,"phentolamine"
+"collagenase topical",NA,NA,NA,NA
+"cadexomer iodine gel",NA,NA,NA,NA
+"becaplermin topical",NA,NA,NA,NA
+"betamethasone valerate",NA,NA,NA,NA
+"hydrocortisone with aloe cream, gel, and ointment",NA,NA,NA,NA
+"balsam peru and castor oil topical",NA,NA,NA,NA
+"balsam peru, castor oil, and trypsin topical",NA,NA,NA,NA
+"zinc oxide",11423,"zinc oxide",11423,"zinc oxide"
+"sodium hyaluronate",NA,NA,NA,NA
+"hyaluronate sodium cream, gel, and spray",NA,NA,NA,NA
+"hydroquinone topical",NA,NA,NA,NA
+"urea topical",NA,NA,NA,NA
+"betamethasone lotion",NA,NA,NA,NA
+"hydrocortisone and pramoxine",NA,NA,106955,"hydrocortisone / pramoxine"
+"pramoxine and hydrocortisone rectal cream",NA,NA,NA,NA
+"pramoxine and hydrocortisone cream, gel, and ointment",NA,NA,NA,NA
+"silver",NA,NA,NA,NA
+"mycophenolic acid",7145,"mycophenolic acid",7145,"mycophenolic acid"
+"griseofulvin ultramicrosize tablets",NA,NA,NA,NA
+"griseofulvin",5021,"griseofulvin",5021,"griseofulvin"
+"hydrochlorothiazide",5487,"hydrochlorothiazide",5487,"hydrochlorothiazide"
+"desmopressin",3251,"desmopressin",3251,"desmopressin"
+"insulin lispro",86009,"insulin lispro",86009,"insulin lispro"
+"insulin glargine",274783,"insulin glargine",274783,"insulin glargine"
+"insulin aspart",NA,NA,51428,"insulin aspart, human"
+"insulin detemir",139825,"insulin detemir",139825,"insulin detemir"
+"insulin glulisine",NA,NA,400008,"insulin glulisine, human"
+"insulin lispro pens",NA,NA,NA,NA
+"insulin",NA,NA,253182,"insulin, regular, human"
+"insulin isophane",1605101,"insulin isophane",1605101,"insulin isophane"
+"insulin regular",NA,NA,253182,"insulin, regular, human"
+"pramlintide",139953,"pramlintide",139953,"pramlintide"
+"insulin isophane and insulin regular",NA,NA,NA,NA
+"insulin lispro and insulin lispro protamine",NA,NA,NA,NA
+"insulin degludec",1670007,"insulin degludec",1670007,"insulin degludec"
+"sitagliptin",593411,"sitagliptin",593411,"sitagliptin"
+"glipizide",4821,"glipizide",4821,"glipizide"
+"glimepiride",25789,"glimepiride",25789,"glimepiride"
+"pioglitazone",33738,"pioglitazone",33738,"pioglitazone"
+"metformin and sitagliptin",NA,NA,729717,"metformin / sitagliptin"
+"exenatide",60548,"exenatide",60548,"exenatide"
+"dapagliflozin",1488564,"dapagliflozin",1488564,"dapagliflozin"
+"linagliptin",1100699,"linagliptin",1100699,"linagliptin"
+"saxagliptin",857974,"saxagliptin",857974,"saxagliptin"
+"metformin",6809,"metformin",6809,"metformin"
+"ranibizumab",595060,"ranibizumab",595060,"ranibizumab"
+"aflibercept ophthalmic",NA,NA,NA,NA
+"fluocinolone ophthalmic implant",NA,NA,NA,NA
+"irbesartan",83818,"irbesartan",83818,"irbesartan"
+"benazepril",18867,"benazepril",18867,"benazepril"
+"moexipril",30131,"moexipril",30131,"moexipril"
+"trandolapril",38454,"trandolapril",38454,"trandolapril"
+"tapentadol",787390,"tapentadol",787390,"tapentadol"
+"capsaicin in lidocaine cream",NA,NA,NA,NA
+"tuberculin tests",NA,NA,NA,NA
+"regadenoson",640062,"regadenoson",640062,"regadenoson"
+"thyrotropin alfa",4952,"thyrotropin alfa",4952,"thyrotropin alfa"
+"diatrizoate meglumine and diatrizoate sodium",NA,NA,NA,NA
+"metyrapone",6923,"metyrapone",6923,"metyrapone"
+"glucagon",4832,"glucagon",4832,"glucagon"
+"technetium tc 99m tetrofosmin",NA,NA,NA,NA
+"iobenguane i-123",NA,NA,NA,NA
+"florbetapir f 18",NA,NA,NA,NA
+"methacholine",155080,"methacholine",155080,"methacholine"
+"secretin",9627,"secretin",9627,"secretin"
+"miconazole and zinc oxide topical",NA,NA,NA,NA
+"lanolin topical",NA,NA,NA,NA
+"menthol and zinc oxide powder",NA,NA,NA,NA
+"vitamin a and vitamin d",NA,NA,97016,"vitamin a / vitamin d"
+"menthol and zinc oxide ointment and paste",NA,NA,NA,NA
+"vitamins a, d, and e",NA,NA,NA,NA
+"loperamide",6468,"loperamide",6468,"loperamide"
+"loperamide capsules and tablets",NA,NA,NA,NA
+"loperamide and simethicone",NA,NA,214681,"loperamide / simethicone"
+"difenoxin and atropine",NA,NA,NA,NA
+"colesevelam",141626,"colesevelam",141626,"colesevelam"
+"bismuth subsalicylate",19478,"bismuth subsalicylate",19478,"bismuth subsalicylate"
+"atropine and diphenoxylate",NA,NA,594040,"atropine / diphenoxylate"
+"saccharomyces boulardii lyo",NA,NA,236782,"saccharomyces boulardii"
+"codeine",2670,"codeine",2670,"codeine"
+"opium preparation",NA,NA,7676,"opium"
+"alosetron",85248,"alosetron",85248,"alosetron"
+"crofelemer",1364449,"crofelemer",1364449,"crofelemer"
+"omega-3 polyunsaturated fatty acids",NA,NA,NA,NA
+"multivitamins",NA,NA,NA,NA
+"ascorbic acid",1151,"ascorbic acid",1151,"ascorbic acid"
+"biotin",1588,"biotin",1588,"biotin"
+"calcium and vitamin d combination",NA,NA,NA,NA
+"calcium citrate",47613,"calcium citrate",47613,"calcium citrate"
+"methylfolate, methylcobalamin, and acetylcysteine",NA,NA,NA,NA
+"chondroitin and glucosamine",NA,NA,NA,NA
+"vitamins",NA,NA,NA,NA
+"bifidobacterium and lactobacillus",NA,NA,NA,NA
+"vitamin b complex combinations liquid",NA,NA,NA,NA
+"chondroitin, glucosamine, and methylsulfonylmethane",NA,NA,NA,NA
+"folic acid, cyanocobalamin, and pyridoxine",NA,NA,NA,NA
+"axicabtagene ciloleucel",1987398,"axicabtagene ciloleucel",1987398,"axicabtagene ciloleucel"
+"polatuzumab vedotin",2174090,"polatuzumab vedotin",2174090,"polatuzumab vedotin"
+"digoxin immune fab",NA,NA,203223,"digoxin antibodies fab fragments"
+"tetanus, diphtheria, acellular pertussis vaccine",NA,NA,NA,NA
+"diphtheria and tetanus toxoids vaccine",NA,NA,NA,NA
+"tetanus and diphtheria toxoids vaccine",NA,NA,NA,NA
+"diphtheria, tetanus, acellular pertussis vaccine pediatric",NA,NA,NA,NA
+"diphtheria, haemophilus b, pertussis, polio, tetanus vaccine",NA,NA,NA,NA
+"diphtheria, tetanus, and acellular pertussis vaccine",NA,NA,NA,NA
+"diphtheria, hepatitis b, pertussis, polio, and tetanus vaccine",NA,NA,NA,NA
+"diphtheria, pertussis acellular, polio, tetanus vaccine",NA,NA,NA,NA
+"stiripentol",2054968,"stiripentol",2054968,"stiripentol"
+"cannabidiol",2045371,"cannabidiol",2045371,"cannabidiol"
+"caffeine capsules and tablets",NA,NA,NA,NA
+"caffeine",1886,"caffeine",1886,"caffeine"
+"cyclosporine ophthalmic",NA,NA,NA,NA
+"lifitegrast ophthalmic",NA,NA,NA,NA
+"ocular lubricant",NA,NA,NA,NA
+"artificial tears eye ointment",NA,NA,NA,NA
+"artificial tears eye drops",NA,NA,NA,NA
+"carboxymethylcellulose",2062,"carboxymethylcellulose",2062,"carboxymethylcellulose"
+"hydroxypropyl cellulose",NA,NA,27291,"hydroxypropylcellulose"
+"hypromellose ophthalmic",NA,NA,NA,NA
+"hydroxypropyl methylcellulose",NA,NA,27334,"hypromellose"
+"ammonium lactate topical",NA,NA,NA,NA
+"topical emollients",NA,NA,NA,NA
+"emollient cream, emulsion, gel, lotion, and ointment",NA,NA,NA,NA
+"urea cream and ointment",NA,NA,NA,NA
+"deflazacort",22396,"deflazacort",22396,"deflazacort"
+"eteplirsen",1810569,"eteplirsen",1810569,"eteplirsen"
+"golodirsen",2267207,"golodirsen",2267207,"golodirsen"
+"acarbose",16681,"acarbose",16681,"acarbose"
+"methscopolamine",89785,"methscopolamine",89785,"methscopolamine"
+"ranitidine",9143,"ranitidine",9143,"ranitidine"
+"sucralfate",10156,"sucralfate",10156,"sucralfate"
+"famotidine tablets",NA,NA,NA,NA
+"famotidine chewable tablets",NA,NA,NA,NA
+"famotidine oral suspension",NA,NA,NA,NA
+"belladonna alkaloids and phenobarbital",NA,NA,1007608,"belladonna alkaloids / phenobarbital"
+"calcium carbonate",1897,"calcium carbonate",1897,"calcium carbonate"
+"collagenase clostridium histolyticum",898492,"collagenase clostridium histolyticum",898492,"collagenase clostridium histolyticum"
+"midodrine",6963,"midodrine",6963,"midodrine"
+"pyridostigmine",9000,"pyridostigmine",9000,"pyridostigmine"
+"pitavastatin",861634,"pitavastatin",861634,"pitavastatin"
+"fluvastatin",41127,"fluvastatin",41127,"fluvastatin"
+"mefenamic acid",NA,NA,NA,NA
+"ketoprofen",6142,"ketoprofen",6142,"ketoprofen"
+"ospemifene",1370971,"ospemifene",1370971,"ospemifene"
+"prasterone vaginal",NA,NA,NA,NA
+"calcium carbonate chewable tablets",NA,NA,NA,NA
+"aluminum hydroxide, magnesium hydroxide, and simethicone suspension",NA,NA,NA,NA
+"aluminum hydroxide, magnesium hydroxide, and simethicone",NA,NA,NA,NA
+"aluminum hydroxide",612,"aluminum hydroxide",612,"aluminum hydroxide"
+"phenazopyridine",8120,"phenazopyridine",8120,"phenazopyridine"
+"oxybutynin",32675,"oxybutynin",32675,"oxybutynin"
+"flavoxate",4440,"flavoxate",4440,"flavoxate"
+"amifampridine",2106338,"amifampridine",2106338,"amifampridine"
+"amifampridine tablets",NA,NA,NA,NA
+"perflutren",NA,NA,NA,NA
+"halobetasol topical",NA,NA,NA,NA
+"fluocinolone",25126,"fluocinolone",25126,"fluocinolone"
+"clocortolone topical",NA,NA,NA,NA
+"alclometasone topical",NA,NA,NA,NA
+"metolazone",6916,"metolazone",6916,"metolazone"
+"hydrochlorothiazide and triamterene",NA,NA,258337,"hydrochlorothiazide / triamterene"
+"chlorthalidone",2409,"chlorthalidone",2409,"chlorthalidone"
+"methylene blue",6878,"methylene blue",6878,"methylene blue"
+"oxacillin",7773,"oxacillin",7773,"oxacillin"
+"nafcillin",7233,"nafcillin",7233,"nafcillin"
+"oxacillin sodium",NA,NA,NA,NA
+"lenvatinib",1603296,"lenvatinib",1603296,"lenvatinib"
+"elagolix",2049846,"elagolix",2049846,"elagolix"
+"simethicone",9796,"simethicone",9796,"simethicone"
+"iopamidol",5966,"iopamidol",5966,"iopamidol"
+"hyoscyamine sublingual tablets",NA,NA,NA,NA
+"hyoscyamine tablets",NA,NA,NA,NA
+"simethicone suspension",NA,NA,NA,NA
+"hyoscyamine liquid",NA,NA,NA,NA
+"simethicone chewable tablets",NA,NA,NA,NA
+"hyoscyamine orally disintegrating tablets",NA,NA,NA,NA
+"chlordiazepoxide and clidinium",NA,NA,611854,"chlordiazepoxide / clidinium"
+"hyoscyamine, atropine, scopolamine, and phenobarbital tablets",NA,NA,NA,NA
+"imipramine",5691,"imipramine",5691,"imipramine"
+"cefuroxime injection",NA,NA,NA,NA
+"levetiracetam",114477,"levetiracetam",114477,"levetiracetam"
+"felbamate",24812,"felbamate",24812,"felbamate"
+"tazemetostat",2274378,"tazemetostat",2274378,"tazemetostat"
+"vemurafenib",1147220,"vemurafenib",1147220,"vemurafenib"
+"sildenafil",136411,"sildenafil",136411,"sildenafil"
+"vardenafil",306674,"vardenafil",306674,"vardenafil"
+"alprostadil",598,"alprostadil",598,"alprostadil"
+"alprostadil injection",NA,NA,NA,NA
+"avanafil",1291301,"avanafil",1291301,"avanafil"
+"alprostadil urethral suppository",NA,NA,NA,NA
+"omeprazole and sodium bicarbonate",NA,NA,617777,"omeprazole / sodium bicarbonate"
+"porfimer",NA,NA,23066,"dihematoporphyrin ether"
+"nivolumab",1597876,"nivolumab",1597876,"nivolumab"
+"isosorbide dinitrate extended-release capsules and tablets",NA,NA,NA,NA
+"isosorbide dinitrate tablets",NA,NA,NA,NA
+"ethanolamine oleate",24460,"ethanolamine oleate",24460,"ethanolamine oleate"
+"fomepizole",15226,"fomepizole",15226,"fomepizole"
+"dactinomycin",3100,"dactinomycin",3100,"dactinomycin"
+"calcium gluconate",1908,"calcium gluconate",1908,"calcium gluconate"
+"calcium gluconate capsules and tablets",NA,NA,NA,NA
+"hepatitis b immune globulin",26744,"hepatitis b immune globulin",26744,"hepatitis b immune globulin"
+"benztropine",1424,"benztropine",1424,"benztropine"
+"hyaluronidase",5464,"hyaluronidase",5464,"hyaluronidase"
+"fluorometholone ophthalmic",NA,NA,NA,NA
+"tetrahydrozoline ophthalmic",NA,NA,NA,NA
+"naphazoline ophthalmic",NA,NA,NA,NA
+"fluorometholone eye ointment",NA,NA,NA,NA
+"brimonidine ophthalmic",NA,NA,NA,NA
+"phenylephrine ophthalmic",NA,NA,NA,NA
+"povidone and tetrahydrozoline ophthalmic",NA,NA,NA,NA
+"oxymetazoline ophthalmic",NA,NA,NA,NA
+"naphazoline and pheniramine ophthalmic",NA,NA,NA,NA
+"tetrahydrozoline and zinc ophthalmic",NA,NA,NA,NA
+"bimatoprost topical ophthalmic",NA,NA,NA,NA
+"agalsidase beta",338817,"agalsidase beta",338817,"agalsidase beta"
+"migalastat",2054252,"migalastat",2054252,"migalastat"
+"coagulation factor ix",NA,NA,4249,"factor ix"
+"coagulation factor ix",NA,NA,1670383,"factor ix complex"
+"factor ix complex",1670383,"factor ix complex",1670383,"factor ix complex"
+"coagulation factor viia",NA,NA,4256,"factor viia"
+"coagulation factor x",NA,NA,4262,"factor x"
+"factor xiii",4271,"factor xiii",4271,"factor xiii"
+"niraparib",1918231,"niraparib",1918231,"niraparib"
+"ergocalciferol",4018,"ergocalciferol",4018,"ergocalciferol"
+"triclabendazole",2118525,"triclabendazole",2118525,"triclabendazole"
+"dextranomer and sodium hyaluronate",NA,NA,NA,NA
+"auranofin",1227,"auranofin",1227,"auranofin"
+"clomiphene",2596,"clomiphene",2596,"clomiphene"
+"human chorionic gonadotropin",NA,NA,4986,"chorionic gonadotropin"
+"menotropins",NA,NA,NA,NA
+"urofollitropin",134404,"urofollitropin",134404,"urofollitropin"
+"ibuprofen suspension",NA,NA,NA,NA
+"ibuprofen chewable tablets",NA,NA,NA,NA
+"aminocaproic acid",NA,NA,99,"6-aminocaproic acid"
+"milnacipran",588250,"milnacipran",588250,"milnacipran"
+"nabilone",31447,"nabilone",31447,"nabilone"
+"metaxalone",59078,"metaxalone",59078,"metaxalone"
+"alpha-galactosidase tablets",NA,NA,NA,NA
+"simethicone capsules and tablets",NA,NA,NA,NA
+"alpha-galactosidase capsules",NA,NA,NA,NA
+"folic acid",4511,"folic acid",4511,"folic acid"
+"methylfolate",NA,NA,NA,NA
+"follicle stimulating hormone",227518,"follicle stimulating hormone",227518,"follicle stimulating hormone"
+"follitropin beta",25357,"follitropin beta",25357,"follitropin beta"
+"duvelisib",2058509,"duvelisib",2058509,"duvelisib"
+"copanlisib",1945077,"copanlisib",1945077,"copanlisib"
+"salicylic acid and urea topical",NA,NA,NA,NA
+"prabotulinumtoxina",NA,NA,NA,NA
+"piroxicam",8356,"piroxicam",8356,"piroxicam"
+"gentian violet",4778,"gentian violet",4778,"gentian violet"
+"chenodiol",NA,NA,NA,NA
+"rotavirus vaccine, live",NA,NA,NA,NA
+"esomeprazole delayed-release tablets",NA,NA,NA,NA
+"sunitinib",357977,"sunitinib",357977,"sunitinib"
+"avapritinib",2272107,"avapritinib",2272107,"avapritinib"
+"alvimopan",480639,"alvimopan",480639,"alvimopan"
+"metoclopramide",6915,"metoclopramide",6915,"metoclopramide"
+"eliglustat",1547220,"eliglustat",1547220,"eliglustat"
+"imiglucerase",84959,"imiglucerase",84959,"imiglucerase"
+"velaglucerase alfa",901805,"velaglucerase alfa",901805,"velaglucerase alfa"
+"miglustat",402316,"miglustat",402316,"miglustat"
+"taliglucerase alfa",1291609,"taliglucerase alfa",1291609,"taliglucerase alfa"
+"insulin nph and insulin regular",NA,NA,NA,NA
+"denosumab",993449,"denosumab",993449,"denosumab"
+"chlorhexidine gluconate",NA,NA,NA,NA
+"azficel-t",1114112,"azficel-t",1114112,"azficel-t"
+"brimonidine and timolol ophthalmic",NA,NA,NA,NA
+"tafluprost ophthalmic",NA,NA,NA,NA
+"latanoprostene bunod ophthalmic",NA,NA,NA,NA
+"pilocarpine ophthalmic",NA,NA,NA,NA
+"pilocarpine",8328,"pilocarpine",8328,"pilocarpine"
+"latanoprost ophthalmic",NA,NA,43611,"latanoprost"
+"bimatoprost ophthalmic",NA,NA,NA,NA
+"timolol ophthalmic",NA,NA,NA,NA
+"dorzolamide and timolol ophthalmic",NA,NA,NA,NA
+"dorzolamide ophthalmic",NA,NA,NA,NA
+"brinzolamide ophthalmic",NA,NA,NA,NA
+"brimonidine and brinzolamide ophthalmic",NA,NA,NA,NA
+"travoprost ophthalmic",NA,NA,283809,"travoprost"
+"levobunolol ophthalmic",NA,NA,NA,NA
+"methazolamide",6826,"methazolamide",6826,"methazolamide"
+"apraclonidine ophthalmic",NA,NA,NA,NA
+"carbachol ophthalmic",NA,NA,NA,NA
+"mitomycin ophthalmic",NA,NA,NA,NA
+"echothiophate iodide ophthalmic",NA,NA,NA,NA
+"ganirelix",35825,"ganirelix",35825,"ganirelix"
+"levonorgestrel and ethinyl estradiol",NA,NA,NA,NA
+"cefixime",25033,"cefixime",25033,"cefixime"
+"febuxostat",73689,"febuxostat",73689,"febuxostat"
+"pegloticase",1011650,"pegloticase",1011650,"pegloticase"
+"lesinurad",1731031,"lesinurad",1731031,"lesinurad"
+"colchicine and probenecid",NA,NA,214452,"colchicine / probenecid"
+"ruxolitinib",1193326,"ruxolitinib",1193326,"ruxolitinib"
+"colistimethate",NA,NA,NA,NA
+"macimorelin",NA,NA,NA,NA
+"carbidopa and levodopa",NA,NA,103990,"carbidopa / levodopa"
+"carbidopa",2019,"carbidopa",2019,"carbidopa"
+"haemophilus b conjugate vaccine",NA,NA,NA,NA
+"cladribine",44157,"cladribine",44157,"cladribine"
+"pentostatin",8011,"pentostatin",8011,"pentostatin"
+"moxetumomab pasudotox",2099295,"moxetumomab pasudotox",2099295,"moxetumomab pasudotox"
+"aspirin and caffeine",NA,NA,214250,"aspirin / caffeine"
+"malathion topical",NA,NA,NA,NA
+"permethrin topical",NA,NA,NA,NA
+"piperonyl butoxide and pyrethrins topical",NA,NA,NA,NA
+"spinosad topical",NA,NA,NA,NA
+"permethrin cream rinse and lotion",NA,NA,NA,NA
+"pyrethrins and piperonyl butoxide gel and liquid",NA,NA,NA,NA
+"lindane topical",NA,NA,NA,NA
+"pyrethrins and piperonyl butoxide shampoo",NA,NA,NA,NA
+"permethrin",33199,"permethrin",33199,"permethrin"
+"lice cleanser shampoo",NA,NA,NA,NA
+"acetaminophen, butalbital, and caffeine",NA,NA,NA,NA
+"aspirin, butalbital, and caffeine",NA,NA,NA,NA
+"acetaminophen, butalbital, caffeine, and codeine",NA,NA,NA,NA
+"acetaminophen and butalbital",NA,NA,214178,"acetaminophen / butalbital"
+"aspirin, butalbital, caffeine, and codeine",NA,NA,NA,NA
+"electrolyte tablets",NA,NA,NA,NA
+"electrolyte oral solution, freezer-pops, and jell cups",NA,NA,NA,NA
+"bismuth subcitrate potassium, metronidazole, and tetracycline",NA,NA,NA,NA
+"amoxicillin, clarithromycin, and lansoprazole",NA,NA,NA,NA
+"amoxicillin, clarithromycin, and omeprazole",NA,NA,NA,NA
+"deferasirox",614373,"deferasirox",614373,"deferasirox"
+"eculizumab",591781,"eculizumab",591781,"eculizumab"
+"ravulizumab",2107301,"ravulizumab",2107301,"ravulizumab"
+"ravulizumab-cwvz",NA,NA,NA,NA
+"emapalumab",2104604,"emapalumab",2104604,"emapalumab"
+"emicizumab",1989794,"emicizumab",1989794,"emicizumab"
+"antihemophilic factor",NA,NA,4257,"factor viii"
+"anti-inhibitor coagulant complex",314504,"anti-inhibitor coagulant complex",314504,"anti-inhibitor coagulant complex"
+"antihemophilic and von willebrand factor complex",NA,NA,NA,NA
+"mesna",44,"mesna",44,"mesna"
+"glycerin, petrolatum, phenylephrine, and pramoxine topical",NA,NA,NA,NA
+"pramoxine and hydrocortisone rectal foam",NA,NA,NA,NA
+"dibucaine topical",NA,NA,NA,NA
+"phenylephrine",8163,"phenylephrine",8163,"phenylephrine"
+"hydrocortisone and lidocaine",NA,NA,106964,"hydrocortisone / lidocaine"
+"pramoxine topical",NA,NA,NA,NA
+"glycerin and witch hazel topical",NA,NA,NA,NA
+"hydrocortisone rectal cream",NA,NA,NA,NA
+"deferiprone",11645,"deferiprone",11645,"deferiprone"
+"thrombin",10528,"thrombin",10528,"thrombin"
+"protamine",NA,NA,NA,NA
+"sorafenib",495881,"sorafenib",495881,"sorafenib"
+"defibrotide",1311089,"defibrotide",1311089,"defibrotide"
+"hepatitis a adult vaccine",NA,NA,NA,NA
+"hepatitis a and hepatitis b vaccine",NA,NA,NA,NA
+"hepatitis a pediatric vaccine",NA,NA,NA,NA
+"immune globulin ",NA,NA,NA,NA
+"hepatitis b adult vaccine",NA,NA,NA,NA
+"hepatitis b pediatric vaccine",NA,NA,NA,NA
+"cabozantinib",1363268,"cabozantinib",1363268,"cabozantinib"
+"bioflavonoids",NA,NA,NA,NA
+"icatibant",1148138,"icatibant",1148138,"icatibant"
+"complement c1 esterase inhibitor",NA,NA,1599832,"c1 esterase inhibitor"
+"ecallantide",658708,"ecallantide",658708,"ecallantide"
+"lanadelumab-flyo",NA,NA,NA,NA
+"conestat alfa",NA,NA,NA,NA
+"lanadelumab",2055641,"lanadelumab",2055641,"lanadelumab"
+"nitisinone",61805,"nitisinone",61805,"nitisinone"
+"acyclovir",281,"acyclovir",281,"acyclovir"
+"penciclovir topical",NA,NA,NA,NA
+"acyclovir cream",NA,NA,NA,NA
+"famciclovir",68099,"famciclovir",68099,"famciclovir"
+"acyclovir and hydrocortisone topical",NA,NA,NA,NA
+"docosanol topical",NA,NA,NA,NA
+"allantoin, camphor, and phenol",NA,NA,NA,NA
+"zoster vaccine",NA,NA,NA,NA
+"zoster vaccine live",NA,NA,1292422,"varicella-zoster virus vaccine live (oka-merck) strain"
+"atorvastatin",83367,"atorvastatin",83367,"atorvastatin"
+"pravastatin",42463,"pravastatin",42463,"pravastatin"
+"ezetimibe",341248,"ezetimibe",341248,"ezetimibe"
+"ezetimibe and simvastatin",NA,NA,484211,"ezetimibe / simvastatin"
+"lovastatin",6472,"lovastatin",6472,"lovastatin"
+"bempedoic acid",2282403,"bempedoic acid",2282403,"bempedoic acid"
+"aluminum hydroxide and magnesium trisilicate",NA,NA,687198,"aluminum hydroxide / magnesium trisilicate"
+"chlorpromazine",2403,"chlorpromazine",2403,"chlorpromazine"
+"prochlorperazine",8704,"prochlorperazine",8704,"prochlorperazine"
+"abciximab",83929,"abciximab",83929,"abciximab"
+"eflornithine topical",NA,NA,NA,NA
+"flutamide",4508,"flutamide",4508,"flutamide"
+"emtricitabine and tenofovir disoproxil fumarate",NA,NA,NA,NA
+"efavirenz, emtricitabine, and tenofovir",NA,NA,NA,NA
+"ritonavir",85762,"ritonavir",85762,"ritonavir"
+"raltegravir",719872,"raltegravir",719872,"raltegravir"
+"darunavir",460132,"darunavir",460132,"darunavir"
+"abacavir, dolutegravir, and lamivudine",NA,NA,NA,NA
+"cobicistat, elvitegravir, emtricitabine, and tenofovir",NA,NA,NA,NA
+"dolutegravir",1433868,"dolutegravir",1433868,"dolutegravir"
+"emtricitabine, rilpivirine, and tenofovir",NA,NA,NA,NA
+"abacavir and lamivudine",NA,NA,614534,"abacavir / lamivudine"
+"atazanavir&gt;",NA,NA,NA,NA
+"emtricitabine and tenofovir alafenamide",NA,NA,1727491,"emtricitabine / tenofovir alafenamide"
+"lopinavir and ritonavir",NA,NA,284640,"lopinavir / ritonavir"
+"bictegravir, emtricitabine, and tenofovir",NA,NA,NA,NA
+"efavirenz",195085,"efavirenz",195085,"efavirenz"
+"etravirine",475969,"etravirine",475969,"etravirine"
+"emtricitabine and tenofovir",NA,NA,NA,NA
+"abacavir",190521,"abacavir",190521,"abacavir"
+"bleomycin",1622,"bleomycin",1622,"bleomycin"
+"dacarbazine",3098,"dacarbazine",3098,"dacarbazine"
+"etoposide",4179,"etoposide",4179,"etoposide"
+"brentuximab vedotin",1147320,"brentuximab vedotin",1147320,"brentuximab vedotin"
+"etoposide phosphate",NA,NA,NA,NA
+"lomitapide",1364479,"lomitapide",1364479,"lomitapide"
+"bazedoxifene and conjugated estrogens",NA,NA,NA,NA
+"esterified estrogens and methyltestosterone",NA,NA,NA,NA
+"podophyllum resin",NA,NA,8462,"podophyllin"
+"resorcinol",35382,"resorcinol",35382,"resorcinol"
+"human papillomavirus vaccine, 9-valent",NA,NA,NA,NA
+"tetrabenazine",10390,"tetrabenazine",10390,"tetrabenazine"
+"deutetrabenazine",1876905,"deutetrabenazine",1876905,"deutetrabenazine"
+"carglumic acid",401713,"carglumic acid",401713,"carglumic acid"
+"sodium phenylacetate and sodium benzoate",NA,NA,NA,NA
+"phenobarbital",8134,"phenobarbital",8134,"phenobarbital"
+"zoledronic acid",77655,"zoledronic acid",77655,"zoledronic acid"
+"cinacalcet",407990,"cinacalcet",407990,"cinacalcet"
+"pamidronate",11473,"pamidronate",11473,"pamidronate"
+"calcitonin injection",NA,NA,NA,NA
+"calcitonin-salmon",NA,NA,36118,"salmon calcitonin"
+"aluminum chloride hexahydrate",NA,NA,NA,NA
+"glycopyrrolate topical",NA,NA,NA,NA
+"folic acid and cyanocobalamin",NA,NA,NA,NA
+"sodium polystyrene sulfonate",56512,"sodium polystyrene sulfonate",56512,"sodium polystyrene sulfonate"
+"patiromer",1716203,"patiromer",1716203,"patiromer"
+"sodium zirconium cyclosilicate",2047628,"sodium zirconium cyclosilicate",2047628,"sodium zirconium cyclosilicate"
+"dichlorphenamide",3353,"dichlorphenamide",3353,"dichlorphenamide"
+"gemfibrozil",4719,"gemfibrozil",4719,"gemfibrozil"
+"niacin",7393,"niacin",7393,"niacin"
+"fenofibric acid",NA,NA,NA,NA
+"fenofibrate",8703,"fenofibrate",8703,"fenofibrate"
+"colestipol",2685,"colestipol",2685,"colestipol"
+"etelcalcetide",1876119,"etelcalcetide",1876119,"etelcalcetide"
+"calcifediol",1889,"calcifediol",1889,"calcifediol"
+"sevelamer",214824,"sevelamer",214824,"sevelamer"
+"lanthanum carbonate",234416,"lanthanum carbonate",234416,"lanthanum carbonate"
+"sucroferric oxyhydroxide",1484283,"sucroferric oxyhydroxide",1484283,"sucroferric oxyhydroxide"
+"ferric citrate",1594675,"ferric citrate",1594675,"ferric citrate"
+"magnesium carbonate",29155,"magnesium carbonate",29155,"magnesium carbonate"
+"calcium acetate",214342,"calcium acetate",214342,"calcium acetate"
+"calcium acetate capsules",NA,NA,NA,NA
+"cabergoline",47579,"cabergoline",47579,"cabergoline"
+"olmesartan",321064,"olmesartan",321064,"olmesartan"
+"nebivolol",31555,"nebivolol",31555,"nebivolol"
+"hydrochlorothiazide and lisinopril",NA,NA,214618,"hydrochlorothiazide / lisinopril"
+"labetalol",6185,"labetalol",6185,"labetalol"
+"nitroprusside",7476,"nitroprusside",7476,"nitroprusside"
+"methyldopa",6876,"methyldopa",6876,"methyldopa"
+"fenoldopam",24853,"fenoldopam",24853,"fenoldopam"
+"diazoxide",3327,"diazoxide",3327,"diazoxide"
+"clevidipine",233603,"clevidipine",233603,"clevidipine"
+"methimazole",6835,"methimazole",6835,"methimazole"
+"potassium iodide and iodine",NA,NA,NA,NA
+"omega-3 fatty acid capsules",NA,NA,NA,NA
+"rasburicase",283821,"rasburicase",283821,"rasburicase"
+"flibanserin",1665509,"flibanserin",1665509,"flibanserin"
+"bremelanotide",2176312,"bremelanotide",2176312,"bremelanotide"
+"calcitriol",1894,"calcitriol",1894,"calcitriol"
+"calcitriol capsules",NA,NA,NA,NA
+"calcium carbonate capsules and tablets",NA,NA,NA,NA
+"parathyroid hormone",1427222,"parathyroid hormone",1427222,"parathyroid hormone"
+"calcium lactate",47622,"calcium lactate",47622,"calcium lactate"
+"calcium phosphate, tribasic",NA,NA,47628,"tricalcium phosphate"
+"estropipate",33747,"estropipate",33747,"estropipate"
+"testosterone topical",NA,NA,NA,NA
+"testosterone buccal",NA,NA,NA,NA
+"testosterone nasal",NA,NA,NA,NA
+"testosterone oral",NA,NA,NA,NA
+"potassium chloride",8591,"potassium chloride",8591,"potassium chloride"
+"potassium gluconate",89903,"potassium gluconate",89903,"potassium gluconate"
+"potassium chloride extended-release tablets",NA,NA,NA,NA
+"potassium bicarbonate",34296,"potassium bicarbonate",34296,"potassium bicarbonate"
+"potassium bicarbonate and potassium chloride",NA,NA,NA,NA
+"potassium bicarbonate capsules and tablets",NA,NA,NA,NA
+"magnesium chloride",6579,"magnesium chloride",6579,"magnesium chloride"
+"magnesium amino acids chelate",NA,NA,486895,"magnesium amino acid chelate"
+"magnesium gluconate",52358,"magnesium gluconate",52358,"magnesium gluconate"
+"tolvaptan",358257,"tolvaptan",358257,"tolvaptan"
+"conivaptan",302285,"conivaptan",302285,"conivaptan"
+"urea",11002,"urea",11002,"urea"
+"sodium acetate",56443,"sodium acetate",56443,"sodium acetate"
+"teriparatide",32915,"teriparatide",32915,"teriparatide"
+"asfotase alfa",1720259,"asfotase alfa",1720259,"asfotase alfa"
+"potassium phosphate and sodium phosphate",NA,NA,NA,NA
+"potassium phosphate",34322,"potassium phosphate",34322,"potassium phosphate"
+"sodium phosphates injection",NA,NA,NA,NA
+"albumin human",NA,NA,828529,"albumin human, usp"
+"phytonadione tablets",NA,NA,NA,NA
+"phytonadione",NA,NA,8308,"vitamin k 1"
+"norepinephrine",7512,"norepinephrine",7512,"norepinephrine"
+"droxidopa",1489913,"droxidopa",1489913,"droxidopa"
+"ephedrine",3966,"ephedrine",3966,"ephedrine"
+"liothyronine",10814,"liothyronine",10814,"liothyronine"
+"liothyronine injection",NA,NA,NA,NA
+"tetrastarch",NA,NA,NA,NA
+"midazolam",6960,"midazolam",6960,"midazolam"
+"romiplostim",805452,"romiplostim",805452,"romiplostim"
+"fostamatinib",2044896,"fostamatinib",2044896,"fostamatinib"
+"rho immune globulin",NA,NA,NA,NA
+"pirfenidone",1592254,"pirfenidone",1592254,"pirfenidone"
+"mupirocin topical",NA,NA,NA,NA
+"retapamulin topical",NA,NA,NA,NA
+"sulconazole topical",NA,NA,NA,NA
+"mupirocin",42372,"mupirocin",42372,"mupirocin"
+"ozenoxacin topical",NA,NA,NA,NA
+"ertapenem",325642,"ertapenem",325642,"ertapenem"
+"rimantadine",9386,"rimantadine",9386,"rimantadine"
+"influenza virus vaccine",NA,NA,NA,NA
+"zanamivir",69722,"zanamivir",69722,"zanamivir"
+"acetaminophen, chlorpheniramine, dextromethorphan, and pseudoephedrine",NA,NA,NA,NA
+"peramivir",619693,"peramivir",619693,"peramivir"
+"acetaminophen, dextromethorphan, guaifenesin, phenylephrine caps &amp; tabs",NA,NA,NA,NA
+"baloxavir marboxil",2099995,"baloxavir marboxil",2099995,"baloxavir marboxil"
+"acetaminophen, dextromethorphan, and diphenhydramine",NA,NA,NA,NA
+"acetaminophen/chlorpheniramine/dextromethorphan/pseudoephedrine liq &amp; syrup",NA,NA,NA,NA
+"anthrax immune globulin",1722336,"anthrax immune globulin",1722336,"anthrax immune globulin"
+"flurbiprofen ophthalmic",NA,NA,NA,NA
+"pramoxine and zinc acetate topical",NA,NA,NA,NA
+"camphor/pramoxine/zinc",NA,NA,NA,NA
+"zolpidem",39993,"zolpidem",39993,"zolpidem"
+"temazepam",10355,"temazepam",10355,"temazepam"
+"eszopiclone",461016,"eszopiclone",461016,"eszopiclone"
+"zolpidem extended-release tablets",NA,NA,NA,NA
+"suvorexant",1547099,"suvorexant",1547099,"suvorexant"
+"doxepin",3638,"doxepin",3638,"doxepin"
+"triazolam",10767,"triazolam",10767,"triazolam"
+"ramelteon",596205,"ramelteon",596205,"ramelteon"
+"flurazepam",4501,"flurazepam",4501,"flurazepam"
+"zaleplon",74667,"zaleplon",74667,"zaleplon"
+"diphenhydramine and ibuprofen",NA,NA,644895,"diphenhydramine / ibuprofen"
+"estazolam",4077,"estazolam",4077,"estazolam"
+"cilostazol",21107,"cilostazol",21107,"cilostazol"
+"pentoxifylline",8013,"pentoxifylline",8013,"pentoxifylline"
+"trospium",236778,"trospium",236778,"trospium"
+"dimethyl sulfoxide",3455,"dimethyl sulfoxide",3455,"dimethyl sulfoxide"
+"nystatin",7597,"nystatin",7597,"nystatin"
+"meropenem",29561,"meropenem",29561,"meropenem"
+"tigecycline",384455,"tigecycline",384455,"tigecycline"
+"iron sucrose",24909,"iron sucrose",24909,"iron sucrose"
+"iron polysaccharide",219315,"iron polysaccharide",219315,"iron polysaccharide"
+"ascorbic acid and iron polysaccharide",NA,NA,NA,NA
+"deferoxamine",3131,"deferoxamine",3131,"deferoxamine"
+"eluxadoline",1653781,"eluxadoline",1653781,"eluxadoline"
+"aspirin and dipyridamole",NA,NA,226716,"aspirin / dipyridamole"
+"aspirin enteric-coated and buffered tablets",NA,NA,NA,NA
+"alteplase",8410,"alteplase",8410,"alteplase"
+"nimodipine",7426,"nimodipine",7426,"nimodipine"
+"japanese encephalitis virus vaccine",NA,NA,NA,NA
+"abatacept",614391,"abatacept",614391,"abatacept"
+"adalimumab-bwwd",NA,NA,NA,NA
+"adalimumab-adaz",NA,NA,NA,NA
+"etanercept-ykro",NA,NA,NA,NA
+"etodolac",24605,"etodolac",24605,"etodolac"
+"oxaprozin",32613,"oxaprozin",32613,"oxaprozin"
+"doxorubicin liposomal",NA,NA,NA,NA
+"alitretinoin topical",NA,NA,NA,NA
+"pomalidomide",1369713,"pomalidomide",1369713,"pomalidomide"
+"diclofenac topical",NA,NA,NA,NA
+"collagenase",58939,"collagenase",58939,"collagenase"
+"diclofenac topical solution",NA,NA,NA,NA
+"methyl aminolevulinate",NA,NA,337068,"methyl 5-aminolevulinate"
+"oxymorphone",7814,"oxymorphone",7814,"oxymorphone"
+"lactase chewable tablets",NA,NA,NA,NA
+"edetate calcium disodium",NA,NA,NA,NA
+"succimer",3446,"succimer",3446,"succimer"
+"enalapril oral solution",NA,NA,NA,NA
+"pentamidine",7994,"pentamidine",7994,"pentamidine"
+"miltefosine",1494066,"miltefosine",1494066,"miltefosine"
+"clobazam",21241,"clobazam",21241,"clobazam"
+"rufinamide",69036,"rufinamide",69036,"rufinamide"
+"thalidomide",10432,"thalidomide",10432,"thalidomide"
+"triamcinolone cream and ointment",NA,NA,NA,NA
+"clobetasol",2590,"clobetasol",2590,"clobetasol"
+"doxepin topical",NA,NA,NA,NA
+"iodoquinol",3435,"iodoquinol",3435,"iodoquinol"
+"meperidine",6754,"meperidine",6754,"meperidine"
+"secobarbital",9624,"secobarbital",9624,"secobarbital"
+"levorphanol",6378,"levorphanol",6378,"levorphanol"
+"meperidine tablets",NA,NA,NA,NA
+"tesamorelin",1044584,"tesamorelin",1044584,"tesamorelin"
+"metreleptin",1491625,"metreleptin",1491625,"metreleptin"
+"gadoxetate",NA,NA,NA,NA
+"floxuridine",4488,"floxuridine",4488,"floxuridine"
+"mepivacaine",6759,"mepivacaine",6759,"mepivacaine"
+"cocaine",2653,"cocaine",2653,"cocaine"
+"articaine and epinephrine",NA,NA,284622,"articaine / epinephrine"
+"lidocaine and epinephrine",NA,NA,NA,NA
+"lidocaine and tetracaine topical",NA,NA,NA,NA
+"chloroprocaine",20859,"chloroprocaine",20859,"chloroprocaine"
+"sirolimus",35302,"sirolimus",35302,"sirolimus"
+"bortezomib",358258,"bortezomib",358258,"bortezomib"
+"pralatrexate",662019,"pralatrexate",662019,"pralatrexate"
+"sebelipase alfa",1726975,"sebelipase alfa",1726975,"sebelipase alfa"
+"pegaptanib ophthalmic injection",NA,NA,NA,NA
+"verteporfin",118886,"verteporfin",118886,"verteporfin"
+"brolucizumab ophthalmic",NA,NA,NA,NA
+"vortioxetine",1455099,"vortioxetine",1455099,"vortioxetine"
+"brexpiprazole",1658314,"brexpiprazole",1658314,"brexpiprazole"
+"atovaquone and proguanil",NA,NA,284623,"atovaquone / proguanil"
+"mefloquine",6694,"mefloquine",6694,"mefloquine"
+"primaquine",8687,"primaquine",8687,"primaquine"
+"pyrimethamine",9010,"pyrimethamine",9010,"pyrimethamine"
+"tafenoquine",2054023,"tafenoquine",2054023,"tafenoquine"
+"artemether and lumefantrine",NA,NA,282448,"artemether / lumefantrine"
+"ipilimumab",1094833,"ipilimumab",1094833,"ipilimumab"
+"aldesleukin",70223,"aldesleukin",70223,"aldesleukin"
+"talimogene laherparepvec",NA,NA,NA,NA
+"pemetrexed",68446,"pemetrexed",68446,"pemetrexed"
+"acalabrutinib",1986808,"acalabrutinib",1986808,"acalabrutinib"
+"zanubrutinib",2262435,"zanubrutinib",2262435,"zanubrutinib"
+"measles, mumps, and rubella vaccine",NA,NA,NA,NA
+"measles, mumps, rubella and varicella vaccine",NA,NA,NA,NA
+"sodium chloride",9863,"sodium chloride",9863,"sodium chloride"
+"formaldehyde",4530,"formaldehyde",4530,"formaldehyde"
+"sodium chloride nebulizer solution",NA,NA,NA,NA
+"trametinib",1425099,"trametinib",1425099,"trametinib"
+"dabrafenib",1424911,"dabrafenib",1424911,"dabrafenib"
+"cobimetinib",1722365,"cobimetinib",1722365,"cobimetinib"
+"binimetinib",2049122,"binimetinib",2049122,"binimetinib"
+"encorafenib",2049106,"encorafenib",2049106,"encorafenib"
+"fluocinolone, hydroquinone, and tretinoin topical",NA,NA,NA,NA
+"meningococcal group b vaccine",1593128,"meningococcal group b vaccine",1593128,"meningococcal group b vaccine"
+"meningococcal conjugate vaccine",NA,NA,NA,NA
+"estradiol and progesterone",NA,NA,815024,"estradiol / progesterone"
+"dienogest and estradiol",NA,NA,994203,"dienogest / estradiol"
+"avelumab",1875534,"avelumab",1875534,"avelumab"
+"citric acid, potassium citrate, and sodium citrate",NA,NA,689841,"citric acid / potassium citrate / sodium citrate"
+"citric acid, sodium citrate, and potassium citrate",NA,NA,NA,NA
+"dalfopristin and quinupristin",NA,NA,135098,"dalfopristin / quinupristin"
+"glucarpidase",1242127,"glucarpidase",1242127,"glucarpidase"
+"riboflavin",9346,"riboflavin",9346,"riboflavin"
+"rizatriptan",88014,"rizatriptan",88014,"rizatriptan"
+"eletriptan",231049,"eletriptan",231049,"eletriptan"
+"naratriptan",141366,"naratriptan",141366,"naratriptan"
+"almotriptan",279645,"almotriptan",279645,"almotriptan"
+"naproxen and sumatriptan",NA,NA,797426,"naproxen / sumatriptan"
+"frovatriptan",228783,"frovatriptan",228783,"frovatriptan"
+"benzethonium chloride topical",NA,NA,NA,NA
+"benzoin tincture swab",NA,NA,NA,NA
+"camphor and menthol topical",NA,NA,NA,NA
+"smallpox monkeypox vaccine, live non-replicating",NA,NA,NA,NA
+"meclizine",6676,"meclizine",6676,"meclizine"
+"dimenhydrinate",3444,"dimenhydrinate",3444,"dimenhydrinate"
+"scopolamine transdermal",NA,NA,NA,NA
+"meclizine tablets",NA,NA,NA,NA
+"guaifenesin and dextromethorphan extended-release tablets",NA,NA,NA,NA
+"guaifenesin and dextromethorphan granule packets",NA,NA,NA,NA
+"guaifenesin and dextromethorphan liquid",NA,NA,NA,NA
+"guaifenesin and dextromethorphan capsules and tablets",NA,NA,NA,NA
+"laronidase",392509,"laronidase",392509,"laronidase"
+"idursulfase",644101,"idursulfase",644101,"idursulfase"
+"elosulfase alfa",1489914,"elosulfase alfa",1489914,"elosulfase alfa"
+"galsulfase",578033,"galsulfase",578033,"galsulfase"
+"vestronidase alfa",1989819,"vestronidase alfa",1989819,"vestronidase alfa"
+"saliva substitutes",NA,NA,NA,NA
+"palifermin",196319,"palifermin",196319,"palifermin"
+"saliva substitute gel",NA,NA,NA,NA
+"saliva substitute solution",NA,NA,NA,NA
+"siltuximab",1535218,"siltuximab",1535218,"siltuximab"
+"carfilzomib",1302966,"carfilzomib",1302966,"carfilzomib"
+"melphalan injection",NA,NA,NA,NA
+"daratumumab",1721947,"daratumumab",1721947,"daratumumab"
+"melphalan",6718,"melphalan",6718,"melphalan"
+"ixazomib",1723735,"ixazomib",1723735,"ixazomib"
+"elotuzumab",1726104,"elotuzumab",1726104,"elotuzumab"
+"panobinostat",1603350,"panobinostat",1603350,"panobinostat"
+"glatiramer",214582,"glatiramer",214582,"glatiramer"
+"fingolimod",1012892,"fingolimod",1012892,"fingolimod"
+"dalfampridine",897018,"dalfampridine",897018,"dalfampridine"
+"dimethyl fumarate",1373478,"dimethyl fumarate",1373478,"dimethyl fumarate"
+"teriflunomide",1310520,"teriflunomide",1310520,"teriflunomide"
+"interferon beta-1a",75917,"interferon beta-1a",75917,"interferon beta-1a"
+"ocrelizumab",1876366,"ocrelizumab",1876366,"ocrelizumab"
+"interferon beta-1a autoinjector and prefilled syringes",NA,NA,NA,NA
+"peginterferon beta-1a",1546168,"peginterferon beta-1a",1546168,"peginterferon beta-1a"
+"methocarbamol",6845,"methocarbamol",6845,"methocarbamol"
+"carisoprodol",2101,"carisoprodol",2101,"carisoprodol"
+"chlorzoxazone",2410,"chlorzoxazone",2410,"chlorzoxazone"
+"orphenadrine",7715,"orphenadrine",7715,"orphenadrine"
+"aspirin, caffeine, and orphenadrine",NA,NA,NA,NA
+"aspirin and carisoprodol",NA,NA,214251,"aspirin / carisoprodol"
+"pentafluoropropane and tetrafluoroethane",NA,NA,NA,NA
+"aspirin, carisoprodol, and codeine",NA,NA,NA,NA
+"acetaminophen controlled-release tablets",NA,NA,NA,NA
+"neostigmine tablets",NA,NA,NA,NA
+"pyridostigmine injection",NA,NA,NA,NA
+"ethambutol",4110,"ethambutol",4110,"ethambutol"
+"rifabutin",55672,"rifabutin",55672,"rifabutin"
+"amikacin liposome",NA,NA,NA,NA
+"isoniazid",6038,"isoniazid",6038,"isoniazid"
+"mogamulizumab",2054068,"mogamulizumab",2054068,"mogamulizumab"
+"mechlorethamine topical",NA,NA,NA,NA
+"azacitidine",1251,"azacitidine",1251,"azacitidine"
+"fedratinib",2197490,"fedratinib",2197490,"fedratinib"
+"methylphenidate controlled-release tablets",NA,NA,NA,NA
+"solriamfetol",2121751,"solriamfetol",2121751,"solriamfetol"
+"pitolisant",2197878,"pitolisant",2197878,"pitolisant"
+"pseudoephedrine",8896,"pseudoephedrine",8896,"pseudoephedrine"
+"oxymetazoline nasal",NA,NA,NA,NA
+"pseudoephedrine extended-release tablets",NA,NA,NA,NA
+"loratadine and pseudoephedrine",NA,NA,214682,"loratadine / pseudoephedrine"
+"sodium chloride nasal",NA,NA,9863,"sodium chloride"
+"phenylephrine injection",NA,NA,NA,NA
+"phenylephrine nasal",NA,NA,NA,NA
+"pseudoephedrine capsules and tablets",NA,NA,NA,NA
+"xylometazoline nasal",NA,NA,NA,NA
+"beclomethasone nasal",NA,NA,NA,NA
+"aprepitant",358255,"aprepitant",358255,"aprepitant"
+"palonosetron",70561,"palonosetron",70561,"palonosetron"
+"granisetron",26237,"granisetron",26237,"granisetron"
+"netupitant and palonosetron",NA,NA,1552342,"netupitant / palonosetron"
+"fosaprepitant",1731071,"fosaprepitant",1731071,"fosaprepitant"
+"doxylamine and pyridoxine",NA,NA,1375947,"doxylamine / pyridoxine"
+"vitamin b6, ginger, folic acid, and calcium",NA,NA,NA,NA
+"droperidol",3648,"droperidol",3648,"droperidol"
+"fructose, dextrose, and phosphoric acid",NA,NA,NA,NA
+"potassium citrate",54993,"potassium citrate",54993,"potassium citrate"
+"cysteamine",3022,"cysteamine",3022,"cysteamine"
+"atropine and pralidoxime",NA,NA,465370,"atropine / pralidoxime"
+"dinutuximab",1606274,"dinutuximab",1606274,"dinutuximab"
+"lutetium lu 177 dotatate",NA,NA,NA,NA
+"selumetinib",NA,NA,NA,NA
+"guanidine",50675,"guanidine",50675,"guanidine"
+"cenegermin",2104332,"cenegermin",2104332,"cenegermin"
+"pegfilgrastim",338036,"pegfilgrastim",338036,"pegfilgrastim"
+"tbo-filgrastim",NA,NA,NA,NA
+"niacinamide",7405,"niacinamide",7405,"niacinamide"
+"aspirin chewable tablets",NA,NA,NA,NA
+"desmopressin sublingual tablets",NA,NA,NA,NA
+"tasimelteon",1490468,"tasimelteon",1490468,"tasimelteon"
+"ibritumomab tiuxetan",NA,NA,NA,NA
+"ibritumomab",NA,NA,NA,NA
+"plerixafor",733003,"plerixafor",733003,"plerixafor"
+"erlotinib",337525,"erlotinib",337525,"erlotinib"
+"osimertinib",1721560,"osimertinib",1721560,"osimertinib"
+"gefitinib",328134,"gefitinib",328134,"gefitinib"
+"crizotinib",1148495,"crizotinib",1148495,"crizotinib"
+"vinorelbine",39541,"vinorelbine",39541,"vinorelbine"
+"afatinib",1430438,"afatinib",1430438,"afatinib"
+"alectinib",1727455,"alectinib",1727455,"alectinib"
+"orlistat",37925,"orlistat",37925,"orlistat"
+"rosiglitazone",84108,"rosiglitazone",84108,"rosiglitazone"
+"betaine",1512,"betaine",1512,"betaine"
+"dopamine",3628,"dopamine",3628,"dopamine"
+"lamivudine and zidovudine",NA,NA,214671,"lamivudine / zidovudine"
+"atazanavir",343047,"atazanavir",343047,"atazanavir"
+"zidovudine",11413,"zidovudine",11413,"zidovudine"
+"indinavir",114289,"indinavir",114289,"indinavir"
+"saquinavir",83395,"saquinavir",83395,"saquinavir"
+"didanosine",3364,"didanosine",3364,"didanosine"
+"abacavir, lamivudine, and zidovudine",NA,NA,284620,"abacavir / lamivudine / zidovudine"
+"famotidine and ibuprofen",NA,NA,1100065,"famotidine / ibuprofen"
+"phentermine",8152,"phentermine",8152,"phentermine"
+"bupropion and naltrexone",NA,NA,1551467,"bupropion / naltrexone"
+"phendimetrazine",33272,"phendimetrazine",33272,"phendimetrazine"
+"phentermine and topiramate",NA,NA,1302826,"phentermine / topiramate"
+"diethylpropion",3389,"diethylpropion",3389,"diethylpropion"
+"lorcaserin",1300701,"lorcaserin",1300701,"lorcaserin"
+"phendimetrazine tablets",NA,NA,NA,NA
+"clomipramine",2597,"clomipramine",2597,"clomipramine"
+"emtricitabine",276237,"emtricitabine",276237,"emtricitabine"
+"nelfinavir",134527,"nelfinavir",134527,"nelfinavir"
+"trifluridine ophthalmic",NA,NA,10803,"trifluridine"
+"natamycin ophthalmic",NA,NA,7268,"natamycin"
+"terbinafine tablets and hydroxypropyl-chitosan nail lacquer",NA,NA,NA,NA
+"efinaconazole topical",NA,NA,NA,NA
+"tavaborole topical",NA,NA,NA,NA
+"undecylenic acid topical",NA,NA,NA,NA
+"undecylenic acid",NA,NA,NA,NA
+"proparacaine ophthalmic",NA,NA,NA,NA
+"phenylephrine and ketorolac",NA,NA,1540229,"ketorolac / phenylephrine"
+"ophthalmic irrigation",NA,NA,NA,NA
+"trypan blue",NA,NA,NA,NA
+"hyaluronate and derivatives injection",NA,NA,NA,NA
+"sodium chondroitin and sodium hyaluronate",NA,NA,NA,NA
+"buprenorphine and naloxone",NA,NA,352364,"buprenorphine / naloxone"
+"buprenorphine and naloxone (bue pre nor feen and nal ox one",NA,NA,NA,NA
+"methadone tablets",NA,NA,NA,NA
+"lofexidine",28863,"lofexidine",28863,"lofexidine"
+"naldemedine",1876597,"naldemedine",1876597,"naldemedine"
+"naloxone injection",NA,NA,NA,NA
+"naloxone",7242,"naloxone",7242,"naloxone"
+"hydrogen peroxide oral rinse",NA,NA,NA,NA
+"benzocaine oral suspension",NA,NA,NA,NA
+"benzocaine oral cream, gel, liquid, and ointment",NA,NA,NA,NA
+"benzocaine and glycerin oral spray",NA,NA,NA,NA
+"miconazole oral",NA,NA,NA,NA
+"cyclosporine capsules, modified",NA,NA,NA,NA
+"tacrolimus extended-release capsules",NA,NA,NA,NA
+"cyclosporine injection",NA,NA,NA,NA
+"tacrolimus extended-release tablets",NA,NA,NA,NA
+"basiliximab",196102,"basiliximab",196102,"basiliximab"
+"daclizumab",190353,"daclizumab",190353,"daclizumab"
+"tropicamide ophthalmic",NA,NA,NA,NA
+"diclofenac and misoprostol",NA,NA,214502,"diclofenac / misoprostol"
+"acetaminophen and codeine",NA,NA,817579,"acetaminophen / codeine"
+"dicloxacillin",3356,"dicloxacillin",3356,"dicloxacillin"
+"cholecalciferol/genistein/zinc chelazome",NA,NA,NA,NA
+"ibandronate",115264,"ibandronate",115264,"ibandronate"
+"risedronate",73056,"risedronate",73056,"risedronate"
+"raloxifene",72143,"raloxifene",72143,"raloxifene"
+"ciprofloxacin and dexamethasone otic",NA,NA,NA,NA
+"hydrocortisone, neomycin, and polymyxin b otic",NA,NA,NA,NA
+"acetic acid and hydrocortisone",NA,NA,466530,"acetic acid / hydrocortisone"
+"acetic acid and aluminum acetate otic solution",NA,NA,NA,NA
+"neomycin, polymyxin b, and hydrocortisone",NA,NA,NA,NA
+"neomycin, polymyxin b, and hydrocortisone otic suspension",NA,NA,NA,NA
+"olaparib",1597582,"olaparib",1597582,"olaparib"
+"rucaparib",1862579,"rucaparib",1862579,"rucaparib"
+"cetrorelix",68147,"cetrorelix",68147,"cetrorelix"
+"hydrocodone",5489,"hydrocodone",5489,"hydrocodone"
+"streptozocin",10114,"streptozocin",10114,"streptozocin"
+"irinotecan liposomal",NA,NA,NA,NA
+"alprazolam oral solution",NA,NA,NA,NA
+"iobenguane i-131",2053281,"iobenguane i-131",2053281,"iobenguane i-131"
+"pimavanserin",1791685,"pimavanserin",1791685,"pimavanserin"
+"rasagiline",134748,"rasagiline",134748,"rasagiline"
+"ropinirole",72302,"ropinirole",72302,"ropinirole"
+"pramipexole",746741,"pramipexole",746741,"pramipexole"
+"selegiline",9639,"selegiline",9639,"selegiline"
+"entacapone",60307,"entacapone",60307,"entacapone"
+"rotigotine",616739,"rotigotine",616739,"rotigotine"
+"levodopa, carbidopa, and entacapone",NA,NA,NA,NA
+"carbidopa, entacapone, and levodopa",NA,NA,NA,NA
+"levodopa inhalation",NA,NA,NA,NA
+"bacitracin, neomycin, and polymyxin b",NA,NA,NA,NA
+"gentamicin topical",NA,NA,NA,NA
+"bacitracin, neomycin, polymyxin b, and hydrocortisone",NA,NA,NA,NA
+"propantheline",8761,"propantheline",8761,"propantheline"
+"bivalirudin",60819,"bivalirudin",60819,"bivalirudin"
+"cangrelor",1656052,"cangrelor",1656052,"cangrelor"
+"carbamide peroxide liquid",NA,NA,NA,NA
+"erythromycin topical",NA,NA,NA,NA
+"benzoyl peroxide cream",NA,NA,NA,NA
+"clindamycin solution and swab",NA,NA,NA,NA
+"benzoyl peroxide",1418,"benzoyl peroxide",1418,"benzoyl peroxide"
+"benzoyl peroxide wash and cleanser",NA,NA,NA,NA
+"vorapaxar",1537034,"vorapaxar",1537034,"vorapaxar"
+"belinostat",1543543,"belinostat",1543543,"belinostat"
+"icodextrin",140480,"icodextrin",140480,"icodextrin"
+"sapropterin",753340,"sapropterin",753340,"sapropterin"
+"pegvaliase",2046360,"pegvaliase",2046360,"pegvaliase"
+"phenoxybenzamine",8149,"phenoxybenzamine",8149,"phenoxybenzamine"
+"metyrosine",266604,"metyrosine",266604,"metyrosine"
+"acitretin",16818,"acitretin",16818,"acitretin"
+"betamethasone and calcipotriene topical",NA,NA,NA,NA
+"calcipotriene topical",NA,NA,NA,NA
+"ixekizumab",1745099,"ixekizumab",1745099,"ixekizumab"
+"guselkumab",1928588,"guselkumab",1928588,"guselkumab"
+"brodalumab",1872251,"brodalumab",1872251,"brodalumab"
+"talc",10323,"talc",10323,"talc"
+"pneumococcal polysaccharides vaccine, 23-valent",NA,NA,NA,NA
+"pneumococcal 13-valent conjugate vaccine",NA,NA,NA,NA
+"polio vaccine, inactivated",NA,NA,NA,NA
+"drospirenone, ethinyl estradiol, and levomefolate",NA,NA,NA,NA
+"alglucosidase alfa",629565,"alglucosidase alfa",629565,"alglucosidase alfa"
+"hemin",5175,"hemin",5175,"hemin"
+"givosiran",2265712,"givosiran",2265712,"givosiran"
+"florbetaben f 18",NA,NA,NA,NA
+"rubidium rb 82",NA,NA,NA,NA
+"fluciclovine f 18",NA,NA,NA,NA
+"gallium ga 68 dotatate",NA,NA,NA,NA
+"drospirenone and estradiol",NA,NA,608838,"drospirenone / estradiol"
+"nepafenac ophthalmic",NA,NA,NA,NA
+"difluprednate ophthalmic",NA,NA,NA,NA
+"bromfenac",19737,"bromfenac",19737,"bromfenac"
+"methylergonovine",6883,"methylergonovine",6883,"methylergonovine"
+"brexanolone",2121777,"brexanolone",2121777,"brexanolone"
+"histrelin",50975,"histrelin",50975,"histrelin"
+"leuprolide injection",NA,NA,NA,NA
+"nafarelin nasal",NA,NA,NA,NA
+"triptorelin",38782,"triptorelin",38782,"triptorelin"
+"hydroxyprogesterone injection",NA,NA,NA,NA
+"acebutolol",149,"acebutolol",149,"acebutolol"
+"acetaminophen, pamabrom, and pyrilamine",NA,NA,NA,NA
+"acetaminophen and pamabrom",NA,NA,214184,"acetaminophen / pamabrom"
+"acetaminophen, pamabrom, and pyrilamine tablets",NA,NA,NA,NA
+"acetaminophen, caffeine, and pyrilamine",NA,NA,NA,NA
+"aspirin and omeprazole",NA,NA,1811630,"aspirin / omeprazole"
+"bezlotoxumab",1855048,"bezlotoxumab",1855048,"bezlotoxumab"
+"fluoride",NA,NA,NA,NA
+"sodium fluoride cream, gel, and paste",NA,NA,NA,NA
+"fluoride topical",NA,NA,NA,NA
+"sodium fluoride and potassium nitrate",NA,NA,NA,NA
+"sodium fluoride drops",NA,NA,NA,NA
+"sodium fluoride",9873,"sodium fluoride",9873,"sodium fluoride"
+"sodium fluoride chewable tablets",NA,NA,NA,NA
+"cholecalciferol",2418,"cholecalciferol",2418,"cholecalciferol"
+"cholecalciferol capsules and tablets",NA,NA,NA,NA
+"estradiol and levonorgestrel",NA,NA,687333,"estradiol / levonorgestrel"
+"afamelanotide acetate topical",NA,NA,NA,NA
+"mecasermin",274403,"mecasermin",274403,"mecasermin"
+"hyaluronidase and immune globulin",NA,NA,NA,NA
+"immune globulin -slra",NA,NA,NA,NA
+"immune globulin -klhw",NA,NA,NA,NA
+"nortriptyline capsules",NA,NA,NA,NA
+"acetylcholine",194,"acetylcholine",194,"acetylcholine"
+"bicalutamide",83008,"bicalutamide",83008,"bicalutamide"
+"abiraterone",1100072,"abiraterone",1100072,"abiraterone"
+"enzalutamide",1307298,"enzalutamide",1307298,"enzalutamide"
+"degarelix",475230,"degarelix",475230,"degarelix"
+"sipuleucel-t",997261,"sipuleucel-t",997261,"sipuleucel-t"
+"cabazitaxel",996051,"cabazitaxel",996051,"cabazitaxel"
+"dipyridamole",3521,"dipyridamole",3521,"dipyridamole"
+"protein c concentrate",NA,NA,8834,"protein c"
+"calamine",106212,"calamine",106212,"calamine"
+"dextromethorphan and quinidine",NA,NA,1040053,"dextromethorphan / quinidine"
+"leflunomide",27169,"leflunomide",27169,"leflunomide"
+"tofacitinib",1357536,"tofacitinib",1357536,"tofacitinib"
+"perphenazine",8076,"perphenazine",8076,"perphenazine"
+"fluphenazine",4496,"fluphenazine",4496,"fluphenazine"
+"iloperidone",73178,"iloperidone",73178,"iloperidone"
+"thiothixene",10510,"thiothixene",10510,"thiothixene"
+"ambrisentan",358274,"ambrisentan",358274,"ambrisentan"
+"bosentan",75207,"bosentan",75207,"bosentan"
+"treprostinil",343048,"treprostinil",343048,"treprostinil"
+"macitentan",1442132,"macitentan",1442132,"macitentan"
+"epoprostenol",8814,"epoprostenol",8814,"epoprostenol"
+"riociguat",1439816,"riociguat",1439816,"riociguat"
+"iloprost inhalation",NA,NA,NA,NA
+"selexipag",1729002,"selexipag",1729002,"selexipag"
+"atropine ophthalmic",NA,NA,NA,NA
+"cyclopentolate ophthalmic",NA,NA,NA,NA
+"atropine eye drops",NA,NA,NA,NA
+"atropine sulfate",NA,NA,NA,NA
+"rabies immune globulin",NA,NA,89886,"rabies immune globulin, human"
+"rabies vaccine",NA,NA,NA,NA
+"prussian blue",NA,NA,24902,"prussian blue insoluble"
+"technetium tc 99m pentetate",NA,NA,NA,NA
+"felodipine",4316,"felodipine",4316,"felodipine"
+"isradipine",33910,"isradipine",33910,"isradipine"
+"nisoldipine",7435,"nisoldipine",7435,"nisoldipine"
+"nevirapine",53654,"nevirapine",53654,"nevirapine"
+"homatropine ophthalmic",NA,NA,NA,NA
+"atropine, homatropine, and scopolamine",NA,NA,NA,NA
+"homatropine",27084,"homatropine",27084,"homatropine"
+"belatacept",1112973,"belatacept",1112973,"belatacept"
+"pazopanib",714438,"pazopanib",714438,"pazopanib"
+"axitinib",1242999,"axitinib",1242999,"axitinib"
+"temsirolimus",657797,"temsirolimus",657797,"temsirolimus"
+"citric acid and potassium citrate",NA,NA,214427,"citric acid / potassium citrate"
+"sodium citrate and citric acid",NA,NA,91198,"citric acid / sodium citrate"
+"anti-thymocyte globulin",NA,NA,1011,"lymphocyte immune globulin, anti-thymocyte globulin"
+"beractant",46967,"beractant",46967,"beractant"
+"calfactant",232539,"calfactant",232539,"calfactant"
+"poractant alfa",236381,"poractant alfa",236381,"poractant alfa"
+"nitric oxide",7442,"nitric oxide",7442,"nitric oxide"
+"palivizumab",194279,"palivizumab",194279,"palivizumab"
+"voretigene neparvovec ophthalmic",NA,NA,NA,NA
+"prothrombin complex",NA,NA,NA,NA
+"coagulation factor xa",NA,NA,NA,NA
+"idarucizumab",1716191,"idarucizumab",1716191,"idarucizumab"
+"neostigmine injection",NA,NA,NA,NA
+"sugammadex",1726988,"sugammadex",1726988,"sugammadex"
+"sulfadiazine",10171,"sulfadiazine",10171,"sulfadiazine"
+"brompheniramine and phenylephrine",NA,NA,214324,"brompheniramine / phenylephrine"
+"chlorpheniramine, methscopolamine, and phenylephrine",NA,NA,NA,NA
+"brompheniramine and phenylephrine liquid",NA,NA,NA,NA
+"brompheniramine and phenylephrine suspension",NA,NA,NA,NA
+"brompheniramine and phenylephrine tablets",NA,NA,NA,NA
+"ipratropium nasal",NA,NA,NA,NA
+"acetaminophen, chlorpheniramine, dextromethorphan, phenylephrine liquid",NA,NA,NA,NA
+"brompheniramine and codeine",NA,NA,823181,"brompheniramine / codeine"
+"chlophedianol and dexbrompheniramine",NA,NA,1551285,"chlophedianol / dexbrompheniramine"
+"dextromethorphan and pyrilamine",NA,NA,1423306,"dextromethorphan / pyrilamine"
+"acetaminophen/chlorpheniramine/dextromethorphan/phenylephrine caps &amp; tabs",NA,NA,NA,NA
+"crotamiton topical",NA,NA,NA,NA
+"cariprazine",1667655,"cariprazine",1667655,"cariprazine"
+"ascorbic acid injection",NA,NA,NA,NA
+"ascorbic acid solution, liquid, and syrup",NA,NA,NA,NA
+"ascorbic acid controlled-release caps &amp; controlled-release tabs",NA,NA,NA,NA
+"bupropion extended-release tablets",NA,NA,NA,NA
+"olopatadine ophthalmic",NA,NA,NA,NA
+"sulfacetamide sodium topical",NA,NA,NA,NA
+"coal tar topical",NA,NA,NA,NA
+"hydrogen peroxide solution",NA,NA,NA,NA
+"paricalcitol",73710,"paricalcitol",73710,"paricalcitol"
+"doxercalciferol",11516,"doxercalciferol",11516,"doxercalciferol"
+"dexmedetomidine",48937,"dexmedetomidine",48937,"dexmedetomidine"
+"amobarbital",719,"amobarbital",719,"amobarbital"
+"pentobarbital",8004,"pentobarbital",8004,"pentobarbital"
+"chloral hydrate capsules",NA,NA,NA,NA
+"vigabatrin",14851,"vigabatrin",14851,"vigabatrin"
+"lacosamide",623400,"lacosamide",623400,"lacosamide"
+"diazepam rectal gel",NA,NA,NA,NA
+"eslicarbazepine",1482502,"eslicarbazepine",1482502,"eslicarbazepine"
+"ethosuximide",4135,"ethosuximide",4135,"ethosuximide"
+"tiagabine",31914,"tiagabine",31914,"tiagabine"
+"diazepam rectal",NA,NA,NA,NA
+"dobutamine",3616,"dobutamine",3616,"dobutamine"
+"glutamine",4885,"glutamine",4885,"glutamine"
+"teduglutide",1364468,"teduglutide",1364468,"teduglutide"
+"demeclocycline",3154,"demeclocycline",3154,"demeclocycline"
+"glutamine powder",NA,NA,NA,NA
+"crizanlizumab",2262279,"crizanlizumab",2262279,"crizanlizumab"
+"voxelotor",2265678,"voxelotor",2265678,"voxelotor"
+"ibuprofen and pseudoephedrine",NA,NA,214652,"ibuprofen / pseudoephedrine"
+"acetaminophen and phenylephrine",NA,NA,214186,"acetaminophen / phenylephrine"
+"acetaminophen, chlorpheniramine, and phenylephrine tablets",NA,NA,NA,NA
+"acetaminophen and pseudoephedrine",NA,NA,214187,"acetaminophen / pseudoephedrine"
+"dexbrompheniramine and pseudoephedrine",NA,NA,400674,"dexbrompheniramine / pseudoephedrine"
+"acetaminophen and phenylephrine capsules",NA,NA,NA,NA
+"cevimeline",44281,"cevimeline",44281,"cevimeline"
+"chlorhexidine topical",NA,NA,NA,NA
+"chlorhexidine",2358,"chlorhexidine",2358,"chlorhexidine"
+"diflorasone topical",NA,NA,NA,NA
+"prednicarbate",34369,"prednicarbate",34369,"prednicarbate"
+"durvalumab",1919503,"durvalumab",1919503,"durvalumab"
+"tecovirimat",2055104,"tecovirimat",2055104,"tecovirimat"
+"varenicline",591622,"varenicline",591622,"varenicline"
+"nicotine",7407,"nicotine",7407,"nicotine"
+"nicotine lozenges",NA,NA,NA,NA
+"trabectedin",1716278,"trabectedin",1716278,"trabectedin"
+"olaratumab",1855735,"olaratumab",1855735,"olaratumab"
+"larotrectinib",2105628,"larotrectinib",2105628,"larotrectinib"
+"entrectinib",2197862,"entrectinib",2197862,"entrectinib"
+"benzocaine and menthol lozenges",NA,NA,NA,NA
+"phenol oral spray and rinse",NA,NA,NA,NA
+"phenol topical solution",NA,NA,NA,NA
+"menthol topical",NA,NA,NA,NA
+"benzocaine orally disintegrating tablets",NA,NA,NA,NA
+"dyclonine",23744,"dyclonine",23744,"dyclonine"
+"menthol lozenges",NA,NA,NA,NA
+"phenol",33290,"phenol",33290,"phenol"
+"benzocaine, butamben, and tetracaine",NA,NA,NA,NA
+"nusinersen",1863556,"nusinersen",1863556,"nusinersen"
+"onasemnogene abeparvovec",2170226,"onasemnogene abeparvovec",2170226,"onasemnogene abeparvovec"
+"onasemnogene abeparvovcec infusion",NA,NA,NA,NA
+"cemiplimab",2058826,"cemiplimab",2058826,"cemiplimab"
+"cemiplimab-rwlc",NA,NA,NA,NA
+"fosphenytoin",72236,"fosphenytoin",72236,"fosphenytoin"
+"gemifloxacin",138099,"gemifloxacin",138099,"gemifloxacin"
+"penicillin g benzathine and penicillin g procaine",NA,NA,466553,"penicillin g benzathine / penicillin g procaine"
+"aluminum hydroxide and magnesium hydroxide chewable tablets",NA,NA,NA,NA
+"deoxycholic acid&gt;",NA,NA,NA,NA
+"deoxycholic acid",NA,NA,NA,NA
+"sacrosidase",214817,"sacrosidase",214817,"sacrosidase"
+"benzocaine topical spray",NA,NA,NA,NA
+"bacitracin topical",NA,NA,NA,NA
+"lidocaine and benzalkonium",NA,NA,NA,NA
+"bacitracin and polymyxin b",NA,NA,645555,"bacitracin / polymyxin b"
+"bacitracin, neomycin, polymyxin b, and pramoxine",NA,NA,NA,NA
+"fluocinolone and neomycin topical",NA,NA,NA,NA
+"neomycin, polymyxin, and pramoxine cream",NA,NA,NA,NA
+"belimumab",1092437,"belimumab",1092437,"belimumab"
+"valbenazine",1918219,"valbenazine",1918219,"valbenazine"
+"apomorphine",1043,"apomorphine",1043,"apomorphine"
+"pexidartinib",2183102,"pexidartinib",2183102,"pexidartinib"
+"tetanus immune globulin",1727875,"tetanus immune globulin",1727875,"tetanus immune globulin"
+"avatrombopag",2045726,"avatrombopag",2045726,"avatrombopag"
+"lusutrombopag",2054984,"lusutrombopag",2054984,"lusutrombopag"
+"caplacizumab",2110605,"caplacizumab",2110605,"caplacizumab"
+"argatroban",15202,"argatroban",15202,"argatroban"
+"vandetanib",1098413,"vandetanib",1098413,"vandetanib"
+"teprotumumab",2274803,"teprotumumab",2274803,"teprotumumab"
+"betamethasone and clotrimazole topical",NA,NA,NA,NA
+"tolnaftate topical",NA,NA,NA,NA
+"terbinafine topical",NA,NA,NA,NA
+"naftifine topical",NA,NA,NA,NA
+"oxiconazole topical",NA,NA,NA,NA
+"clioquinol",5942,"clioquinol",5942,"clioquinol"
+"luliconazole topical",NA,NA,NA,NA
+"tolnaftate",10637,"tolnaftate",10637,"tolnaftate"
+"sertaconazole topical",NA,NA,NA,NA
+"cefaclor",2176,"cefaclor",2176,"cefaclor"
+"povidone-iodine",8611,"povidone-iodine",8611,"povidone-iodine"
+"iodine",5933,"iodine",5933,"iodine"
+"silver nitrate topical",NA,NA,NA,NA
+"isopropyl alcohol",797541,"isopropyl alcohol",797541,"isopropyl alcohol"
+"sodium hypochlorite topical",NA,NA,NA,NA
+"benzalkonium chloride",NA,NA,NA,NA
+"ethanol topical",NA,NA,NA,NA
+"sodium hypochlorite",NA,NA,NA,NA
+"fat emulsion",NA,NA,NA,NA
+"total parenteral nutrition",NA,NA,NA,NA
+"amino acid injection",NA,NA,NA,NA
+"cysteine",3024,"cysteine",3024,"cysteine"
+"pimozide",8331,"pimozide",8331,"pimozide"
+"rifamycin",NA,NA,35616,"rifamycin sv"
+"rifamycin",NA,NA,9385,"rifamycins"
+"benznidazole",18994,"benznidazole",18994,"benznidazole"
+"isoniazid, pyrazinamide, and rifampin",NA,NA,NA,NA
+"pyrazinamide",8987,"pyrazinamide",8987,"pyrazinamide"
+"isoniazid and rifampin",NA,NA,106876,"isoniazid / rifampin"
+"rifapentine",35617,"rifapentine",35617,"rifapentine"
+"cycloserine",3007,"cycloserine",3007,"cycloserine"
+"bcg intravesical",NA,NA,NA,NA
+"bcg vaccine",NA,NA,NA,NA
+"bedaquiline",1364504,"bedaquiline",1364504,"bedaquiline"
+"aminosalicylic acid",7833,"aminosalicylic acid",7833,"aminosalicylic acid"
+"pretomanid",2198359,"pretomanid",2198359,"pretomanid"
+"typhoid vaccine, oral",NA,NA,NA,NA
+"typhoid vaccine, injection",NA,NA,NA,NA
+"balsalazide",18747,"balsalazide",18747,"balsalazide"
+"olsalazine",32385,"olsalazine",32385,"olsalazine"
+"infliximab-qbtx",NA,NA,NA,NA
+"infliximab-axxq",NA,NA,NA,NA
+"glycerol phenylbutyrate",1368451,"glycerol phenylbutyrate",1368451,"glycerol phenylbutyrate"
+"sodium phenylbutyrate",NA,NA,NA,NA
+"potassium phosphate tablets",NA,NA,NA,NA
+"mirabegron",1300786,"mirabegron",1300786,"mirabegron"
+"tolterodine",119565,"tolterodine",119565,"tolterodine"
+"fesoterodine",797195,"fesoterodine",797195,"fesoterodine"
+"hyoscyamine, methenamine, methylene blue, phenyl salicylate, sodium biphosphate",NA,NA,NA,NA
+"bcg",NA,NA,NA,NA
+"valrubicin",31435,"valrubicin",31435,"valrubicin"
+"enfortumab vedotin",NA,NA,NA,NA
+"ulipristal",1005921,"ulipristal",1005921,"ulipristal"
+"clotrimazole vaginal",NA,NA,NA,NA
+"terconazole vaginal",NA,NA,NA,NA
+"terconazole vaginal cream",NA,NA,NA,NA
+"boric acid",1700,"boric acid",1700,"boric acid"
+"butoconazole vaginal",NA,NA,NA,NA
+"tioconazole vaginal",NA,NA,NA,NA
+"hydroxyquinoline",NA,NA,110,"oxyquinoline"
+"varicella virus vaccine",NA,NA,NA,NA
+"varicella zoster immune globulin",NA,NA,39385,"varicella-zoster immune globulin"
+"laureth-9",NA,NA,968170,"polidocanol"
+"sodium tetradecyl sulfate",9913,"sodium tetradecyl sulfate",9913,"sodium tetradecyl sulfate"
+"papaverine",7895,"papaverine",7895,"papaverine"
+"antivenom",NA,NA,NA,NA
+"antivenin polyvalent pol ee vay lent",NA,NA,NA,NA
+"antivenin polyvalent",NA,NA,NA,NA
+"antivenin",NA,NA,NA,NA
+"betrixaban",1927851,"betrixaban",1927851,"betrixaban"
+"dextran 40",3272,"dextran 40",3272,"dextran 40"
+"sotalol tablets",NA,NA,NA,NA
+"vitamin a",11246,"vitamin a",11246,"vitamin a"
+"beta carotene",19143,"beta carotene",19143,"beta carotene"
+"beta-carotene",NA,NA,19143,"beta carotene"
+"cholecalciferol orally disintegrating tablets",NA,NA,NA,NA
+"cholecalciferol drops",NA,NA,NA,NA
+"cholecalciferol wafer",NA,NA,NA,NA
+"prenatal multivitamins",NA,NA,NA,NA
+"prenatal vitamin chewable tablet without vitamin a",NA,NA,NA,NA
+"multivitamins and minerals",NA,NA,NA,NA
+"chromium picolinate",59308,"chromium picolinate",59308,"chromium picolinate"
+"selenium",9641,"selenium",9641,"selenium"
+"zinc sulfate",39954,"zinc sulfate",39954,"zinc sulfate"
+"ocriplasmin ophthalmic",NA,NA,NA,NA
+"von willebrand factor",11274,"von willebrand factor",11274,"von willebrand factor"
+"desipramine",3247,"desipramine",3247,"desipramine"
+"salicylic acid",9525,"salicylic acid",9525,"salicylic acid"
+"cantharidin",1984,"cantharidin",1984,"cantharidin"
+"salicylic acid gel, liquid, and solution",NA,NA,NA,NA
+"salicylic acid pads and plaster",NA,NA,NA,NA
+"trientine",10798,"trientine",10798,"trientine"
+"zinc acetate",58295,"zinc acetate",58295,"zinc acetate"
+"burosumab",2043855,"burosumab",2043855,"burosumab"
+"glycerin liquid and spray",NA,NA,NA,NA
+"yellow fever vaccine",NA,NA,804187,"yellow-fever virus vaccine, 17d-204 strain"
