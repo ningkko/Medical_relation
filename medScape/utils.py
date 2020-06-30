@@ -79,7 +79,7 @@ def get_next_section(_url):
 
 
 # get -rticle page in a drug-disease topic
-def get_all_info(_url):
+def get_all_info(_url, type):
 
     medical_term_info_full = []
     # first scrape -overview#showall since every page starts here.
@@ -89,8 +89,15 @@ def get_all_info(_url):
     title = overview_info[0]
     title = re.sub(r"[,.;@#?!&$/<>()^*-_+={}\[\]\"\']+\ *", " ", title).strip().replace("  "," ")
 
-    _path = 'medicine_txts/'+title+".txt"
-
+    if type == "medicine":
+        _path = 'medicine_txts/'+title+".txt"
+    elif type == "surgery":
+        _path = 'surgery_txts/'+title+".txt"
+    elif type == "pediatrics":
+        _path = 'pediatrics_txts/'+title+".txt"
+    else:
+        _path = 'unkown/'+title+".txt"
+        
     # print(_path)
     # check if already in output
     is_existed = path.exists(_path)

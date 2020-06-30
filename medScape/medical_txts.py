@@ -15,7 +15,7 @@ for file in files:
 			i+=1
 			print(str(i/7887) + "+++++++++++++++++++")
 			print("On: " + url)
-			get_all_info(url.strip())
+			get_all_info(url.strip(), type="medicine")
 
 			url = fp.readline()
 
