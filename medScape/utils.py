@@ -79,6 +79,13 @@ def get_next_section(_url):
     else: 
         return ""
 
+def cut_title(title):
+    title_word_list = title.split(" ")
+    if len(title_word_list)>10:
+        title_word_list = title_word_list[:9]
+        title = " ".join(title_word_list)
+    
+    return title
 
 # get -rticle page in a drug-disease topic
 def get_all_info(_url, type):
@@ -89,9 +96,14 @@ def get_all_info(_url, type):
     overview_info = get_title_content(show_all_url, "title", "div", "drugdbmain")
     # write to txt
     title = overview_info[0]
-    title = re.sub(r"[,.:;@#?!&$/<>()^-_+={}\[\]\"\']+\ *", " ", title).strip().replace("  "," ")
 
-    abs_path_prefix = "/n/data1/hsph/biostat/celehs/yih798/drug-disease/MedScape/"
+    # if characters like / in title 
+    title = re.sub(r"[,.:;@#?!&$/<>()^-_+={}\[\]\"\']+\ *", " ", title).strip().replace("  "," ")
+    
+    # If the title gets too long
+    title = cut_title(title)
+    
+    abs_path_prefix = "/n/data1/hsph/biostat/celehs/yih798/drug-disease/MedScape/MedScape_texts/"
     
     if type == "medicine":
         _path = 'medicine_txts/'+title+".txt"
@@ -117,8 +129,9 @@ def get_all_info(_url, type):
     # check if next section
     next_section_url = get_next_section(show_all_url)
 
+    # if nested sections, go deeper, till the question section
     while next_section_url and "questions-and-answers" not in next_section_url:
-        # print("Going to: " + next_section_url)
+        print("Going to: " + next_section_url)
         info = get_title_content(show_all_url, "title", "div", "drugdbmain")
         medical_term_info_full.append(info)
         next_section_url = get_next_section(next_section_url)
@@ -130,5 +143,5 @@ def get_all_info(_url, type):
     with open(_path, "w") as text_file:
         text_file.write("\n".join(medical_term_info_full))
 
-    # print("Finished.")
+    print("Finished.")
     return

@@ -2,11 +2,11 @@ from utils import *
 import sys
 
 import os
-files = os.listdir("pediatrics_links/")
+files = os.listdir("links/pediatrics_links/")
 
 # each file
 for file in files:
-    with open("pediatrics_links/" + file) as fp:
+    with open("links/pediatrics_links/" + file) as fp:
         # each url
         url = fp.readline()
         while url:
@@ -15,10 +15,10 @@ for file in files:
             url = fp.readline()
 
 
-files = os.listdir("surgery_links/")
+files = os.listdir("links/surgery_links/")
 
 for file in files:
-    with open("surgery_links/" + file) as fp:
+    with open("links/surgery_links/" + file) as fp:
         # each url
         url = fp.readline()
         while url:

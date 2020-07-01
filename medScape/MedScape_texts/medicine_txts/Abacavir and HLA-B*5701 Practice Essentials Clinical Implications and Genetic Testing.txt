@@ -1,0 +1,52 @@
+Abacavir and HLA-B*5701: Practice Essentials, Clinical Implications and Genetic Testing
+Abacavir is a nucleoside reverse transcriptase inhibitor used in conjunction with other antiretroviral agents in the treatment of HIV infection.
+ [1, 2] HIV, a positive single-stranded RNA virus, undergoes reverse transcription to produce double-stranded viral DNA, which is subsequently incorporated into the host genome and used to produce viral progeny using the host's cellular machinery. Abacavir competes with naturally occurring deoxynucleotides during the viral reverse transcription process. When incorporated into the growing viral DNA strand, abacavir blocks further strand elongation, leading to a premature halt in viral DNA synthesis and chain termination.
+Abacavir is generally well tolerated but can cause hypersensitivity in 5 to 8% of patients during the first 6 weeks of treatment.
+ [3] Symptoms include fever, rash, constitutional symptoms, gastrointestinal tract symptoms, and respiratory symptoms. Symptoms worsen with continued usage and can be potentially life threatening if the patient is rechallenged after discontinuation.
+ [3] 
+Hypersensitivity to abacavir is immunologically mediated, driven by conventional MHC-I antigen presentation and activation of HLA-B*5701.
+ [4, 5] Activation of HLA-B*5701 restricted CD8+ T cells results in the secretion of the inflammatory mediators TNF-alpha and IFN-gamma and induces the delayed-type hypersensitivity reaction.
+ [4] It is thought that a derivative of the abacavir prodrug binds to an antigen-presenting cleft unique to HLA-B*5701, which explains why the drug does not cause a similar hypersensitivity syndrome in carriers of other HLA-B alleles and why compounds similar to abacavir do not react with HLA-B*5701.
+ [4] 
+The HLA-B*5701 allele occurs at approximately a 5 to 8% frequency in European populations, 1% frequency in Asian populations, and less than 1% frequency in African populations. In the United States, African Americans have a reported frequency of between 2 and 4%.
+ [6] 
+In immunologically confirmed hypersensitivity, HLA-B*5701 genotyping is associated with a negative predictive value of nearly 100% and a positive predictive value of approximately 50%.
+ [7] That is, patients without the allele are highly unlikely to develop an immunologic hypersensitivity to abacavir, but only about half of those with the allele will develop such a reaction.
+The genotype results are reported as either positive or negative. Only one copy of the HLA-B*5701 allele is required for a positive result. Therefore, the positive result can be heterozygous (1 copy of the allele) or homozygous (2 copies of allele). Although a negative result indicates that the patient does not carry the HLA-B*5701 allele, it does not entirely rule out the possibility of a patient developing abacavir hypersensitivity.
+ [8]  In a study of 372 HLA-B*5701 patients, there was a 0.5% incidence of suspected avacavir hypersensitivity reaction.
+ [6]  
+Abacavir hypersensitivity remains a clinical diagnosis and can be made even when plausible alternate clinical diagnoses exist. Rash alone without additional symptoms of a systemic process (eg, fever, respiratory symptoms, gastrointestinal symptoms, malaise, or myalgias) does not suggest the presence of underlying  abacavir hypersensitivity. However, patients who develop a rash after initiating abacavir should be closely monitored for the onset of systemic symptoms. If an abacavir hypersensitivity reaction is suspected, immediately discontinue, with careful clinical follow-up.
+ [6]  
+Guidelines in North America and Europe recommend routine screening for HLA-B*5701 prior to initiation of abacavir therapy.
+ [9, 10, 11, 8]  However, its necessity in low-risk populations, such as the Han-Chinese in Hong Kong, has been questioned.
+ [12]  
+The FDA‐approved drug label for abacavir includes a black box warning about the risk of hypersensitivity in carriers of the allele and a recommendation for screening. Abacavir drug labels from the European Medicines Agency and Health Canada carry similar warnings and recommendations. However the drug label in Japan provides no guidance regarding testing and notes that the association between the HLA-B*5701 variant and hypersensitivity is unknown due to the low prevalence (0.1%) of the variant in the Japanese population.
+ [13] 
+Better virologic but not immunologic responses to combination antiretroviral therapy (cART) have been shown in HLA-B*5701-positive patients on nonabacavir regimens. In a British study, HLA-B*5701-positive patients were more likely to achieve viral suppression than negative patients on a nonabacavir regimen (hazard ratio=1.29; 95% confidence interval [CI], 1.15-1.54) and less likely to experience viral rebound (hazard ratio=0.61; 95% CI, 0.37-0.99).
+ [14] 
+Overview
+What is abacavir?
+What causes hypersensitivity to abacavir?
+What is the prevalence of the HLA-B*5701 allele?
+What is the predictive value of HLA-B*5701 for abacavir hypersensitivity?
+How is abacavir hypersensitivity diagnoses?
+What are the guidelines for HLA-B*5701 screening prior to initiation of abacavir therapy?
+What outcomes have been reported for HLA-B*5701-positive patients on nonabacavir regimens for the treatment of HIV?
+Nishijima T, Takano M, Ishisaka M, Komatsu H, Gatanaga H, Kikuchi Y, et al. Abacavir/lamivudine versus tenofovir/emtricitabine with atazanavir/ritonavir for treatment-naive Japanese patients with HIV-1 infection: a randomized multicenter trial. Intern Med. 2013. 52(7):735-44. [Medline]. 
+Kumar P, DeJesus E, Huhn G, Sloan L, Small CB, Edelstein H, et al. Evaluation of cardiovascular biomarkers in a randomized trial of fosamprenavir/ritonavir vs. efavirenz with abacavir/lamivudine in underrepresented, antiretroviral-naïve, HIV-infected patients (SUPPORT): 96-week results. BMC Infect Dis. 2013 Jun 7. 13:269. [Medline]. [Full Text].
+Hetherington S, McGuirk S, Powell G, Cutrell A, Naderer O, Spreen B. Hypersensitivity reactions during therapy with the nucleoside reverse transcriptase inhibitor abacavir. Clin Ther. 2001 Oct. 23(10):1603-14. [Medline]. 
+Chessman D, Kostenko L, Lethborg T, Purcell AW, Williamson NA, Chen Z. Human leukocyte antigen class I-restricted activation of CD8+ T cells provides the immunogenetic basis of a systemic drug hypersensitivity. Immunity. 2008 Jun. 28(6):822-32. [Medline]. 
+Zhang Y, Mei H, Wang Q, Xie J, Lv J, Pan X, et al. Peptide binding specificities of HLA-B*5701 and B*5801. Sci China Life Sci. 2012 Sep. 55(9):818-25. [Medline]. 
+Small CB, Margolis DA, Shaefer MS, Ross LL. HLA-B*57:01 allele prevalence in HIV-infected North American subjects and the impact of allele testing on the incidence of abacavir-associated hypersensitivity reaction in HLA-B*57:01-negative subjects. BMC Infect Dis. 2017 Apr 11. 17 (1):256. [Medline]. [Full Text].
+Mallal S, Phillips E, Carosi G, Molina JM, Workman C, Tomazic J. HLA-B*5701 screening for hypersensitivity to abacavir. N Engl J Med. 2008 Feb 7. 358(6):568-79. [Medline]. 
+Dean L, Pratt V, McLeod H, Rubinstein W, Dean L, Kattman B, et al. Abacavir Therapy and HLA-B*57:01 Genotype. April 18, 2018. [Medline]. [Full Text].
+[Guideline] Department of Health and Human Services Panel on Antiretroviral Guidelines for Adults and Adolescents. Guidelines for the use of antiretroviral agents in HIV-1-infected adults and adolescents. AIDSinfo.nih.gov. Available at https://aidsinfo.nih.gov/guidelines/html/1/adult-and-adolescent-arv/37/whats-new-in-the-guidelines-. October 25, 2018; Accessed: November 15, 2018.
+[Guideline] Saag MS, Benson CA, Gandhi RT, Hoy JF, Landovitz RJ, Mugavero MJ, et al. Antiretroviral Drugs for Treatment and Prevention of HIV Infection in Adults: 2018 Recommendations of the International Antiviral Society-USA Panel. JAMA. 2018 Jul 24. 320 (4):379-396. [Medline]. 
+[Guideline] Martin MA, Hoffman JM, Freimuth RR, Klein TE, Dong BJ, Pirmohamed M, et al. Clinical Pharmacogenetics Implementation Consortium Guidelines for HLA-B Genotype and Abacavir Dosing: 2014 update. Clin Pharmacol Ther. 2014 May. 95 (5):499-500. [Medline]. [Full Text].
+To SW, Chen JH, Wong KH, Chan KC, Tsang OT, Yam WC. HLA-B*5701 genetic screening among HIV-1 infected patients in Hong Kong: is this a practical approach in Han-Chinese?. Int J STD AIDS. 2013 Jan. 24(1):50-2. [Medline]. 
+Barbarino JM, Whirl-Carrillo M, Altman RB, Klein TE. PharmGKB: A worldwide resource for pharmacogenomic information. Wiley Interdiscip Rev Syst Biol Med. 2018 Jul. 10 (4):e1417. [Medline]. [Full Text].
+HLA B*5701 status, disease progression, and response to antiretroviral therapy. AIDS. 2013 Oct 23. 27(16):2587-92. [Medline]. [Full Text].
+Ali Torkamani, PhD Director of Genome Informatics and Drug Discovery, The Scripps Translational Science Institute; Assistant Professor of Integrative Structural and Computational Biology, The Scripps Research InstituteDisclosure: Serve(d) as a director, officer, partner, employee, advisor, consultant or trustee for: Vivid Genomics, Seqster Inc.<br/>Serve(d) as a speaker or a member of a speakers bureau for: Illumina<br/>Received research grant from: National Institutes of Health<br/>Received income in an amount equal to or greater than $250 from: Illumina.
+Mary L Windle, PharmD Adjunct Associate Professor, University of Nebraska Medical Center College of Pharmacy; Editor-in-Chief, Medscape Drug ReferenceDisclosure: Nothing to disclose.
+Karl S Roth, MD Retired Professor and Chair, Department of Pediatrics, Creighton University School of Medicine
+Karl S Roth, MD is a member of the following medical societies: Alpha Omega Alpha, American Academy of Pediatrics, American College of Nutrition, American Pediatric Society, American Society for Nutrition, American Society of Nephrology, Association of American Medical Colleges, Medical Society of Virginia, New York Academy of Sciences, Sigma Xi, Society for Pediatric Research, Southern Society for Pediatric ResearchDisclosure: Nothing to disclose.

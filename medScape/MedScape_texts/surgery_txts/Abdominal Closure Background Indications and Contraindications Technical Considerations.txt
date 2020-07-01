@@ -1,0 +1,189 @@
+Abdominal Closure: Background, Indications and Contraindications, Technical Considerations
+Surgical access to the abdomen is required for many operative procedures, with approximately 4 million open abdominal surgeries occurring annually in the United States.
+ [1] The measures used to close the abdomen may vary from physician to physician, depending on training, circumstance, and comfort level. However, basic principles govern all abdominal closures. This article outlines these principles.
+Indications for abdominal closure include the following:
+The main contraindication is abdominal compartment syndrome.
+The anterior abdominal wall is clearly defined by anatomic borders.
+ [2] The superior border is marked by the costal margins, whereas the inferior border is the pubic symphysis (see the image below).
+ [3] 
+The abdominal wall is composed of distinct tissue types that must be taken into consideration in closing the surgical abdomen. Generally, the anatomic layers of the abdominal wall (from superficial to deep) are as follows.
+The most superficial component of the abdominal wall, the skin (the largest human organ), is composed of the following three layers:
+For a fuller description, see Skin Anatomy.
+Next is the superficial fascia, in which the fasciae and ligaments of the anterior abdominal wall are organized into the following two layers:
+The superficial layer of the superficial fascia (ie, Camper fascia) continues over the inguinal ligament to merge with the superficial fascia of the thigh and continues over the pubis and perineum as the superficial layer of the superficial perineal fascia.
+The deep layer of the superficial fascia (ie, Scarpa fascia) is attached to the fascia lata just below the inguinal ligament. It continues over the pubis and perineum as the membranous layer (Colles fascia) of the superficial perineal fascia and continues over the penis as the superficial fascia of the penis and over the scrotum as the dartos fascia (tunica dartos), which contains smooth muscle.
+The innermost component of the anterior abdominal wall comprises muscle and deep fascia, including the following:
+However, the presence or absence of various layers is location-dependent (see the image below).
+ [4] 
+The anatomic planes of the abdominal wall are made up of multiple muscular and fascial layers that interdigitate and unite to form a sturdy, protective musculofascial layer that protects the visceral organs and provides strength and stability to the body's trunk. This anatomy varies with respect to the different topographic regions of the abdomen; thus, a firm understanding of these layers, their blood supply, and their innervation is essential to surgical management of the abdomen. (See Regions and Planes of the Abdomen.)
+Correct patient preparation, adherence to sterile technique, and the general principles of closure are outlined below. Known risk factors for abdominal wall dehiscence and hernia formation include the following
+ [5, 6, 7] :
+Drains and ostomies should not be brought out through the main abdominal incision, because they tend to weaken it and may predispose the wound to infection and sepsis.
+ [4] 
+Rahbari NN, Knebel P, Diener MK, Seidlmayer C, Ridwelski K, Stöltzing H, et al. Current practice of abdominal wall closure in elective surgery - Is there any consensus?. BMC Surg. 2009 May 15. 9:8. [Medline]. [Full Text].
+Standring S, ed. Gray's Anatomy: The Anatomical Basis of Clinical Practice. 41st ed. Philadelphia: Elsevier; 2015. 
+Seymour NE, Bell RL. Abdominal wall, omentum, mesentery, and retroperitoneum. Brunicardi FC, Andersen DK, Billiar TR, et al, eds. Schwartz's Principles of Surgery. 9th ed. New York: McGraw-Hill; 2010. 35. [Full Text].
+Burt BM, Tavakkolizadeh A, Ferzoco SJ. Incisions, closures, and management of the abdominal wound. Zinner MJ, Ashley SW, eds. Maingot's Abdominal Operations. 11th ed. New York: McGraw-Hill; 2007. 4. [Full Text].
+Franz MG. Wound healing. Doherty GM, ed. Current Diagnosis & Treatment: Surgery. 13th ed. New York: McGraw-Hill; 2010. 6. [Full Text].
+Mäkelä JT, Kiviniemi H, Juvonen T, Laitinen S. Factors influencing wound dehiscence after midline laparotomy. Am J Surg. 1995 Oct. 170 (4):387-90. [Medline]. 
+Millbourn D, Cengiz Y, Israelsson LA. Effect of stitch length on wound complications after closure of midline incisions: a randomized controlled trial. Arch Surg. 2009 Nov. 144 (11):1056-9. [Medline]. 
+Wissing J, van Vroonhoven TJ, Schattenkerk ME, Veen HF, Ponsen RJ, Jeekel J. Fascia closure after midline laparotomy: results of a randomized trial. Br J Surg. 1987 Aug. 74 (8):738-41. [Medline]. 
+Corman ML, Veidenheimer MC, Coller JA. Controlled clinical trial of three suture materials for abdominal wall closure after bowl operations. Am J Surg. 1981 Apr. 141 (4):510-13. [Medline]. 
+Ellis H, Heddle R. Does the peritoneum need to be closed at laparotomy?. Br J Surg. 1977 Oct. 64 (10):733-6. [Medline]. 
+Goligher JC, Irvin TT, Johnston D, De Dombal FT, Hill GL, Horrocks JC. A controlled clinical trial of three methods of closure of laparotomy wounds. Br J Surg. 1975 Oct. 62 (10):823-9. [Medline]. 
+van 't Riet M, Steyerberg EW, Nellensteyn J, Bonjer HJ, Jeekel J. Meta-analysis of techniques for closure of midline abdominal incisions. Br J Surg. 2002 Nov. 89 (11):1350-6. [Medline]. 
+Hodgson NC, Malthaner RA, Ostbye T. The search for an ideal method of abdominal fascial closure: a meta-analysis. Ann Surg. 2000 Mar. 231 (3):436-42. [Medline]. [Full Text].
+Weiland DE, Bay RC, Del Sordi S. Choosing the best abdominal closure by meta-analysis. Am J Surg. 1998 Dec. 176 (6):666-70. [Medline]. 
+Seiler CM, Bruckner T, Diener MK, Papyan A, Golcher H, Seidlmayer C, et al. Interrupted or continuous slowly absorbable sutures for closure of primary elective midline abdominal incisions: a multicenter randomized trial (INSECT: ISRCTN24023541). Ann Surg. 2009 Apr. 249 (4):576-82. [Medline]. 
+Cengiz Y, Blomquist P, Israelsson LA. Small tissue bites and wound strength: an experimental study. Arch Surg. 2001 Mar. 136 (3):272-5. [Medline]. [Full Text].
+Millbourn D, Cengiz Y, Israelsson LA. Effect of stitch length on wound complications after closure of midline incisions: a randomized controlled trial. Arch Surg. 2009 Nov. 144 (11):1056-9. [Medline]. [Full Text].
+Fortelny RH. Abdominal Wall Closure in Elective Midline Laparotomy: The Current Recommendations. Front Surg. 2018. 5:34. [Medline]. [Full Text].
+Zollinger RM, Ellison EC. Laparotomy, the closure. Zollinger RM, Ellison EC, eds. Zollinger's Atlas of Surgical Operations. 9th ed. New York: McGraw-Hill; 2011. [Full Text].
+Hussain SA. Closure of subcutaneous fat: a prospective randomized trial. Br J Surg. 1990 Jan. 77 (1):107. [Medline]. 
+Zwart HJ, de Ruiter P. Subcuticular, continuous and mechanical skin closure: cosmetic results of a prospective randomized trial. Neth J Surg. 1989 Jun. 41 (3):57-60. [Medline]. 
+Ranaboldo CJ, Rowe-Jones DC. Closure of laparotomy wounds: skin staples versus sutures. Br J Surg. 1992 Nov. 79 (11):1172-3. [Medline]. 
+Duttaroy DD, Jitendra J, Duttaroy B, Bansal U, Dhameja P, Patel G, et al. Management strategy for dirty abdominal incisions: primary or delayed primary closure? A randomized trial. Surg Infect (Larchmt). 2009 Apr. 10 (2):129-36. [Medline]. 
+Rucinski J, Margolis M, Panagopoulos G, Wise L. Closure of the abdominal midline fascia: meta-analysis delineates the optimal technique. Am Surg. 2001 May. 67 (5):421-6. [Medline]. 
+Grantcharov TP, Rosenberg J. Vertical compared with transverse incisions in abdominal surgery. Eur J Surg. 2001 Apr. 167 (4):260-7. [Medline]. 
+Fassiadis N, Roidl M, Hennig M, South LM, Andrews SM. Randomized clinical trial of vertical or transverse laparotomy for abdominal aortic aneurysm repair. Br J Surg. 2005 Oct. 92 (10):1208-11. [Medline]. 
+Brown SR, Goodfellow PB. Transverse verses midline incisions for abdominal surgery. Cochrane Database Syst Rev. 2005 Oct 19. CD005199. [Medline]. 
+Irvin TT, Stoddard CJ, Greaney MG, Duthie HL. Abdominal wound healing: a prospective clinical study. Br Med J. 1977 Aug 6. 2 (6083):351-2. [Medline]. 
+Rink AD, Goldschmidt D, Dietrich J, Nagelschmidt M, Vestweber KH. Negative side-effects of retention sutures for abdominal wound closure. A prospective randomised study. Eur J Surg. 2000 Dec. 166 (12):932-7. [Medline]. 
+Bruhin A, Ferreira F, Chariker M, Smith J, Runkel N. Systematic review and evidence based recommendations for the use of negative pressure wound therapy in the open abdomen. Int J Surg. 2014 Oct. 12 (10):1105-14. [Medline]. 
+Robin-Lersundi A, Vega Ruiz V, López-Monclús J, Cruz Cidoncha A, Abella Alvarez A, Melero Montes D, et al. Temporary abdominal closure with polytetrafluoroethylene prosthetic mesh in critically ill non-trauma patients. Hernia. 2015 Apr. 19 (2):329-37. [Medline]. 
+Israelsson LA, Jonsson T. Incisional hernia after midline laparotomy: a prospective study. Eur J Surg. 1996 Feb. 162 (2):125-9. [Medline]. 
+Luis G Fernandez, MD, FACS, FASAS, FCCP, FCCM, FICS, KHS, KCOEG Professor of Surgery, Department of Surgery, University of Texas Health Science Center; Adjunct Clinical Professor of Medicine and Nursing, University of Texas; Adjunct Clinical Assistant Professor, Department of Medical Education Health Science Center, Adjunct Clinical Assistant Professor, Department of Physician Assistant Studies, School of Health Professions, University of North Texas; Medical Director, Trauma Wound Care, UT Health; Member, ACS National Committee on Trauma; Vice Chairman, State Guard Association of the United States (SGAUS) Medical Academy; Commander Emeritus, Texas Commandery, MOFW; Brigadier General (Ret/HR), Past Commanding General, TXSG Medical Brigade/Medical Rangers
+Luis G Fernandez, MD, FACS, FASAS, FCCP, FCCM, FICS, KHS, KCOEG is a member of the following medical societies: American Association for the Surgery of Trauma, American College of Chest Physicians, American College of Legal Medicine, American College of Surgeons, American Society of Abdominal Surgeons, American Society of General Surgeons, American Society of Law, Medicine & Ethics, American Trauma Society, Association for Surgical Education, Association of Military Surgeons of the US, Chicago Medical Society, Illinois State Medical Society, International College of Surgeons, New York Academy of Sciences, Pan-American Trauma Society, Society of Critical Care Medicine, Society of Laparoendoscopic Surgeons, Southeastern Surgical Congress, Texas Medical Association, Undersea and Hyperbaric Medical SocietyDisclosure: Received honoraria from KCI for speaking and teaching; Partner received honoraria from PACIRA for speaking and teaching. for: Received honoraria from PACIRA for speaking and teaching: Researcher / Speaker for Steadmed.
+Mary L Windle, PharmD Adjunct Associate Professor, University of Nebraska Medical Center College of Pharmacy; Editor-in-Chief, Medscape Drug ReferenceDisclosure: Nothing to disclose.
+Kurt E Roberts, MD Assistant Professor, Section of Surgical Gastroenterology, Department of Surgery, Director, Surgical Endoscopy, Associate Director, Surgical Skills and Simulation Center and Surgical Clerkship, Yale University School of Medicine
+Kurt E Roberts, MD is a member of the following medical societies: American College of Surgeons, Society of American Gastrointestinal and Endoscopic Surgeons, Society of Laparoendoscopic SurgeonsDisclosure: Nothing to disclose.
+Laura A Harmon, MD Resident Physician, Department of General Surgery, Scott and White Hospital
+Laura A Harmon, MD is a member of the following medical societies: American College of Physicians, American College of Surgeons, American Medical Association, Texas Medical Association, Association of Women SurgeonsDisclosure: Nothing to disclose.
+Russell Van Husen, MD, FACS Professor, Department of Surgery, Surgical Clerkship Director, Texas Tech University Health Sciences Center-Permian Basin
+Russell Van Husen, MD, FACS is a member of the following medical societies: American College of Surgeons, Texas Surgical SocietyDisclosure: Nothing to disclose.
+Abdominal Closure: Background, Indications and Contraindications, Technical Considerations
+Surgical access to the abdomen is required for many operative procedures, with approximately 4 million open abdominal surgeries occurring annually in the United States.
+ [1] The measures used to close the abdomen may vary from physician to physician, depending on training, circumstance, and comfort level. However, basic principles govern all abdominal closures. This article outlines these principles.
+Indications for abdominal closure include the following:
+The main contraindication is abdominal compartment syndrome.
+The anterior abdominal wall is clearly defined by anatomic borders.
+ [2] The superior border is marked by the costal margins, whereas the inferior border is the pubic symphysis (see the image below).
+ [3] 
+The abdominal wall is composed of distinct tissue types that must be taken into consideration in closing the surgical abdomen. Generally, the anatomic layers of the abdominal wall (from superficial to deep) are as follows.
+The most superficial component of the abdominal wall, the skin (the largest human organ), is composed of the following three layers:
+For a fuller description, see Skin Anatomy.
+Next is the superficial fascia, in which the fasciae and ligaments of the anterior abdominal wall are organized into the following two layers:
+The superficial layer of the superficial fascia (ie, Camper fascia) continues over the inguinal ligament to merge with the superficial fascia of the thigh and continues over the pubis and perineum as the superficial layer of the superficial perineal fascia.
+The deep layer of the superficial fascia (ie, Scarpa fascia) is attached to the fascia lata just below the inguinal ligament. It continues over the pubis and perineum as the membranous layer (Colles fascia) of the superficial perineal fascia and continues over the penis as the superficial fascia of the penis and over the scrotum as the dartos fascia (tunica dartos), which contains smooth muscle.
+The innermost component of the anterior abdominal wall comprises muscle and deep fascia, including the following:
+However, the presence or absence of various layers is location-dependent (see the image below).
+ [4] 
+The anatomic planes of the abdominal wall are made up of multiple muscular and fascial layers that interdigitate and unite to form a sturdy, protective musculofascial layer that protects the visceral organs and provides strength and stability to the body's trunk. This anatomy varies with respect to the different topographic regions of the abdomen; thus, a firm understanding of these layers, their blood supply, and their innervation is essential to surgical management of the abdomen. (See Regions and Planes of the Abdomen.)
+Correct patient preparation, adherence to sterile technique, and the general principles of closure are outlined below. Known risk factors for abdominal wall dehiscence and hernia formation include the following
+ [5, 6, 7] :
+Drains and ostomies should not be brought out through the main abdominal incision, because they tend to weaken it and may predispose the wound to infection and sepsis.
+ [4] 
+Rahbari NN, Knebel P, Diener MK, Seidlmayer C, Ridwelski K, Stöltzing H, et al. Current practice of abdominal wall closure in elective surgery - Is there any consensus?. BMC Surg. 2009 May 15. 9:8. [Medline]. [Full Text].
+Standring S, ed. Gray's Anatomy: The Anatomical Basis of Clinical Practice. 41st ed. Philadelphia: Elsevier; 2015. 
+Seymour NE, Bell RL. Abdominal wall, omentum, mesentery, and retroperitoneum. Brunicardi FC, Andersen DK, Billiar TR, et al, eds. Schwartz's Principles of Surgery. 9th ed. New York: McGraw-Hill; 2010. 35. [Full Text].
+Burt BM, Tavakkolizadeh A, Ferzoco SJ. Incisions, closures, and management of the abdominal wound. Zinner MJ, Ashley SW, eds. Maingot's Abdominal Operations. 11th ed. New York: McGraw-Hill; 2007. 4. [Full Text].
+Franz MG. Wound healing. Doherty GM, ed. Current Diagnosis & Treatment: Surgery. 13th ed. New York: McGraw-Hill; 2010. 6. [Full Text].
+Mäkelä JT, Kiviniemi H, Juvonen T, Laitinen S. Factors influencing wound dehiscence after midline laparotomy. Am J Surg. 1995 Oct. 170 (4):387-90. [Medline]. 
+Millbourn D, Cengiz Y, Israelsson LA. Effect of stitch length on wound complications after closure of midline incisions: a randomized controlled trial. Arch Surg. 2009 Nov. 144 (11):1056-9. [Medline]. 
+Wissing J, van Vroonhoven TJ, Schattenkerk ME, Veen HF, Ponsen RJ, Jeekel J. Fascia closure after midline laparotomy: results of a randomized trial. Br J Surg. 1987 Aug. 74 (8):738-41. [Medline]. 
+Corman ML, Veidenheimer MC, Coller JA. Controlled clinical trial of three suture materials for abdominal wall closure after bowl operations. Am J Surg. 1981 Apr. 141 (4):510-13. [Medline]. 
+Ellis H, Heddle R. Does the peritoneum need to be closed at laparotomy?. Br J Surg. 1977 Oct. 64 (10):733-6. [Medline]. 
+Goligher JC, Irvin TT, Johnston D, De Dombal FT, Hill GL, Horrocks JC. A controlled clinical trial of three methods of closure of laparotomy wounds. Br J Surg. 1975 Oct. 62 (10):823-9. [Medline]. 
+van 't Riet M, Steyerberg EW, Nellensteyn J, Bonjer HJ, Jeekel J. Meta-analysis of techniques for closure of midline abdominal incisions. Br J Surg. 2002 Nov. 89 (11):1350-6. [Medline]. 
+Hodgson NC, Malthaner RA, Ostbye T. The search for an ideal method of abdominal fascial closure: a meta-analysis. Ann Surg. 2000 Mar. 231 (3):436-42. [Medline]. [Full Text].
+Weiland DE, Bay RC, Del Sordi S. Choosing the best abdominal closure by meta-analysis. Am J Surg. 1998 Dec. 176 (6):666-70. [Medline]. 
+Seiler CM, Bruckner T, Diener MK, Papyan A, Golcher H, Seidlmayer C, et al. Interrupted or continuous slowly absorbable sutures for closure of primary elective midline abdominal incisions: a multicenter randomized trial (INSECT: ISRCTN24023541). Ann Surg. 2009 Apr. 249 (4):576-82. [Medline]. 
+Cengiz Y, Blomquist P, Israelsson LA. Small tissue bites and wound strength: an experimental study. Arch Surg. 2001 Mar. 136 (3):272-5. [Medline]. [Full Text].
+Millbourn D, Cengiz Y, Israelsson LA. Effect of stitch length on wound complications after closure of midline incisions: a randomized controlled trial. Arch Surg. 2009 Nov. 144 (11):1056-9. [Medline]. [Full Text].
+Fortelny RH. Abdominal Wall Closure in Elective Midline Laparotomy: The Current Recommendations. Front Surg. 2018. 5:34. [Medline]. [Full Text].
+Zollinger RM, Ellison EC. Laparotomy, the closure. Zollinger RM, Ellison EC, eds. Zollinger's Atlas of Surgical Operations. 9th ed. New York: McGraw-Hill; 2011. [Full Text].
+Hussain SA. Closure of subcutaneous fat: a prospective randomized trial. Br J Surg. 1990 Jan. 77 (1):107. [Medline]. 
+Zwart HJ, de Ruiter P. Subcuticular, continuous and mechanical skin closure: cosmetic results of a prospective randomized trial. Neth J Surg. 1989 Jun. 41 (3):57-60. [Medline]. 
+Ranaboldo CJ, Rowe-Jones DC. Closure of laparotomy wounds: skin staples versus sutures. Br J Surg. 1992 Nov. 79 (11):1172-3. [Medline]. 
+Duttaroy DD, Jitendra J, Duttaroy B, Bansal U, Dhameja P, Patel G, et al. Management strategy for dirty abdominal incisions: primary or delayed primary closure? A randomized trial. Surg Infect (Larchmt). 2009 Apr. 10 (2):129-36. [Medline]. 
+Rucinski J, Margolis M, Panagopoulos G, Wise L. Closure of the abdominal midline fascia: meta-analysis delineates the optimal technique. Am Surg. 2001 May. 67 (5):421-6. [Medline]. 
+Grantcharov TP, Rosenberg J. Vertical compared with transverse incisions in abdominal surgery. Eur J Surg. 2001 Apr. 167 (4):260-7. [Medline]. 
+Fassiadis N, Roidl M, Hennig M, South LM, Andrews SM. Randomized clinical trial of vertical or transverse laparotomy for abdominal aortic aneurysm repair. Br J Surg. 2005 Oct. 92 (10):1208-11. [Medline]. 
+Brown SR, Goodfellow PB. Transverse verses midline incisions for abdominal surgery. Cochrane Database Syst Rev. 2005 Oct 19. CD005199. [Medline]. 
+Irvin TT, Stoddard CJ, Greaney MG, Duthie HL. Abdominal wound healing: a prospective clinical study. Br Med J. 1977 Aug 6. 2 (6083):351-2. [Medline]. 
+Rink AD, Goldschmidt D, Dietrich J, Nagelschmidt M, Vestweber KH. Negative side-effects of retention sutures for abdominal wound closure. A prospective randomised study. Eur J Surg. 2000 Dec. 166 (12):932-7. [Medline]. 
+Bruhin A, Ferreira F, Chariker M, Smith J, Runkel N. Systematic review and evidence based recommendations for the use of negative pressure wound therapy in the open abdomen. Int J Surg. 2014 Oct. 12 (10):1105-14. [Medline]. 
+Robin-Lersundi A, Vega Ruiz V, López-Monclús J, Cruz Cidoncha A, Abella Alvarez A, Melero Montes D, et al. Temporary abdominal closure with polytetrafluoroethylene prosthetic mesh in critically ill non-trauma patients. Hernia. 2015 Apr. 19 (2):329-37. [Medline]. 
+Israelsson LA, Jonsson T. Incisional hernia after midline laparotomy: a prospective study. Eur J Surg. 1996 Feb. 162 (2):125-9. [Medline]. 
+Luis G Fernandez, MD, FACS, FASAS, FCCP, FCCM, FICS, KHS, KCOEG Professor of Surgery, Department of Surgery, University of Texas Health Science Center; Adjunct Clinical Professor of Medicine and Nursing, University of Texas; Adjunct Clinical Assistant Professor, Department of Medical Education Health Science Center, Adjunct Clinical Assistant Professor, Department of Physician Assistant Studies, School of Health Professions, University of North Texas; Medical Director, Trauma Wound Care, UT Health; Member, ACS National Committee on Trauma; Vice Chairman, State Guard Association of the United States (SGAUS) Medical Academy; Commander Emeritus, Texas Commandery, MOFW; Brigadier General (Ret/HR), Past Commanding General, TXSG Medical Brigade/Medical Rangers
+Luis G Fernandez, MD, FACS, FASAS, FCCP, FCCM, FICS, KHS, KCOEG is a member of the following medical societies: American Association for the Surgery of Trauma, American College of Chest Physicians, American College of Legal Medicine, American College of Surgeons, American Society of Abdominal Surgeons, American Society of General Surgeons, American Society of Law, Medicine & Ethics, American Trauma Society, Association for Surgical Education, Association of Military Surgeons of the US, Chicago Medical Society, Illinois State Medical Society, International College of Surgeons, New York Academy of Sciences, Pan-American Trauma Society, Society of Critical Care Medicine, Society of Laparoendoscopic Surgeons, Southeastern Surgical Congress, Texas Medical Association, Undersea and Hyperbaric Medical SocietyDisclosure: Received honoraria from KCI for speaking and teaching; Partner received honoraria from PACIRA for speaking and teaching. for: Received honoraria from PACIRA for speaking and teaching: Researcher / Speaker for Steadmed.
+Mary L Windle, PharmD Adjunct Associate Professor, University of Nebraska Medical Center College of Pharmacy; Editor-in-Chief, Medscape Drug ReferenceDisclosure: Nothing to disclose.
+Kurt E Roberts, MD Assistant Professor, Section of Surgical Gastroenterology, Department of Surgery, Director, Surgical Endoscopy, Associate Director, Surgical Skills and Simulation Center and Surgical Clerkship, Yale University School of Medicine
+Kurt E Roberts, MD is a member of the following medical societies: American College of Surgeons, Society of American Gastrointestinal and Endoscopic Surgeons, Society of Laparoendoscopic SurgeonsDisclosure: Nothing to disclose.
+Laura A Harmon, MD Resident Physician, Department of General Surgery, Scott and White Hospital
+Laura A Harmon, MD is a member of the following medical societies: American College of Physicians, American College of Surgeons, American Medical Association, Texas Medical Association, Association of Women SurgeonsDisclosure: Nothing to disclose.
+Russell Van Husen, MD, FACS Professor, Department of Surgery, Surgical Clerkship Director, Texas Tech University Health Sciences Center-Permian Basin
+Russell Van Husen, MD, FACS is a member of the following medical societies: American College of Surgeons, Texas Surgical SocietyDisclosure: Nothing to disclose.
+Abdominal Closure: Background, Indications and Contraindications, Technical Considerations
+Surgical access to the abdomen is required for many operative procedures, with approximately 4 million open abdominal surgeries occurring annually in the United States.
+ [1] The measures used to close the abdomen may vary from physician to physician, depending on training, circumstance, and comfort level. However, basic principles govern all abdominal closures. This article outlines these principles.
+Indications for abdominal closure include the following:
+The main contraindication is abdominal compartment syndrome.
+The anterior abdominal wall is clearly defined by anatomic borders.
+ [2] The superior border is marked by the costal margins, whereas the inferior border is the pubic symphysis (see the image below).
+ [3] 
+The abdominal wall is composed of distinct tissue types that must be taken into consideration in closing the surgical abdomen. Generally, the anatomic layers of the abdominal wall (from superficial to deep) are as follows.
+The most superficial component of the abdominal wall, the skin (the largest human organ), is composed of the following three layers:
+For a fuller description, see Skin Anatomy.
+Next is the superficial fascia, in which the fasciae and ligaments of the anterior abdominal wall are organized into the following two layers:
+The superficial layer of the superficial fascia (ie, Camper fascia) continues over the inguinal ligament to merge with the superficial fascia of the thigh and continues over the pubis and perineum as the superficial layer of the superficial perineal fascia.
+The deep layer of the superficial fascia (ie, Scarpa fascia) is attached to the fascia lata just below the inguinal ligament. It continues over the pubis and perineum as the membranous layer (Colles fascia) of the superficial perineal fascia and continues over the penis as the superficial fascia of the penis and over the scrotum as the dartos fascia (tunica dartos), which contains smooth muscle.
+The innermost component of the anterior abdominal wall comprises muscle and deep fascia, including the following:
+However, the presence or absence of various layers is location-dependent (see the image below).
+ [4] 
+The anatomic planes of the abdominal wall are made up of multiple muscular and fascial layers that interdigitate and unite to form a sturdy, protective musculofascial layer that protects the visceral organs and provides strength and stability to the body's trunk. This anatomy varies with respect to the different topographic regions of the abdomen; thus, a firm understanding of these layers, their blood supply, and their innervation is essential to surgical management of the abdomen. (See Regions and Planes of the Abdomen.)
+Correct patient preparation, adherence to sterile technique, and the general principles of closure are outlined below. Known risk factors for abdominal wall dehiscence and hernia formation include the following
+ [5, 6, 7] :
+Drains and ostomies should not be brought out through the main abdominal incision, because they tend to weaken it and may predispose the wound to infection and sepsis.
+ [4] 
+Rahbari NN, Knebel P, Diener MK, Seidlmayer C, Ridwelski K, Stöltzing H, et al. Current practice of abdominal wall closure in elective surgery - Is there any consensus?. BMC Surg. 2009 May 15. 9:8. [Medline]. [Full Text].
+Standring S, ed. Gray's Anatomy: The Anatomical Basis of Clinical Practice. 41st ed. Philadelphia: Elsevier; 2015. 
+Seymour NE, Bell RL. Abdominal wall, omentum, mesentery, and retroperitoneum. Brunicardi FC, Andersen DK, Billiar TR, et al, eds. Schwartz's Principles of Surgery. 9th ed. New York: McGraw-Hill; 2010. 35. [Full Text].
+Burt BM, Tavakkolizadeh A, Ferzoco SJ. Incisions, closures, and management of the abdominal wound. Zinner MJ, Ashley SW, eds. Maingot's Abdominal Operations. 11th ed. New York: McGraw-Hill; 2007. 4. [Full Text].
+Franz MG. Wound healing. Doherty GM, ed. Current Diagnosis & Treatment: Surgery. 13th ed. New York: McGraw-Hill; 2010. 6. [Full Text].
+Mäkelä JT, Kiviniemi H, Juvonen T, Laitinen S. Factors influencing wound dehiscence after midline laparotomy. Am J Surg. 1995 Oct. 170 (4):387-90. [Medline]. 
+Millbourn D, Cengiz Y, Israelsson LA. Effect of stitch length on wound complications after closure of midline incisions: a randomized controlled trial. Arch Surg. 2009 Nov. 144 (11):1056-9. [Medline]. 
+Wissing J, van Vroonhoven TJ, Schattenkerk ME, Veen HF, Ponsen RJ, Jeekel J. Fascia closure after midline laparotomy: results of a randomized trial. Br J Surg. 1987 Aug. 74 (8):738-41. [Medline]. 
+Corman ML, Veidenheimer MC, Coller JA. Controlled clinical trial of three suture materials for abdominal wall closure after bowl operations. Am J Surg. 1981 Apr. 141 (4):510-13. [Medline]. 
+Ellis H, Heddle R. Does the peritoneum need to be closed at laparotomy?. Br J Surg. 1977 Oct. 64 (10):733-6. [Medline]. 
+Goligher JC, Irvin TT, Johnston D, De Dombal FT, Hill GL, Horrocks JC. A controlled clinical trial of three methods of closure of laparotomy wounds. Br J Surg. 1975 Oct. 62 (10):823-9. [Medline]. 
+van 't Riet M, Steyerberg EW, Nellensteyn J, Bonjer HJ, Jeekel J. Meta-analysis of techniques for closure of midline abdominal incisions. Br J Surg. 2002 Nov. 89 (11):1350-6. [Medline]. 
+Hodgson NC, Malthaner RA, Ostbye T. The search for an ideal method of abdominal fascial closure: a meta-analysis. Ann Surg. 2000 Mar. 231 (3):436-42. [Medline]. [Full Text].
+Weiland DE, Bay RC, Del Sordi S. Choosing the best abdominal closure by meta-analysis. Am J Surg. 1998 Dec. 176 (6):666-70. [Medline]. 
+Seiler CM, Bruckner T, Diener MK, Papyan A, Golcher H, Seidlmayer C, et al. Interrupted or continuous slowly absorbable sutures for closure of primary elective midline abdominal incisions: a multicenter randomized trial (INSECT: ISRCTN24023541). Ann Surg. 2009 Apr. 249 (4):576-82. [Medline]. 
+Cengiz Y, Blomquist P, Israelsson LA. Small tissue bites and wound strength: an experimental study. Arch Surg. 2001 Mar. 136 (3):272-5. [Medline]. [Full Text].
+Millbourn D, Cengiz Y, Israelsson LA. Effect of stitch length on wound complications after closure of midline incisions: a randomized controlled trial. Arch Surg. 2009 Nov. 144 (11):1056-9. [Medline]. [Full Text].
+Fortelny RH. Abdominal Wall Closure in Elective Midline Laparotomy: The Current Recommendations. Front Surg. 2018. 5:34. [Medline]. [Full Text].
+Zollinger RM, Ellison EC. Laparotomy, the closure. Zollinger RM, Ellison EC, eds. Zollinger's Atlas of Surgical Operations. 9th ed. New York: McGraw-Hill; 2011. [Full Text].
+Hussain SA. Closure of subcutaneous fat: a prospective randomized trial. Br J Surg. 1990 Jan. 77 (1):107. [Medline]. 
+Zwart HJ, de Ruiter P. Subcuticular, continuous and mechanical skin closure: cosmetic results of a prospective randomized trial. Neth J Surg. 1989 Jun. 41 (3):57-60. [Medline]. 
+Ranaboldo CJ, Rowe-Jones DC. Closure of laparotomy wounds: skin staples versus sutures. Br J Surg. 1992 Nov. 79 (11):1172-3. [Medline]. 
+Duttaroy DD, Jitendra J, Duttaroy B, Bansal U, Dhameja P, Patel G, et al. Management strategy for dirty abdominal incisions: primary or delayed primary closure? A randomized trial. Surg Infect (Larchmt). 2009 Apr. 10 (2):129-36. [Medline]. 
+Rucinski J, Margolis M, Panagopoulos G, Wise L. Closure of the abdominal midline fascia: meta-analysis delineates the optimal technique. Am Surg. 2001 May. 67 (5):421-6. [Medline]. 
+Grantcharov TP, Rosenberg J. Vertical compared with transverse incisions in abdominal surgery. Eur J Surg. 2001 Apr. 167 (4):260-7. [Medline]. 
+Fassiadis N, Roidl M, Hennig M, South LM, Andrews SM. Randomized clinical trial of vertical or transverse laparotomy for abdominal aortic aneurysm repair. Br J Surg. 2005 Oct. 92 (10):1208-11. [Medline]. 
+Brown SR, Goodfellow PB. Transverse verses midline incisions for abdominal surgery. Cochrane Database Syst Rev. 2005 Oct 19. CD005199. [Medline]. 
+Irvin TT, Stoddard CJ, Greaney MG, Duthie HL. Abdominal wound healing: a prospective clinical study. Br Med J. 1977 Aug 6. 2 (6083):351-2. [Medline]. 
+Rink AD, Goldschmidt D, Dietrich J, Nagelschmidt M, Vestweber KH. Negative side-effects of retention sutures for abdominal wound closure. A prospective randomised study. Eur J Surg. 2000 Dec. 166 (12):932-7. [Medline]. 
+Bruhin A, Ferreira F, Chariker M, Smith J, Runkel N. Systematic review and evidence based recommendations for the use of negative pressure wound therapy in the open abdomen. Int J Surg. 2014 Oct. 12 (10):1105-14. [Medline]. 
+Robin-Lersundi A, Vega Ruiz V, López-Monclús J, Cruz Cidoncha A, Abella Alvarez A, Melero Montes D, et al. Temporary abdominal closure with polytetrafluoroethylene prosthetic mesh in critically ill non-trauma patients. Hernia. 2015 Apr. 19 (2):329-37. [Medline]. 
+Israelsson LA, Jonsson T. Incisional hernia after midline laparotomy: a prospective study. Eur J Surg. 1996 Feb. 162 (2):125-9. [Medline]. 
+Luis G Fernandez, MD, FACS, FASAS, FCCP, FCCM, FICS, KHS, KCOEG Professor of Surgery, Department of Surgery, University of Texas Health Science Center; Adjunct Clinical Professor of Medicine and Nursing, University of Texas; Adjunct Clinical Assistant Professor, Department of Medical Education Health Science Center, Adjunct Clinical Assistant Professor, Department of Physician Assistant Studies, School of Health Professions, University of North Texas; Medical Director, Trauma Wound Care, UT Health; Member, ACS National Committee on Trauma; Vice Chairman, State Guard Association of the United States (SGAUS) Medical Academy; Commander Emeritus, Texas Commandery, MOFW; Brigadier General (Ret/HR), Past Commanding General, TXSG Medical Brigade/Medical Rangers
+Luis G Fernandez, MD, FACS, FASAS, FCCP, FCCM, FICS, KHS, KCOEG is a member of the following medical societies: American Association for the Surgery of Trauma, American College of Chest Physicians, American College of Legal Medicine, American College of Surgeons, American Society of Abdominal Surgeons, American Society of General Surgeons, American Society of Law, Medicine & Ethics, American Trauma Society, Association for Surgical Education, Association of Military Surgeons of the US, Chicago Medical Society, Illinois State Medical Society, International College of Surgeons, New York Academy of Sciences, Pan-American Trauma Society, Society of Critical Care Medicine, Society of Laparoendoscopic Surgeons, Southeastern Surgical Congress, Texas Medical Association, Undersea and Hyperbaric Medical SocietyDisclosure: Received honoraria from KCI for speaking and teaching; Partner received honoraria from PACIRA for speaking and teaching. for: Received honoraria from PACIRA for speaking and teaching: Researcher / Speaker for Steadmed.
+Mary L Windle, PharmD Adjunct Associate Professor, University of Nebraska Medical Center College of Pharmacy; Editor-in-Chief, Medscape Drug ReferenceDisclosure: Nothing to disclose.
+Kurt E Roberts, MD Assistant Professor, Section of Surgical Gastroenterology, Department of Surgery, Director, Surgical Endoscopy, Associate Director, Surgical Skills and Simulation Center and Surgical Clerkship, Yale University School of Medicine
+Kurt E Roberts, MD is a member of the following medical societies: American College of Surgeons, Society of American Gastrointestinal and Endoscopic Surgeons, Society of Laparoendoscopic SurgeonsDisclosure: Nothing to disclose.
+Laura A Harmon, MD Resident Physician, Department of General Surgery, Scott and White Hospital
+Laura A Harmon, MD is a member of the following medical societies: American College of Physicians, American College of Surgeons, American Medical Association, Texas Medical Association, Association of Women SurgeonsDisclosure: Nothing to disclose.
+Russell Van Husen, MD, FACS Professor, Department of Surgery, Surgical Clerkship Director, Texas Tech University Health Sciences Center-Permian Basin
+Russell Van Husen, MD, FACS is a member of the following medical societies: American College of Surgeons, Texas Surgical SocietyDisclosure: Nothing to disclose.
