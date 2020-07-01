@@ -1,0 +1,102 @@
+Acute Promyelocytic Leukemia Treatment Protocols: Treatment Protocols
+Acute promyelocytic leukemia (APL) is a distinct variant of acute myeloid leukemia (AML). It is classified as AML M3 by the old French-American-British (FAB) system and as APL with translocation between chromosomes 15 and 17—that is, t(15;17)—by the World Health Organization (WHO) classification system.
+Although rapid confirmation of genetic diagnosis is mandatory, patients in whom APL is suspected (on the basis of clinical presentation and peripheral blood smear results) should be immediately hospitalized and their case managed as a medical emergency.
+ [1]  
+Patients with APL may be stratified into the following 3 risk categories on the basis of white blood cell (WBC) count and platelet count.:
+Treatment of APL includes induction therapy, consolidation therapy, and maintenance therapy. Protocols for these stages are provided below, as well as recommendations for management of relapse and for prophylaxis.
+The major component of induction therapy is all-trans retinoic acid (ATRA), which is commonly combined with other agents.
+ [2, 3, 4, 1] 
+European LeukemiaNet regimen:
+Several regimens that include chemotherapy are commonly used for induction therapy, including the European APL regimen,
+ [1, 5, 6] the Programa para el Tratamiento de Hemopatias Malignas (PETHEMA) regimen,
+ [7]  
+North American Intergroup Study C9710 regimen
+ [3] :
+European APL regimen:
+PETHEMA regimen:
+Idarubicin 12 mg/m2 IV bolus on days 2, 4, 6, and 8 (hold 8th dose in patients > 70y) plus
+ATRA 45 mg/m2/day (25 mg/m2/day for patients < 20y) in 2 divided doses (ATRA is started on day 1)
+Consolidation therapy is based on the potential risk of relapse in patients who undergo induction therapy. Its main goal is to convert morphologic and cytogenetic remission into durable molecular remission.
+ [9] 
+Again, several regimens are commonly used for consolidation therapy, including the European LeukemiaNet regimen, the European APL regimen, and the PETHEMA regimen.
+ [10] 
+European LeukemiaNet regimen
+European APL regimen:
+First cycle: daunorubicin 60 mg/m2/day IV as 15-30min infusion on days 1-3 plus  cytarabine 200 mg/m2/day IV as 24h infusion on days 1-7
+Second cycle: daunorubicin 45 mg/m2/day IV as 15-30min infusion on days 1-3 plus  cytarabine 1 g/m2 every 12h on days 1-4
+ATRA administered concurrently with cycles above: ATRA 45 mg/m2/day (25 mg/m2/day for patients < 20y) in 2 divided doses for 15d with each 4-wk cycle of chemotherapy (especially for intermediate- and high-risk patients)
+PETHEMA regimen:
+First cycle: idarubicin 5 mg/m2 IV bolus on days 1-4
+Second cycle: mitoxantrone 10 mg/m2 IV bolus on days 1-3
+Third cycle: idarubicin 12 mg/m2 IV bolus for 1 dose
+ATRA administered concurrently with cycles above: ATRA 45 mg/m2/day (25 mg/m2/day for patients < 20y) in 2 divided doses for 15d with each 4-wk cycle of chemotherapy (especially for intermediate- and high-risk patients)
+After consolidation therapy, patients should be evaluated for molecular remission. For patients in whom PCR evaluation is negative, a combination of ATRA, 6-mercaptopurine (6-MP), and methotrexate is recommended. Current evidence suggests that maintenance therapy may not provide a significant benefit for patients who have molecular remission after consolidation therapy. The recommended maintenance regimen is 2y of the following
+ [5] :
+See the list below:
+If the European APL regimen or the PETHEMA regimen was used initially, use ATO induction and consolidation doses for treatment of relapse.
+ [11] 
+If molecular remission is achieved with salvage therapy, the patient should be considered for autologous stem cell transplantation.
+ [12] 
+If persistent molecular or hematologic disease is noted after salvage therapy, the patient should be considered for allogeneic stem cell transplantation if performance status is good and a human leukocyte antigen (HLA)–matched donor is available.
+ [13] 
+If ATO was used initially, consider a clinical trial or supportive care
+See the list below:
+For high-risk patients, intrathecal chemotherapy is recommended for prophylaxis
+Cytarabine 50 mg plus  methotrexate 15 mg plus hydrocortisone 30 mg weekly for 5wk
+See the list below:
+Complete remission (CR): bone marrow blasts < 5% in aspirate with spicules, no evidence of extramedullary disease, transfusion independence, PCR negative, absolute neutrophil count (ANC) > 1000/µL (see the Absolute Neutrophil Count calculator) with platelet count > 100,000/µL
+CR with incomplete blood count recovery (CRi) or incomplete platelet count recovery (CRp): CR plus persistence of cytopenia (eg, underlying myelodysplastic syndrome [MDS] in the elderly)
+Partial remission (PR) or treatment failure: 5-25% blasts in bone marrow or 50% decrease in blasts and normalization of blood counts
+Intracerebral and pulmonary hemorrhages are the most frequent causes of early death in patients with APL, both before intiation of treatment and shortly afterward. Thrombotic complications occur less commonly. Consequently, measures to counteract coagulopathy,  as follows, should be started immediately
+ [1] :
+APL differentiation syndrome (also known as retinoic acid syndrome [RAS]) can occur within the first 21d of treatment and is characterized by the following:
+RAS should be treated with dexamethasone 10 mg IV every 12h for ≥ 3d. The benefit of prophylactic corticosteroids for prevention of RAS remains uncertain, but prophylactic corticosteroids can be considered in patients with WBC count > 5-10 x 109 /L at presentation or in those whose WBC counts increase after the start of ATRA.
+ [1] 
+Other considerations include the following:
+Infectious disease prophylaxis should be started to prevent viral and fungal infections due to the altered lymphocyte function induced by cytotoxic treatment
+Elderly patients (> 60y) have poorer outcomes with standard treatment; in the PETHEMA trial, the last dose of idarubicin was omitted during induction; consolidation should be altered to liposomal ATRA and ATO
+ [14] 
+Disease monitoring: Bone marrow biopsy should not be done until count recovery (40-50d after induction), because remission can take up to 40-50d
+Relapse monitoring: Check quantitative PML-RAR alpha PCR,
+ [12] cytogenetics, and fluorescence in situ hybridization (FISH) for 15;17 translocation from the bone marrow at the end of consolidation treatment, then monitor peripheral blood quantitative PML-RAR alpha PCR every 3mo for 2y; the assay can be performed every 3-6mo for the next 3y; if a positive test result is obtained, repeat PCR testing from bone marrow in 2-4wk
+Overview
+What is the European LeukemiaNet induction therapy regimen for the treatment of acute promyelocytic leukemia (APL)?
+What is the Programa para el Tratamiento de Hemopatias Malignas (PETHEMA) regimen in induction therapy for acute promyelocytic leukemia (APL)?
+What is the role of consolidation therapy in the treatment of acute promyelocytic leukemia (APL)?
+How is acute promyelocytic leukemia (APL) treated in elderly patients?
+What is acute promyelocytic leukemia (APL)?
+What is the role of all-trans retinoic acid (ATRA) in the treatment of acute promyelocytic leukemia (APL)?
+What are the North American Intergroup Study C9710 induction therapy regimen for the treatment of acute promyelocytic leukemia (APL)?
+What is the European APL induction therapy regimen for the treatment of acute promyelocytic leukemia (APL)?
+What is the European APL consolidation therapy regimen for the treatment of acute promyelocytic leukemia (APL)?
+What is the Programa para el Tratamiento de Hemopatias Malignas (PETHEMA) consolidation therapy regimen for the treatment of acute promyelocytic leukemia (APL)?
+What is the European LeukemiaNet consolidation therapy regimen for the treatment of acute promyelocytic leukemia (APL)?
+What is included in maintenance therapy for acute promyelocytic leukemia (APL)?
+How is acute promyelocytic leukemia (APL) relapse treated?
+What is the role of prophylactic intrathecal chemotherapy in the treatment of acute promyelocytic leukemia (APL)?
+What are the response criteria for acute promyelocytic leukemia (APL) treatment?
+How is coagulopathy treated in patients with acute promyelocytic leukemia (APL)?
+What is APL differentiation syndrome and how is it treated?
+How are infections prevented in acute promyelocytic leukemia (APL)?
+What is included in long-term monitoring of acute promyelocytic leukemia (APL)?
+Sanz MA, Fenaux P, Tallman MS, Estey EH, Löwenberg B, Naoe T, et al. Management of acute promyelocytic leukemia: updated recommendations from an expert panel of the European LeukemiaNet. Blood. 2019 Apr 11. 133 (15):1630-1643. [Medline]. [Full Text].
+Tallman MS, Andersen JW, Schiffer CA, et al. All-trans retinoic acid in acute promyelocytic leukemia: long-term outcome and prognostic factor analysis from the North American Intergroup protocol. Blood. 2002 Dec 15. 100(13):4298-302. [Medline]. 
+Powell BL, Moser B, Stock W, et al. Arsenic trioxide improves event-free and overall survival for adults with acute promyelocytic leukemia: North American Leukemia Intergroup Study C9710. Blood. 2010 Nov 11. 116(19):3751-7. [Medline]. 
+Liu CC, Wang H, Wang WD, Zhu MY, Geng QR, Lu Y. Consolidation therapy of arsenic trioxide alternated with chemotherapy achieves remarkable efficacy in newly diagnosed acute promyelocytic leukemia. Onco Targets Ther. 2015. 8:3297-3303. [Medline]. 
+Fenaux P, Chastang C, Chevret S, et al. A randomized comparison of all transretinoic acid (ATRA) followed by chemotherapy and ATRA plus chemotherapy and the role of maintenance therapy in newly diagnosed acute promyelocytic leukemia. The European APL Group. Blood. 1999 Aug 15. 94(4):1192-200. [Medline]. 
+Xiang-Xin L, Lu-Qun W, Hao L, Xiao-Peng H, Fang-Lin L, Ling-Ling W, et al. Clinical study on prospective efficacy of all-trans Acid, realgar-indigo naturalis formula combined with chemotherapy as maintenance treatment of acute promyelocytic leukemia. Evid Based Complement Alternat Med. 2014. 2014:987560. [Medline]. 
+Sanz MA, Martín G, González M, et al. Risk-adapted treatment of acute promyelocytic leukemia with all-trans-retinoic acid and anthracycline monochemotherapy: a multicenter study by the PETHEMA group. Blood. 2004 Feb 15. 103(4):1237-43. [Medline]. 
+Adès L, Chevret S, Raffoux E, et al. Is cytarabine useful in the treatment of acute promyelocytic leukemia? Results of a randomized trial from the European Acute Promyelocytic Leukemia Group. J Clin Oncol. 2006 Dec 20. 24(36):5703-10. [Medline]. 
+[Guideline] National Comprehensive Cancer Network Practice Guidelines: Acute Myeloid Leukemia. NCCN. Available at https://www.nccn.org/professionals/physician_gls/pdf/aml.pdf. Version 3.2019 — May 7, 2019; Accessed: July 2, 2019.
+Sanz MA, Lo Coco F, Martín G, et al. Definition of relapse risk and role of nonanthracycline drugs for consolidation in patients with acute promyelocytic leukemia: a joint study of the PETHEMA and GIMEMA cooperative groups. Blood. 2000 Aug 15. 96(4):1247-53. [Medline]. 
+de Botton S, Sanz MA, Chevret S, et al. Extramedullary relapse in acute promyelocytic leukemia treated with all-trans retinoic acid and chemotherapy. Leukemia. 2006 Jan. 20(1):35-41. [Medline]. 
+Grimwade D, Howe K, Langabeer S, et al. Minimal residual disease detection in acute promyelocytic leukemia by reverse-transcriptase PCR: evaluation of PML-RAR alpha and RAR alpha-PML assessment in patients who ultimately relapse. Leukemia. 1996 Jan. 10(1):61-6. [Medline]. 
+de Botton S, Fawaz A, Chevret S, et al. Autologous and allogeneic stem-cell transplantation as salvage treatment of acute promyelocytic leukemia initially treated with all-trans-retinoic acid: a retrospective analysis of the European acute promyelocytic leukemia group. J Clin Oncol. 2005 Jan 1. 23(1):120-6. [Medline]. 
+Sanz MA, Vellenga E, Rayón C, et al. All-trans retinoic acid and anthracycline monochemotherapy for the treatment of elderly patients with acute promyelocytic leukemia. Blood. 2004 Dec 1. 104(12):3490-3. [Medline]. 
+Adès L, Sanz MA, Chevret S, et al. Treatment of newly diagnosed acute promyelocytic leukemia (APL): a comparison of French-Belgian-Swiss and PETHEMA results. Blood. 2008 Feb 1. 111(3):1078-84. [Medline]. 
+Sandy D Kotiah, MD Director of the Neuroendocrine Center, Hematology and Medical Oncology, Mercy Medical CenterDisclosure: Nothing to disclose.
+Jasmeet Anand, PharmD, RPh Adjunct Instructor, University of Nebraska Medical Center College of Pharmacy; Editor-in-Chief, Medscape Drug ReferenceDisclosure: Nothing to disclose.
+Christopher D Braden, DO Hematologist/Oncologist, Chancellor Center for Oncology at Deaconess Hospital; Medical Director, Deaconess Hospital Outpatient Infusion Centers; Chairman, Deaconess Hospital Cancer Committee
+Christopher D Braden, DO is a member of the following medical societies: American Society of Clinical Oncology, American Society of HematologyDisclosure: Nothing to disclose.
+Emmanuel C Besa, MD Professor Emeritus, Department of Medicine, Division of Hematologic Malignancies and Hematopoietic Stem Cell Transplantation, Kimmel Cancer Center, Jefferson Medical College of Thomas Jefferson University
+Emmanuel C Besa, MD is a member of the following medical societies: American Association for Cancer Education, American Society of Clinical Oncology, American College of Clinical Pharmacology, American Federation for Medical Research, American Society of Hematology, New York Academy of SciencesDisclosure: Nothing to disclose.

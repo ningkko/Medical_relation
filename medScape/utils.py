@@ -43,9 +43,11 @@ def get_title_content(_url, _title_container, _content_container, _class):
         if len(titles) > 1:
             # add the title
             lst.append(titles[0].text)
-        if len(titles) == 0:
-            print("No title: ")
-            print(_url)
+        else:
+            lst.append("No_Title")
+        # if len(titles) == 0:
+            # print("No title: ")
+            # print(_url)
 
     content_box = soup.find(_content_container, id=_class)
     content = content_box.find_all("p")
@@ -87,8 +89,10 @@ def get_all_info(_url, type):
     overview_info = get_title_content(show_all_url, "title", "div", "drugdbmain")
     # write to txt
     title = overview_info[0]
-    title = re.sub(r"[,.;@#?!&$/<>()^*-_+={}\[\]\"\']+\ *", " ", title).strip().replace("  "," ")
+    title = re.sub(r"[,.:;@#?!&$/<>()^-_+={}\[\]\"\']+\ *", " ", title).strip().replace("  "," ")
 
+    abs_path_prefix = "/n/data1/hsph/biostat/celehs/yih798/drug-disease/MedScape/"
+    
     if type == "medicine":
         _path = 'medicine_txts/'+title+".txt"
     elif type == "surgery":
@@ -97,7 +101,9 @@ def get_all_info(_url, type):
         _path = 'pediatrics_txts/'+title+".txt"
     else:
         _path = 'unkown/'+title+".txt"
-        
+    
+    _path = abs_path_prefix + _path
+    
     # print(_path)
     # check if already in output
     is_existed = path.exists(_path)
@@ -112,7 +118,7 @@ def get_all_info(_url, type):
     next_section_url = get_next_section(show_all_url)
 
     while next_section_url and "questions-and-answers" not in next_section_url:
-        print("Going to: " + next_section_url)
+        # print("Going to: " + next_section_url)
         info = get_title_content(show_all_url, "title", "div", "drugdbmain")
         medical_term_info_full.append(info)
         next_section_url = get_next_section(next_section_url)
@@ -124,5 +130,5 @@ def get_all_info(_url, type):
     with open(_path, "w") as text_file:
         text_file.write("\n".join(medical_term_info_full))
 
-    print("Finished.")
+    # print("Finished.")
     return

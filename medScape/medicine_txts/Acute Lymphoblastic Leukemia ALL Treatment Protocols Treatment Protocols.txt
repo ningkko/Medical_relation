@@ -1,0 +1,224 @@
+Acute Lymphoblastic Leukemia (ALL) Treatment Protocols: Treatment Protocols
+Treatment protocols for acute lymphoblastic leukemia (ALL) are provided below, including general treatment recommendations and commonly used treatment recommendations, as well as information on the following:
+The treatment regimen for patients with ALL is determined primarily by the Philadelphia chromosome status of the leukemia and the age of the patient. Patients with Philadelphia chromosome–positive ALL receive a tyrosine kinase inhibitor (TKI) in combination with chemotherapy. Patients aged 15-39 years are referred to as "AYA" (adolescent and young adult) and are eligible for more intensive pediatric-style treatment regimens. Patients with Burkitt leukemia/lymphoma are treated with regimens specific for this diagnosis.
+Treatment recommendations for patients who are diagnosed with ALL include induction, consolidation, and maintenance therapy along with CNS prophylaxis, as follows
+ [1, 2, 3, 4, 5] :
+Patients receive induction therapy with combinations of drugs, including vincristine, prednisone, cyclophosphamide, doxorubicin, and L-asparaginase, which are given over 4-6 wk
+Patients then receive consolidation (intensification) with multiagent therapy additionally, including cytarabine and methotrexate; there is no role for radiation or surgical treatment in patients in the induction phase
+Maintenance therapy includes 6-mercaptopurine, methotrexate, steroids, and vincristine; intrathecal methotrexate is administered throughout
+Newer studies with intensive multiagent chemotherapy (ie, the CALGB [Cancer and Leukemia Group B]- 8811 and hyper-CVAD [hyperfractionated cyclophosphamide, vincristine, doxorubicin, and dexamethasone] regimens and the ALL-2 regimen) plus the addition of TKIs for Philadelphia chromosome–positive ALL and rituximab for CD20-positive ALL have resulted in 3-y survivals of 50% or more in adults
+Philadelphia chromosome–negative ALL in the older adult (age ≥40 y):
+Standard multiagent chemotherapy regimen (eg, CALGB 8811 [daunorubicin, vincristine, prednisone, pegaspargase, cyclophosphamide])
+Consider dosage reduction in patient ≥60 y (evaluate end-organ reserve, end-organ dysfunction, and performance status) or with substantial comorbidities
+Philadelphia chromosome–positive ALL in the older adult (age ≥40 y):
+Chemotherapy (eg, hyper-CVAD) plus TKI; consider allogeneic stem cell transplantation if an appropriate donor is available and the patient has a good performance status and no or limited comorbidities; if transplantation is not feasible, continue multiagent chemotherapy and a TKI
+Consider TKI plus corticosteroids in patient ≥ 65 y (evaluate end-organ reserve, end-organ dysfunction, and performance status) or with substantial comorbidities
+Philadelphia chromosome–negative ALL in the AYA (age 15-39 y):
+Pediatric-style intensive multiagent chemotherapy regimen
+Philadelphia chromosome–positive ALL in the AYA (age 15-39 y):
+Chemotherapy plus TKI, followed by allogeneic stem cell transplantation if an appropriate donor is available; if transplantation is not feasible, continue multiagent chemotherapy and a TKI
+The following regimens can be used for patients diagnosed with ALL. Patients can also be admitted into clinical trials, which is strongly recommended.
+Standard-intensity regimens (older adults):
+Hyper-CVAD/methotrexate-cytarabine includes the following
+ [5] :
+Cycles 1, 3, 5, and 7 (3-4 wk between cycles):
+Cyclophosphamide 300 mg/m2 IV over 2h every 12 h for six doses starting on day 1 plus mesna 600 mg/m2/day continuous IV infusion on days 1-3, starting 1 h before plus
+Vincristine 2 mg IV on days 4 and 11 plus doxorubicin 50 mg/m2 IV on day 4 plus dexamethasone 40 mg PO on days 1-4 and 11-14
+Cycles 2, 4, 6, and 8 (3-4 wk between cycles):
+Methotrexate 200 mg/m2 IV over 2 h followed by 800 mg/m2 IV over 22 h on day 1 plus
+Cytarabine 3 g/m2 (1 g/m2 for patients older than 60 y) IV over 2 h every 12 h for four doses starting on day 2 plus
+Leucovorin 15 mg every 6 h for eight doses beginning 12 h after the completion of methotrexate infusion, and increased to 50 mg IV every 6 h if methotrexate levels are >20 µmol/L at 0 h, are >1.0 µmol/L at 24 h, or are >0.1 µmol/L at 48 h after the end of methotrexate infusion, until levels are < 0.1 µmol/L plus
+Methylprednisolone 50 mg IV every 12 h on days 1-3
+Maintenance chemotherapy (for up to 2 y):
+6-mercaptopurine 50 mg PO 3 times daily plus  methotrexate 20 mg/m2 PO weekly plus  vincristine 2 mg IV monthly plus prednisone 200 mg PO daily for 5 d monthly (with vincristine)
+Supportive care during hyper-CVAD:
+Ciprofloxacin 500 mg PO BID (or levofloxacin 500 mg po daily) plus fluconazole 200 mg PO daily (or alternative azole) plus acyclovir 200 mg PO BID (or valacyclovir 500 po daily) plus filgrastim 10 µg/kg SC daily, starting on day 5 of hyper-CVAD and on day 4 of high-dose methotrexate and cytarabine
+ [5] 
+The CALGB 8811 ALL regimen includes the following
+ [1] :
+Course I – Induction (4 wk):
+Cyclophosphamide 1200 mg/m2 (800 mg/m2 if patients older than 60 y) IV on day 1 plus daunorubicin 45 mg/m2/day (30 mg/m2/day if patients older than 60 y) IV on days 1-3 plus vincristine 2 mg IV on days 1, 8, 15, and 22 plus prednisone 60 mg/m2/day PO on days 1-21 (days 1-7 if patients older than 60 y)
+The CALGB 8811 ALL induction regimen also includes L-asparaginase 6000 U/m2 SC on days 5, 8, 11, 15, 18, and 22; however, L-asparaginase is no longer commercially available
+Course II – Early intensification (4 wk/cycle, for two cycles):
+Intrathecal methotrexate 15 mg on day 1 plus  cyclophosphamide 1000 mg/m2 IV on day 1 plus 6-mercaptopurine 60 mg/m2/day PO on days 1-14 plus cytarabine 75 mg/m2/day SC on days 1-4 and 8-11 plus  vincristine 2 mg IV on days 15 and 22 plus  L-asparaginase 6000 IU/m2 SC on days 15, 18, 22, and 25 (no longer commercially available)
+Course III – CNS prophylaxis and interim maintenance (12 wk):
+Cranial radiation 2400 cGy on days 1-12 plus  intrathecal methotrexate 15 mg on days 1, 8, 15, 22, and 29 plus  6-mercaptopurine 60 mg/m2/day PO on days 1-70 plus  methotrexate 20 mg/m2 PO on days 36, 43, 50, 57, and 64
+Course IV – Late intensification (8 wk):
+Daunorubicin 30 mg/m2 IV on days 1, 8, and 15 plus  vincristine 2 mg IV on days 1, 8, and 15 plus  dexamethasone 10 mg/m2/day PO on days 1-14 plus  cyclophosphamide 1000 mg/m2 IV on day 29 plus 6-thioguanine 60 mg/m2/day PO on days 29-42 plus  cytarabine 75 mg/m2/day SC on days 29-32 and 36-39
+Course V – Prolonged maintenance (until 24 mo from diagnosis):
+Vincristine 2 mg IV on day 1 plus  prednisone 60 mg/m2/day PO on days 1-5 plus  methotrexate 20 mg/m2 PO on days 1, 8, 15, and 22 plus  6-mercaptopurine 80 mg/m2/day PO on days 1-28; repeat all every 4wk
+See the list below:
+Patients with ALL have an increased chance of CNS involvement; therefore, intrathecal (IT) methotrexate is given as CNS prophylaxis
+CNS prophylaxis consists of methotrexate 12 mg IT on day 2 and cytarabine 100 mg IT on day 8 of each cycle, or similar regimens
+Patients with a high risk for CNS disease (mature B-cell, high proliferative index, and/or lactate dehydrogenase [LDH] level > 600 U/L [normal range, 25–225 U/L]) receive 16 IT methotrexate treatments
+Patients with low LDH level and unknown proliferative index receive eight treatments of intrathecal methotrexate
+In the past, the prognosis for patients with Ph+ ALL was very poor. However, advances (eg, treatment that includes TKIs) have brought about an improved outcome for this subtype of ALL. 
+Use of high-dose cytarabine induction regimens has resulted in a higher complete remission rate than that seen with traditional ALL regimens. For example, using ALL-2 induction (cytarabine 3 g/m2 IV over 3h daily for 5 d and mitoxantrone 80 mg/m2 on day 2), patients with Ph+ ALL obtain a rapid hematologic, cytogenetic, and molecular remission
+ [6] 
+Ph+ ALL is characterized by the BCR-ABL fusion (usually p190), which is a target of several TKIs. Currently, imatinib, dasatinib, and ponatinib are TKIs approved by the FDA for treatment of Ph+ ALL. Although these TKIs have activity as single agents, they are best used in combination with multiagent chemotherapy regimens.
+ [7, 8, 9, 10]  For example, the addition of imatinib (600 mg PO daily) to hyper-CVAD increased the 3-y rate of complete remission duration to 68%, compared with 24% of patients treated with hyper-CVAD without imatinib
+ [10] 
+Likewise, the addition of dasatinib (140 mg PO daily) to hyper-CVAD resulted in complete remissions in 94% of patients.
+ [11] After a median follow-up of 14 mo, the median disease-free survival had not been reached.
+Ponatinib has shown a 41% major hematologic response in Ph+ ALL after failure or intolerance of dasatinib or nilotinib, including in patients with the T315I mutation.
+ [12] Because ponatinib carries a high risk for thromboembolic events, its use is limited to patients with T315I-positive, Ph+ ALL for whom no other TKI therapy is indicated.
+ [13] 
+See the list below:
+CD20 positivity is an adverse prognostic factor in ALL
+In 143 adults with Ph– B-cell precursor (BCP) ALL treated in the Group for Research on Adult Acute Lymphoblastic Leukemia (GRAALL) 2003 trial, CD20 positivity was associated with a higher cumulative incidence of relapse at 42 mo, independent of the ALL high-risk subset
+ [14] 
+Rituximab is a monoclonal antibody that targets CD20; a trial with hyper-CVAD and rituximab 375 mg/m2 on days 1 and 11 of cycles 1, 3, 5, and 7 and on days 1 and 8 of cycles 2, 4, 6 and 8 resulted in a complete remission rate of 86%; 3-y overall survival (OS), event-free survival, and disease-free survival rates were 89%, 80%, and 88%, respectively
+ [15] 
+See the list below:
+Mature B-cell ALL is characterized by a high proliferative index, very high LDH, and strong CD20 positivity
+The prognosis of mature B-cell ALL is poor when disease is treated with traditional ALL regimens
+However, the prognosis has improved with the use of cyclical dose-dense chemotherapy that includes rituximab and aggressive intrathecal prophylaxis
+ [15] 
+See the list below:
+The prognosis of ALL is dramatically better in children than in adults.
+It is unclear to what degree this difference is due to intrinsic differences in the leukemic cells that occur in these two populations versus the intensity of therapy given.
+Older patients have poor tolerance of high-dose therapies, and as such, many of the regimens designed for adults are less intensive than those given in children. However, younger adults, particularly those younger than 39 y, are able to tolerate similar doses as children.
+For this reason, clinical trials are now ongoing to determine whether the prognosis of ALL in adults can be improved by giving pediatric-style regimens in the younger-adult population.
+ [16, 17, 18] 
+Pediatric-style chemotherapy regimens:
+Stem cell transplantation represents the most intensive postremission therapy and potentially increases a patient's chance for cure. Although autologous stem cell transplantation has lower treatment-related mortality than allogeneic transplantation, the relapse rate is higher than for patients receiving allogeneic stem cell transplantation. 
+ [3, 24, 25, 26] However, patients undergoing allogeneic stem cell transplantation frequently develop complications from graft versus host disease that can affect long-term survival as well as quality of life.
+The GOELAL02 trial evaluated the impact of early allogeneic bone marrow transplantation or delayed unpurged autologous stem cell transplantation for patients with ALL who had no human leukocyte antigen (HLA)–matched sibling donor or who were older than 50 y.
+ [24]  Inclusion criteria included at least one of the following: age older than 35 y; non–T-ALL; leukocytosis > 30,000/mm3; t(9;22), t(4;11), or t(1;19); or failure to achieve complete remission after one induction course; among 198 patients, the median age was 33 y.  For patients younger than 50 y, allogeneic bone marrow transplantation significantly improved the 6 y OS (75% vs 40% after autologous stem cell transplantation).
+The LALA trial analyzed the benefits of a risk-adapted postremission strategy in adult lymphoblastic leukemia and evaluated stem cell transplantation for high-risk patients.
+ [3]  Patients in the higher-risk group who had a sibling donor underwent allogeneic transplantation; the remaining patients received either an autologous stem cell transplant or postremission chemotherapy. Overall, allogeneic stem cell transplantation improved disease-free survival; however, autologous stem cell transplantation did not confer a significant benefit over chemotherapy.
+See the list below:
+The prognosis for patients who experience relapse after front-line therapy is poor, with very few patients surviving long term. The best outcome is obtained if patients achieve a second remission and then proceed to allogeneic stem cell transplantation.
+Patients who are in complete remission within 4 wk of starting therapy have a better prognosis.
+ [27, 28, 29] 
+Most of the chemotherapy regimens used for front-line therapy of ALL can be used in the salvage setting; however, response rates are low and remission durations are short.
+Tavernier et al reported the results of treatment of first relapse for patients entered on the LALA-94 trial
+ [30] ; 187 patients (44%) achieved a second complete remission. The median disease-free survival was 5.2 mo, with a 5-y disease-free survival of 12%; factors predicting a better outcome after relapse were any transplant performed in second complete remission (CR), a first CR duration > 1y, and platelet level > 100 x 109/L at relapse. Risk groups defined at diagnosis and treatment received in first CR did not influence the outcome after relapse; best results were obtained in a subset of patients who were eligible for allogeneic stem cell transplantation.
+In the second salvage setting, O'Brien et al noted that the complete remission rate was only 18% and the median survival was 3 mo.
+ [31]  Prognostic factors associated with survival were duration of first complete remission, percentage of bone marrow blasts, platelet count, and albumin level.
+Clofarabine is a purine nucleoside metabolic inhibitor approved for the treatment of pediatric patients aged 1-21 y with relapsed or refractory ALL after at least two prior regimens. In this patient population, the dosage is 52 mg/m2/day IV over 2 h for 5 d; adult patients are treated at a lower dose, no more than 40 mg/m2/day for 5 d.
+ [32] 
+Nelarabine is approved for the treatment of patients with T-cell ALL and T-cell lymphoblastic lymphoma who have not responded to or have relapsed following treatment with at least two chemotherapeutic regimens. Recommended dose of nelarabine in adults is 1500 mg/m2 IV over 2h on days 1, 3, and 5 repeated every 21 d.
+ [33] 
+Vincristine liposomal (Marqibo) was approved in August 2012 by the FDA for treatment of Philadelphia chromosome–negative ALL patients in second or subsequent relapse or whose disease has progressed following two or more antileukemia therapies; initial dosage regimen is 2.25 mg/m2 IV infusion over 1 h every 7 d.
+ [34] 
+Blinatumomab, a bispecific T-cell engager (BiTE) antibody, was approved in December 2014 for Philadelphia chromosome–negative relapsed or refractory B-cell ALL; treatment cycles consist of 4 wk continuous IV infusion with at least a 2-wk treatment-free interval between cycles; a low dose is given for week 1 of the first cycle and then increased to 28 mcg/day for the remaining 3 weeks of cycle 1 and for subsequent cycles (up to five cycles total)
+ [35, 36] 
+Inotuzumab is a CD22-directed antibody-drug conjugate approved for relapsed/refractory B-cell precursor ALL.
+Gene therapy
+The first autologous chimeric antigen receptor (CAR) T-cell therapy, tisagenlecleucel (Kymriah), was approved in August 2017 for use in patients aged 25 years or younger with B-cell precursor ALL that is refractory or in second or later relapse.
+ [37] Autologous T-cells are collected from peripheral blood and genetically engineered to express a CAR that targets a specific molecule on cancer cells. The modified T-cells are then expanded and reinfused into the patient, 2-14 days after completing lymphodepletion with conditioning chemotherapy.
+ [38] 
+Because of the risk of potentially fatal adverse effects, use of tisagenlecleucel is limited to hospitals and clinics with special certification in risk evaluation and mitigation.
+ [37] 
+Tisagenlecleucel IV infusion is based on patient weight, as follows
+ [38] :
+Leukapheresis:
+Patients with a markedly elevated WBC count, especially >100,000/mm3, are at risk for leukostasis
+Symptoms include dyspnea due to pulmonary infiltration and altered mental status due to CNS effects; patients should receive emergency leukapheresis to rapidly reduce the WBC count
+Treatment of tumor lysis syndrome:
+Patients with ALL are at risk for tumor lysis syndrome
+High-risk factors include elevated WBC count, especially >50,000/mm3; marked elevation of LDH, especially >1000 U/L; baseline hyperuricemia; and baseline renal dysfunction
+Patients should receive aggressive hydration and allopurinol; high-risk patients should also receive uricolytic agents (ie, rasburicase)
+Treatment of infections:
+Most patients are neutropenic and immunocompromised.
+Afebrile patients usually receive prophylactic antibiotics, such as ciprofloxacin (or levofloxacin) and acyclovir (or valacyclovir), and an azole antifungal (posaconazole, voriconazole, itraconazole, or fluconazole) during induction therapy.
+Febrile neutropenic patients require prompt initiation of broad-spectrum antibiotics.
+Suggested regimens include a third- or fourth-generation cephalosporin or carbapenem with or without vancomycin.
+Antibiotics can be modified based on response to therapy; additional antibiotics might be needed for resistant organisms (eg, vancomycin-resistant enterococci [VRE]) or suspected fungal infections.
+Blood bank support:
+Patients should receive leukodepleted, irradiated blood products to reduce the risk of transfusion-associated graft versus host disease, cytomegalovirus (CMV) transmission, and febrile transfusion reactions.
+Most patients are anemic and require red cell transfusion support.
+Patients usually receive packed red cells when the hemoglobin level falls below 8 g/dL.
+Patients with significant respiratory and cardiac disease might require transfusion at a higher hemoglobin level.
+Patients are frequently thrombocytopenic; platelet transfusions are indicated when the platelet count is < 10,000/mm3.
+Patients being seen less than daily will receive platelet transfusions at a higher threshold (20,000/mm3).
+Patients with active bleeding will be transfused to a platelet count of 50,000/mm3; patients with CNS hemorrhage should be transfused to a platelet count of 100,000/mm3.
+Immunophenotype for ALL
+ [14, 39, 40] :
+Prognostic factors for ALL include age older than 30 y (worse with increasing age)
+White blood cells (WBC) > 30,000/mm3 for B-cell ALL; WBC > 100,000/mm3 for T-cell ALL
+For precursor B-cell ALL, the prognosis is worse for CD10-negative (common ALL antigen [CALLA]-negative) cases
+For precursor T-cell ALL, the prognosis is worse for pro-, pre-, and mature-T subtypes (CD1a-, CD3-/CD3+), compared with the CD1a+ cortical/thymic phenotype
+Cytogenetics for ALL
+ [41, 42, 43] :
+Patients with ALL can have abnormalities of chromosome number as well as balanced translocations.
+Patients with a normal karyotype and those with isolated 9p/CDKN2A-CDKN2B deletions have had a relatively favorable (standard) prognosis.
+Patients with 6q deletions, miscellaneous karyotype, and hyperdiploid karyotype have had an intermediate prognosis.
+Patients with t(9;22)/BCR/ABL1, t(4;11)/MLL/AF4, and t(1;19)/TCF3/PBX1 have had an unfavorable prognosis.
+Previously, t(9;22)(q34;q11) was considered high risk; however, outcomes have improved considerably with the addition of TKIs targeting BCR-ABL to chemotherapy.
+Overview
+What is included in treatment protocols for acute lymphoblastic leukemia (ALL)?
+What are the treatment recommendations for Philadelphia chromosome–negative acute lymphoblastic leukemia (ALL) in adults 40 years or older?
+What are the treatment recommendations for Philadelphia chromosome–positive acute lymphoblastic leukemia (ALL) in adults 40 years or older?
+What are the treatment recommendations for Philadelphia chromosome–negative acute lymphoblastic leukemia (ALL) in patients 15 to 39 years old?
+What are the treatment recommendations for Philadelphia chromosome–positive acute lymphoblastic leukemia (ALL) in patients 15 to 39 years old?
+Which factors are used to determine the treatment regimen for acute lymphoblastic leukemia (ALL)?
+What are the general treatment principles for acute lymphoblastic leukemia (ALL)?
+What is the hyper-CVAD/methotrexate-cytarabine regimen for acute lymphoblastic leukemia (ALL)?
+What is included in supportive care for patients undergoing the hyper-CVAD regimen for acute lymphoblastic leukemia (ALL)?
+What is the CALGB 8811 regimen for acute lymphoblastic leukemia (ALL)?
+What is included in CNS prophylaxis for acute lymphoblastic leukemia (ALL)?
+How is Philadelphia chromosome (Ph)-positive acute lymphoblastic leukemia (ALL) treated?
+Which regimen is used to treat CD20-positive acute lymphoblastic leukemia (ALL)?
+Which regimen has improved the prognosis of mature B-cell acute lymphoblastic leukemia (ALL)?
+Which regimens are used to treat acute lymphoblastic leukemia (ALL) in adolescent and young adults (AYAs)?
+How are relapses treated in acute lymphoblastic leukemia (ALL)?
+What is the role of stem cell transplantation in the treatment of acute lymphoblastic leukemia (ALL)?
+What is the role of gene therapy in the treatment of acute lymphoblastic leukemia (ALL) relapse?
+What is the role of leukapheresis in the treatment of acute lymphoblastic leukemia (ALL)?
+How is tumor lysis syndrome treated in acute lymphoblastic leukemia (ALL)?
+How are infections treated in acute lymphoblastic leukemia (ALL)?
+What are the protocols on blood bank support in the treatment of acute lymphoblastic leukemia (ALL)?
+Which factors affect the prognosis of acute lymphoblastic leukemia (ALL)?
+Which genetic factors affect the prognosis of acute lymphoblastic leukemia (ALL)?
+Larson RA, Dodge RK, Burns CP, et al. A five-drug remission induction regimen with intensive consolidation for adults with acute lymphoblastic leukemia: cancer and leukemia group B study 8811. Blood. 1995 Apr 15. 85(8):2025-37. [Medline]. 
+Rowe JM, Buck G, Burnett AK, et al. Induction therapy for adults with acute lymphoblastic leukemia: results of more than 1500 patients from the international ALL trial: MRC UKALL XII/ECOG E2993. Blood. 2005 Dec 1. 106(12):3760-7. [Medline]. 
+Thomas X, Boiron JM, Huguet F, et al. Outcome of treatment in adults with acute lymphoblastic leukemia: analysis of the LALA-94 trial. J Clin Oncol. 2004 Oct 15. 22(20):4075-86. [Medline]. 
+Cortes J, O'Brien SM, Pierce S, et al. The value of high-dose systemic chemotherapy and intrathecal therapy for central nervous system prophylaxis in different risk groups of adult acute lymphoblastic leukemia. Blood. 1995 Sep 15. 86(6):2091-7. [Medline]. 
+Kantarjian H, Thomas D, O'Brien S, et al. Long-term follow-up results of hyperfractionated cyclophosphamide, vincristine, doxorubicin, and dexamethasone (Hyper-CVAD), a dose-intensive regimen, in adult acute lymphocytic leukemia. Cancer. Dec 15, 2004. 101(12):2788-801. 
+Weiss M, Maslak P, Feldman E, et al. Cytarabine with high-dose mitoxantrone induces rapid complete remissions in adult acute lymphoblastic leukemia without the use of vincristine or prednisone. J Clin Oncol. 1996 Sep. 14(9):2480-5. [Medline]. 
+Lee KH, Lee JH, Choi SJ, et al. Clinical effect of imatinib added to intensive combination chemotherapy for newly diagnosed Philadelphia chromosome-positive acute lymphoblastic leukemia. Leukemia. 2005 Sep. 19(9):1509-16. [Medline]. 
+Yanada M, Takeuchi J, Sugiura I, et al. High complete remission rate and promising outcome by combination of imatinib and chemotherapy for newly diagnosed BCR-ABL-positive acute lymphoblastic leukemia: a phase II study by the Japan Adult Leukemia Study Group. J Clin Oncol. 2006 Jan 20. 24(3):460-6. [Medline]. 
+De Labarthe A, Rousselot P, Huguet-Rigal F, et al. Imatinib combined with induction or consolidation chemotherapy in patients with de novo Philadelphia chromosome-positive acute lymphoblastic leukemia: results of the GRAAPH-2003 study. Blood. Feb 15, 2007. 109(4):1408-13. Epub Oct 24, 2006. 
+Thomas DA, Faderl S, Cortes J, et al. Treatment of Philadelphia chromosome-positive acute lymphocytic leukemia with hyper-CVAD and imatinib mesylate. Blood. 2004 Jun 15. 103(12):4396-407. [Medline]. 
+Ravandi F, O'Brien S, Thomas D, et al. First report of phase 2 study of dasatinib with hyper-CVAD for the frontline treatment of patients with Philadelphia chromosome-positive (Ph+) acute lymphoblastic leukemia. Blood. 2010 Sep 23. 116(12):2070-7. [Medline]. 
+Cortes JE, Dong-Wook K, Pinilla-Ibarz J, le Coutre P, Paquette R, Chuah C, et al. A pivotal phase 2 trial of ponatinib with chronic myeloid leukemia (CML) and Philadelphia chromosome-positive acute lymphoblastic leukemia (Ph+ ALL) resistant or intolerant to dasatinib or nilotinib, or with the T315I BCR-ABL mutation: 12-month follow-up of the PACE trial. Presented at the 54th American Society of Hematology Annual Meeting. December 8-11, 2012. Atlanta, GA. [Full Text].
+Iclusig (ponatinib) [package insert]. Cambridge, MA.: Ariad Pharmaceuticals, Inc. December 2013. Available at [Full Text].
+Maury S, Huguet F, Leguay T, et al. Adverse prognostic significance of CD20 expression in adults with Philadelphia chromosome-negative B-cell precursor acute lymphoblastic leukemia. Haematologica. 2010 Feb. 95(2):324-8. [Medline]. 
+Thomas DA, O'Brien S, Faderl S, et al. Chemoimmunotherapy with a modified hyper-CVAD and rituximab regimen improves outcome in de novo Philadelphia chromosome-negative precursor B-lineage acute lymphoblastic leukemia. J Clin Oncol. 2010 Aug 20. 28(24):3880-9. [Medline]. [Full Text].
+Huguet F, Leguay T, Raffoux E, et al. Pediatric-inspired therapy in adults with Philadelphia chromosome-negative acute lymphoblastic leukemia: the GRAALL-2003 study. J Clin Oncol. 2009 Feb 20. 27(6):911-8. [Medline]. 
+Barry E, DeAngelo DJ, Neuberg D, et al. Favorable outcome for adolescents with acute lymphoblastic leukemia treated on Dana-Farber Cancer Institute Acute Lymphoblastic Leukemia Consortium Protocols. J Clin Oncol. 2007 Mar 1. 25(7):813-9. [Medline]. 
+Stock W, La M, Sanford B, et al. What determines the outcomes for adolescents and young adults with acute lymphoblastic leukemia treated on cooperative group protocols? A comparison of Children's Cancer Group and Cancer and Leukemia Group B studies. Blood. 2008 Sep 1. 112(5):1646-54. [Medline]. 
+Huguet F, Leguay T, Raffoux E, Thomas X, Beldjord K, Delabesse E, et al. Pediatric-inspired therapy in adults with Philadelphia chromosome-negative acute lymphoblastic leukemia: the GRAALL-2003 study. J Clin Oncol. 2009 Feb 20. 27(6):911-8. [Medline]. 
+Winter SS, Dunsmore KP, Devidas M, Eisenberg N, Asselin BL, Wood BL, et al. Safe integration of nelarabine into intensive chemotherapy in newly diagnosed T-cell acute lymphoblastic leukemia: Children's Oncology Group Study AALL0434. Pediatr Blood Cancer. 2015 Jul. 62 (7):1176-83. [Medline]. [Full Text].
+Nachman JB, La MK, Hunger SP, Heerema NA, Gaynon PS, Hastings C, et al. Young adults with acute lymphoblastic leukemia have an excellent outcome with chemotherapy alone and benefit from intensive postinduction treatment: a report from the children's oncology group. J Clin Oncol. 2009 Nov 1. 27(31):5189-94. [Medline]. [Full Text].
+Stock W, Luger SM, Advani AS, et al. A pediatric regimen for older adolescents and young adults with acute lymphoblastic leukemia: results of CALGB 10403. Blood. 2019 Apr 4. 133 (14):1548-1559. [Medline]. 
+Barry E, DeAngelo DJ, Neuberg D, Stevenson K, Loh ML, Asselin BL, et al. Favorable outcome for adolescents with acute lymphoblastic leukemia treated on Dana-Farber Cancer Institute Acute Lymphoblastic Leukemia Consortium Protocols. J Clin Oncol. 2007 Mar 1. 25(7):813-9. [Medline]. 
+Hunault M, Harousseau JL, Delain M, et al. Better outcome of adult acute lymphoblastic leukemia after early genoidentical allogeneic bone marrow transplantation (BMT) than after late high-dose therapy and autologous BMT: a GOELAMS trial. Blood. 2004 Nov 15. 104(10):3028-37. [Medline]. 
+Ribera JM, Oriol A, Bethencourt C, et al. Comparison of intensive chemotherapy, allogeneic or autologous stem cell transplantation as post-remission treatment for adult patients with high-risk acute lymphoblastic leukemia. Results of the PETHEMA ALL-93 trial. Haematologica. 2005 Oct. 90(10):1346-56. [Medline]. 
+Goldstone AH, Richards SM, Lazarus HM, et al. In adults with standard-risk acute lymphoblastic leukemia, the greatest benefit is achieved from a matched sibling allogeneic transplantation in first complete remission, and an autologous transplantation is less effective than conventional consolidation/maintenance chemotherapy in all patients: final results of the International ALL Trial (MRC UKALL XII/ECOG E2993). Blood. 2008 Feb 15. 111(4):1827-33. [Medline]. 
+Holowiecki J, Krawczyk-Kulis M, Giebel S, et al. Status of minimal residual disease after induction predicts outcome in both standard and high-risk Ph-negative adult acute lymphoblastic leukaemia. The Polish Adult Leukemia Group ALL 4-2002 MRD Study. Br J Haematol. 2008 Jun. 142(2):227-37. [Medline]. 
+Brüggemann M, Raff T, Flohr T, et al. Clinical significance of minimal residual disease quantification in adult patients with standard-risk acute lymphoblastic leukemia. Blood. 2006 Feb 1. 107(3):1116-23. [Medline]. 
+Bassan R, Spinelli O, Oldani E, et al. Improved risk classification for risk-specific therapy based on the molecular study of minimal residual disease (MRD) in adult acute lymphoblastic leukemia (ALL). Blood. 2009 Apr 30. 113(18):4153-62. [Medline]. 
+Tavernier E, Boiron JM, Huguet F, et al. Outcome of treatment after first relapse in adults with acute lymphoblastic leukemia initially treated by the LALA-94 trial. Leukemia. Sep 2007. 21(9):1907-14. Epub Jul 5, 2007. 
+O'Brien S, Thomas D, Ravandi F, et al. Outcome of adults with acute lymphocytic leukemia after second salvage therapy. Cancer. Dec 1, 2008. 113(11):3186-91. 
+Jeha S, Gaynon PS, Razzouk BI, et al. Phase II study of clofarabine in pediatric patients with refractory or relapsed acute lymphoblastic leukemia. J Clin Oncol. 2006 Apr 20. 24(12):1917-23. [Medline]. 
+DeAngelo DJ, Yu D, Johnson JL, et al. Nelarabine induces complete remissions in adults with relapsed or refractory T-lineage acute lymphoblastic leukemia or lymphoblastic lymphoma: Cancer and Leukemia Group B study 19801. Blood. 2007 Jun 15. 109(12):5136-42. [Medline]. 
+Marqibo (vincristine liposomal) [package insert]. South San Francisco, CA: Talon Therapeutics, Inc. August 2012. Available at [Full Text].
+Topp MS, Gokbuget N, Zugmaier G, Klappers P, Stelljes M, Neumann S, et al. Phase II Trial of the Anti-CD19 Bispecific T Cell-Engager Blinatumomab Shows Hematologic and Molecular Remissions in Patients With Relapsed or Refractory B-Precursor Acute Lymphoblastic Leukemia. J Clin Oncol. 2014 Nov 10. [Medline]. 
+Topp MS. Confirmatory open-label, single-arm, multicenter phase 2 study of the BiTE antibody blinatumomab in patients (pts) with relapsed/refractory B-precursor acute lymphoblastic leukemia (r/r ALL). Presented at the 2014 ASCO Annual Meeting, May 30 - June 3, 2014; Chicago, IL. J Clin Oncol 32:5s, 2014 (suppl; abstr 7005). [Full Text].
+FDA approval brings first gene therapy to the United States. U.S. Food & Drug Administration. Available at https://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm574058.htm. August 30, 2017; Accessed: September 2, 2017.
+Kymriah (tisagenlecleucel) [package insert]. East Hanover, NJ: Novartis Pharmaceuticals Corporation. August, 2017. Available at [Full Text].
+Marks DI, Paietta EM, Moorman AV, et al. T-cell acute lymphoblastic leukemia in adults: clinical features, immunophenotype, cytogenetics, and outcome from the large randomized prospective trial (UKALL XII/ECOG 2993). Blood. 2009 Dec 10. 114(25):5136-45. [Medline]. 
+Gleissner B, Goekbuget N, Rieder H, et al. CD10- pre-B acute lymphoblastic leukemia (ALL) is a distinct high-risk subgroup of adult ALL associated with a high frequency of MLL aberrations: results of the German Multicenter Trials for Adult ALL (GMALL). Blood. 2005 Dec 15. 106(13):4054-6. [Medline]. 
+Moorman AV, Harrison CJ, Buck GA, et al. Karyotype is an independent prognostic factor in adult acute lymphoblastic leukemia (ALL): analysis of cytogenetic data from patients treated on the Medical Research Council (MRC) UKALLXII/Eastern Cooperative Oncology Group (ECOG) 2993 trial. Blood. 2007 Apr 15. 109(8):3189-97. [Medline]. 
+Pullarkat V, Slovak ML, Kopecky KJ, et al. Impact of cytogenetics on the outcome of adult acute lymphoblastic leukemia: results of Southwest Oncology Group 9400 study. Blood. 2008 Mar 1. 111(5):2563-72. [Medline]. 
+Ribera JM, Ortega JJ, Oriol A, et al. Prognostic value of karyotypic analysis in children and adults with high-risk acute lymphoblastic leukemia included in the PETHEMA ALL-93 trial. Haematologica. 2002 Feb. 87(2):154-66. [Medline]. 
+Karen Seiter, MD Professor, Department of Internal Medicine, Division of Oncology/Hematology, New York Medical College
+Karen Seiter, MD is a member of the following medical societies: American Association for Cancer Research, American College of Physicians, American Society of HematologyDisclosure: Received honoraria from Novartis for speaking and teaching; Received consulting fee from Novartis for speaking and teaching; Received honoraria from Celgene for speaking and teaching.
+Jeanne Yu, PharmD Disclosure: Nothing to disclose.
+Christopher D Braden, DO Hematologist/Oncologist, Chancellor Center for Oncology at Deaconess Hospital; Medical Director, Deaconess Hospital Outpatient Infusion Centers; Chairman, Deaconess Hospital Cancer Committee
+Christopher D Braden, DO is a member of the following medical societies: American Society of Clinical Oncology, American Society of HematologyDisclosure: Nothing to disclose.
+Koyamangalath Krishnan, MD, FRCP, FACP Dishner Endowed Chair of Excellence in Medicine, Professor of Medicine, James H Quillen College of Medicine at East Tennessee State University
+Koyamangalath Krishnan, MD, FRCP, FACP is a member of the following medical societies: Alpha Omega Alpha, American College of Physicians-American Society of Internal Medicine, American Society of Hematology, Royal College of PhysiciansDisclosure: Nothing to disclose.

@@ -1,0 +1,84 @@
+Acute Myeloid Leukemia (AML) Staging: FAB and WHO Classifications for Acute Myeloid Leukemia
+Two staging systems are commonly used for acute myeloid leukemia (AML). The French-American-British (FAB) classification system is based on morphology to define specific immunotypes. The World Health Organization (WHO) classification reviews chromosome translocations and evidence of dysplasia.
+ [1] 
+Table. FAB classification of AML (Open Table in a new window)
+FAB subtype
+Name
+Adult AML patients (%)
+M0
+Undifferentiated acute myeloblastic leukemia
+5%
+M1
+Acute myeloblastic leukemia with minimal maturation
+15%
+M2
+Acute myeloblastic leukemia with maturation
+25%
+M3
+Acute promyelocytic leukemia
+10%
+M4
+Acute myelomonocytic leukemia
+20%
+M4eos
+Acute myelomonocytic leukemia with eosinophilia
+5%
+M5
+Acute monocytic leukemia
+10%
+M6
+Acute erythroid leukemia
+5%
+M7
+Acute megakaryocytic leukemia
+5%
+AML with recurrent genetic abnormalities
+ [2, 3] :
+AML, not otherwise specified (NOS):
+Myeloid sarcoma
+Myeloid proliferations related to Down syndrome:
+Blastic plasmacytoid dendritic cell neoplasm
+Overview
+How is acute myeloid leukemia staged?
+What is the FAB classification of acute myeloid leukemia?
+What is the WHO classification of acute myeloid leukemia?
+Acute Myeloid Leukemia (AML) Subtypes and Prognostic Factors. American Cancer Society. Available at http://www.cancer.org/cancer/leukemia-acutemyeloidaml/detailedguide/leukemia-acute-myeloid-myelogenous-classified. August 21, 2018; Accessed: July 29, 2019.
+Vardiman JW, Harris NL, Brunning RD. The World Health Organization (WHO) classification of the myeloid neoplasms. Blood. 2002 Oct 1. 100(7):2292-302. [Medline]. 
+[Guideline] National Comprehensive Cancer Network. NCCN Clinical Practice Guidelines in Oncology: Acute Myeloid Leukemia. Available at http://www.nccn.org/professionals/physician_gls/pdf/aml.pdf. Version 3.2019 — May 7, 2019; Accessed: July 29, 2019.
+FAB subtype
+Name
+Adult AML patients (%)
+M0
+Undifferentiated acute myeloblastic leukemia
+5%
+M1
+Acute myeloblastic leukemia with minimal maturation
+15%
+M2
+Acute myeloblastic leukemia with maturation
+25%
+M3
+Acute promyelocytic leukemia
+10%
+M4
+Acute myelomonocytic leukemia
+20%
+M4eos
+Acute myelomonocytic leukemia with eosinophilia
+5%
+M5
+Acute monocytic leukemia
+10%
+M6
+Acute erythroid leukemia
+5%
+M7
+Acute megakaryocytic leukemia
+5%
+Karen Seiter, MD Professor, Department of Internal Medicine, Division of Oncology/Hematology, New York Medical College
+Karen Seiter, MD is a member of the following medical societies: American Association for Cancer Research, American College of Physicians, American Society of HematologyDisclosure: Received honoraria from Novartis for speaking and teaching; Received consulting fee from Novartis for speaking and teaching; Received honoraria from Celgene for speaking and teaching.
+Jasmeet Anand, PharmD, RPh Adjunct Instructor, University of Nebraska Medical Center College of Pharmacy; Editor-in-Chief, Medscape Drug ReferenceDisclosure: Nothing to disclose.
+Christopher D Braden, DO Hematologist/Oncologist, Chancellor Center for Oncology at Deaconess Hospital; Medical Director, Deaconess Hospital Outpatient Infusion Centers; Chairman, Deaconess Hospital Cancer Committee
+Christopher D Braden, DO is a member of the following medical societies: American Society of Clinical Oncology, American Society of HematologyDisclosure: Nothing to disclose.
+Emmanuel C Besa, MD Professor Emeritus, Department of Medicine, Division of Hematologic Malignancies and Hematopoietic Stem Cell Transplantation, Kimmel Cancer Center, Jefferson Medical College of Thomas Jefferson University
+Emmanuel C Besa, MD is a member of the following medical societies: American Association for Cancer Education, American Society of Clinical Oncology, American College of Clinical Pharmacology, American Federation for Medical Research, American Society of Hematology, New York Academy of SciencesDisclosure: Nothing to disclose.

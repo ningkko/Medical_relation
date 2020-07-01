@@ -1,0 +1,832 @@
+Acute Promyelocytic Leukemia: Practice Essentials, Background, Pathophysiology
+Acute promyelocytic leukemia (APL) is a is a unique subtype of acute leukemia characterized by abnormal proliferation of promyelocytes, life-threatening coagulopathy, and the chromosome translocation t(15;17)(q22;q11-12). The discovery and elucidation of the molecular pathogenesis for APL has led to the introduction of all-trans retinoic acid (ATRA) and arsenic trioxide (ATO) therapies, which improved the prognosis of APL patients significantly.
+See the images below.
+ 
+ 
+For patient education information, see the Cancer Center, as well as Leukemia. In addition, patients should visit the Leukemia and Lymphoma Society Web page, www.leukemia-lymphoma.org, for further information.
+APL was first described as an entity in the late 1950s in Norway and France as a hyperacute fatal illness associated with a hemorrhagic syndrome.
+ [1] In 1959, Jean Bernard et al described the association of APL with a severe hemorrhagic diathesis that led to disseminated intravascular coagulation (DIC) and hyperfibrinolysis. By 1973, there were reports of complete remissions with treatment of the disease by daunorubicin.
+In 1974, Leo Sachs pioneered research on leukemic cell differentiation in vivo. Dr. Zhen Yi Wang, a Chinese hematologist, shared data on the efficacy of all-trans retinoic acid (ATRA) in his APL patients during a visit to France in 1985. In 1990, several publications linked a translocation between chromosomes 15 and 17 to the pathology of APL. In the early to mid 1990s, arsenic trioxide (ATO) was added to the treatment regimen. A potentially fatal complication of ATRA treatment, called retinoic acid syndrome, was also described. Over the past 50 years, APL has transformed from a highly fatal disease to a highly curable one.
+ [2] 
+Acute promyelocytic leukemia (APL) is defined by its cytogenetic properties. Over 95% of cases are characterized by a balanced translocation between chromosome 17q21 and chromosome 15q22. This leads to an abnormal fusion protein called PML-RARA. This translocation can be detected by karyotyping or fluorescence in situ hybridization (FISH) studies, and the transcript can be detected by polymerase chain reaction (PCR) techniques.
+The retinoic acid alpha receptor gene (RARA) is encoded by the long arm of chromosome 17. It is mainly expressed in hematopoietic cells and has an important role in regulating gene expression. In the absence of retinoid acid, RARA is bound by nuclear corepressor factor, and this causes transcriptional repression. In the presence of retinoic acid, RARA is activated and terminal differentiation of promyelocytes occurs.
+The promyelocytic gene (PML) is encoded by the long arm of chromosome 15 and is expressed ubiquitously. PML is thought to be involved in apoptosis and tumor suppression.
+There are three possible isoforms caused by PML-RARA translocations. The breakpoint in chromosome 17 is consistently found in intron 2, but varies in chromosome 15. The three breakpoints on the PML gene can occur at intron 3 (L form), intron 6 (S form), and exon 6 (V form). The S form is reportedly associated with a shorter remission duration and overall survival compared with the L form.
+ [3] 
+The fusion gene product causes the retinoic acid receptor to bind more tightly to the nuclear co-repressor factor. Therefore, the gene cannot be activated with physiologic doses of retinoic acid. In about 5% of cases, rearrangements of chromosome 17q21 with other gene partners occur. These include the following:
+PZLF (promyelocytic zinc finger) t(11;17)(q23;q21)
+NPM (nucleophosmin) t(5;17)(q35;q12-21)
+NuMa (nuclear mitotic apparatus) t(11;17)(q13;q21)
+STAT5b (17;17)(q11;q21)
+Yin et al identified a novel fusion between RARA and the interferon regulatory factor 2 binding protein 2 (IRF2BP2) genes.
+ [4] Cao et al reported on a new karyotype: 46,XY; t(7;16)(q31'q22), t(15;17)(q22;q21).
+ [5] 
+It is important to note that the nature of the fusion partner significantly impacts the disease characteristics and response to therapy. For example, APL with PLZF-RARA is not sensitive to retinoic acid and is less sensitive to chemotherapy.
+ [6] 
+About 40% of APL cases also express additional chromosomal abnormalities (trisomy 8 and isochromosome 17). These do not appear to impact the overall prognosis.
+In the United States, acute promyelocytic leukemia (APL) accounts for 5-15% of all adult leukemias.
+ [7] Approximately 30,800 cases of acute leukemia are diagnosed yearly in the US, and about 1000 of those are APL. The annual incidence of APL in Italy is approximately 0.6 per 1 million people.
+Douer noted that the APL-specific PML/RARA gene rearrangement is different in Latinos and non-Latinos, and that the incidence rate of  APL is higher in patients originating in Latin America.
+ [8]  In contrast, Matasar et al reported that lifetime incidence rates of APL were not higher in US Hispanics than in whites, but the age distribution among Hispanics was significantly different from that in non-Hispanic whites, with greater incidence rates for children ages 1-19 years and adults ages 20-44 years. Blacks had lower lifetime incidence rates than non-Hispanic whites, Hispanics, and Asians.
+ [9] 
+The incidence of APL in males and females is equal.
+ [8] The median age of onset of APL is about age 40 years.
+Unlike most leukemias, acute promyelocytic leukemia (APL) has a very good prognosis, with long-term survival rates up to 90% following treatment.
+ [10]  However, the incidence of early death remains high, with 29% of APL patients dying within 30 days of their diagnosis; in 35% of those early deaths, the patient never received all-trans retinoic acid (ATRA) therapy.
+ [11] The most common causes of early death in APL are hemorrhage, differentiation syndrome (DS), and infection.
+ [12, 13] 
+The white blood cell (WBC) count is viewed as an important index associated with prognosis in APL. The National Comprehensive Cancer Network (NCCN) uses WBC counts to classify patients as either low risk (WBC ≤10,000/μL) or high risk (WBC >10,000/μL).
+ [14] In addition to higher WBC counts, the following have also been identified as risk factors for early death
+ [13, 12] :
+Molecular and immunophenotypic features associated with a higher risk of relapse include expression in APL blasts of the stem/progenitor cell antigen CD34, the neural adhesion molecule (CD56), and the T cell antigen CD2. Often, the expression of these markers is associated with a high WBC count.
+ [15] 
+Since the early 1990s, there have been reports of extramedullary relapse to the skin and central nervous system with APL that are associated with a poor prognosis.
+A retrospective analysis examined the outcome of 155 patients with the microgranular variant (M3V) of APL who were treated with ATRA-based therapy in three clinical trials. The analysis revealed no difference in incidence of complications, survival, and response compared with patients who had classical M3 morphology, when outcomes were adjusted for the WBC count or the relapse risk score.
+ [16] 
+A long-term observational study of 1025 patients with APL in first complete remission found that therapy-related myeloid neoplasms (t-MNs) are a rare but severe complication. Therapy for APL in these patients consisted of ATRA plus anthracycline chemotherapy. Further research is needed to determine how to decrease the frequency of t-MN following ATRA plus anthracycline-based therapy.
+ [17] 
+ 
+Bernard J. History of promyelocytic leukaemia. Leukemia. 1994. 8 suppl 2:S1-5. [Medline]. 
+Lo-Coco F, Cicconi L, Voso MT. Progress and criticalities in the management of acute promyelocytic leukemia. Oncotarget. 2017 Nov 21. 8 (59):99221-99222. [Medline]. [Full Text].
+Vahdat L, Maslak P, Miller WH Jr, et al. Early mortality and the retinoic acid syndrome in acute promyelocytic leukemia: impact of leukocytosis, low-dose chemotherapy, PMN/RAR-alpha isoform, and CD13 expression in patients treated with all-trans retinoic acid. Blood. 1994 Dec 1. 84(11):3843-9. [Medline]. [Full Text].
+Yin CC, Jain N, Mehrotra M, Zhagn J, Protopopov A, Zuo Z, et al. Identification of a novel fusion gene, IRF2BP2-RARA, in acute promyelocytic leukemia. J Natl Compr Canc Netw. 2015 Jan. 13(1):19-22. [Medline]. 
+Cao Y, Yuan R, Wang Y, Chen R, Huang M, Zhou J. A New Chromosome Translocation t(7;16)(q31,q22) Change during an Acute Promyelocytic Leukemia Relapse. Cytogenet Genome Res. 2013 May 4. [Medline]. 
+Jurcic JG, Soignet SL, Maslak AP. Diagnosis and treatment of acute promyelocytic leukemia. Curr Oncol Rep. 2007 Sep. 9(5):337-44. [Medline]. 
+Ribeiro RC, Rego E. Management of APL in developing countries: epidemiology, challenges and opportunities for international collaboration. Hematology Am Soc Hematol Educ Program. 2006. 162-8. [Medline]. [Full Text].
+Douer D. The epidemiology of acute promyelocytic leukaemia. Best Pract Res Clin Haematol. 2003 Sep. 16(3):357-67. [Medline]. 
+Matasar MJ, Ritchie EK, Consedine N, Magai C, Neugut AI. Incidence rates of acute promyelocytic leukemia among Hispanics, blacks, Asians, and non-Hispanic whites in the United States. Eur J Cancer Prev. 2006 Aug. 15(4):367-70. [Medline]. 
+Cicconi L, Lo-Coco F. Current management of newly diagnosed acute promyelocytic leukemia. Ann Oncol. 2016 Aug. 27 (8):1474-81. [Medline]. [Full Text].
+Xu F, Wang C, Yin C, Jiang X, Jiang L, Wang Z, et al. Analysis of early death in newly diagnosed acute promyelocytic leukemia patients. Medicine (Baltimore). 2017 Dec. 96 (51):e9324. [Medline]. [Full Text].
+Hou J, Wang S, Zhang Y, Fan D, Li H, Yang Y, et al. Causes and prognostic factors for early death in patients with acute promyelocytic leukemia treated with single-agent arsenic trioxide. Ann Hematol. 2017 Dec. 96 (12):2005-2013. [Medline]. 
+Zhao H, Zhao Y, Zhang Y, Hou J, Yang H, Cao F, et al. Difference in causes and prognostic factors of early death between cohorts with de novo and relapsed acute promyelocytic leukemia. Ann Hematol. 2018 Mar. 97 (3):409-416. [Medline]. 
+[Guideline] National Comprehensive Cancer Network. Acute Myeloid Leukemia. NCCN. Available at http://www.nccn.org/professionals/physician_gls/pdf/aml.pdf. Version 2.2019 — March 8, 2019; Accessed: May 2, 2019.
+Testa U, Lo-Coco F. Prognostic factors in acute promyelocytic leukemia: strategies to define high-risk patients. Ann Hematol. 2016 Apr. 95 (5):673-80. [Medline]. 
+Tallman MS, Kim HT, Montesinos P, et al. Does microgranular variant morphology of acute promyelocytic leukemia independently predict a less favorable outcome compared with classical M3 APL? A joint study of the North American Intergroup and the PETHEMA Group. Blood. 2010 Dec 16. 116(25):5650-9. [Medline]. 
+Montesinos P, González JD, González J, Rayón C, de Lisa E, Amigo ML, et al. Therapy-related myeloid neoplasms in patients with acute promyelocytic leukemia treated with all-trans-retinoic Acid and anthracycline-based chemotherapy. J Clin Oncol. 2010 Aug 20. 28(24):3872-9. [Medline]. 
+Cashen AF. Acute Leukemias. Govindan R, Morgensztern D, eds. DeVita, Hellman, and Rosenberg's Cancer: Principles & Practice of Oncology: Review. 4th ed. Philadelphia, Pa: Wolters Kluwer; 2016. 293-304. 
+Menell JS, Cesarman GM, Jacovina AT, et al. Annexin II and bleeding in acute promyelocytic leukemia. N Engl J Med. 1999 Apr 1. 340(13):994-1004. [Medline]. [Full Text].
+Tallman MS, Andersen JW, Schiffer CA, et al. All-trans retinoic acid in acute promyelocytic leukemia: long-term outcome and prognostic factor analysis from the North American Intergroup protocol. Blood. 2002 Dec 15. 100(13):4298-302. [Medline]. [Full Text].
+Shigeno K, Naito K, Sahara N, et al. Arsenic trioxide therapy in relapsed or refractory Japanese patients with acute promyelocytic leukemia: updated outcomes of the phase II study and postremission therapies. Int J Hematol. 2005 Oct. 82(3):224-9. [Medline]. 
+Shen ZX, Shi ZZ, Fang J, Gu BW, Li JM, Zhu YM, et al. All-trans retinoic acid/As2O3 combination yields a high quality remission and survival in newly diagnosed acute promyelocytic leukemia. Proc Natl Acad Sci U S A. 2004 Apr 13. 101(15):5328-35. [Medline]. [Full Text].
+Lo-Coco F, Avvisati G, Vignetti M, Thiede C, Orlando SM, Iacobelli S, et al. Retinoic acid and arsenic trioxide for acute promyelocytic leukemia. N Engl J Med. 2013 Jul 11. 369(2):111-21. [Medline]. [Full Text].
+Sanz MA, Martin G, Gonzalez M, et al, for the Programa de Estudio y Traitmiento de las Hemopatias Malignas. Risk-adapted treatment of acute promyelocytic leukemia with all-trans-retinoic acid and anthracycline monochemotherapy: a multicenter study by the PETHEMA group. Blood. 2004 Feb 15. 103(4):1237-43. [Medline]. [Full Text].
+Fenaux P, Chastang C, Chevret S, et al, for the The European APL Group. A randomized comparison of all transretinoic acid (ATRA) followed by chemotherapy and ATRA plus chemotherapy and the role of maintenance therapy in newly diagnosed acute promyelocytic leukemia. Blood. 1999 Aug 15. 94(4):1192-200. [Medline]. [Full Text].
+Sanz MA, Lo Coco F, Martin G, et al. Definition of relapse risk and role of nonanthracycline drugs for consolidation in patients with acute promyelocytic leukemia: a joint study of the PETHEMA and GIMEMA cooperative groups. Blood. 2000 Aug 15. 96(4):1247-53. [Medline]. [Full Text].
+Ades L, Sanz MA, Chevret S, et al. Treatment of newly diagnosed acute promyelocytic leukemia (APL): a comparison of French-Belgian-Swiss and PETHEMA results. Blood. 2008 Feb 1. 111(3):1078-84. [Medline]. [Full Text].
+de la Serna J, Montesinos P, Vellenga E, et al. Causes and prognostic factors of remission induction failure in patients with acute promyelocytic leukemia treated with all-trans retinoic acid and idarubicin. Blood. 2008 Apr 1. 111(7):3395-402. [Medline]. [Full Text].
+Montesinos P, Gonzalez JD, Gonzalez J, et al. Therapy-related myeloid neoplasms in patients with acute promyelocytic leukemia treated with all-trans-retinoic Acid and anthracycline-based chemotherapy. J Clin Oncol. 2010 Aug 20. 28(24):3872-9. [Medline]. 
+Powell BL, Moser B, Stock W, Gallagher RE, Willman CL, Stone RM, et al. Arsenic trioxide improves event-free and overall survival for adults with acute promyelocytic leukemia: North American Leukemia Intergroup Study C9710. Blood. 2010 Nov 11. 116(19):3751-7. [Medline]. [Full Text].
+Grimwade D, Howe K, Langabeer S, et al. Minimal residual disease detection in acute promyelocytic leukemia by reverse-transcriptase PCR: evaluation of PML-RAR alpha and RAR alpha-PML assessment in patients who ultimately relapse. Leukemia. 1996 Jan. 10(1):61-6. [Medline]. 
+Avvisati G, Lo-Coco F, Paoloni FP, et al. AIDA 0493 protocol for newly diagnosed acute promyelocytic leukemia: very long-term results and role of maintenance. Blood. 2011 May 5. 117(18):4716-25. [Medline]. 
+Falchi L, Verstovsek S, Ravandi-Kashani F, Kantarjian HM. The evolution of arsenic in the treatment of acute promyelocytic leukemia and other myeloid neoplasms: Moving toward an effective oral, outpatient therapy. Cancer. 2016 Apr 15. 122 (8):1160-8. [Medline]. 
+Soignet SL, Frankel SR, Douer D, et al. United States multicenter study of arsenic trioxide in relapsed acute promyelocytic leukemia. J Clin Oncol. 2001 Sep 15. 19(18):3852-60. [Medline]. [Full Text].
+Mathews V, George B, Chendamarai E, Lakshmi KM, Desire S, Balasubramanian P, et al. Single-agent arsenic trioxide in the treatment of newly diagnosed acute promyelocytic leukemia: long-term follow-up data. J Clin Oncol. 2010 Aug 20. 28(24):3866-71. [Medline]. 
+Tomita A, Kiyoi H, Naoe T. Mechanisms of action and resistance to all-trans retinoic acid (ATRA) and arsenic trioxide (As2O 3) in acute promyelocytic leukemia. Int J Hematol. 2013 May 14. [Medline]. 
+Lo Coco F, Ammatuna E, Noguera N. Treatment of acute promyelocytic leukemia with gemtuzumab ozogamicin. Clin Adv Hematol Oncol. 2006 Jan. 4(1):57-62, 76-7. [Medline]. 
+Lo-Coco F, Cimino G, Breccia M, et al. Gemtuzumab ozogamicin (Mylotarg) as a single agent for molecularly relapsed acute promyelocytic leukemia. Blood. 2004 Oct 1. 104(7):1995-9. [Medline]. [Full Text].
+Estey EH, Giles FJ, Beran M, et al. Experience with gemtuzumab ozogamycin ("Mylotarg") and all-trans retinoic acid in untreated acute promyelocytic leukemia. Blood. 2002 Jun 1. 99(11):4222-4. [Medline]. [Full Text].
+de Botton S, Fawaz A, Chevret S, et al. Autologous and allogeneic stem-cell transplantation as salvage treatment of acute promyelocytic leukemia initially treated with all-trans-retinoic acid: a retrospective analysis of the European Acute Promyelocytic Leukemia Group. J Clin Oncol. 2005 Jan 1. 23(1):120-6. [Medline]. [Full Text].
+Kharfan-Dabaja MA, Abou Mourad YR, Fernandez HF, Pasquini MC, Santos ES. Hematopoietic cell transplantation in acute promyelocytic leukemia: a comprehensive review. Biol Blood Marrow Transplant. 2007 Sep. 13(9):997-1004. [Medline]. 
+Fenaux P, Chastang C, Chevret S, et al, for the European APL Group. A randomized comparison of all transretinoic acid (ATRA) followed by chemotherapy and ATRA plus chemotherapy and the role of maintenance therapy in newly diagnosed acute promyelocytic leukemia. Blood. 1999 Aug 15. 94(4):1192-200. [Medline]. [Full Text].
+Sanz MA, Vellenga E, Rayon C, et al. All-trans retinoic acid and anthracycline monochemotherapy for the treatment of elderly patients with acute promyelocytic leukemia. Blood. 2004 Dec 1. 104(12):3490-3. [Medline]. [Full Text].
+Lengfelder E, Hofmann WK, Nolte F. Management of elderly patients with acute promyelocytic leukemia: progress and problems. Ann Hematol. 2013 May 22. [Medline]. 
+Braun T, Cereja S, Chevret S, Raffoux E, Beaumont M, Detourmignies L, et al. Evolving characteristics and outcome of secondary acute promyelocytic leukemia (APL): A prospective analysis by the French-Belgian-Swiss APL group. Cancer. 2015 Apr 6. [Medline]. 
+[Guideline] Sanz MA, Fenaux P, Tallman MS, Estey EH, Löwenberg B, Naoe T, et al. Management of acute promyelocytic leukemia: updated recommendations from an expert panel of the European LeukemiaNet. Blood. 2019 Apr 11. 133 (15):1630-1643. [Medline]. [Full Text].
+Sandy D Kotiah, MD Director of the Neuroendocrine Center, Hematology and Medical Oncology, Mercy Medical CenterDisclosure: Nothing to disclose.
+Emmanuel C Besa, MD Professor Emeritus, Department of Medicine, Division of Hematologic Malignancies and Hematopoietic Stem Cell Transplantation, Kimmel Cancer Center, Jefferson Medical College of Thomas Jefferson University
+Emmanuel C Besa, MD is a member of the following medical societies: American Association for Cancer Education, American Society of Clinical Oncology, American College of Clinical Pharmacology, American Federation for Medical Research, American Society of Hematology, New York Academy of SciencesDisclosure: Nothing to disclose.
+Francisco Talavera, PharmD, PhD Adjunct Assistant Professor, University of Nebraska Medical Center College of Pharmacy; Editor-in-Chief, Medscape Drug ReferenceDisclosure: Received salary from Medscape for employment. for: Medscape.
+Ronald A Sacher, MBBCh, FRCPC, DTM&H Professor of Internal Medicine and Pathology, Director, Hoxworth Blood Center, University of Cincinnati Academic Health Center
+Ronald A Sacher, MBBCh, FRCPC, DTM&H is a member of the following medical societies: American Association for the Advancement of Science, American Association of Blood Banks, American Clinical and Climatological Association, American Society for Clinical Pathology, American Society of Hematology, College of American Pathologists, International Society of Blood Transfusion, International Society on Thrombosis and Haemostasis, Royal College of Physicians and Surgeons of CanadaDisclosure: Nothing to disclose.
+Emmanuel C Besa, MD Professor Emeritus, Department of Medicine, Division of Hematologic Malignancies and Hematopoietic Stem Cell Transplantation, Kimmel Cancer Center, Jefferson Medical College of Thomas Jefferson University
+Emmanuel C Besa, MD is a member of the following medical societies: American Association for Cancer Education, American Society of Clinical Oncology, American College of Clinical Pharmacology, American Federation for Medical Research, American Society of Hematology, New York Academy of SciencesDisclosure: Nothing to disclose.
+Clarence Sarkodee Adoo, MD, FACP Consulting Staff, Department of Bone Marrow Transplantation, City of Hope Samaritan BMT Program
+Clarence Sarkodee Adoo, MD, FACP is a member of the following medical societies: American College of Physicians-American Society of Internal Medicine, American Society of Hematology, American Society of Clinical OncologyDisclosure: Nothing to disclose.
+Acute Promyelocytic Leukemia: Practice Essentials, Background, Pathophysiology
+Acute promyelocytic leukemia (APL) is a is a unique subtype of acute leukemia characterized by abnormal proliferation of promyelocytes, life-threatening coagulopathy, and the chromosome translocation t(15;17)(q22;q11-12). The discovery and elucidation of the molecular pathogenesis for APL has led to the introduction of all-trans retinoic acid (ATRA) and arsenic trioxide (ATO) therapies, which improved the prognosis of APL patients significantly.
+See the images below.
+ 
+ 
+For patient education information, see the Cancer Center, as well as Leukemia. In addition, patients should visit the Leukemia and Lymphoma Society Web page, www.leukemia-lymphoma.org, for further information.
+APL was first described as an entity in the late 1950s in Norway and France as a hyperacute fatal illness associated with a hemorrhagic syndrome.
+ [1] In 1959, Jean Bernard et al described the association of APL with a severe hemorrhagic diathesis that led to disseminated intravascular coagulation (DIC) and hyperfibrinolysis. By 1973, there were reports of complete remissions with treatment of the disease by daunorubicin.
+In 1974, Leo Sachs pioneered research on leukemic cell differentiation in vivo. Dr. Zhen Yi Wang, a Chinese hematologist, shared data on the efficacy of all-trans retinoic acid (ATRA) in his APL patients during a visit to France in 1985. In 1990, several publications linked a translocation between chromosomes 15 and 17 to the pathology of APL. In the early to mid 1990s, arsenic trioxide (ATO) was added to the treatment regimen. A potentially fatal complication of ATRA treatment, called retinoic acid syndrome, was also described. Over the past 50 years, APL has transformed from a highly fatal disease to a highly curable one.
+ [2] 
+Acute promyelocytic leukemia (APL) is defined by its cytogenetic properties. Over 95% of cases are characterized by a balanced translocation between chromosome 17q21 and chromosome 15q22. This leads to an abnormal fusion protein called PML-RARA. This translocation can be detected by karyotyping or fluorescence in situ hybridization (FISH) studies, and the transcript can be detected by polymerase chain reaction (PCR) techniques.
+The retinoic acid alpha receptor gene (RARA) is encoded by the long arm of chromosome 17. It is mainly expressed in hematopoietic cells and has an important role in regulating gene expression. In the absence of retinoid acid, RARA is bound by nuclear corepressor factor, and this causes transcriptional repression. In the presence of retinoic acid, RARA is activated and terminal differentiation of promyelocytes occurs.
+The promyelocytic gene (PML) is encoded by the long arm of chromosome 15 and is expressed ubiquitously. PML is thought to be involved in apoptosis and tumor suppression.
+There are three possible isoforms caused by PML-RARA translocations. The breakpoint in chromosome 17 is consistently found in intron 2, but varies in chromosome 15. The three breakpoints on the PML gene can occur at intron 3 (L form), intron 6 (S form), and exon 6 (V form). The S form is reportedly associated with a shorter remission duration and overall survival compared with the L form.
+ [3] 
+The fusion gene product causes the retinoic acid receptor to bind more tightly to the nuclear co-repressor factor. Therefore, the gene cannot be activated with physiologic doses of retinoic acid. In about 5% of cases, rearrangements of chromosome 17q21 with other gene partners occur. These include the following:
+PZLF (promyelocytic zinc finger) t(11;17)(q23;q21)
+NPM (nucleophosmin) t(5;17)(q35;q12-21)
+NuMa (nuclear mitotic apparatus) t(11;17)(q13;q21)
+STAT5b (17;17)(q11;q21)
+Yin et al identified a novel fusion between RARA and the interferon regulatory factor 2 binding protein 2 (IRF2BP2) genes.
+ [4] Cao et al reported on a new karyotype: 46,XY; t(7;16)(q31'q22), t(15;17)(q22;q21).
+ [5] 
+It is important to note that the nature of the fusion partner significantly impacts the disease characteristics and response to therapy. For example, APL with PLZF-RARA is not sensitive to retinoic acid and is less sensitive to chemotherapy.
+ [6] 
+About 40% of APL cases also express additional chromosomal abnormalities (trisomy 8 and isochromosome 17). These do not appear to impact the overall prognosis.
+In the United States, acute promyelocytic leukemia (APL) accounts for 5-15% of all adult leukemias.
+ [7] Approximately 30,800 cases of acute leukemia are diagnosed yearly in the US, and about 1000 of those are APL. The annual incidence of APL in Italy is approximately 0.6 per 1 million people.
+Douer noted that the APL-specific PML/RARA gene rearrangement is different in Latinos and non-Latinos, and that the incidence rate of  APL is higher in patients originating in Latin America.
+ [8]  In contrast, Matasar et al reported that lifetime incidence rates of APL were not higher in US Hispanics than in whites, but the age distribution among Hispanics was significantly different from that in non-Hispanic whites, with greater incidence rates for children ages 1-19 years and adults ages 20-44 years. Blacks had lower lifetime incidence rates than non-Hispanic whites, Hispanics, and Asians.
+ [9] 
+The incidence of APL in males and females is equal.
+ [8] The median age of onset of APL is about age 40 years.
+Unlike most leukemias, acute promyelocytic leukemia (APL) has a very good prognosis, with long-term survival rates up to 90% following treatment.
+ [10]  However, the incidence of early death remains high, with 29% of APL patients dying within 30 days of their diagnosis; in 35% of those early deaths, the patient never received all-trans retinoic acid (ATRA) therapy.
+ [11] The most common causes of early death in APL are hemorrhage, differentiation syndrome (DS), and infection.
+ [12, 13] 
+The white blood cell (WBC) count is viewed as an important index associated with prognosis in APL. The National Comprehensive Cancer Network (NCCN) uses WBC counts to classify patients as either low risk (WBC ≤10,000/μL) or high risk (WBC >10,000/μL).
+ [14] In addition to higher WBC counts, the following have also been identified as risk factors for early death
+ [13, 12] :
+Molecular and immunophenotypic features associated with a higher risk of relapse include expression in APL blasts of the stem/progenitor cell antigen CD34, the neural adhesion molecule (CD56), and the T cell antigen CD2. Often, the expression of these markers is associated with a high WBC count.
+ [15] 
+Since the early 1990s, there have been reports of extramedullary relapse to the skin and central nervous system with APL that are associated with a poor prognosis.
+A retrospective analysis examined the outcome of 155 patients with the microgranular variant (M3V) of APL who were treated with ATRA-based therapy in three clinical trials. The analysis revealed no difference in incidence of complications, survival, and response compared with patients who had classical M3 morphology, when outcomes were adjusted for the WBC count or the relapse risk score.
+ [16] 
+A long-term observational study of 1025 patients with APL in first complete remission found that therapy-related myeloid neoplasms (t-MNs) are a rare but severe complication. Therapy for APL in these patients consisted of ATRA plus anthracycline chemotherapy. Further research is needed to determine how to decrease the frequency of t-MN following ATRA plus anthracycline-based therapy.
+ [17] 
+ 
+Bernard J. History of promyelocytic leukaemia. Leukemia. 1994. 8 suppl 2:S1-5. [Medline]. 
+Lo-Coco F, Cicconi L, Voso MT. Progress and criticalities in the management of acute promyelocytic leukemia. Oncotarget. 2017 Nov 21. 8 (59):99221-99222. [Medline]. [Full Text].
+Vahdat L, Maslak P, Miller WH Jr, et al. Early mortality and the retinoic acid syndrome in acute promyelocytic leukemia: impact of leukocytosis, low-dose chemotherapy, PMN/RAR-alpha isoform, and CD13 expression in patients treated with all-trans retinoic acid. Blood. 1994 Dec 1. 84(11):3843-9. [Medline]. [Full Text].
+Yin CC, Jain N, Mehrotra M, Zhagn J, Protopopov A, Zuo Z, et al. Identification of a novel fusion gene, IRF2BP2-RARA, in acute promyelocytic leukemia. J Natl Compr Canc Netw. 2015 Jan. 13(1):19-22. [Medline]. 
+Cao Y, Yuan R, Wang Y, Chen R, Huang M, Zhou J. A New Chromosome Translocation t(7;16)(q31,q22) Change during an Acute Promyelocytic Leukemia Relapse. Cytogenet Genome Res. 2013 May 4. [Medline]. 
+Jurcic JG, Soignet SL, Maslak AP. Diagnosis and treatment of acute promyelocytic leukemia. Curr Oncol Rep. 2007 Sep. 9(5):337-44. [Medline]. 
+Ribeiro RC, Rego E. Management of APL in developing countries: epidemiology, challenges and opportunities for international collaboration. Hematology Am Soc Hematol Educ Program. 2006. 162-8. [Medline]. [Full Text].
+Douer D. The epidemiology of acute promyelocytic leukaemia. Best Pract Res Clin Haematol. 2003 Sep. 16(3):357-67. [Medline]. 
+Matasar MJ, Ritchie EK, Consedine N, Magai C, Neugut AI. Incidence rates of acute promyelocytic leukemia among Hispanics, blacks, Asians, and non-Hispanic whites in the United States. Eur J Cancer Prev. 2006 Aug. 15(4):367-70. [Medline]. 
+Cicconi L, Lo-Coco F. Current management of newly diagnosed acute promyelocytic leukemia. Ann Oncol. 2016 Aug. 27 (8):1474-81. [Medline]. [Full Text].
+Xu F, Wang C, Yin C, Jiang X, Jiang L, Wang Z, et al. Analysis of early death in newly diagnosed acute promyelocytic leukemia patients. Medicine (Baltimore). 2017 Dec. 96 (51):e9324. [Medline]. [Full Text].
+Hou J, Wang S, Zhang Y, Fan D, Li H, Yang Y, et al. Causes and prognostic factors for early death in patients with acute promyelocytic leukemia treated with single-agent arsenic trioxide. Ann Hematol. 2017 Dec. 96 (12):2005-2013. [Medline]. 
+Zhao H, Zhao Y, Zhang Y, Hou J, Yang H, Cao F, et al. Difference in causes and prognostic factors of early death between cohorts with de novo and relapsed acute promyelocytic leukemia. Ann Hematol. 2018 Mar. 97 (3):409-416. [Medline]. 
+[Guideline] National Comprehensive Cancer Network. Acute Myeloid Leukemia. NCCN. Available at http://www.nccn.org/professionals/physician_gls/pdf/aml.pdf. Version 2.2019 — March 8, 2019; Accessed: May 2, 2019.
+Testa U, Lo-Coco F. Prognostic factors in acute promyelocytic leukemia: strategies to define high-risk patients. Ann Hematol. 2016 Apr. 95 (5):673-80. [Medline]. 
+Tallman MS, Kim HT, Montesinos P, et al. Does microgranular variant morphology of acute promyelocytic leukemia independently predict a less favorable outcome compared with classical M3 APL? A joint study of the North American Intergroup and the PETHEMA Group. Blood. 2010 Dec 16. 116(25):5650-9. [Medline]. 
+Montesinos P, González JD, González J, Rayón C, de Lisa E, Amigo ML, et al. Therapy-related myeloid neoplasms in patients with acute promyelocytic leukemia treated with all-trans-retinoic Acid and anthracycline-based chemotherapy. J Clin Oncol. 2010 Aug 20. 28(24):3872-9. [Medline]. 
+Cashen AF. Acute Leukemias. Govindan R, Morgensztern D, eds. DeVita, Hellman, and Rosenberg's Cancer: Principles & Practice of Oncology: Review. 4th ed. Philadelphia, Pa: Wolters Kluwer; 2016. 293-304. 
+Menell JS, Cesarman GM, Jacovina AT, et al. Annexin II and bleeding in acute promyelocytic leukemia. N Engl J Med. 1999 Apr 1. 340(13):994-1004. [Medline]. [Full Text].
+Tallman MS, Andersen JW, Schiffer CA, et al. All-trans retinoic acid in acute promyelocytic leukemia: long-term outcome and prognostic factor analysis from the North American Intergroup protocol. Blood. 2002 Dec 15. 100(13):4298-302. [Medline]. [Full Text].
+Shigeno K, Naito K, Sahara N, et al. Arsenic trioxide therapy in relapsed or refractory Japanese patients with acute promyelocytic leukemia: updated outcomes of the phase II study and postremission therapies. Int J Hematol. 2005 Oct. 82(3):224-9. [Medline]. 
+Shen ZX, Shi ZZ, Fang J, Gu BW, Li JM, Zhu YM, et al. All-trans retinoic acid/As2O3 combination yields a high quality remission and survival in newly diagnosed acute promyelocytic leukemia. Proc Natl Acad Sci U S A. 2004 Apr 13. 101(15):5328-35. [Medline]. [Full Text].
+Lo-Coco F, Avvisati G, Vignetti M, Thiede C, Orlando SM, Iacobelli S, et al. Retinoic acid and arsenic trioxide for acute promyelocytic leukemia. N Engl J Med. 2013 Jul 11. 369(2):111-21. [Medline]. [Full Text].
+Sanz MA, Martin G, Gonzalez M, et al, for the Programa de Estudio y Traitmiento de las Hemopatias Malignas. Risk-adapted treatment of acute promyelocytic leukemia with all-trans-retinoic acid and anthracycline monochemotherapy: a multicenter study by the PETHEMA group. Blood. 2004 Feb 15. 103(4):1237-43. [Medline]. [Full Text].
+Fenaux P, Chastang C, Chevret S, et al, for the The European APL Group. A randomized comparison of all transretinoic acid (ATRA) followed by chemotherapy and ATRA plus chemotherapy and the role of maintenance therapy in newly diagnosed acute promyelocytic leukemia. Blood. 1999 Aug 15. 94(4):1192-200. [Medline]. [Full Text].
+Sanz MA, Lo Coco F, Martin G, et al. Definition of relapse risk and role of nonanthracycline drugs for consolidation in patients with acute promyelocytic leukemia: a joint study of the PETHEMA and GIMEMA cooperative groups. Blood. 2000 Aug 15. 96(4):1247-53. [Medline]. [Full Text].
+Ades L, Sanz MA, Chevret S, et al. Treatment of newly diagnosed acute promyelocytic leukemia (APL): a comparison of French-Belgian-Swiss and PETHEMA results. Blood. 2008 Feb 1. 111(3):1078-84. [Medline]. [Full Text].
+de la Serna J, Montesinos P, Vellenga E, et al. Causes and prognostic factors of remission induction failure in patients with acute promyelocytic leukemia treated with all-trans retinoic acid and idarubicin. Blood. 2008 Apr 1. 111(7):3395-402. [Medline]. [Full Text].
+Montesinos P, Gonzalez JD, Gonzalez J, et al. Therapy-related myeloid neoplasms in patients with acute promyelocytic leukemia treated with all-trans-retinoic Acid and anthracycline-based chemotherapy. J Clin Oncol. 2010 Aug 20. 28(24):3872-9. [Medline]. 
+Powell BL, Moser B, Stock W, Gallagher RE, Willman CL, Stone RM, et al. Arsenic trioxide improves event-free and overall survival for adults with acute promyelocytic leukemia: North American Leukemia Intergroup Study C9710. Blood. 2010 Nov 11. 116(19):3751-7. [Medline]. [Full Text].
+Grimwade D, Howe K, Langabeer S, et al. Minimal residual disease detection in acute promyelocytic leukemia by reverse-transcriptase PCR: evaluation of PML-RAR alpha and RAR alpha-PML assessment in patients who ultimately relapse. Leukemia. 1996 Jan. 10(1):61-6. [Medline]. 
+Avvisati G, Lo-Coco F, Paoloni FP, et al. AIDA 0493 protocol for newly diagnosed acute promyelocytic leukemia: very long-term results and role of maintenance. Blood. 2011 May 5. 117(18):4716-25. [Medline]. 
+Falchi L, Verstovsek S, Ravandi-Kashani F, Kantarjian HM. The evolution of arsenic in the treatment of acute promyelocytic leukemia and other myeloid neoplasms: Moving toward an effective oral, outpatient therapy. Cancer. 2016 Apr 15. 122 (8):1160-8. [Medline]. 
+Soignet SL, Frankel SR, Douer D, et al. United States multicenter study of arsenic trioxide in relapsed acute promyelocytic leukemia. J Clin Oncol. 2001 Sep 15. 19(18):3852-60. [Medline]. [Full Text].
+Mathews V, George B, Chendamarai E, Lakshmi KM, Desire S, Balasubramanian P, et al. Single-agent arsenic trioxide in the treatment of newly diagnosed acute promyelocytic leukemia: long-term follow-up data. J Clin Oncol. 2010 Aug 20. 28(24):3866-71. [Medline]. 
+Tomita A, Kiyoi H, Naoe T. Mechanisms of action and resistance to all-trans retinoic acid (ATRA) and arsenic trioxide (As2O 3) in acute promyelocytic leukemia. Int J Hematol. 2013 May 14. [Medline]. 
+Lo Coco F, Ammatuna E, Noguera N. Treatment of acute promyelocytic leukemia with gemtuzumab ozogamicin. Clin Adv Hematol Oncol. 2006 Jan. 4(1):57-62, 76-7. [Medline]. 
+Lo-Coco F, Cimino G, Breccia M, et al. Gemtuzumab ozogamicin (Mylotarg) as a single agent for molecularly relapsed acute promyelocytic leukemia. Blood. 2004 Oct 1. 104(7):1995-9. [Medline]. [Full Text].
+Estey EH, Giles FJ, Beran M, et al. Experience with gemtuzumab ozogamycin ("Mylotarg") and all-trans retinoic acid in untreated acute promyelocytic leukemia. Blood. 2002 Jun 1. 99(11):4222-4. [Medline]. [Full Text].
+de Botton S, Fawaz A, Chevret S, et al. Autologous and allogeneic stem-cell transplantation as salvage treatment of acute promyelocytic leukemia initially treated with all-trans-retinoic acid: a retrospective analysis of the European Acute Promyelocytic Leukemia Group. J Clin Oncol. 2005 Jan 1. 23(1):120-6. [Medline]. [Full Text].
+Kharfan-Dabaja MA, Abou Mourad YR, Fernandez HF, Pasquini MC, Santos ES. Hematopoietic cell transplantation in acute promyelocytic leukemia: a comprehensive review. Biol Blood Marrow Transplant. 2007 Sep. 13(9):997-1004. [Medline]. 
+Fenaux P, Chastang C, Chevret S, et al, for the European APL Group. A randomized comparison of all transretinoic acid (ATRA) followed by chemotherapy and ATRA plus chemotherapy and the role of maintenance therapy in newly diagnosed acute promyelocytic leukemia. Blood. 1999 Aug 15. 94(4):1192-200. [Medline]. [Full Text].
+Sanz MA, Vellenga E, Rayon C, et al. All-trans retinoic acid and anthracycline monochemotherapy for the treatment of elderly patients with acute promyelocytic leukemia. Blood. 2004 Dec 1. 104(12):3490-3. [Medline]. [Full Text].
+Lengfelder E, Hofmann WK, Nolte F. Management of elderly patients with acute promyelocytic leukemia: progress and problems. Ann Hematol. 2013 May 22. [Medline]. 
+Braun T, Cereja S, Chevret S, Raffoux E, Beaumont M, Detourmignies L, et al. Evolving characteristics and outcome of secondary acute promyelocytic leukemia (APL): A prospective analysis by the French-Belgian-Swiss APL group. Cancer. 2015 Apr 6. [Medline]. 
+[Guideline] Sanz MA, Fenaux P, Tallman MS, Estey EH, Löwenberg B, Naoe T, et al. Management of acute promyelocytic leukemia: updated recommendations from an expert panel of the European LeukemiaNet. Blood. 2019 Apr 11. 133 (15):1630-1643. [Medline]. [Full Text].
+Sandy D Kotiah, MD Director of the Neuroendocrine Center, Hematology and Medical Oncology, Mercy Medical CenterDisclosure: Nothing to disclose.
+Emmanuel C Besa, MD Professor Emeritus, Department of Medicine, Division of Hematologic Malignancies and Hematopoietic Stem Cell Transplantation, Kimmel Cancer Center, Jefferson Medical College of Thomas Jefferson University
+Emmanuel C Besa, MD is a member of the following medical societies: American Association for Cancer Education, American Society of Clinical Oncology, American College of Clinical Pharmacology, American Federation for Medical Research, American Society of Hematology, New York Academy of SciencesDisclosure: Nothing to disclose.
+Francisco Talavera, PharmD, PhD Adjunct Assistant Professor, University of Nebraska Medical Center College of Pharmacy; Editor-in-Chief, Medscape Drug ReferenceDisclosure: Received salary from Medscape for employment. for: Medscape.
+Ronald A Sacher, MBBCh, FRCPC, DTM&H Professor of Internal Medicine and Pathology, Director, Hoxworth Blood Center, University of Cincinnati Academic Health Center
+Ronald A Sacher, MBBCh, FRCPC, DTM&H is a member of the following medical societies: American Association for the Advancement of Science, American Association of Blood Banks, American Clinical and Climatological Association, American Society for Clinical Pathology, American Society of Hematology, College of American Pathologists, International Society of Blood Transfusion, International Society on Thrombosis and Haemostasis, Royal College of Physicians and Surgeons of CanadaDisclosure: Nothing to disclose.
+Emmanuel C Besa, MD Professor Emeritus, Department of Medicine, Division of Hematologic Malignancies and Hematopoietic Stem Cell Transplantation, Kimmel Cancer Center, Jefferson Medical College of Thomas Jefferson University
+Emmanuel C Besa, MD is a member of the following medical societies: American Association for Cancer Education, American Society of Clinical Oncology, American College of Clinical Pharmacology, American Federation for Medical Research, American Society of Hematology, New York Academy of SciencesDisclosure: Nothing to disclose.
+Clarence Sarkodee Adoo, MD, FACP Consulting Staff, Department of Bone Marrow Transplantation, City of Hope Samaritan BMT Program
+Clarence Sarkodee Adoo, MD, FACP is a member of the following medical societies: American College of Physicians-American Society of Internal Medicine, American Society of Hematology, American Society of Clinical OncologyDisclosure: Nothing to disclose.
+Acute Promyelocytic Leukemia: Practice Essentials, Background, Pathophysiology
+Acute promyelocytic leukemia (APL) is a is a unique subtype of acute leukemia characterized by abnormal proliferation of promyelocytes, life-threatening coagulopathy, and the chromosome translocation t(15;17)(q22;q11-12). The discovery and elucidation of the molecular pathogenesis for APL has led to the introduction of all-trans retinoic acid (ATRA) and arsenic trioxide (ATO) therapies, which improved the prognosis of APL patients significantly.
+See the images below.
+ 
+ 
+For patient education information, see the Cancer Center, as well as Leukemia. In addition, patients should visit the Leukemia and Lymphoma Society Web page, www.leukemia-lymphoma.org, for further information.
+APL was first described as an entity in the late 1950s in Norway and France as a hyperacute fatal illness associated with a hemorrhagic syndrome.
+ [1] In 1959, Jean Bernard et al described the association of APL with a severe hemorrhagic diathesis that led to disseminated intravascular coagulation (DIC) and hyperfibrinolysis. By 1973, there were reports of complete remissions with treatment of the disease by daunorubicin.
+In 1974, Leo Sachs pioneered research on leukemic cell differentiation in vivo. Dr. Zhen Yi Wang, a Chinese hematologist, shared data on the efficacy of all-trans retinoic acid (ATRA) in his APL patients during a visit to France in 1985. In 1990, several publications linked a translocation between chromosomes 15 and 17 to the pathology of APL. In the early to mid 1990s, arsenic trioxide (ATO) was added to the treatment regimen. A potentially fatal complication of ATRA treatment, called retinoic acid syndrome, was also described. Over the past 50 years, APL has transformed from a highly fatal disease to a highly curable one.
+ [2] 
+Acute promyelocytic leukemia (APL) is defined by its cytogenetic properties. Over 95% of cases are characterized by a balanced translocation between chromosome 17q21 and chromosome 15q22. This leads to an abnormal fusion protein called PML-RARA. This translocation can be detected by karyotyping or fluorescence in situ hybridization (FISH) studies, and the transcript can be detected by polymerase chain reaction (PCR) techniques.
+The retinoic acid alpha receptor gene (RARA) is encoded by the long arm of chromosome 17. It is mainly expressed in hematopoietic cells and has an important role in regulating gene expression. In the absence of retinoid acid, RARA is bound by nuclear corepressor factor, and this causes transcriptional repression. In the presence of retinoic acid, RARA is activated and terminal differentiation of promyelocytes occurs.
+The promyelocytic gene (PML) is encoded by the long arm of chromosome 15 and is expressed ubiquitously. PML is thought to be involved in apoptosis and tumor suppression.
+There are three possible isoforms caused by PML-RARA translocations. The breakpoint in chromosome 17 is consistently found in intron 2, but varies in chromosome 15. The three breakpoints on the PML gene can occur at intron 3 (L form), intron 6 (S form), and exon 6 (V form). The S form is reportedly associated with a shorter remission duration and overall survival compared with the L form.
+ [3] 
+The fusion gene product causes the retinoic acid receptor to bind more tightly to the nuclear co-repressor factor. Therefore, the gene cannot be activated with physiologic doses of retinoic acid. In about 5% of cases, rearrangements of chromosome 17q21 with other gene partners occur. These include the following:
+PZLF (promyelocytic zinc finger) t(11;17)(q23;q21)
+NPM (nucleophosmin) t(5;17)(q35;q12-21)
+NuMa (nuclear mitotic apparatus) t(11;17)(q13;q21)
+STAT5b (17;17)(q11;q21)
+Yin et al identified a novel fusion between RARA and the interferon regulatory factor 2 binding protein 2 (IRF2BP2) genes.
+ [4] Cao et al reported on a new karyotype: 46,XY; t(7;16)(q31'q22), t(15;17)(q22;q21).
+ [5] 
+It is important to note that the nature of the fusion partner significantly impacts the disease characteristics and response to therapy. For example, APL with PLZF-RARA is not sensitive to retinoic acid and is less sensitive to chemotherapy.
+ [6] 
+About 40% of APL cases also express additional chromosomal abnormalities (trisomy 8 and isochromosome 17). These do not appear to impact the overall prognosis.
+In the United States, acute promyelocytic leukemia (APL) accounts for 5-15% of all adult leukemias.
+ [7] Approximately 30,800 cases of acute leukemia are diagnosed yearly in the US, and about 1000 of those are APL. The annual incidence of APL in Italy is approximately 0.6 per 1 million people.
+Douer noted that the APL-specific PML/RARA gene rearrangement is different in Latinos and non-Latinos, and that the incidence rate of  APL is higher in patients originating in Latin America.
+ [8]  In contrast, Matasar et al reported that lifetime incidence rates of APL were not higher in US Hispanics than in whites, but the age distribution among Hispanics was significantly different from that in non-Hispanic whites, with greater incidence rates for children ages 1-19 years and adults ages 20-44 years. Blacks had lower lifetime incidence rates than non-Hispanic whites, Hispanics, and Asians.
+ [9] 
+The incidence of APL in males and females is equal.
+ [8] The median age of onset of APL is about age 40 years.
+Unlike most leukemias, acute promyelocytic leukemia (APL) has a very good prognosis, with long-term survival rates up to 90% following treatment.
+ [10]  However, the incidence of early death remains high, with 29% of APL patients dying within 30 days of their diagnosis; in 35% of those early deaths, the patient never received all-trans retinoic acid (ATRA) therapy.
+ [11] The most common causes of early death in APL are hemorrhage, differentiation syndrome (DS), and infection.
+ [12, 13] 
+The white blood cell (WBC) count is viewed as an important index associated with prognosis in APL. The National Comprehensive Cancer Network (NCCN) uses WBC counts to classify patients as either low risk (WBC ≤10,000/μL) or high risk (WBC >10,000/μL).
+ [14] In addition to higher WBC counts, the following have also been identified as risk factors for early death
+ [13, 12] :
+Molecular and immunophenotypic features associated with a higher risk of relapse include expression in APL blasts of the stem/progenitor cell antigen CD34, the neural adhesion molecule (CD56), and the T cell antigen CD2. Often, the expression of these markers is associated with a high WBC count.
+ [15] 
+Since the early 1990s, there have been reports of extramedullary relapse to the skin and central nervous system with APL that are associated with a poor prognosis.
+A retrospective analysis examined the outcome of 155 patients with the microgranular variant (M3V) of APL who were treated with ATRA-based therapy in three clinical trials. The analysis revealed no difference in incidence of complications, survival, and response compared with patients who had classical M3 morphology, when outcomes were adjusted for the WBC count or the relapse risk score.
+ [16] 
+A long-term observational study of 1025 patients with APL in first complete remission found that therapy-related myeloid neoplasms (t-MNs) are a rare but severe complication. Therapy for APL in these patients consisted of ATRA plus anthracycline chemotherapy. Further research is needed to determine how to decrease the frequency of t-MN following ATRA plus anthracycline-based therapy.
+ [17] 
+ 
+Bernard J. History of promyelocytic leukaemia. Leukemia. 1994. 8 suppl 2:S1-5. [Medline]. 
+Lo-Coco F, Cicconi L, Voso MT. Progress and criticalities in the management of acute promyelocytic leukemia. Oncotarget. 2017 Nov 21. 8 (59):99221-99222. [Medline]. [Full Text].
+Vahdat L, Maslak P, Miller WH Jr, et al. Early mortality and the retinoic acid syndrome in acute promyelocytic leukemia: impact of leukocytosis, low-dose chemotherapy, PMN/RAR-alpha isoform, and CD13 expression in patients treated with all-trans retinoic acid. Blood. 1994 Dec 1. 84(11):3843-9. [Medline]. [Full Text].
+Yin CC, Jain N, Mehrotra M, Zhagn J, Protopopov A, Zuo Z, et al. Identification of a novel fusion gene, IRF2BP2-RARA, in acute promyelocytic leukemia. J Natl Compr Canc Netw. 2015 Jan. 13(1):19-22. [Medline]. 
+Cao Y, Yuan R, Wang Y, Chen R, Huang M, Zhou J. A New Chromosome Translocation t(7;16)(q31,q22) Change during an Acute Promyelocytic Leukemia Relapse. Cytogenet Genome Res. 2013 May 4. [Medline]. 
+Jurcic JG, Soignet SL, Maslak AP. Diagnosis and treatment of acute promyelocytic leukemia. Curr Oncol Rep. 2007 Sep. 9(5):337-44. [Medline]. 
+Ribeiro RC, Rego E. Management of APL in developing countries: epidemiology, challenges and opportunities for international collaboration. Hematology Am Soc Hematol Educ Program. 2006. 162-8. [Medline]. [Full Text].
+Douer D. The epidemiology of acute promyelocytic leukaemia. Best Pract Res Clin Haematol. 2003 Sep. 16(3):357-67. [Medline]. 
+Matasar MJ, Ritchie EK, Consedine N, Magai C, Neugut AI. Incidence rates of acute promyelocytic leukemia among Hispanics, blacks, Asians, and non-Hispanic whites in the United States. Eur J Cancer Prev. 2006 Aug. 15(4):367-70. [Medline]. 
+Cicconi L, Lo-Coco F. Current management of newly diagnosed acute promyelocytic leukemia. Ann Oncol. 2016 Aug. 27 (8):1474-81. [Medline]. [Full Text].
+Xu F, Wang C, Yin C, Jiang X, Jiang L, Wang Z, et al. Analysis of early death in newly diagnosed acute promyelocytic leukemia patients. Medicine (Baltimore). 2017 Dec. 96 (51):e9324. [Medline]. [Full Text].
+Hou J, Wang S, Zhang Y, Fan D, Li H, Yang Y, et al. Causes and prognostic factors for early death in patients with acute promyelocytic leukemia treated with single-agent arsenic trioxide. Ann Hematol. 2017 Dec. 96 (12):2005-2013. [Medline]. 
+Zhao H, Zhao Y, Zhang Y, Hou J, Yang H, Cao F, et al. Difference in causes and prognostic factors of early death between cohorts with de novo and relapsed acute promyelocytic leukemia. Ann Hematol. 2018 Mar. 97 (3):409-416. [Medline]. 
+[Guideline] National Comprehensive Cancer Network. Acute Myeloid Leukemia. NCCN. Available at http://www.nccn.org/professionals/physician_gls/pdf/aml.pdf. Version 2.2019 — March 8, 2019; Accessed: May 2, 2019.
+Testa U, Lo-Coco F. Prognostic factors in acute promyelocytic leukemia: strategies to define high-risk patients. Ann Hematol. 2016 Apr. 95 (5):673-80. [Medline]. 
+Tallman MS, Kim HT, Montesinos P, et al. Does microgranular variant morphology of acute promyelocytic leukemia independently predict a less favorable outcome compared with classical M3 APL? A joint study of the North American Intergroup and the PETHEMA Group. Blood. 2010 Dec 16. 116(25):5650-9. [Medline]. 
+Montesinos P, González JD, González J, Rayón C, de Lisa E, Amigo ML, et al. Therapy-related myeloid neoplasms in patients with acute promyelocytic leukemia treated with all-trans-retinoic Acid and anthracycline-based chemotherapy. J Clin Oncol. 2010 Aug 20. 28(24):3872-9. [Medline]. 
+Cashen AF. Acute Leukemias. Govindan R, Morgensztern D, eds. DeVita, Hellman, and Rosenberg's Cancer: Principles & Practice of Oncology: Review. 4th ed. Philadelphia, Pa: Wolters Kluwer; 2016. 293-304. 
+Menell JS, Cesarman GM, Jacovina AT, et al. Annexin II and bleeding in acute promyelocytic leukemia. N Engl J Med. 1999 Apr 1. 340(13):994-1004. [Medline]. [Full Text].
+Tallman MS, Andersen JW, Schiffer CA, et al. All-trans retinoic acid in acute promyelocytic leukemia: long-term outcome and prognostic factor analysis from the North American Intergroup protocol. Blood. 2002 Dec 15. 100(13):4298-302. [Medline]. [Full Text].
+Shigeno K, Naito K, Sahara N, et al. Arsenic trioxide therapy in relapsed or refractory Japanese patients with acute promyelocytic leukemia: updated outcomes of the phase II study and postremission therapies. Int J Hematol. 2005 Oct. 82(3):224-9. [Medline]. 
+Shen ZX, Shi ZZ, Fang J, Gu BW, Li JM, Zhu YM, et al. All-trans retinoic acid/As2O3 combination yields a high quality remission and survival in newly diagnosed acute promyelocytic leukemia. Proc Natl Acad Sci U S A. 2004 Apr 13. 101(15):5328-35. [Medline]. [Full Text].
+Lo-Coco F, Avvisati G, Vignetti M, Thiede C, Orlando SM, Iacobelli S, et al. Retinoic acid and arsenic trioxide for acute promyelocytic leukemia. N Engl J Med. 2013 Jul 11. 369(2):111-21. [Medline]. [Full Text].
+Sanz MA, Martin G, Gonzalez M, et al, for the Programa de Estudio y Traitmiento de las Hemopatias Malignas. Risk-adapted treatment of acute promyelocytic leukemia with all-trans-retinoic acid and anthracycline monochemotherapy: a multicenter study by the PETHEMA group. Blood. 2004 Feb 15. 103(4):1237-43. [Medline]. [Full Text].
+Fenaux P, Chastang C, Chevret S, et al, for the The European APL Group. A randomized comparison of all transretinoic acid (ATRA) followed by chemotherapy and ATRA plus chemotherapy and the role of maintenance therapy in newly diagnosed acute promyelocytic leukemia. Blood. 1999 Aug 15. 94(4):1192-200. [Medline]. [Full Text].
+Sanz MA, Lo Coco F, Martin G, et al. Definition of relapse risk and role of nonanthracycline drugs for consolidation in patients with acute promyelocytic leukemia: a joint study of the PETHEMA and GIMEMA cooperative groups. Blood. 2000 Aug 15. 96(4):1247-53. [Medline]. [Full Text].
+Ades L, Sanz MA, Chevret S, et al. Treatment of newly diagnosed acute promyelocytic leukemia (APL): a comparison of French-Belgian-Swiss and PETHEMA results. Blood. 2008 Feb 1. 111(3):1078-84. [Medline]. [Full Text].
+de la Serna J, Montesinos P, Vellenga E, et al. Causes and prognostic factors of remission induction failure in patients with acute promyelocytic leukemia treated with all-trans retinoic acid and idarubicin. Blood. 2008 Apr 1. 111(7):3395-402. [Medline]. [Full Text].
+Montesinos P, Gonzalez JD, Gonzalez J, et al. Therapy-related myeloid neoplasms in patients with acute promyelocytic leukemia treated with all-trans-retinoic Acid and anthracycline-based chemotherapy. J Clin Oncol. 2010 Aug 20. 28(24):3872-9. [Medline]. 
+Powell BL, Moser B, Stock W, Gallagher RE, Willman CL, Stone RM, et al. Arsenic trioxide improves event-free and overall survival for adults with acute promyelocytic leukemia: North American Leukemia Intergroup Study C9710. Blood. 2010 Nov 11. 116(19):3751-7. [Medline]. [Full Text].
+Grimwade D, Howe K, Langabeer S, et al. Minimal residual disease detection in acute promyelocytic leukemia by reverse-transcriptase PCR: evaluation of PML-RAR alpha and RAR alpha-PML assessment in patients who ultimately relapse. Leukemia. 1996 Jan. 10(1):61-6. [Medline]. 
+Avvisati G, Lo-Coco F, Paoloni FP, et al. AIDA 0493 protocol for newly diagnosed acute promyelocytic leukemia: very long-term results and role of maintenance. Blood. 2011 May 5. 117(18):4716-25. [Medline]. 
+Falchi L, Verstovsek S, Ravandi-Kashani F, Kantarjian HM. The evolution of arsenic in the treatment of acute promyelocytic leukemia and other myeloid neoplasms: Moving toward an effective oral, outpatient therapy. Cancer. 2016 Apr 15. 122 (8):1160-8. [Medline]. 
+Soignet SL, Frankel SR, Douer D, et al. United States multicenter study of arsenic trioxide in relapsed acute promyelocytic leukemia. J Clin Oncol. 2001 Sep 15. 19(18):3852-60. [Medline]. [Full Text].
+Mathews V, George B, Chendamarai E, Lakshmi KM, Desire S, Balasubramanian P, et al. Single-agent arsenic trioxide in the treatment of newly diagnosed acute promyelocytic leukemia: long-term follow-up data. J Clin Oncol. 2010 Aug 20. 28(24):3866-71. [Medline]. 
+Tomita A, Kiyoi H, Naoe T. Mechanisms of action and resistance to all-trans retinoic acid (ATRA) and arsenic trioxide (As2O 3) in acute promyelocytic leukemia. Int J Hematol. 2013 May 14. [Medline]. 
+Lo Coco F, Ammatuna E, Noguera N. Treatment of acute promyelocytic leukemia with gemtuzumab ozogamicin. Clin Adv Hematol Oncol. 2006 Jan. 4(1):57-62, 76-7. [Medline]. 
+Lo-Coco F, Cimino G, Breccia M, et al. Gemtuzumab ozogamicin (Mylotarg) as a single agent for molecularly relapsed acute promyelocytic leukemia. Blood. 2004 Oct 1. 104(7):1995-9. [Medline]. [Full Text].
+Estey EH, Giles FJ, Beran M, et al. Experience with gemtuzumab ozogamycin ("Mylotarg") and all-trans retinoic acid in untreated acute promyelocytic leukemia. Blood. 2002 Jun 1. 99(11):4222-4. [Medline]. [Full Text].
+de Botton S, Fawaz A, Chevret S, et al. Autologous and allogeneic stem-cell transplantation as salvage treatment of acute promyelocytic leukemia initially treated with all-trans-retinoic acid: a retrospective analysis of the European Acute Promyelocytic Leukemia Group. J Clin Oncol. 2005 Jan 1. 23(1):120-6. [Medline]. [Full Text].
+Kharfan-Dabaja MA, Abou Mourad YR, Fernandez HF, Pasquini MC, Santos ES. Hematopoietic cell transplantation in acute promyelocytic leukemia: a comprehensive review. Biol Blood Marrow Transplant. 2007 Sep. 13(9):997-1004. [Medline]. 
+Fenaux P, Chastang C, Chevret S, et al, for the European APL Group. A randomized comparison of all transretinoic acid (ATRA) followed by chemotherapy and ATRA plus chemotherapy and the role of maintenance therapy in newly diagnosed acute promyelocytic leukemia. Blood. 1999 Aug 15. 94(4):1192-200. [Medline]. [Full Text].
+Sanz MA, Vellenga E, Rayon C, et al. All-trans retinoic acid and anthracycline monochemotherapy for the treatment of elderly patients with acute promyelocytic leukemia. Blood. 2004 Dec 1. 104(12):3490-3. [Medline]. [Full Text].
+Lengfelder E, Hofmann WK, Nolte F. Management of elderly patients with acute promyelocytic leukemia: progress and problems. Ann Hematol. 2013 May 22. [Medline]. 
+Braun T, Cereja S, Chevret S, Raffoux E, Beaumont M, Detourmignies L, et al. Evolving characteristics and outcome of secondary acute promyelocytic leukemia (APL): A prospective analysis by the French-Belgian-Swiss APL group. Cancer. 2015 Apr 6. [Medline]. 
+[Guideline] Sanz MA, Fenaux P, Tallman MS, Estey EH, Löwenberg B, Naoe T, et al. Management of acute promyelocytic leukemia: updated recommendations from an expert panel of the European LeukemiaNet. Blood. 2019 Apr 11. 133 (15):1630-1643. [Medline]. [Full Text].
+Sandy D Kotiah, MD Director of the Neuroendocrine Center, Hematology and Medical Oncology, Mercy Medical CenterDisclosure: Nothing to disclose.
+Emmanuel C Besa, MD Professor Emeritus, Department of Medicine, Division of Hematologic Malignancies and Hematopoietic Stem Cell Transplantation, Kimmel Cancer Center, Jefferson Medical College of Thomas Jefferson University
+Emmanuel C Besa, MD is a member of the following medical societies: American Association for Cancer Education, American Society of Clinical Oncology, American College of Clinical Pharmacology, American Federation for Medical Research, American Society of Hematology, New York Academy of SciencesDisclosure: Nothing to disclose.
+Francisco Talavera, PharmD, PhD Adjunct Assistant Professor, University of Nebraska Medical Center College of Pharmacy; Editor-in-Chief, Medscape Drug ReferenceDisclosure: Received salary from Medscape for employment. for: Medscape.
+Ronald A Sacher, MBBCh, FRCPC, DTM&H Professor of Internal Medicine and Pathology, Director, Hoxworth Blood Center, University of Cincinnati Academic Health Center
+Ronald A Sacher, MBBCh, FRCPC, DTM&H is a member of the following medical societies: American Association for the Advancement of Science, American Association of Blood Banks, American Clinical and Climatological Association, American Society for Clinical Pathology, American Society of Hematology, College of American Pathologists, International Society of Blood Transfusion, International Society on Thrombosis and Haemostasis, Royal College of Physicians and Surgeons of CanadaDisclosure: Nothing to disclose.
+Emmanuel C Besa, MD Professor Emeritus, Department of Medicine, Division of Hematologic Malignancies and Hematopoietic Stem Cell Transplantation, Kimmel Cancer Center, Jefferson Medical College of Thomas Jefferson University
+Emmanuel C Besa, MD is a member of the following medical societies: American Association for Cancer Education, American Society of Clinical Oncology, American College of Clinical Pharmacology, American Federation for Medical Research, American Society of Hematology, New York Academy of SciencesDisclosure: Nothing to disclose.
+Clarence Sarkodee Adoo, MD, FACP Consulting Staff, Department of Bone Marrow Transplantation, City of Hope Samaritan BMT Program
+Clarence Sarkodee Adoo, MD, FACP is a member of the following medical societies: American College of Physicians-American Society of Internal Medicine, American Society of Hematology, American Society of Clinical OncologyDisclosure: Nothing to disclose.
+Acute Promyelocytic Leukemia: Practice Essentials, Background, Pathophysiology
+Acute promyelocytic leukemia (APL) is a is a unique subtype of acute leukemia characterized by abnormal proliferation of promyelocytes, life-threatening coagulopathy, and the chromosome translocation t(15;17)(q22;q11-12). The discovery and elucidation of the molecular pathogenesis for APL has led to the introduction of all-trans retinoic acid (ATRA) and arsenic trioxide (ATO) therapies, which improved the prognosis of APL patients significantly.
+See the images below.
+ 
+ 
+For patient education information, see the Cancer Center, as well as Leukemia. In addition, patients should visit the Leukemia and Lymphoma Society Web page, www.leukemia-lymphoma.org, for further information.
+APL was first described as an entity in the late 1950s in Norway and France as a hyperacute fatal illness associated with a hemorrhagic syndrome.
+ [1] In 1959, Jean Bernard et al described the association of APL with a severe hemorrhagic diathesis that led to disseminated intravascular coagulation (DIC) and hyperfibrinolysis. By 1973, there were reports of complete remissions with treatment of the disease by daunorubicin.
+In 1974, Leo Sachs pioneered research on leukemic cell differentiation in vivo. Dr. Zhen Yi Wang, a Chinese hematologist, shared data on the efficacy of all-trans retinoic acid (ATRA) in his APL patients during a visit to France in 1985. In 1990, several publications linked a translocation between chromosomes 15 and 17 to the pathology of APL. In the early to mid 1990s, arsenic trioxide (ATO) was added to the treatment regimen. A potentially fatal complication of ATRA treatment, called retinoic acid syndrome, was also described. Over the past 50 years, APL has transformed from a highly fatal disease to a highly curable one.
+ [2] 
+Acute promyelocytic leukemia (APL) is defined by its cytogenetic properties. Over 95% of cases are characterized by a balanced translocation between chromosome 17q21 and chromosome 15q22. This leads to an abnormal fusion protein called PML-RARA. This translocation can be detected by karyotyping or fluorescence in situ hybridization (FISH) studies, and the transcript can be detected by polymerase chain reaction (PCR) techniques.
+The retinoic acid alpha receptor gene (RARA) is encoded by the long arm of chromosome 17. It is mainly expressed in hematopoietic cells and has an important role in regulating gene expression. In the absence of retinoid acid, RARA is bound by nuclear corepressor factor, and this causes transcriptional repression. In the presence of retinoic acid, RARA is activated and terminal differentiation of promyelocytes occurs.
+The promyelocytic gene (PML) is encoded by the long arm of chromosome 15 and is expressed ubiquitously. PML is thought to be involved in apoptosis and tumor suppression.
+There are three possible isoforms caused by PML-RARA translocations. The breakpoint in chromosome 17 is consistently found in intron 2, but varies in chromosome 15. The three breakpoints on the PML gene can occur at intron 3 (L form), intron 6 (S form), and exon 6 (V form). The S form is reportedly associated with a shorter remission duration and overall survival compared with the L form.
+ [3] 
+The fusion gene product causes the retinoic acid receptor to bind more tightly to the nuclear co-repressor factor. Therefore, the gene cannot be activated with physiologic doses of retinoic acid. In about 5% of cases, rearrangements of chromosome 17q21 with other gene partners occur. These include the following:
+PZLF (promyelocytic zinc finger) t(11;17)(q23;q21)
+NPM (nucleophosmin) t(5;17)(q35;q12-21)
+NuMa (nuclear mitotic apparatus) t(11;17)(q13;q21)
+STAT5b (17;17)(q11;q21)
+Yin et al identified a novel fusion between RARA and the interferon regulatory factor 2 binding protein 2 (IRF2BP2) genes.
+ [4] Cao et al reported on a new karyotype: 46,XY; t(7;16)(q31'q22), t(15;17)(q22;q21).
+ [5] 
+It is important to note that the nature of the fusion partner significantly impacts the disease characteristics and response to therapy. For example, APL with PLZF-RARA is not sensitive to retinoic acid and is less sensitive to chemotherapy.
+ [6] 
+About 40% of APL cases also express additional chromosomal abnormalities (trisomy 8 and isochromosome 17). These do not appear to impact the overall prognosis.
+In the United States, acute promyelocytic leukemia (APL) accounts for 5-15% of all adult leukemias.
+ [7] Approximately 30,800 cases of acute leukemia are diagnosed yearly in the US, and about 1000 of those are APL. The annual incidence of APL in Italy is approximately 0.6 per 1 million people.
+Douer noted that the APL-specific PML/RARA gene rearrangement is different in Latinos and non-Latinos, and that the incidence rate of  APL is higher in patients originating in Latin America.
+ [8]  In contrast, Matasar et al reported that lifetime incidence rates of APL were not higher in US Hispanics than in whites, but the age distribution among Hispanics was significantly different from that in non-Hispanic whites, with greater incidence rates for children ages 1-19 years and adults ages 20-44 years. Blacks had lower lifetime incidence rates than non-Hispanic whites, Hispanics, and Asians.
+ [9] 
+The incidence of APL in males and females is equal.
+ [8] The median age of onset of APL is about age 40 years.
+Unlike most leukemias, acute promyelocytic leukemia (APL) has a very good prognosis, with long-term survival rates up to 90% following treatment.
+ [10]  However, the incidence of early death remains high, with 29% of APL patients dying within 30 days of their diagnosis; in 35% of those early deaths, the patient never received all-trans retinoic acid (ATRA) therapy.
+ [11] The most common causes of early death in APL are hemorrhage, differentiation syndrome (DS), and infection.
+ [12, 13] 
+The white blood cell (WBC) count is viewed as an important index associated with prognosis in APL. The National Comprehensive Cancer Network (NCCN) uses WBC counts to classify patients as either low risk (WBC ≤10,000/μL) or high risk (WBC >10,000/μL).
+ [14] In addition to higher WBC counts, the following have also been identified as risk factors for early death
+ [13, 12] :
+Molecular and immunophenotypic features associated with a higher risk of relapse include expression in APL blasts of the stem/progenitor cell antigen CD34, the neural adhesion molecule (CD56), and the T cell antigen CD2. Often, the expression of these markers is associated with a high WBC count.
+ [15] 
+Since the early 1990s, there have been reports of extramedullary relapse to the skin and central nervous system with APL that are associated with a poor prognosis.
+A retrospective analysis examined the outcome of 155 patients with the microgranular variant (M3V) of APL who were treated with ATRA-based therapy in three clinical trials. The analysis revealed no difference in incidence of complications, survival, and response compared with patients who had classical M3 morphology, when outcomes were adjusted for the WBC count or the relapse risk score.
+ [16] 
+A long-term observational study of 1025 patients with APL in first complete remission found that therapy-related myeloid neoplasms (t-MNs) are a rare but severe complication. Therapy for APL in these patients consisted of ATRA plus anthracycline chemotherapy. Further research is needed to determine how to decrease the frequency of t-MN following ATRA plus anthracycline-based therapy.
+ [17] 
+ 
+Bernard J. History of promyelocytic leukaemia. Leukemia. 1994. 8 suppl 2:S1-5. [Medline]. 
+Lo-Coco F, Cicconi L, Voso MT. Progress and criticalities in the management of acute promyelocytic leukemia. Oncotarget. 2017 Nov 21. 8 (59):99221-99222. [Medline]. [Full Text].
+Vahdat L, Maslak P, Miller WH Jr, et al. Early mortality and the retinoic acid syndrome in acute promyelocytic leukemia: impact of leukocytosis, low-dose chemotherapy, PMN/RAR-alpha isoform, and CD13 expression in patients treated with all-trans retinoic acid. Blood. 1994 Dec 1. 84(11):3843-9. [Medline]. [Full Text].
+Yin CC, Jain N, Mehrotra M, Zhagn J, Protopopov A, Zuo Z, et al. Identification of a novel fusion gene, IRF2BP2-RARA, in acute promyelocytic leukemia. J Natl Compr Canc Netw. 2015 Jan. 13(1):19-22. [Medline]. 
+Cao Y, Yuan R, Wang Y, Chen R, Huang M, Zhou J. A New Chromosome Translocation t(7;16)(q31,q22) Change during an Acute Promyelocytic Leukemia Relapse. Cytogenet Genome Res. 2013 May 4. [Medline]. 
+Jurcic JG, Soignet SL, Maslak AP. Diagnosis and treatment of acute promyelocytic leukemia. Curr Oncol Rep. 2007 Sep. 9(5):337-44. [Medline]. 
+Ribeiro RC, Rego E. Management of APL in developing countries: epidemiology, challenges and opportunities for international collaboration. Hematology Am Soc Hematol Educ Program. 2006. 162-8. [Medline]. [Full Text].
+Douer D. The epidemiology of acute promyelocytic leukaemia. Best Pract Res Clin Haematol. 2003 Sep. 16(3):357-67. [Medline]. 
+Matasar MJ, Ritchie EK, Consedine N, Magai C, Neugut AI. Incidence rates of acute promyelocytic leukemia among Hispanics, blacks, Asians, and non-Hispanic whites in the United States. Eur J Cancer Prev. 2006 Aug. 15(4):367-70. [Medline]. 
+Cicconi L, Lo-Coco F. Current management of newly diagnosed acute promyelocytic leukemia. Ann Oncol. 2016 Aug. 27 (8):1474-81. [Medline]. [Full Text].
+Xu F, Wang C, Yin C, Jiang X, Jiang L, Wang Z, et al. Analysis of early death in newly diagnosed acute promyelocytic leukemia patients. Medicine (Baltimore). 2017 Dec. 96 (51):e9324. [Medline]. [Full Text].
+Hou J, Wang S, Zhang Y, Fan D, Li H, Yang Y, et al. Causes and prognostic factors for early death in patients with acute promyelocytic leukemia treated with single-agent arsenic trioxide. Ann Hematol. 2017 Dec. 96 (12):2005-2013. [Medline]. 
+Zhao H, Zhao Y, Zhang Y, Hou J, Yang H, Cao F, et al. Difference in causes and prognostic factors of early death between cohorts with de novo and relapsed acute promyelocytic leukemia. Ann Hematol. 2018 Mar. 97 (3):409-416. [Medline]. 
+[Guideline] National Comprehensive Cancer Network. Acute Myeloid Leukemia. NCCN. Available at http://www.nccn.org/professionals/physician_gls/pdf/aml.pdf. Version 2.2019 — March 8, 2019; Accessed: May 2, 2019.
+Testa U, Lo-Coco F. Prognostic factors in acute promyelocytic leukemia: strategies to define high-risk patients. Ann Hematol. 2016 Apr. 95 (5):673-80. [Medline]. 
+Tallman MS, Kim HT, Montesinos P, et al. Does microgranular variant morphology of acute promyelocytic leukemia independently predict a less favorable outcome compared with classical M3 APL? A joint study of the North American Intergroup and the PETHEMA Group. Blood. 2010 Dec 16. 116(25):5650-9. [Medline]. 
+Montesinos P, González JD, González J, Rayón C, de Lisa E, Amigo ML, et al. Therapy-related myeloid neoplasms in patients with acute promyelocytic leukemia treated with all-trans-retinoic Acid and anthracycline-based chemotherapy. J Clin Oncol. 2010 Aug 20. 28(24):3872-9. [Medline]. 
+Cashen AF. Acute Leukemias. Govindan R, Morgensztern D, eds. DeVita, Hellman, and Rosenberg's Cancer: Principles & Practice of Oncology: Review. 4th ed. Philadelphia, Pa: Wolters Kluwer; 2016. 293-304. 
+Menell JS, Cesarman GM, Jacovina AT, et al. Annexin II and bleeding in acute promyelocytic leukemia. N Engl J Med. 1999 Apr 1. 340(13):994-1004. [Medline]. [Full Text].
+Tallman MS, Andersen JW, Schiffer CA, et al. All-trans retinoic acid in acute promyelocytic leukemia: long-term outcome and prognostic factor analysis from the North American Intergroup protocol. Blood. 2002 Dec 15. 100(13):4298-302. [Medline]. [Full Text].
+Shigeno K, Naito K, Sahara N, et al. Arsenic trioxide therapy in relapsed or refractory Japanese patients with acute promyelocytic leukemia: updated outcomes of the phase II study and postremission therapies. Int J Hematol. 2005 Oct. 82(3):224-9. [Medline]. 
+Shen ZX, Shi ZZ, Fang J, Gu BW, Li JM, Zhu YM, et al. All-trans retinoic acid/As2O3 combination yields a high quality remission and survival in newly diagnosed acute promyelocytic leukemia. Proc Natl Acad Sci U S A. 2004 Apr 13. 101(15):5328-35. [Medline]. [Full Text].
+Lo-Coco F, Avvisati G, Vignetti M, Thiede C, Orlando SM, Iacobelli S, et al. Retinoic acid and arsenic trioxide for acute promyelocytic leukemia. N Engl J Med. 2013 Jul 11. 369(2):111-21. [Medline]. [Full Text].
+Sanz MA, Martin G, Gonzalez M, et al, for the Programa de Estudio y Traitmiento de las Hemopatias Malignas. Risk-adapted treatment of acute promyelocytic leukemia with all-trans-retinoic acid and anthracycline monochemotherapy: a multicenter study by the PETHEMA group. Blood. 2004 Feb 15. 103(4):1237-43. [Medline]. [Full Text].
+Fenaux P, Chastang C, Chevret S, et al, for the The European APL Group. A randomized comparison of all transretinoic acid (ATRA) followed by chemotherapy and ATRA plus chemotherapy and the role of maintenance therapy in newly diagnosed acute promyelocytic leukemia. Blood. 1999 Aug 15. 94(4):1192-200. [Medline]. [Full Text].
+Sanz MA, Lo Coco F, Martin G, et al. Definition of relapse risk and role of nonanthracycline drugs for consolidation in patients with acute promyelocytic leukemia: a joint study of the PETHEMA and GIMEMA cooperative groups. Blood. 2000 Aug 15. 96(4):1247-53. [Medline]. [Full Text].
+Ades L, Sanz MA, Chevret S, et al. Treatment of newly diagnosed acute promyelocytic leukemia (APL): a comparison of French-Belgian-Swiss and PETHEMA results. Blood. 2008 Feb 1. 111(3):1078-84. [Medline]. [Full Text].
+de la Serna J, Montesinos P, Vellenga E, et al. Causes and prognostic factors of remission induction failure in patients with acute promyelocytic leukemia treated with all-trans retinoic acid and idarubicin. Blood. 2008 Apr 1. 111(7):3395-402. [Medline]. [Full Text].
+Montesinos P, Gonzalez JD, Gonzalez J, et al. Therapy-related myeloid neoplasms in patients with acute promyelocytic leukemia treated with all-trans-retinoic Acid and anthracycline-based chemotherapy. J Clin Oncol. 2010 Aug 20. 28(24):3872-9. [Medline]. 
+Powell BL, Moser B, Stock W, Gallagher RE, Willman CL, Stone RM, et al. Arsenic trioxide improves event-free and overall survival for adults with acute promyelocytic leukemia: North American Leukemia Intergroup Study C9710. Blood. 2010 Nov 11. 116(19):3751-7. [Medline]. [Full Text].
+Grimwade D, Howe K, Langabeer S, et al. Minimal residual disease detection in acute promyelocytic leukemia by reverse-transcriptase PCR: evaluation of PML-RAR alpha and RAR alpha-PML assessment in patients who ultimately relapse. Leukemia. 1996 Jan. 10(1):61-6. [Medline]. 
+Avvisati G, Lo-Coco F, Paoloni FP, et al. AIDA 0493 protocol for newly diagnosed acute promyelocytic leukemia: very long-term results and role of maintenance. Blood. 2011 May 5. 117(18):4716-25. [Medline]. 
+Falchi L, Verstovsek S, Ravandi-Kashani F, Kantarjian HM. The evolution of arsenic in the treatment of acute promyelocytic leukemia and other myeloid neoplasms: Moving toward an effective oral, outpatient therapy. Cancer. 2016 Apr 15. 122 (8):1160-8. [Medline]. 
+Soignet SL, Frankel SR, Douer D, et al. United States multicenter study of arsenic trioxide in relapsed acute promyelocytic leukemia. J Clin Oncol. 2001 Sep 15. 19(18):3852-60. [Medline]. [Full Text].
+Mathews V, George B, Chendamarai E, Lakshmi KM, Desire S, Balasubramanian P, et al. Single-agent arsenic trioxide in the treatment of newly diagnosed acute promyelocytic leukemia: long-term follow-up data. J Clin Oncol. 2010 Aug 20. 28(24):3866-71. [Medline]. 
+Tomita A, Kiyoi H, Naoe T. Mechanisms of action and resistance to all-trans retinoic acid (ATRA) and arsenic trioxide (As2O 3) in acute promyelocytic leukemia. Int J Hematol. 2013 May 14. [Medline]. 
+Lo Coco F, Ammatuna E, Noguera N. Treatment of acute promyelocytic leukemia with gemtuzumab ozogamicin. Clin Adv Hematol Oncol. 2006 Jan. 4(1):57-62, 76-7. [Medline]. 
+Lo-Coco F, Cimino G, Breccia M, et al. Gemtuzumab ozogamicin (Mylotarg) as a single agent for molecularly relapsed acute promyelocytic leukemia. Blood. 2004 Oct 1. 104(7):1995-9. [Medline]. [Full Text].
+Estey EH, Giles FJ, Beran M, et al. Experience with gemtuzumab ozogamycin ("Mylotarg") and all-trans retinoic acid in untreated acute promyelocytic leukemia. Blood. 2002 Jun 1. 99(11):4222-4. [Medline]. [Full Text].
+de Botton S, Fawaz A, Chevret S, et al. Autologous and allogeneic stem-cell transplantation as salvage treatment of acute promyelocytic leukemia initially treated with all-trans-retinoic acid: a retrospective analysis of the European Acute Promyelocytic Leukemia Group. J Clin Oncol. 2005 Jan 1. 23(1):120-6. [Medline]. [Full Text].
+Kharfan-Dabaja MA, Abou Mourad YR, Fernandez HF, Pasquini MC, Santos ES. Hematopoietic cell transplantation in acute promyelocytic leukemia: a comprehensive review. Biol Blood Marrow Transplant. 2007 Sep. 13(9):997-1004. [Medline]. 
+Fenaux P, Chastang C, Chevret S, et al, for the European APL Group. A randomized comparison of all transretinoic acid (ATRA) followed by chemotherapy and ATRA plus chemotherapy and the role of maintenance therapy in newly diagnosed acute promyelocytic leukemia. Blood. 1999 Aug 15. 94(4):1192-200. [Medline]. [Full Text].
+Sanz MA, Vellenga E, Rayon C, et al. All-trans retinoic acid and anthracycline monochemotherapy for the treatment of elderly patients with acute promyelocytic leukemia. Blood. 2004 Dec 1. 104(12):3490-3. [Medline]. [Full Text].
+Lengfelder E, Hofmann WK, Nolte F. Management of elderly patients with acute promyelocytic leukemia: progress and problems. Ann Hematol. 2013 May 22. [Medline]. 
+Braun T, Cereja S, Chevret S, Raffoux E, Beaumont M, Detourmignies L, et al. Evolving characteristics and outcome of secondary acute promyelocytic leukemia (APL): A prospective analysis by the French-Belgian-Swiss APL group. Cancer. 2015 Apr 6. [Medline]. 
+[Guideline] Sanz MA, Fenaux P, Tallman MS, Estey EH, Löwenberg B, Naoe T, et al. Management of acute promyelocytic leukemia: updated recommendations from an expert panel of the European LeukemiaNet. Blood. 2019 Apr 11. 133 (15):1630-1643. [Medline]. [Full Text].
+Sandy D Kotiah, MD Director of the Neuroendocrine Center, Hematology and Medical Oncology, Mercy Medical CenterDisclosure: Nothing to disclose.
+Emmanuel C Besa, MD Professor Emeritus, Department of Medicine, Division of Hematologic Malignancies and Hematopoietic Stem Cell Transplantation, Kimmel Cancer Center, Jefferson Medical College of Thomas Jefferson University
+Emmanuel C Besa, MD is a member of the following medical societies: American Association for Cancer Education, American Society of Clinical Oncology, American College of Clinical Pharmacology, American Federation for Medical Research, American Society of Hematology, New York Academy of SciencesDisclosure: Nothing to disclose.
+Francisco Talavera, PharmD, PhD Adjunct Assistant Professor, University of Nebraska Medical Center College of Pharmacy; Editor-in-Chief, Medscape Drug ReferenceDisclosure: Received salary from Medscape for employment. for: Medscape.
+Ronald A Sacher, MBBCh, FRCPC, DTM&H Professor of Internal Medicine and Pathology, Director, Hoxworth Blood Center, University of Cincinnati Academic Health Center
+Ronald A Sacher, MBBCh, FRCPC, DTM&H is a member of the following medical societies: American Association for the Advancement of Science, American Association of Blood Banks, American Clinical and Climatological Association, American Society for Clinical Pathology, American Society of Hematology, College of American Pathologists, International Society of Blood Transfusion, International Society on Thrombosis and Haemostasis, Royal College of Physicians and Surgeons of CanadaDisclosure: Nothing to disclose.
+Emmanuel C Besa, MD Professor Emeritus, Department of Medicine, Division of Hematologic Malignancies and Hematopoietic Stem Cell Transplantation, Kimmel Cancer Center, Jefferson Medical College of Thomas Jefferson University
+Emmanuel C Besa, MD is a member of the following medical societies: American Association for Cancer Education, American Society of Clinical Oncology, American College of Clinical Pharmacology, American Federation for Medical Research, American Society of Hematology, New York Academy of SciencesDisclosure: Nothing to disclose.
+Clarence Sarkodee Adoo, MD, FACP Consulting Staff, Department of Bone Marrow Transplantation, City of Hope Samaritan BMT Program
+Clarence Sarkodee Adoo, MD, FACP is a member of the following medical societies: American College of Physicians-American Society of Internal Medicine, American Society of Hematology, American Society of Clinical OncologyDisclosure: Nothing to disclose.
+Acute Promyelocytic Leukemia: Practice Essentials, Background, Pathophysiology
+Acute promyelocytic leukemia (APL) is a is a unique subtype of acute leukemia characterized by abnormal proliferation of promyelocytes, life-threatening coagulopathy, and the chromosome translocation t(15;17)(q22;q11-12). The discovery and elucidation of the molecular pathogenesis for APL has led to the introduction of all-trans retinoic acid (ATRA) and arsenic trioxide (ATO) therapies, which improved the prognosis of APL patients significantly.
+See the images below.
+ 
+ 
+For patient education information, see the Cancer Center, as well as Leukemia. In addition, patients should visit the Leukemia and Lymphoma Society Web page, www.leukemia-lymphoma.org, for further information.
+APL was first described as an entity in the late 1950s in Norway and France as a hyperacute fatal illness associated with a hemorrhagic syndrome.
+ [1] In 1959, Jean Bernard et al described the association of APL with a severe hemorrhagic diathesis that led to disseminated intravascular coagulation (DIC) and hyperfibrinolysis. By 1973, there were reports of complete remissions with treatment of the disease by daunorubicin.
+In 1974, Leo Sachs pioneered research on leukemic cell differentiation in vivo. Dr. Zhen Yi Wang, a Chinese hematologist, shared data on the efficacy of all-trans retinoic acid (ATRA) in his APL patients during a visit to France in 1985. In 1990, several publications linked a translocation between chromosomes 15 and 17 to the pathology of APL. In the early to mid 1990s, arsenic trioxide (ATO) was added to the treatment regimen. A potentially fatal complication of ATRA treatment, called retinoic acid syndrome, was also described. Over the past 50 years, APL has transformed from a highly fatal disease to a highly curable one.
+ [2] 
+Acute promyelocytic leukemia (APL) is defined by its cytogenetic properties. Over 95% of cases are characterized by a balanced translocation between chromosome 17q21 and chromosome 15q22. This leads to an abnormal fusion protein called PML-RARA. This translocation can be detected by karyotyping or fluorescence in situ hybridization (FISH) studies, and the transcript can be detected by polymerase chain reaction (PCR) techniques.
+The retinoic acid alpha receptor gene (RARA) is encoded by the long arm of chromosome 17. It is mainly expressed in hematopoietic cells and has an important role in regulating gene expression. In the absence of retinoid acid, RARA is bound by nuclear corepressor factor, and this causes transcriptional repression. In the presence of retinoic acid, RARA is activated and terminal differentiation of promyelocytes occurs.
+The promyelocytic gene (PML) is encoded by the long arm of chromosome 15 and is expressed ubiquitously. PML is thought to be involved in apoptosis and tumor suppression.
+There are three possible isoforms caused by PML-RARA translocations. The breakpoint in chromosome 17 is consistently found in intron 2, but varies in chromosome 15. The three breakpoints on the PML gene can occur at intron 3 (L form), intron 6 (S form), and exon 6 (V form). The S form is reportedly associated with a shorter remission duration and overall survival compared with the L form.
+ [3] 
+The fusion gene product causes the retinoic acid receptor to bind more tightly to the nuclear co-repressor factor. Therefore, the gene cannot be activated with physiologic doses of retinoic acid. In about 5% of cases, rearrangements of chromosome 17q21 with other gene partners occur. These include the following:
+PZLF (promyelocytic zinc finger) t(11;17)(q23;q21)
+NPM (nucleophosmin) t(5;17)(q35;q12-21)
+NuMa (nuclear mitotic apparatus) t(11;17)(q13;q21)
+STAT5b (17;17)(q11;q21)
+Yin et al identified a novel fusion between RARA and the interferon regulatory factor 2 binding protein 2 (IRF2BP2) genes.
+ [4] Cao et al reported on a new karyotype: 46,XY; t(7;16)(q31'q22), t(15;17)(q22;q21).
+ [5] 
+It is important to note that the nature of the fusion partner significantly impacts the disease characteristics and response to therapy. For example, APL with PLZF-RARA is not sensitive to retinoic acid and is less sensitive to chemotherapy.
+ [6] 
+About 40% of APL cases also express additional chromosomal abnormalities (trisomy 8 and isochromosome 17). These do not appear to impact the overall prognosis.
+In the United States, acute promyelocytic leukemia (APL) accounts for 5-15% of all adult leukemias.
+ [7] Approximately 30,800 cases of acute leukemia are diagnosed yearly in the US, and about 1000 of those are APL. The annual incidence of APL in Italy is approximately 0.6 per 1 million people.
+Douer noted that the APL-specific PML/RARA gene rearrangement is different in Latinos and non-Latinos, and that the incidence rate of  APL is higher in patients originating in Latin America.
+ [8]  In contrast, Matasar et al reported that lifetime incidence rates of APL were not higher in US Hispanics than in whites, but the age distribution among Hispanics was significantly different from that in non-Hispanic whites, with greater incidence rates for children ages 1-19 years and adults ages 20-44 years. Blacks had lower lifetime incidence rates than non-Hispanic whites, Hispanics, and Asians.
+ [9] 
+The incidence of APL in males and females is equal.
+ [8] The median age of onset of APL is about age 40 years.
+Unlike most leukemias, acute promyelocytic leukemia (APL) has a very good prognosis, with long-term survival rates up to 90% following treatment.
+ [10]  However, the incidence of early death remains high, with 29% of APL patients dying within 30 days of their diagnosis; in 35% of those early deaths, the patient never received all-trans retinoic acid (ATRA) therapy.
+ [11] The most common causes of early death in APL are hemorrhage, differentiation syndrome (DS), and infection.
+ [12, 13] 
+The white blood cell (WBC) count is viewed as an important index associated with prognosis in APL. The National Comprehensive Cancer Network (NCCN) uses WBC counts to classify patients as either low risk (WBC ≤10,000/μL) or high risk (WBC >10,000/μL).
+ [14] In addition to higher WBC counts, the following have also been identified as risk factors for early death
+ [13, 12] :
+Molecular and immunophenotypic features associated with a higher risk of relapse include expression in APL blasts of the stem/progenitor cell antigen CD34, the neural adhesion molecule (CD56), and the T cell antigen CD2. Often, the expression of these markers is associated with a high WBC count.
+ [15] 
+Since the early 1990s, there have been reports of extramedullary relapse to the skin and central nervous system with APL that are associated with a poor prognosis.
+A retrospective analysis examined the outcome of 155 patients with the microgranular variant (M3V) of APL who were treated with ATRA-based therapy in three clinical trials. The analysis revealed no difference in incidence of complications, survival, and response compared with patients who had classical M3 morphology, when outcomes were adjusted for the WBC count or the relapse risk score.
+ [16] 
+A long-term observational study of 1025 patients with APL in first complete remission found that therapy-related myeloid neoplasms (t-MNs) are a rare but severe complication. Therapy for APL in these patients consisted of ATRA plus anthracycline chemotherapy. Further research is needed to determine how to decrease the frequency of t-MN following ATRA plus anthracycline-based therapy.
+ [17] 
+ 
+Bernard J. History of promyelocytic leukaemia. Leukemia. 1994. 8 suppl 2:S1-5. [Medline]. 
+Lo-Coco F, Cicconi L, Voso MT. Progress and criticalities in the management of acute promyelocytic leukemia. Oncotarget. 2017 Nov 21. 8 (59):99221-99222. [Medline]. [Full Text].
+Vahdat L, Maslak P, Miller WH Jr, et al. Early mortality and the retinoic acid syndrome in acute promyelocytic leukemia: impact of leukocytosis, low-dose chemotherapy, PMN/RAR-alpha isoform, and CD13 expression in patients treated with all-trans retinoic acid. Blood. 1994 Dec 1. 84(11):3843-9. [Medline]. [Full Text].
+Yin CC, Jain N, Mehrotra M, Zhagn J, Protopopov A, Zuo Z, et al. Identification of a novel fusion gene, IRF2BP2-RARA, in acute promyelocytic leukemia. J Natl Compr Canc Netw. 2015 Jan. 13(1):19-22. [Medline]. 
+Cao Y, Yuan R, Wang Y, Chen R, Huang M, Zhou J. A New Chromosome Translocation t(7;16)(q31,q22) Change during an Acute Promyelocytic Leukemia Relapse. Cytogenet Genome Res. 2013 May 4. [Medline]. 
+Jurcic JG, Soignet SL, Maslak AP. Diagnosis and treatment of acute promyelocytic leukemia. Curr Oncol Rep. 2007 Sep. 9(5):337-44. [Medline]. 
+Ribeiro RC, Rego E. Management of APL in developing countries: epidemiology, challenges and opportunities for international collaboration. Hematology Am Soc Hematol Educ Program. 2006. 162-8. [Medline]. [Full Text].
+Douer D. The epidemiology of acute promyelocytic leukaemia. Best Pract Res Clin Haematol. 2003 Sep. 16(3):357-67. [Medline]. 
+Matasar MJ, Ritchie EK, Consedine N, Magai C, Neugut AI. Incidence rates of acute promyelocytic leukemia among Hispanics, blacks, Asians, and non-Hispanic whites in the United States. Eur J Cancer Prev. 2006 Aug. 15(4):367-70. [Medline]. 
+Cicconi L, Lo-Coco F. Current management of newly diagnosed acute promyelocytic leukemia. Ann Oncol. 2016 Aug. 27 (8):1474-81. [Medline]. [Full Text].
+Xu F, Wang C, Yin C, Jiang X, Jiang L, Wang Z, et al. Analysis of early death in newly diagnosed acute promyelocytic leukemia patients. Medicine (Baltimore). 2017 Dec. 96 (51):e9324. [Medline]. [Full Text].
+Hou J, Wang S, Zhang Y, Fan D, Li H, Yang Y, et al. Causes and prognostic factors for early death in patients with acute promyelocytic leukemia treated with single-agent arsenic trioxide. Ann Hematol. 2017 Dec. 96 (12):2005-2013. [Medline]. 
+Zhao H, Zhao Y, Zhang Y, Hou J, Yang H, Cao F, et al. Difference in causes and prognostic factors of early death between cohorts with de novo and relapsed acute promyelocytic leukemia. Ann Hematol. 2018 Mar. 97 (3):409-416. [Medline]. 
+[Guideline] National Comprehensive Cancer Network. Acute Myeloid Leukemia. NCCN. Available at http://www.nccn.org/professionals/physician_gls/pdf/aml.pdf. Version 2.2019 — March 8, 2019; Accessed: May 2, 2019.
+Testa U, Lo-Coco F. Prognostic factors in acute promyelocytic leukemia: strategies to define high-risk patients. Ann Hematol. 2016 Apr. 95 (5):673-80. [Medline]. 
+Tallman MS, Kim HT, Montesinos P, et al. Does microgranular variant morphology of acute promyelocytic leukemia independently predict a less favorable outcome compared with classical M3 APL? A joint study of the North American Intergroup and the PETHEMA Group. Blood. 2010 Dec 16. 116(25):5650-9. [Medline]. 
+Montesinos P, González JD, González J, Rayón C, de Lisa E, Amigo ML, et al. Therapy-related myeloid neoplasms in patients with acute promyelocytic leukemia treated with all-trans-retinoic Acid and anthracycline-based chemotherapy. J Clin Oncol. 2010 Aug 20. 28(24):3872-9. [Medline]. 
+Cashen AF. Acute Leukemias. Govindan R, Morgensztern D, eds. DeVita, Hellman, and Rosenberg's Cancer: Principles & Practice of Oncology: Review. 4th ed. Philadelphia, Pa: Wolters Kluwer; 2016. 293-304. 
+Menell JS, Cesarman GM, Jacovina AT, et al. Annexin II and bleeding in acute promyelocytic leukemia. N Engl J Med. 1999 Apr 1. 340(13):994-1004. [Medline]. [Full Text].
+Tallman MS, Andersen JW, Schiffer CA, et al. All-trans retinoic acid in acute promyelocytic leukemia: long-term outcome and prognostic factor analysis from the North American Intergroup protocol. Blood. 2002 Dec 15. 100(13):4298-302. [Medline]. [Full Text].
+Shigeno K, Naito K, Sahara N, et al. Arsenic trioxide therapy in relapsed or refractory Japanese patients with acute promyelocytic leukemia: updated outcomes of the phase II study and postremission therapies. Int J Hematol. 2005 Oct. 82(3):224-9. [Medline]. 
+Shen ZX, Shi ZZ, Fang J, Gu BW, Li JM, Zhu YM, et al. All-trans retinoic acid/As2O3 combination yields a high quality remission and survival in newly diagnosed acute promyelocytic leukemia. Proc Natl Acad Sci U S A. 2004 Apr 13. 101(15):5328-35. [Medline]. [Full Text].
+Lo-Coco F, Avvisati G, Vignetti M, Thiede C, Orlando SM, Iacobelli S, et al. Retinoic acid and arsenic trioxide for acute promyelocytic leukemia. N Engl J Med. 2013 Jul 11. 369(2):111-21. [Medline]. [Full Text].
+Sanz MA, Martin G, Gonzalez M, et al, for the Programa de Estudio y Traitmiento de las Hemopatias Malignas. Risk-adapted treatment of acute promyelocytic leukemia with all-trans-retinoic acid and anthracycline monochemotherapy: a multicenter study by the PETHEMA group. Blood. 2004 Feb 15. 103(4):1237-43. [Medline]. [Full Text].
+Fenaux P, Chastang C, Chevret S, et al, for the The European APL Group. A randomized comparison of all transretinoic acid (ATRA) followed by chemotherapy and ATRA plus chemotherapy and the role of maintenance therapy in newly diagnosed acute promyelocytic leukemia. Blood. 1999 Aug 15. 94(4):1192-200. [Medline]. [Full Text].
+Sanz MA, Lo Coco F, Martin G, et al. Definition of relapse risk and role of nonanthracycline drugs for consolidation in patients with acute promyelocytic leukemia: a joint study of the PETHEMA and GIMEMA cooperative groups. Blood. 2000 Aug 15. 96(4):1247-53. [Medline]. [Full Text].
+Ades L, Sanz MA, Chevret S, et al. Treatment of newly diagnosed acute promyelocytic leukemia (APL): a comparison of French-Belgian-Swiss and PETHEMA results. Blood. 2008 Feb 1. 111(3):1078-84. [Medline]. [Full Text].
+de la Serna J, Montesinos P, Vellenga E, et al. Causes and prognostic factors of remission induction failure in patients with acute promyelocytic leukemia treated with all-trans retinoic acid and idarubicin. Blood. 2008 Apr 1. 111(7):3395-402. [Medline]. [Full Text].
+Montesinos P, Gonzalez JD, Gonzalez J, et al. Therapy-related myeloid neoplasms in patients with acute promyelocytic leukemia treated with all-trans-retinoic Acid and anthracycline-based chemotherapy. J Clin Oncol. 2010 Aug 20. 28(24):3872-9. [Medline]. 
+Powell BL, Moser B, Stock W, Gallagher RE, Willman CL, Stone RM, et al. Arsenic trioxide improves event-free and overall survival for adults with acute promyelocytic leukemia: North American Leukemia Intergroup Study C9710. Blood. 2010 Nov 11. 116(19):3751-7. [Medline]. [Full Text].
+Grimwade D, Howe K, Langabeer S, et al. Minimal residual disease detection in acute promyelocytic leukemia by reverse-transcriptase PCR: evaluation of PML-RAR alpha and RAR alpha-PML assessment in patients who ultimately relapse. Leukemia. 1996 Jan. 10(1):61-6. [Medline]. 
+Avvisati G, Lo-Coco F, Paoloni FP, et al. AIDA 0493 protocol for newly diagnosed acute promyelocytic leukemia: very long-term results and role of maintenance. Blood. 2011 May 5. 117(18):4716-25. [Medline]. 
+Falchi L, Verstovsek S, Ravandi-Kashani F, Kantarjian HM. The evolution of arsenic in the treatment of acute promyelocytic leukemia and other myeloid neoplasms: Moving toward an effective oral, outpatient therapy. Cancer. 2016 Apr 15. 122 (8):1160-8. [Medline]. 
+Soignet SL, Frankel SR, Douer D, et al. United States multicenter study of arsenic trioxide in relapsed acute promyelocytic leukemia. J Clin Oncol. 2001 Sep 15. 19(18):3852-60. [Medline]. [Full Text].
+Mathews V, George B, Chendamarai E, Lakshmi KM, Desire S, Balasubramanian P, et al. Single-agent arsenic trioxide in the treatment of newly diagnosed acute promyelocytic leukemia: long-term follow-up data. J Clin Oncol. 2010 Aug 20. 28(24):3866-71. [Medline]. 
+Tomita A, Kiyoi H, Naoe T. Mechanisms of action and resistance to all-trans retinoic acid (ATRA) and arsenic trioxide (As2O 3) in acute promyelocytic leukemia. Int J Hematol. 2013 May 14. [Medline]. 
+Lo Coco F, Ammatuna E, Noguera N. Treatment of acute promyelocytic leukemia with gemtuzumab ozogamicin. Clin Adv Hematol Oncol. 2006 Jan. 4(1):57-62, 76-7. [Medline]. 
+Lo-Coco F, Cimino G, Breccia M, et al. Gemtuzumab ozogamicin (Mylotarg) as a single agent for molecularly relapsed acute promyelocytic leukemia. Blood. 2004 Oct 1. 104(7):1995-9. [Medline]. [Full Text].
+Estey EH, Giles FJ, Beran M, et al. Experience with gemtuzumab ozogamycin ("Mylotarg") and all-trans retinoic acid in untreated acute promyelocytic leukemia. Blood. 2002 Jun 1. 99(11):4222-4. [Medline]. [Full Text].
+de Botton S, Fawaz A, Chevret S, et al. Autologous and allogeneic stem-cell transplantation as salvage treatment of acute promyelocytic leukemia initially treated with all-trans-retinoic acid: a retrospective analysis of the European Acute Promyelocytic Leukemia Group. J Clin Oncol. 2005 Jan 1. 23(1):120-6. [Medline]. [Full Text].
+Kharfan-Dabaja MA, Abou Mourad YR, Fernandez HF, Pasquini MC, Santos ES. Hematopoietic cell transplantation in acute promyelocytic leukemia: a comprehensive review. Biol Blood Marrow Transplant. 2007 Sep. 13(9):997-1004. [Medline]. 
+Fenaux P, Chastang C, Chevret S, et al, for the European APL Group. A randomized comparison of all transretinoic acid (ATRA) followed by chemotherapy and ATRA plus chemotherapy and the role of maintenance therapy in newly diagnosed acute promyelocytic leukemia. Blood. 1999 Aug 15. 94(4):1192-200. [Medline]. [Full Text].
+Sanz MA, Vellenga E, Rayon C, et al. All-trans retinoic acid and anthracycline monochemotherapy for the treatment of elderly patients with acute promyelocytic leukemia. Blood. 2004 Dec 1. 104(12):3490-3. [Medline]. [Full Text].
+Lengfelder E, Hofmann WK, Nolte F. Management of elderly patients with acute promyelocytic leukemia: progress and problems. Ann Hematol. 2013 May 22. [Medline]. 
+Braun T, Cereja S, Chevret S, Raffoux E, Beaumont M, Detourmignies L, et al. Evolving characteristics and outcome of secondary acute promyelocytic leukemia (APL): A prospective analysis by the French-Belgian-Swiss APL group. Cancer. 2015 Apr 6. [Medline]. 
+[Guideline] Sanz MA, Fenaux P, Tallman MS, Estey EH, Löwenberg B, Naoe T, et al. Management of acute promyelocytic leukemia: updated recommendations from an expert panel of the European LeukemiaNet. Blood. 2019 Apr 11. 133 (15):1630-1643. [Medline]. [Full Text].
+Sandy D Kotiah, MD Director of the Neuroendocrine Center, Hematology and Medical Oncology, Mercy Medical CenterDisclosure: Nothing to disclose.
+Emmanuel C Besa, MD Professor Emeritus, Department of Medicine, Division of Hematologic Malignancies and Hematopoietic Stem Cell Transplantation, Kimmel Cancer Center, Jefferson Medical College of Thomas Jefferson University
+Emmanuel C Besa, MD is a member of the following medical societies: American Association for Cancer Education, American Society of Clinical Oncology, American College of Clinical Pharmacology, American Federation for Medical Research, American Society of Hematology, New York Academy of SciencesDisclosure: Nothing to disclose.
+Francisco Talavera, PharmD, PhD Adjunct Assistant Professor, University of Nebraska Medical Center College of Pharmacy; Editor-in-Chief, Medscape Drug ReferenceDisclosure: Received salary from Medscape for employment. for: Medscape.
+Ronald A Sacher, MBBCh, FRCPC, DTM&H Professor of Internal Medicine and Pathology, Director, Hoxworth Blood Center, University of Cincinnati Academic Health Center
+Ronald A Sacher, MBBCh, FRCPC, DTM&H is a member of the following medical societies: American Association for the Advancement of Science, American Association of Blood Banks, American Clinical and Climatological Association, American Society for Clinical Pathology, American Society of Hematology, College of American Pathologists, International Society of Blood Transfusion, International Society on Thrombosis and Haemostasis, Royal College of Physicians and Surgeons of CanadaDisclosure: Nothing to disclose.
+Emmanuel C Besa, MD Professor Emeritus, Department of Medicine, Division of Hematologic Malignancies and Hematopoietic Stem Cell Transplantation, Kimmel Cancer Center, Jefferson Medical College of Thomas Jefferson University
+Emmanuel C Besa, MD is a member of the following medical societies: American Association for Cancer Education, American Society of Clinical Oncology, American College of Clinical Pharmacology, American Federation for Medical Research, American Society of Hematology, New York Academy of SciencesDisclosure: Nothing to disclose.
+Clarence Sarkodee Adoo, MD, FACP Consulting Staff, Department of Bone Marrow Transplantation, City of Hope Samaritan BMT Program
+Clarence Sarkodee Adoo, MD, FACP is a member of the following medical societies: American College of Physicians-American Society of Internal Medicine, American Society of Hematology, American Society of Clinical OncologyDisclosure: Nothing to disclose.
+Acute Promyelocytic Leukemia: Practice Essentials, Background, Pathophysiology
+Acute promyelocytic leukemia (APL) is a is a unique subtype of acute leukemia characterized by abnormal proliferation of promyelocytes, life-threatening coagulopathy, and the chromosome translocation t(15;17)(q22;q11-12). The discovery and elucidation of the molecular pathogenesis for APL has led to the introduction of all-trans retinoic acid (ATRA) and arsenic trioxide (ATO) therapies, which improved the prognosis of APL patients significantly.
+See the images below.
+ 
+ 
+For patient education information, see the Cancer Center, as well as Leukemia. In addition, patients should visit the Leukemia and Lymphoma Society Web page, www.leukemia-lymphoma.org, for further information.
+APL was first described as an entity in the late 1950s in Norway and France as a hyperacute fatal illness associated with a hemorrhagic syndrome.
+ [1] In 1959, Jean Bernard et al described the association of APL with a severe hemorrhagic diathesis that led to disseminated intravascular coagulation (DIC) and hyperfibrinolysis. By 1973, there were reports of complete remissions with treatment of the disease by daunorubicin.
+In 1974, Leo Sachs pioneered research on leukemic cell differentiation in vivo. Dr. Zhen Yi Wang, a Chinese hematologist, shared data on the efficacy of all-trans retinoic acid (ATRA) in his APL patients during a visit to France in 1985. In 1990, several publications linked a translocation between chromosomes 15 and 17 to the pathology of APL. In the early to mid 1990s, arsenic trioxide (ATO) was added to the treatment regimen. A potentially fatal complication of ATRA treatment, called retinoic acid syndrome, was also described. Over the past 50 years, APL has transformed from a highly fatal disease to a highly curable one.
+ [2] 
+Acute promyelocytic leukemia (APL) is defined by its cytogenetic properties. Over 95% of cases are characterized by a balanced translocation between chromosome 17q21 and chromosome 15q22. This leads to an abnormal fusion protein called PML-RARA. This translocation can be detected by karyotyping or fluorescence in situ hybridization (FISH) studies, and the transcript can be detected by polymerase chain reaction (PCR) techniques.
+The retinoic acid alpha receptor gene (RARA) is encoded by the long arm of chromosome 17. It is mainly expressed in hematopoietic cells and has an important role in regulating gene expression. In the absence of retinoid acid, RARA is bound by nuclear corepressor factor, and this causes transcriptional repression. In the presence of retinoic acid, RARA is activated and terminal differentiation of promyelocytes occurs.
+The promyelocytic gene (PML) is encoded by the long arm of chromosome 15 and is expressed ubiquitously. PML is thought to be involved in apoptosis and tumor suppression.
+There are three possible isoforms caused by PML-RARA translocations. The breakpoint in chromosome 17 is consistently found in intron 2, but varies in chromosome 15. The three breakpoints on the PML gene can occur at intron 3 (L form), intron 6 (S form), and exon 6 (V form). The S form is reportedly associated with a shorter remission duration and overall survival compared with the L form.
+ [3] 
+The fusion gene product causes the retinoic acid receptor to bind more tightly to the nuclear co-repressor factor. Therefore, the gene cannot be activated with physiologic doses of retinoic acid. In about 5% of cases, rearrangements of chromosome 17q21 with other gene partners occur. These include the following:
+PZLF (promyelocytic zinc finger) t(11;17)(q23;q21)
+NPM (nucleophosmin) t(5;17)(q35;q12-21)
+NuMa (nuclear mitotic apparatus) t(11;17)(q13;q21)
+STAT5b (17;17)(q11;q21)
+Yin et al identified a novel fusion between RARA and the interferon regulatory factor 2 binding protein 2 (IRF2BP2) genes.
+ [4] Cao et al reported on a new karyotype: 46,XY; t(7;16)(q31'q22), t(15;17)(q22;q21).
+ [5] 
+It is important to note that the nature of the fusion partner significantly impacts the disease characteristics and response to therapy. For example, APL with PLZF-RARA is not sensitive to retinoic acid and is less sensitive to chemotherapy.
+ [6] 
+About 40% of APL cases also express additional chromosomal abnormalities (trisomy 8 and isochromosome 17). These do not appear to impact the overall prognosis.
+In the United States, acute promyelocytic leukemia (APL) accounts for 5-15% of all adult leukemias.
+ [7] Approximately 30,800 cases of acute leukemia are diagnosed yearly in the US, and about 1000 of those are APL. The annual incidence of APL in Italy is approximately 0.6 per 1 million people.
+Douer noted that the APL-specific PML/RARA gene rearrangement is different in Latinos and non-Latinos, and that the incidence rate of  APL is higher in patients originating in Latin America.
+ [8]  In contrast, Matasar et al reported that lifetime incidence rates of APL were not higher in US Hispanics than in whites, but the age distribution among Hispanics was significantly different from that in non-Hispanic whites, with greater incidence rates for children ages 1-19 years and adults ages 20-44 years. Blacks had lower lifetime incidence rates than non-Hispanic whites, Hispanics, and Asians.
+ [9] 
+The incidence of APL in males and females is equal.
+ [8] The median age of onset of APL is about age 40 years.
+Unlike most leukemias, acute promyelocytic leukemia (APL) has a very good prognosis, with long-term survival rates up to 90% following treatment.
+ [10]  However, the incidence of early death remains high, with 29% of APL patients dying within 30 days of their diagnosis; in 35% of those early deaths, the patient never received all-trans retinoic acid (ATRA) therapy.
+ [11] The most common causes of early death in APL are hemorrhage, differentiation syndrome (DS), and infection.
+ [12, 13] 
+The white blood cell (WBC) count is viewed as an important index associated with prognosis in APL. The National Comprehensive Cancer Network (NCCN) uses WBC counts to classify patients as either low risk (WBC ≤10,000/μL) or high risk (WBC >10,000/μL).
+ [14] In addition to higher WBC counts, the following have also been identified as risk factors for early death
+ [13, 12] :
+Molecular and immunophenotypic features associated with a higher risk of relapse include expression in APL blasts of the stem/progenitor cell antigen CD34, the neural adhesion molecule (CD56), and the T cell antigen CD2. Often, the expression of these markers is associated with a high WBC count.
+ [15] 
+Since the early 1990s, there have been reports of extramedullary relapse to the skin and central nervous system with APL that are associated with a poor prognosis.
+A retrospective analysis examined the outcome of 155 patients with the microgranular variant (M3V) of APL who were treated with ATRA-based therapy in three clinical trials. The analysis revealed no difference in incidence of complications, survival, and response compared with patients who had classical M3 morphology, when outcomes were adjusted for the WBC count or the relapse risk score.
+ [16] 
+A long-term observational study of 1025 patients with APL in first complete remission found that therapy-related myeloid neoplasms (t-MNs) are a rare but severe complication. Therapy for APL in these patients consisted of ATRA plus anthracycline chemotherapy. Further research is needed to determine how to decrease the frequency of t-MN following ATRA plus anthracycline-based therapy.
+ [17] 
+ 
+Bernard J. History of promyelocytic leukaemia. Leukemia. 1994. 8 suppl 2:S1-5. [Medline]. 
+Lo-Coco F, Cicconi L, Voso MT. Progress and criticalities in the management of acute promyelocytic leukemia. Oncotarget. 2017 Nov 21. 8 (59):99221-99222. [Medline]. [Full Text].
+Vahdat L, Maslak P, Miller WH Jr, et al. Early mortality and the retinoic acid syndrome in acute promyelocytic leukemia: impact of leukocytosis, low-dose chemotherapy, PMN/RAR-alpha isoform, and CD13 expression in patients treated with all-trans retinoic acid. Blood. 1994 Dec 1. 84(11):3843-9. [Medline]. [Full Text].
+Yin CC, Jain N, Mehrotra M, Zhagn J, Protopopov A, Zuo Z, et al. Identification of a novel fusion gene, IRF2BP2-RARA, in acute promyelocytic leukemia. J Natl Compr Canc Netw. 2015 Jan. 13(1):19-22. [Medline]. 
+Cao Y, Yuan R, Wang Y, Chen R, Huang M, Zhou J. A New Chromosome Translocation t(7;16)(q31,q22) Change during an Acute Promyelocytic Leukemia Relapse. Cytogenet Genome Res. 2013 May 4. [Medline]. 
+Jurcic JG, Soignet SL, Maslak AP. Diagnosis and treatment of acute promyelocytic leukemia. Curr Oncol Rep. 2007 Sep. 9(5):337-44. [Medline]. 
+Ribeiro RC, Rego E. Management of APL in developing countries: epidemiology, challenges and opportunities for international collaboration. Hematology Am Soc Hematol Educ Program. 2006. 162-8. [Medline]. [Full Text].
+Douer D. The epidemiology of acute promyelocytic leukaemia. Best Pract Res Clin Haematol. 2003 Sep. 16(3):357-67. [Medline]. 
+Matasar MJ, Ritchie EK, Consedine N, Magai C, Neugut AI. Incidence rates of acute promyelocytic leukemia among Hispanics, blacks, Asians, and non-Hispanic whites in the United States. Eur J Cancer Prev. 2006 Aug. 15(4):367-70. [Medline]. 
+Cicconi L, Lo-Coco F. Current management of newly diagnosed acute promyelocytic leukemia. Ann Oncol. 2016 Aug. 27 (8):1474-81. [Medline]. [Full Text].
+Xu F, Wang C, Yin C, Jiang X, Jiang L, Wang Z, et al. Analysis of early death in newly diagnosed acute promyelocytic leukemia patients. Medicine (Baltimore). 2017 Dec. 96 (51):e9324. [Medline]. [Full Text].
+Hou J, Wang S, Zhang Y, Fan D, Li H, Yang Y, et al. Causes and prognostic factors for early death in patients with acute promyelocytic leukemia treated with single-agent arsenic trioxide. Ann Hematol. 2017 Dec. 96 (12):2005-2013. [Medline]. 
+Zhao H, Zhao Y, Zhang Y, Hou J, Yang H, Cao F, et al. Difference in causes and prognostic factors of early death between cohorts with de novo and relapsed acute promyelocytic leukemia. Ann Hematol. 2018 Mar. 97 (3):409-416. [Medline]. 
+[Guideline] National Comprehensive Cancer Network. Acute Myeloid Leukemia. NCCN. Available at http://www.nccn.org/professionals/physician_gls/pdf/aml.pdf. Version 2.2019 — March 8, 2019; Accessed: May 2, 2019.
+Testa U, Lo-Coco F. Prognostic factors in acute promyelocytic leukemia: strategies to define high-risk patients. Ann Hematol. 2016 Apr. 95 (5):673-80. [Medline]. 
+Tallman MS, Kim HT, Montesinos P, et al. Does microgranular variant morphology of acute promyelocytic leukemia independently predict a less favorable outcome compared with classical M3 APL? A joint study of the North American Intergroup and the PETHEMA Group. Blood. 2010 Dec 16. 116(25):5650-9. [Medline]. 
+Montesinos P, González JD, González J, Rayón C, de Lisa E, Amigo ML, et al. Therapy-related myeloid neoplasms in patients with acute promyelocytic leukemia treated with all-trans-retinoic Acid and anthracycline-based chemotherapy. J Clin Oncol. 2010 Aug 20. 28(24):3872-9. [Medline]. 
+Cashen AF. Acute Leukemias. Govindan R, Morgensztern D, eds. DeVita, Hellman, and Rosenberg's Cancer: Principles & Practice of Oncology: Review. 4th ed. Philadelphia, Pa: Wolters Kluwer; 2016. 293-304. 
+Menell JS, Cesarman GM, Jacovina AT, et al. Annexin II and bleeding in acute promyelocytic leukemia. N Engl J Med. 1999 Apr 1. 340(13):994-1004. [Medline]. [Full Text].
+Tallman MS, Andersen JW, Schiffer CA, et al. All-trans retinoic acid in acute promyelocytic leukemia: long-term outcome and prognostic factor analysis from the North American Intergroup protocol. Blood. 2002 Dec 15. 100(13):4298-302. [Medline]. [Full Text].
+Shigeno K, Naito K, Sahara N, et al. Arsenic trioxide therapy in relapsed or refractory Japanese patients with acute promyelocytic leukemia: updated outcomes of the phase II study and postremission therapies. Int J Hematol. 2005 Oct. 82(3):224-9. [Medline]. 
+Shen ZX, Shi ZZ, Fang J, Gu BW, Li JM, Zhu YM, et al. All-trans retinoic acid/As2O3 combination yields a high quality remission and survival in newly diagnosed acute promyelocytic leukemia. Proc Natl Acad Sci U S A. 2004 Apr 13. 101(15):5328-35. [Medline]. [Full Text].
+Lo-Coco F, Avvisati G, Vignetti M, Thiede C, Orlando SM, Iacobelli S, et al. Retinoic acid and arsenic trioxide for acute promyelocytic leukemia. N Engl J Med. 2013 Jul 11. 369(2):111-21. [Medline]. [Full Text].
+Sanz MA, Martin G, Gonzalez M, et al, for the Programa de Estudio y Traitmiento de las Hemopatias Malignas. Risk-adapted treatment of acute promyelocytic leukemia with all-trans-retinoic acid and anthracycline monochemotherapy: a multicenter study by the PETHEMA group. Blood. 2004 Feb 15. 103(4):1237-43. [Medline]. [Full Text].
+Fenaux P, Chastang C, Chevret S, et al, for the The European APL Group. A randomized comparison of all transretinoic acid (ATRA) followed by chemotherapy and ATRA plus chemotherapy and the role of maintenance therapy in newly diagnosed acute promyelocytic leukemia. Blood. 1999 Aug 15. 94(4):1192-200. [Medline]. [Full Text].
+Sanz MA, Lo Coco F, Martin G, et al. Definition of relapse risk and role of nonanthracycline drugs for consolidation in patients with acute promyelocytic leukemia: a joint study of the PETHEMA and GIMEMA cooperative groups. Blood. 2000 Aug 15. 96(4):1247-53. [Medline]. [Full Text].
+Ades L, Sanz MA, Chevret S, et al. Treatment of newly diagnosed acute promyelocytic leukemia (APL): a comparison of French-Belgian-Swiss and PETHEMA results. Blood. 2008 Feb 1. 111(3):1078-84. [Medline]. [Full Text].
+de la Serna J, Montesinos P, Vellenga E, et al. Causes and prognostic factors of remission induction failure in patients with acute promyelocytic leukemia treated with all-trans retinoic acid and idarubicin. Blood. 2008 Apr 1. 111(7):3395-402. [Medline]. [Full Text].
+Montesinos P, Gonzalez JD, Gonzalez J, et al. Therapy-related myeloid neoplasms in patients with acute promyelocytic leukemia treated with all-trans-retinoic Acid and anthracycline-based chemotherapy. J Clin Oncol. 2010 Aug 20. 28(24):3872-9. [Medline]. 
+Powell BL, Moser B, Stock W, Gallagher RE, Willman CL, Stone RM, et al. Arsenic trioxide improves event-free and overall survival for adults with acute promyelocytic leukemia: North American Leukemia Intergroup Study C9710. Blood. 2010 Nov 11. 116(19):3751-7. [Medline]. [Full Text].
+Grimwade D, Howe K, Langabeer S, et al. Minimal residual disease detection in acute promyelocytic leukemia by reverse-transcriptase PCR: evaluation of PML-RAR alpha and RAR alpha-PML assessment in patients who ultimately relapse. Leukemia. 1996 Jan. 10(1):61-6. [Medline]. 
+Avvisati G, Lo-Coco F, Paoloni FP, et al. AIDA 0493 protocol for newly diagnosed acute promyelocytic leukemia: very long-term results and role of maintenance. Blood. 2011 May 5. 117(18):4716-25. [Medline]. 
+Falchi L, Verstovsek S, Ravandi-Kashani F, Kantarjian HM. The evolution of arsenic in the treatment of acute promyelocytic leukemia and other myeloid neoplasms: Moving toward an effective oral, outpatient therapy. Cancer. 2016 Apr 15. 122 (8):1160-8. [Medline]. 
+Soignet SL, Frankel SR, Douer D, et al. United States multicenter study of arsenic trioxide in relapsed acute promyelocytic leukemia. J Clin Oncol. 2001 Sep 15. 19(18):3852-60. [Medline]. [Full Text].
+Mathews V, George B, Chendamarai E, Lakshmi KM, Desire S, Balasubramanian P, et al. Single-agent arsenic trioxide in the treatment of newly diagnosed acute promyelocytic leukemia: long-term follow-up data. J Clin Oncol. 2010 Aug 20. 28(24):3866-71. [Medline]. 
+Tomita A, Kiyoi H, Naoe T. Mechanisms of action and resistance to all-trans retinoic acid (ATRA) and arsenic trioxide (As2O 3) in acute promyelocytic leukemia. Int J Hematol. 2013 May 14. [Medline]. 
+Lo Coco F, Ammatuna E, Noguera N. Treatment of acute promyelocytic leukemia with gemtuzumab ozogamicin. Clin Adv Hematol Oncol. 2006 Jan. 4(1):57-62, 76-7. [Medline]. 
+Lo-Coco F, Cimino G, Breccia M, et al. Gemtuzumab ozogamicin (Mylotarg) as a single agent for molecularly relapsed acute promyelocytic leukemia. Blood. 2004 Oct 1. 104(7):1995-9. [Medline]. [Full Text].
+Estey EH, Giles FJ, Beran M, et al. Experience with gemtuzumab ozogamycin ("Mylotarg") and all-trans retinoic acid in untreated acute promyelocytic leukemia. Blood. 2002 Jun 1. 99(11):4222-4. [Medline]. [Full Text].
+de Botton S, Fawaz A, Chevret S, et al. Autologous and allogeneic stem-cell transplantation as salvage treatment of acute promyelocytic leukemia initially treated with all-trans-retinoic acid: a retrospective analysis of the European Acute Promyelocytic Leukemia Group. J Clin Oncol. 2005 Jan 1. 23(1):120-6. [Medline]. [Full Text].
+Kharfan-Dabaja MA, Abou Mourad YR, Fernandez HF, Pasquini MC, Santos ES. Hematopoietic cell transplantation in acute promyelocytic leukemia: a comprehensive review. Biol Blood Marrow Transplant. 2007 Sep. 13(9):997-1004. [Medline]. 
+Fenaux P, Chastang C, Chevret S, et al, for the European APL Group. A randomized comparison of all transretinoic acid (ATRA) followed by chemotherapy and ATRA plus chemotherapy and the role of maintenance therapy in newly diagnosed acute promyelocytic leukemia. Blood. 1999 Aug 15. 94(4):1192-200. [Medline]. [Full Text].
+Sanz MA, Vellenga E, Rayon C, et al. All-trans retinoic acid and anthracycline monochemotherapy for the treatment of elderly patients with acute promyelocytic leukemia. Blood. 2004 Dec 1. 104(12):3490-3. [Medline]. [Full Text].
+Lengfelder E, Hofmann WK, Nolte F. Management of elderly patients with acute promyelocytic leukemia: progress and problems. Ann Hematol. 2013 May 22. [Medline]. 
+Braun T, Cereja S, Chevret S, Raffoux E, Beaumont M, Detourmignies L, et al. Evolving characteristics and outcome of secondary acute promyelocytic leukemia (APL): A prospective analysis by the French-Belgian-Swiss APL group. Cancer. 2015 Apr 6. [Medline]. 
+[Guideline] Sanz MA, Fenaux P, Tallman MS, Estey EH, Löwenberg B, Naoe T, et al. Management of acute promyelocytic leukemia: updated recommendations from an expert panel of the European LeukemiaNet. Blood. 2019 Apr 11. 133 (15):1630-1643. [Medline]. [Full Text].
+Sandy D Kotiah, MD Director of the Neuroendocrine Center, Hematology and Medical Oncology, Mercy Medical CenterDisclosure: Nothing to disclose.
+Emmanuel C Besa, MD Professor Emeritus, Department of Medicine, Division of Hematologic Malignancies and Hematopoietic Stem Cell Transplantation, Kimmel Cancer Center, Jefferson Medical College of Thomas Jefferson University
+Emmanuel C Besa, MD is a member of the following medical societies: American Association for Cancer Education, American Society of Clinical Oncology, American College of Clinical Pharmacology, American Federation for Medical Research, American Society of Hematology, New York Academy of SciencesDisclosure: Nothing to disclose.
+Francisco Talavera, PharmD, PhD Adjunct Assistant Professor, University of Nebraska Medical Center College of Pharmacy; Editor-in-Chief, Medscape Drug ReferenceDisclosure: Received salary from Medscape for employment. for: Medscape.
+Ronald A Sacher, MBBCh, FRCPC, DTM&H Professor of Internal Medicine and Pathology, Director, Hoxworth Blood Center, University of Cincinnati Academic Health Center
+Ronald A Sacher, MBBCh, FRCPC, DTM&H is a member of the following medical societies: American Association for the Advancement of Science, American Association of Blood Banks, American Clinical and Climatological Association, American Society for Clinical Pathology, American Society of Hematology, College of American Pathologists, International Society of Blood Transfusion, International Society on Thrombosis and Haemostasis, Royal College of Physicians and Surgeons of CanadaDisclosure: Nothing to disclose.
+Emmanuel C Besa, MD Professor Emeritus, Department of Medicine, Division of Hematologic Malignancies and Hematopoietic Stem Cell Transplantation, Kimmel Cancer Center, Jefferson Medical College of Thomas Jefferson University
+Emmanuel C Besa, MD is a member of the following medical societies: American Association for Cancer Education, American Society of Clinical Oncology, American College of Clinical Pharmacology, American Federation for Medical Research, American Society of Hematology, New York Academy of SciencesDisclosure: Nothing to disclose.
+Clarence Sarkodee Adoo, MD, FACP Consulting Staff, Department of Bone Marrow Transplantation, City of Hope Samaritan BMT Program
+Clarence Sarkodee Adoo, MD, FACP is a member of the following medical societies: American College of Physicians-American Society of Internal Medicine, American Society of Hematology, American Society of Clinical OncologyDisclosure: Nothing to disclose.
+Acute Promyelocytic Leukemia: Practice Essentials, Background, Pathophysiology
+Acute promyelocytic leukemia (APL) is a is a unique subtype of acute leukemia characterized by abnormal proliferation of promyelocytes, life-threatening coagulopathy, and the chromosome translocation t(15;17)(q22;q11-12). The discovery and elucidation of the molecular pathogenesis for APL has led to the introduction of all-trans retinoic acid (ATRA) and arsenic trioxide (ATO) therapies, which improved the prognosis of APL patients significantly.
+See the images below.
+ 
+ 
+For patient education information, see the Cancer Center, as well as Leukemia. In addition, patients should visit the Leukemia and Lymphoma Society Web page, www.leukemia-lymphoma.org, for further information.
+APL was first described as an entity in the late 1950s in Norway and France as a hyperacute fatal illness associated with a hemorrhagic syndrome.
+ [1] In 1959, Jean Bernard et al described the association of APL with a severe hemorrhagic diathesis that led to disseminated intravascular coagulation (DIC) and hyperfibrinolysis. By 1973, there were reports of complete remissions with treatment of the disease by daunorubicin.
+In 1974, Leo Sachs pioneered research on leukemic cell differentiation in vivo. Dr. Zhen Yi Wang, a Chinese hematologist, shared data on the efficacy of all-trans retinoic acid (ATRA) in his APL patients during a visit to France in 1985. In 1990, several publications linked a translocation between chromosomes 15 and 17 to the pathology of APL. In the early to mid 1990s, arsenic trioxide (ATO) was added to the treatment regimen. A potentially fatal complication of ATRA treatment, called retinoic acid syndrome, was also described. Over the past 50 years, APL has transformed from a highly fatal disease to a highly curable one.
+ [2] 
+Acute promyelocytic leukemia (APL) is defined by its cytogenetic properties. Over 95% of cases are characterized by a balanced translocation between chromosome 17q21 and chromosome 15q22. This leads to an abnormal fusion protein called PML-RARA. This translocation can be detected by karyotyping or fluorescence in situ hybridization (FISH) studies, and the transcript can be detected by polymerase chain reaction (PCR) techniques.
+The retinoic acid alpha receptor gene (RARA) is encoded by the long arm of chromosome 17. It is mainly expressed in hematopoietic cells and has an important role in regulating gene expression. In the absence of retinoid acid, RARA is bound by nuclear corepressor factor, and this causes transcriptional repression. In the presence of retinoic acid, RARA is activated and terminal differentiation of promyelocytes occurs.
+The promyelocytic gene (PML) is encoded by the long arm of chromosome 15 and is expressed ubiquitously. PML is thought to be involved in apoptosis and tumor suppression.
+There are three possible isoforms caused by PML-RARA translocations. The breakpoint in chromosome 17 is consistently found in intron 2, but varies in chromosome 15. The three breakpoints on the PML gene can occur at intron 3 (L form), intron 6 (S form), and exon 6 (V form). The S form is reportedly associated with a shorter remission duration and overall survival compared with the L form.
+ [3] 
+The fusion gene product causes the retinoic acid receptor to bind more tightly to the nuclear co-repressor factor. Therefore, the gene cannot be activated with physiologic doses of retinoic acid. In about 5% of cases, rearrangements of chromosome 17q21 with other gene partners occur. These include the following:
+PZLF (promyelocytic zinc finger) t(11;17)(q23;q21)
+NPM (nucleophosmin) t(5;17)(q35;q12-21)
+NuMa (nuclear mitotic apparatus) t(11;17)(q13;q21)
+STAT5b (17;17)(q11;q21)
+Yin et al identified a novel fusion between RARA and the interferon regulatory factor 2 binding protein 2 (IRF2BP2) genes.
+ [4] Cao et al reported on a new karyotype: 46,XY; t(7;16)(q31'q22), t(15;17)(q22;q21).
+ [5] 
+It is important to note that the nature of the fusion partner significantly impacts the disease characteristics and response to therapy. For example, APL with PLZF-RARA is not sensitive to retinoic acid and is less sensitive to chemotherapy.
+ [6] 
+About 40% of APL cases also express additional chromosomal abnormalities (trisomy 8 and isochromosome 17). These do not appear to impact the overall prognosis.
+In the United States, acute promyelocytic leukemia (APL) accounts for 5-15% of all adult leukemias.
+ [7] Approximately 30,800 cases of acute leukemia are diagnosed yearly in the US, and about 1000 of those are APL. The annual incidence of APL in Italy is approximately 0.6 per 1 million people.
+Douer noted that the APL-specific PML/RARA gene rearrangement is different in Latinos and non-Latinos, and that the incidence rate of  APL is higher in patients originating in Latin America.
+ [8]  In contrast, Matasar et al reported that lifetime incidence rates of APL were not higher in US Hispanics than in whites, but the age distribution among Hispanics was significantly different from that in non-Hispanic whites, with greater incidence rates for children ages 1-19 years and adults ages 20-44 years. Blacks had lower lifetime incidence rates than non-Hispanic whites, Hispanics, and Asians.
+ [9] 
+The incidence of APL in males and females is equal.
+ [8] The median age of onset of APL is about age 40 years.
+Unlike most leukemias, acute promyelocytic leukemia (APL) has a very good prognosis, with long-term survival rates up to 90% following treatment.
+ [10]  However, the incidence of early death remains high, with 29% of APL patients dying within 30 days of their diagnosis; in 35% of those early deaths, the patient never received all-trans retinoic acid (ATRA) therapy.
+ [11] The most common causes of early death in APL are hemorrhage, differentiation syndrome (DS), and infection.
+ [12, 13] 
+The white blood cell (WBC) count is viewed as an important index associated with prognosis in APL. The National Comprehensive Cancer Network (NCCN) uses WBC counts to classify patients as either low risk (WBC ≤10,000/μL) or high risk (WBC >10,000/μL).
+ [14] In addition to higher WBC counts, the following have also been identified as risk factors for early death
+ [13, 12] :
+Molecular and immunophenotypic features associated with a higher risk of relapse include expression in APL blasts of the stem/progenitor cell antigen CD34, the neural adhesion molecule (CD56), and the T cell antigen CD2. Often, the expression of these markers is associated with a high WBC count.
+ [15] 
+Since the early 1990s, there have been reports of extramedullary relapse to the skin and central nervous system with APL that are associated with a poor prognosis.
+A retrospective analysis examined the outcome of 155 patients with the microgranular variant (M3V) of APL who were treated with ATRA-based therapy in three clinical trials. The analysis revealed no difference in incidence of complications, survival, and response compared with patients who had classical M3 morphology, when outcomes were adjusted for the WBC count or the relapse risk score.
+ [16] 
+A long-term observational study of 1025 patients with APL in first complete remission found that therapy-related myeloid neoplasms (t-MNs) are a rare but severe complication. Therapy for APL in these patients consisted of ATRA plus anthracycline chemotherapy. Further research is needed to determine how to decrease the frequency of t-MN following ATRA plus anthracycline-based therapy.
+ [17] 
+ 
+Bernard J. History of promyelocytic leukaemia. Leukemia. 1994. 8 suppl 2:S1-5. [Medline]. 
+Lo-Coco F, Cicconi L, Voso MT. Progress and criticalities in the management of acute promyelocytic leukemia. Oncotarget. 2017 Nov 21. 8 (59):99221-99222. [Medline]. [Full Text].
+Vahdat L, Maslak P, Miller WH Jr, et al. Early mortality and the retinoic acid syndrome in acute promyelocytic leukemia: impact of leukocytosis, low-dose chemotherapy, PMN/RAR-alpha isoform, and CD13 expression in patients treated with all-trans retinoic acid. Blood. 1994 Dec 1. 84(11):3843-9. [Medline]. [Full Text].
+Yin CC, Jain N, Mehrotra M, Zhagn J, Protopopov A, Zuo Z, et al. Identification of a novel fusion gene, IRF2BP2-RARA, in acute promyelocytic leukemia. J Natl Compr Canc Netw. 2015 Jan. 13(1):19-22. [Medline]. 
+Cao Y, Yuan R, Wang Y, Chen R, Huang M, Zhou J. A New Chromosome Translocation t(7;16)(q31,q22) Change during an Acute Promyelocytic Leukemia Relapse. Cytogenet Genome Res. 2013 May 4. [Medline]. 
+Jurcic JG, Soignet SL, Maslak AP. Diagnosis and treatment of acute promyelocytic leukemia. Curr Oncol Rep. 2007 Sep. 9(5):337-44. [Medline]. 
+Ribeiro RC, Rego E. Management of APL in developing countries: epidemiology, challenges and opportunities for international collaboration. Hematology Am Soc Hematol Educ Program. 2006. 162-8. [Medline]. [Full Text].
+Douer D. The epidemiology of acute promyelocytic leukaemia. Best Pract Res Clin Haematol. 2003 Sep. 16(3):357-67. [Medline]. 
+Matasar MJ, Ritchie EK, Consedine N, Magai C, Neugut AI. Incidence rates of acute promyelocytic leukemia among Hispanics, blacks, Asians, and non-Hispanic whites in the United States. Eur J Cancer Prev. 2006 Aug. 15(4):367-70. [Medline]. 
+Cicconi L, Lo-Coco F. Current management of newly diagnosed acute promyelocytic leukemia. Ann Oncol. 2016 Aug. 27 (8):1474-81. [Medline]. [Full Text].
+Xu F, Wang C, Yin C, Jiang X, Jiang L, Wang Z, et al. Analysis of early death in newly diagnosed acute promyelocytic leukemia patients. Medicine (Baltimore). 2017 Dec. 96 (51):e9324. [Medline]. [Full Text].
+Hou J, Wang S, Zhang Y, Fan D, Li H, Yang Y, et al. Causes and prognostic factors for early death in patients with acute promyelocytic leukemia treated with single-agent arsenic trioxide. Ann Hematol. 2017 Dec. 96 (12):2005-2013. [Medline]. 
+Zhao H, Zhao Y, Zhang Y, Hou J, Yang H, Cao F, et al. Difference in causes and prognostic factors of early death between cohorts with de novo and relapsed acute promyelocytic leukemia. Ann Hematol. 2018 Mar. 97 (3):409-416. [Medline]. 
+[Guideline] National Comprehensive Cancer Network. Acute Myeloid Leukemia. NCCN. Available at http://www.nccn.org/professionals/physician_gls/pdf/aml.pdf. Version 2.2019 — March 8, 2019; Accessed: May 2, 2019.
+Testa U, Lo-Coco F. Prognostic factors in acute promyelocytic leukemia: strategies to define high-risk patients. Ann Hematol. 2016 Apr. 95 (5):673-80. [Medline]. 
+Tallman MS, Kim HT, Montesinos P, et al. Does microgranular variant morphology of acute promyelocytic leukemia independently predict a less favorable outcome compared with classical M3 APL? A joint study of the North American Intergroup and the PETHEMA Group. Blood. 2010 Dec 16. 116(25):5650-9. [Medline]. 
+Montesinos P, González JD, González J, Rayón C, de Lisa E, Amigo ML, et al. Therapy-related myeloid neoplasms in patients with acute promyelocytic leukemia treated with all-trans-retinoic Acid and anthracycline-based chemotherapy. J Clin Oncol. 2010 Aug 20. 28(24):3872-9. [Medline]. 
+Cashen AF. Acute Leukemias. Govindan R, Morgensztern D, eds. DeVita, Hellman, and Rosenberg's Cancer: Principles & Practice of Oncology: Review. 4th ed. Philadelphia, Pa: Wolters Kluwer; 2016. 293-304. 
+Menell JS, Cesarman GM, Jacovina AT, et al. Annexin II and bleeding in acute promyelocytic leukemia. N Engl J Med. 1999 Apr 1. 340(13):994-1004. [Medline]. [Full Text].
+Tallman MS, Andersen JW, Schiffer CA, et al. All-trans retinoic acid in acute promyelocytic leukemia: long-term outcome and prognostic factor analysis from the North American Intergroup protocol. Blood. 2002 Dec 15. 100(13):4298-302. [Medline]. [Full Text].
+Shigeno K, Naito K, Sahara N, et al. Arsenic trioxide therapy in relapsed or refractory Japanese patients with acute promyelocytic leukemia: updated outcomes of the phase II study and postremission therapies. Int J Hematol. 2005 Oct. 82(3):224-9. [Medline]. 
+Shen ZX, Shi ZZ, Fang J, Gu BW, Li JM, Zhu YM, et al. All-trans retinoic acid/As2O3 combination yields a high quality remission and survival in newly diagnosed acute promyelocytic leukemia. Proc Natl Acad Sci U S A. 2004 Apr 13. 101(15):5328-35. [Medline]. [Full Text].
+Lo-Coco F, Avvisati G, Vignetti M, Thiede C, Orlando SM, Iacobelli S, et al. Retinoic acid and arsenic trioxide for acute promyelocytic leukemia. N Engl J Med. 2013 Jul 11. 369(2):111-21. [Medline]. [Full Text].
+Sanz MA, Martin G, Gonzalez M, et al, for the Programa de Estudio y Traitmiento de las Hemopatias Malignas. Risk-adapted treatment of acute promyelocytic leukemia with all-trans-retinoic acid and anthracycline monochemotherapy: a multicenter study by the PETHEMA group. Blood. 2004 Feb 15. 103(4):1237-43. [Medline]. [Full Text].
+Fenaux P, Chastang C, Chevret S, et al, for the The European APL Group. A randomized comparison of all transretinoic acid (ATRA) followed by chemotherapy and ATRA plus chemotherapy and the role of maintenance therapy in newly diagnosed acute promyelocytic leukemia. Blood. 1999 Aug 15. 94(4):1192-200. [Medline]. [Full Text].
+Sanz MA, Lo Coco F, Martin G, et al. Definition of relapse risk and role of nonanthracycline drugs for consolidation in patients with acute promyelocytic leukemia: a joint study of the PETHEMA and GIMEMA cooperative groups. Blood. 2000 Aug 15. 96(4):1247-53. [Medline]. [Full Text].
+Ades L, Sanz MA, Chevret S, et al. Treatment of newly diagnosed acute promyelocytic leukemia (APL): a comparison of French-Belgian-Swiss and PETHEMA results. Blood. 2008 Feb 1. 111(3):1078-84. [Medline]. [Full Text].
+de la Serna J, Montesinos P, Vellenga E, et al. Causes and prognostic factors of remission induction failure in patients with acute promyelocytic leukemia treated with all-trans retinoic acid and idarubicin. Blood. 2008 Apr 1. 111(7):3395-402. [Medline]. [Full Text].
+Montesinos P, Gonzalez JD, Gonzalez J, et al. Therapy-related myeloid neoplasms in patients with acute promyelocytic leukemia treated with all-trans-retinoic Acid and anthracycline-based chemotherapy. J Clin Oncol. 2010 Aug 20. 28(24):3872-9. [Medline]. 
+Powell BL, Moser B, Stock W, Gallagher RE, Willman CL, Stone RM, et al. Arsenic trioxide improves event-free and overall survival for adults with acute promyelocytic leukemia: North American Leukemia Intergroup Study C9710. Blood. 2010 Nov 11. 116(19):3751-7. [Medline]. [Full Text].
+Grimwade D, Howe K, Langabeer S, et al. Minimal residual disease detection in acute promyelocytic leukemia by reverse-transcriptase PCR: evaluation of PML-RAR alpha and RAR alpha-PML assessment in patients who ultimately relapse. Leukemia. 1996 Jan. 10(1):61-6. [Medline]. 
+Avvisati G, Lo-Coco F, Paoloni FP, et al. AIDA 0493 protocol for newly diagnosed acute promyelocytic leukemia: very long-term results and role of maintenance. Blood. 2011 May 5. 117(18):4716-25. [Medline]. 
+Falchi L, Verstovsek S, Ravandi-Kashani F, Kantarjian HM. The evolution of arsenic in the treatment of acute promyelocytic leukemia and other myeloid neoplasms: Moving toward an effective oral, outpatient therapy. Cancer. 2016 Apr 15. 122 (8):1160-8. [Medline]. 
+Soignet SL, Frankel SR, Douer D, et al. United States multicenter study of arsenic trioxide in relapsed acute promyelocytic leukemia. J Clin Oncol. 2001 Sep 15. 19(18):3852-60. [Medline]. [Full Text].
+Mathews V, George B, Chendamarai E, Lakshmi KM, Desire S, Balasubramanian P, et al. Single-agent arsenic trioxide in the treatment of newly diagnosed acute promyelocytic leukemia: long-term follow-up data. J Clin Oncol. 2010 Aug 20. 28(24):3866-71. [Medline]. 
+Tomita A, Kiyoi H, Naoe T. Mechanisms of action and resistance to all-trans retinoic acid (ATRA) and arsenic trioxide (As2O 3) in acute promyelocytic leukemia. Int J Hematol. 2013 May 14. [Medline]. 
+Lo Coco F, Ammatuna E, Noguera N. Treatment of acute promyelocytic leukemia with gemtuzumab ozogamicin. Clin Adv Hematol Oncol. 2006 Jan. 4(1):57-62, 76-7. [Medline]. 
+Lo-Coco F, Cimino G, Breccia M, et al. Gemtuzumab ozogamicin (Mylotarg) as a single agent for molecularly relapsed acute promyelocytic leukemia. Blood. 2004 Oct 1. 104(7):1995-9. [Medline]. [Full Text].
+Estey EH, Giles FJ, Beran M, et al. Experience with gemtuzumab ozogamycin ("Mylotarg") and all-trans retinoic acid in untreated acute promyelocytic leukemia. Blood. 2002 Jun 1. 99(11):4222-4. [Medline]. [Full Text].
+de Botton S, Fawaz A, Chevret S, et al. Autologous and allogeneic stem-cell transplantation as salvage treatment of acute promyelocytic leukemia initially treated with all-trans-retinoic acid: a retrospective analysis of the European Acute Promyelocytic Leukemia Group. J Clin Oncol. 2005 Jan 1. 23(1):120-6. [Medline]. [Full Text].
+Kharfan-Dabaja MA, Abou Mourad YR, Fernandez HF, Pasquini MC, Santos ES. Hematopoietic cell transplantation in acute promyelocytic leukemia: a comprehensive review. Biol Blood Marrow Transplant. 2007 Sep. 13(9):997-1004. [Medline]. 
+Fenaux P, Chastang C, Chevret S, et al, for the European APL Group. A randomized comparison of all transretinoic acid (ATRA) followed by chemotherapy and ATRA plus chemotherapy and the role of maintenance therapy in newly diagnosed acute promyelocytic leukemia. Blood. 1999 Aug 15. 94(4):1192-200. [Medline]. [Full Text].
+Sanz MA, Vellenga E, Rayon C, et al. All-trans retinoic acid and anthracycline monochemotherapy for the treatment of elderly patients with acute promyelocytic leukemia. Blood. 2004 Dec 1. 104(12):3490-3. [Medline]. [Full Text].
+Lengfelder E, Hofmann WK, Nolte F. Management of elderly patients with acute promyelocytic leukemia: progress and problems. Ann Hematol. 2013 May 22. [Medline]. 
+Braun T, Cereja S, Chevret S, Raffoux E, Beaumont M, Detourmignies L, et al. Evolving characteristics and outcome of secondary acute promyelocytic leukemia (APL): A prospective analysis by the French-Belgian-Swiss APL group. Cancer. 2015 Apr 6. [Medline]. 
+[Guideline] Sanz MA, Fenaux P, Tallman MS, Estey EH, Löwenberg B, Naoe T, et al. Management of acute promyelocytic leukemia: updated recommendations from an expert panel of the European LeukemiaNet. Blood. 2019 Apr 11. 133 (15):1630-1643. [Medline]. [Full Text].
+Sandy D Kotiah, MD Director of the Neuroendocrine Center, Hematology and Medical Oncology, Mercy Medical CenterDisclosure: Nothing to disclose.
+Emmanuel C Besa, MD Professor Emeritus, Department of Medicine, Division of Hematologic Malignancies and Hematopoietic Stem Cell Transplantation, Kimmel Cancer Center, Jefferson Medical College of Thomas Jefferson University
+Emmanuel C Besa, MD is a member of the following medical societies: American Association for Cancer Education, American Society of Clinical Oncology, American College of Clinical Pharmacology, American Federation for Medical Research, American Society of Hematology, New York Academy of SciencesDisclosure: Nothing to disclose.
+Francisco Talavera, PharmD, PhD Adjunct Assistant Professor, University of Nebraska Medical Center College of Pharmacy; Editor-in-Chief, Medscape Drug ReferenceDisclosure: Received salary from Medscape for employment. for: Medscape.
+Ronald A Sacher, MBBCh, FRCPC, DTM&H Professor of Internal Medicine and Pathology, Director, Hoxworth Blood Center, University of Cincinnati Academic Health Center
+Ronald A Sacher, MBBCh, FRCPC, DTM&H is a member of the following medical societies: American Association for the Advancement of Science, American Association of Blood Banks, American Clinical and Climatological Association, American Society for Clinical Pathology, American Society of Hematology, College of American Pathologists, International Society of Blood Transfusion, International Society on Thrombosis and Haemostasis, Royal College of Physicians and Surgeons of CanadaDisclosure: Nothing to disclose.
+Emmanuel C Besa, MD Professor Emeritus, Department of Medicine, Division of Hematologic Malignancies and Hematopoietic Stem Cell Transplantation, Kimmel Cancer Center, Jefferson Medical College of Thomas Jefferson University
+Emmanuel C Besa, MD is a member of the following medical societies: American Association for Cancer Education, American Society of Clinical Oncology, American College of Clinical Pharmacology, American Federation for Medical Research, American Society of Hematology, New York Academy of SciencesDisclosure: Nothing to disclose.
+Clarence Sarkodee Adoo, MD, FACP Consulting Staff, Department of Bone Marrow Transplantation, City of Hope Samaritan BMT Program
+Clarence Sarkodee Adoo, MD, FACP is a member of the following medical societies: American College of Physicians-American Society of Internal Medicine, American Society of Hematology, American Society of Clinical OncologyDisclosure: Nothing to disclose.
+Acute Promyelocytic Leukemia: Practice Essentials, Background, Pathophysiology
+Acute promyelocytic leukemia (APL) is a is a unique subtype of acute leukemia characterized by abnormal proliferation of promyelocytes, life-threatening coagulopathy, and the chromosome translocation t(15;17)(q22;q11-12). The discovery and elucidation of the molecular pathogenesis for APL has led to the introduction of all-trans retinoic acid (ATRA) and arsenic trioxide (ATO) therapies, which improved the prognosis of APL patients significantly.
+See the images below.
+ 
+ 
+For patient education information, see the Cancer Center, as well as Leukemia. In addition, patients should visit the Leukemia and Lymphoma Society Web page, www.leukemia-lymphoma.org, for further information.
+APL was first described as an entity in the late 1950s in Norway and France as a hyperacute fatal illness associated with a hemorrhagic syndrome.
+ [1] In 1959, Jean Bernard et al described the association of APL with a severe hemorrhagic diathesis that led to disseminated intravascular coagulation (DIC) and hyperfibrinolysis. By 1973, there were reports of complete remissions with treatment of the disease by daunorubicin.
+In 1974, Leo Sachs pioneered research on leukemic cell differentiation in vivo. Dr. Zhen Yi Wang, a Chinese hematologist, shared data on the efficacy of all-trans retinoic acid (ATRA) in his APL patients during a visit to France in 1985. In 1990, several publications linked a translocation between chromosomes 15 and 17 to the pathology of APL. In the early to mid 1990s, arsenic trioxide (ATO) was added to the treatment regimen. A potentially fatal complication of ATRA treatment, called retinoic acid syndrome, was also described. Over the past 50 years, APL has transformed from a highly fatal disease to a highly curable one.
+ [2] 
+Acute promyelocytic leukemia (APL) is defined by its cytogenetic properties. Over 95% of cases are characterized by a balanced translocation between chromosome 17q21 and chromosome 15q22. This leads to an abnormal fusion protein called PML-RARA. This translocation can be detected by karyotyping or fluorescence in situ hybridization (FISH) studies, and the transcript can be detected by polymerase chain reaction (PCR) techniques.
+The retinoic acid alpha receptor gene (RARA) is encoded by the long arm of chromosome 17. It is mainly expressed in hematopoietic cells and has an important role in regulating gene expression. In the absence of retinoid acid, RARA is bound by nuclear corepressor factor, and this causes transcriptional repression. In the presence of retinoic acid, RARA is activated and terminal differentiation of promyelocytes occurs.
+The promyelocytic gene (PML) is encoded by the long arm of chromosome 15 and is expressed ubiquitously. PML is thought to be involved in apoptosis and tumor suppression.
+There are three possible isoforms caused by PML-RARA translocations. The breakpoint in chromosome 17 is consistently found in intron 2, but varies in chromosome 15. The three breakpoints on the PML gene can occur at intron 3 (L form), intron 6 (S form), and exon 6 (V form). The S form is reportedly associated with a shorter remission duration and overall survival compared with the L form.
+ [3] 
+The fusion gene product causes the retinoic acid receptor to bind more tightly to the nuclear co-repressor factor. Therefore, the gene cannot be activated with physiologic doses of retinoic acid. In about 5% of cases, rearrangements of chromosome 17q21 with other gene partners occur. These include the following:
+PZLF (promyelocytic zinc finger) t(11;17)(q23;q21)
+NPM (nucleophosmin) t(5;17)(q35;q12-21)
+NuMa (nuclear mitotic apparatus) t(11;17)(q13;q21)
+STAT5b (17;17)(q11;q21)
+Yin et al identified a novel fusion between RARA and the interferon regulatory factor 2 binding protein 2 (IRF2BP2) genes.
+ [4] Cao et al reported on a new karyotype: 46,XY; t(7;16)(q31'q22), t(15;17)(q22;q21).
+ [5] 
+It is important to note that the nature of the fusion partner significantly impacts the disease characteristics and response to therapy. For example, APL with PLZF-RARA is not sensitive to retinoic acid and is less sensitive to chemotherapy.
+ [6] 
+About 40% of APL cases also express additional chromosomal abnormalities (trisomy 8 and isochromosome 17). These do not appear to impact the overall prognosis.
+In the United States, acute promyelocytic leukemia (APL) accounts for 5-15% of all adult leukemias.
+ [7] Approximately 30,800 cases of acute leukemia are diagnosed yearly in the US, and about 1000 of those are APL. The annual incidence of APL in Italy is approximately 0.6 per 1 million people.
+Douer noted that the APL-specific PML/RARA gene rearrangement is different in Latinos and non-Latinos, and that the incidence rate of  APL is higher in patients originating in Latin America.
+ [8]  In contrast, Matasar et al reported that lifetime incidence rates of APL were not higher in US Hispanics than in whites, but the age distribution among Hispanics was significantly different from that in non-Hispanic whites, with greater incidence rates for children ages 1-19 years and adults ages 20-44 years. Blacks had lower lifetime incidence rates than non-Hispanic whites, Hispanics, and Asians.
+ [9] 
+The incidence of APL in males and females is equal.
+ [8] The median age of onset of APL is about age 40 years.
+Unlike most leukemias, acute promyelocytic leukemia (APL) has a very good prognosis, with long-term survival rates up to 90% following treatment.
+ [10]  However, the incidence of early death remains high, with 29% of APL patients dying within 30 days of their diagnosis; in 35% of those early deaths, the patient never received all-trans retinoic acid (ATRA) therapy.
+ [11] The most common causes of early death in APL are hemorrhage, differentiation syndrome (DS), and infection.
+ [12, 13] 
+The white blood cell (WBC) count is viewed as an important index associated with prognosis in APL. The National Comprehensive Cancer Network (NCCN) uses WBC counts to classify patients as either low risk (WBC ≤10,000/μL) or high risk (WBC >10,000/μL).
+ [14] In addition to higher WBC counts, the following have also been identified as risk factors for early death
+ [13, 12] :
+Molecular and immunophenotypic features associated with a higher risk of relapse include expression in APL blasts of the stem/progenitor cell antigen CD34, the neural adhesion molecule (CD56), and the T cell antigen CD2. Often, the expression of these markers is associated with a high WBC count.
+ [15] 
+Since the early 1990s, there have been reports of extramedullary relapse to the skin and central nervous system with APL that are associated with a poor prognosis.
+A retrospective analysis examined the outcome of 155 patients with the microgranular variant (M3V) of APL who were treated with ATRA-based therapy in three clinical trials. The analysis revealed no difference in incidence of complications, survival, and response compared with patients who had classical M3 morphology, when outcomes were adjusted for the WBC count or the relapse risk score.
+ [16] 
+A long-term observational study of 1025 patients with APL in first complete remission found that therapy-related myeloid neoplasms (t-MNs) are a rare but severe complication. Therapy for APL in these patients consisted of ATRA plus anthracycline chemotherapy. Further research is needed to determine how to decrease the frequency of t-MN following ATRA plus anthracycline-based therapy.
+ [17] 
+ 
+Bernard J. History of promyelocytic leukaemia. Leukemia. 1994. 8 suppl 2:S1-5. [Medline]. 
+Lo-Coco F, Cicconi L, Voso MT. Progress and criticalities in the management of acute promyelocytic leukemia. Oncotarget. 2017 Nov 21. 8 (59):99221-99222. [Medline]. [Full Text].
+Vahdat L, Maslak P, Miller WH Jr, et al. Early mortality and the retinoic acid syndrome in acute promyelocytic leukemia: impact of leukocytosis, low-dose chemotherapy, PMN/RAR-alpha isoform, and CD13 expression in patients treated with all-trans retinoic acid. Blood. 1994 Dec 1. 84(11):3843-9. [Medline]. [Full Text].
+Yin CC, Jain N, Mehrotra M, Zhagn J, Protopopov A, Zuo Z, et al. Identification of a novel fusion gene, IRF2BP2-RARA, in acute promyelocytic leukemia. J Natl Compr Canc Netw. 2015 Jan. 13(1):19-22. [Medline]. 
+Cao Y, Yuan R, Wang Y, Chen R, Huang M, Zhou J. A New Chromosome Translocation t(7;16)(q31,q22) Change during an Acute Promyelocytic Leukemia Relapse. Cytogenet Genome Res. 2013 May 4. [Medline]. 
+Jurcic JG, Soignet SL, Maslak AP. Diagnosis and treatment of acute promyelocytic leukemia. Curr Oncol Rep. 2007 Sep. 9(5):337-44. [Medline]. 
+Ribeiro RC, Rego E. Management of APL in developing countries: epidemiology, challenges and opportunities for international collaboration. Hematology Am Soc Hematol Educ Program. 2006. 162-8. [Medline]. [Full Text].
+Douer D. The epidemiology of acute promyelocytic leukaemia. Best Pract Res Clin Haematol. 2003 Sep. 16(3):357-67. [Medline]. 
+Matasar MJ, Ritchie EK, Consedine N, Magai C, Neugut AI. Incidence rates of acute promyelocytic leukemia among Hispanics, blacks, Asians, and non-Hispanic whites in the United States. Eur J Cancer Prev. 2006 Aug. 15(4):367-70. [Medline]. 
+Cicconi L, Lo-Coco F. Current management of newly diagnosed acute promyelocytic leukemia. Ann Oncol. 2016 Aug. 27 (8):1474-81. [Medline]. [Full Text].
+Xu F, Wang C, Yin C, Jiang X, Jiang L, Wang Z, et al. Analysis of early death in newly diagnosed acute promyelocytic leukemia patients. Medicine (Baltimore). 2017 Dec. 96 (51):e9324. [Medline]. [Full Text].
+Hou J, Wang S, Zhang Y, Fan D, Li H, Yang Y, et al. Causes and prognostic factors for early death in patients with acute promyelocytic leukemia treated with single-agent arsenic trioxide. Ann Hematol. 2017 Dec. 96 (12):2005-2013. [Medline]. 
+Zhao H, Zhao Y, Zhang Y, Hou J, Yang H, Cao F, et al. Difference in causes and prognostic factors of early death between cohorts with de novo and relapsed acute promyelocytic leukemia. Ann Hematol. 2018 Mar. 97 (3):409-416. [Medline]. 
+[Guideline] National Comprehensive Cancer Network. Acute Myeloid Leukemia. NCCN. Available at http://www.nccn.org/professionals/physician_gls/pdf/aml.pdf. Version 2.2019 — March 8, 2019; Accessed: May 2, 2019.
+Testa U, Lo-Coco F. Prognostic factors in acute promyelocytic leukemia: strategies to define high-risk patients. Ann Hematol. 2016 Apr. 95 (5):673-80. [Medline]. 
+Tallman MS, Kim HT, Montesinos P, et al. Does microgranular variant morphology of acute promyelocytic leukemia independently predict a less favorable outcome compared with classical M3 APL? A joint study of the North American Intergroup and the PETHEMA Group. Blood. 2010 Dec 16. 116(25):5650-9. [Medline]. 
+Montesinos P, González JD, González J, Rayón C, de Lisa E, Amigo ML, et al. Therapy-related myeloid neoplasms in patients with acute promyelocytic leukemia treated with all-trans-retinoic Acid and anthracycline-based chemotherapy. J Clin Oncol. 2010 Aug 20. 28(24):3872-9. [Medline]. 
+Cashen AF. Acute Leukemias. Govindan R, Morgensztern D, eds. DeVita, Hellman, and Rosenberg's Cancer: Principles & Practice of Oncology: Review. 4th ed. Philadelphia, Pa: Wolters Kluwer; 2016. 293-304. 
+Menell JS, Cesarman GM, Jacovina AT, et al. Annexin II and bleeding in acute promyelocytic leukemia. N Engl J Med. 1999 Apr 1. 340(13):994-1004. [Medline]. [Full Text].
+Tallman MS, Andersen JW, Schiffer CA, et al. All-trans retinoic acid in acute promyelocytic leukemia: long-term outcome and prognostic factor analysis from the North American Intergroup protocol. Blood. 2002 Dec 15. 100(13):4298-302. [Medline]. [Full Text].
+Shigeno K, Naito K, Sahara N, et al. Arsenic trioxide therapy in relapsed or refractory Japanese patients with acute promyelocytic leukemia: updated outcomes of the phase II study and postremission therapies. Int J Hematol. 2005 Oct. 82(3):224-9. [Medline]. 
+Shen ZX, Shi ZZ, Fang J, Gu BW, Li JM, Zhu YM, et al. All-trans retinoic acid/As2O3 combination yields a high quality remission and survival in newly diagnosed acute promyelocytic leukemia. Proc Natl Acad Sci U S A. 2004 Apr 13. 101(15):5328-35. [Medline]. [Full Text].
+Lo-Coco F, Avvisati G, Vignetti M, Thiede C, Orlando SM, Iacobelli S, et al. Retinoic acid and arsenic trioxide for acute promyelocytic leukemia. N Engl J Med. 2013 Jul 11. 369(2):111-21. [Medline]. [Full Text].
+Sanz MA, Martin G, Gonzalez M, et al, for the Programa de Estudio y Traitmiento de las Hemopatias Malignas. Risk-adapted treatment of acute promyelocytic leukemia with all-trans-retinoic acid and anthracycline monochemotherapy: a multicenter study by the PETHEMA group. Blood. 2004 Feb 15. 103(4):1237-43. [Medline]. [Full Text].
+Fenaux P, Chastang C, Chevret S, et al, for the The European APL Group. A randomized comparison of all transretinoic acid (ATRA) followed by chemotherapy and ATRA plus chemotherapy and the role of maintenance therapy in newly diagnosed acute promyelocytic leukemia. Blood. 1999 Aug 15. 94(4):1192-200. [Medline]. [Full Text].
+Sanz MA, Lo Coco F, Martin G, et al. Definition of relapse risk and role of nonanthracycline drugs for consolidation in patients with acute promyelocytic leukemia: a joint study of the PETHEMA and GIMEMA cooperative groups. Blood. 2000 Aug 15. 96(4):1247-53. [Medline]. [Full Text].
+Ades L, Sanz MA, Chevret S, et al. Treatment of newly diagnosed acute promyelocytic leukemia (APL): a comparison of French-Belgian-Swiss and PETHEMA results. Blood. 2008 Feb 1. 111(3):1078-84. [Medline]. [Full Text].
+de la Serna J, Montesinos P, Vellenga E, et al. Causes and prognostic factors of remission induction failure in patients with acute promyelocytic leukemia treated with all-trans retinoic acid and idarubicin. Blood. 2008 Apr 1. 111(7):3395-402. [Medline]. [Full Text].
+Montesinos P, Gonzalez JD, Gonzalez J, et al. Therapy-related myeloid neoplasms in patients with acute promyelocytic leukemia treated with all-trans-retinoic Acid and anthracycline-based chemotherapy. J Clin Oncol. 2010 Aug 20. 28(24):3872-9. [Medline]. 
+Powell BL, Moser B, Stock W, Gallagher RE, Willman CL, Stone RM, et al. Arsenic trioxide improves event-free and overall survival for adults with acute promyelocytic leukemia: North American Leukemia Intergroup Study C9710. Blood. 2010 Nov 11. 116(19):3751-7. [Medline]. [Full Text].
+Grimwade D, Howe K, Langabeer S, et al. Minimal residual disease detection in acute promyelocytic leukemia by reverse-transcriptase PCR: evaluation of PML-RAR alpha and RAR alpha-PML assessment in patients who ultimately relapse. Leukemia. 1996 Jan. 10(1):61-6. [Medline]. 
+Avvisati G, Lo-Coco F, Paoloni FP, et al. AIDA 0493 protocol for newly diagnosed acute promyelocytic leukemia: very long-term results and role of maintenance. Blood. 2011 May 5. 117(18):4716-25. [Medline]. 
+Falchi L, Verstovsek S, Ravandi-Kashani F, Kantarjian HM. The evolution of arsenic in the treatment of acute promyelocytic leukemia and other myeloid neoplasms: Moving toward an effective oral, outpatient therapy. Cancer. 2016 Apr 15. 122 (8):1160-8. [Medline]. 
+Soignet SL, Frankel SR, Douer D, et al. United States multicenter study of arsenic trioxide in relapsed acute promyelocytic leukemia. J Clin Oncol. 2001 Sep 15. 19(18):3852-60. [Medline]. [Full Text].
+Mathews V, George B, Chendamarai E, Lakshmi KM, Desire S, Balasubramanian P, et al. Single-agent arsenic trioxide in the treatment of newly diagnosed acute promyelocytic leukemia: long-term follow-up data. J Clin Oncol. 2010 Aug 20. 28(24):3866-71. [Medline]. 
+Tomita A, Kiyoi H, Naoe T. Mechanisms of action and resistance to all-trans retinoic acid (ATRA) and arsenic trioxide (As2O 3) in acute promyelocytic leukemia. Int J Hematol. 2013 May 14. [Medline]. 
+Lo Coco F, Ammatuna E, Noguera N. Treatment of acute promyelocytic leukemia with gemtuzumab ozogamicin. Clin Adv Hematol Oncol. 2006 Jan. 4(1):57-62, 76-7. [Medline]. 
+Lo-Coco F, Cimino G, Breccia M, et al. Gemtuzumab ozogamicin (Mylotarg) as a single agent for molecularly relapsed acute promyelocytic leukemia. Blood. 2004 Oct 1. 104(7):1995-9. [Medline]. [Full Text].
+Estey EH, Giles FJ, Beran M, et al. Experience with gemtuzumab ozogamycin ("Mylotarg") and all-trans retinoic acid in untreated acute promyelocytic leukemia. Blood. 2002 Jun 1. 99(11):4222-4. [Medline]. [Full Text].
+de Botton S, Fawaz A, Chevret S, et al. Autologous and allogeneic stem-cell transplantation as salvage treatment of acute promyelocytic leukemia initially treated with all-trans-retinoic acid: a retrospective analysis of the European Acute Promyelocytic Leukemia Group. J Clin Oncol. 2005 Jan 1. 23(1):120-6. [Medline]. [Full Text].
+Kharfan-Dabaja MA, Abou Mourad YR, Fernandez HF, Pasquini MC, Santos ES. Hematopoietic cell transplantation in acute promyelocytic leukemia: a comprehensive review. Biol Blood Marrow Transplant. 2007 Sep. 13(9):997-1004. [Medline]. 
+Fenaux P, Chastang C, Chevret S, et al, for the European APL Group. A randomized comparison of all transretinoic acid (ATRA) followed by chemotherapy and ATRA plus chemotherapy and the role of maintenance therapy in newly diagnosed acute promyelocytic leukemia. Blood. 1999 Aug 15. 94(4):1192-200. [Medline]. [Full Text].
+Sanz MA, Vellenga E, Rayon C, et al. All-trans retinoic acid and anthracycline monochemotherapy for the treatment of elderly patients with acute promyelocytic leukemia. Blood. 2004 Dec 1. 104(12):3490-3. [Medline]. [Full Text].
+Lengfelder E, Hofmann WK, Nolte F. Management of elderly patients with acute promyelocytic leukemia: progress and problems. Ann Hematol. 2013 May 22. [Medline]. 
+Braun T, Cereja S, Chevret S, Raffoux E, Beaumont M, Detourmignies L, et al. Evolving characteristics and outcome of secondary acute promyelocytic leukemia (APL): A prospective analysis by the French-Belgian-Swiss APL group. Cancer. 2015 Apr 6. [Medline]. 
+[Guideline] Sanz MA, Fenaux P, Tallman MS, Estey EH, Löwenberg B, Naoe T, et al. Management of acute promyelocytic leukemia: updated recommendations from an expert panel of the European LeukemiaNet. Blood. 2019 Apr 11. 133 (15):1630-1643. [Medline]. [Full Text].
+Sandy D Kotiah, MD Director of the Neuroendocrine Center, Hematology and Medical Oncology, Mercy Medical CenterDisclosure: Nothing to disclose.
+Emmanuel C Besa, MD Professor Emeritus, Department of Medicine, Division of Hematologic Malignancies and Hematopoietic Stem Cell Transplantation, Kimmel Cancer Center, Jefferson Medical College of Thomas Jefferson University
+Emmanuel C Besa, MD is a member of the following medical societies: American Association for Cancer Education, American Society of Clinical Oncology, American College of Clinical Pharmacology, American Federation for Medical Research, American Society of Hematology, New York Academy of SciencesDisclosure: Nothing to disclose.
+Francisco Talavera, PharmD, PhD Adjunct Assistant Professor, University of Nebraska Medical Center College of Pharmacy; Editor-in-Chief, Medscape Drug ReferenceDisclosure: Received salary from Medscape for employment. for: Medscape.
+Ronald A Sacher, MBBCh, FRCPC, DTM&H Professor of Internal Medicine and Pathology, Director, Hoxworth Blood Center, University of Cincinnati Academic Health Center
+Ronald A Sacher, MBBCh, FRCPC, DTM&H is a member of the following medical societies: American Association for the Advancement of Science, American Association of Blood Banks, American Clinical and Climatological Association, American Society for Clinical Pathology, American Society of Hematology, College of American Pathologists, International Society of Blood Transfusion, International Society on Thrombosis and Haemostasis, Royal College of Physicians and Surgeons of CanadaDisclosure: Nothing to disclose.
+Emmanuel C Besa, MD Professor Emeritus, Department of Medicine, Division of Hematologic Malignancies and Hematopoietic Stem Cell Transplantation, Kimmel Cancer Center, Jefferson Medical College of Thomas Jefferson University
+Emmanuel C Besa, MD is a member of the following medical societies: American Association for Cancer Education, American Society of Clinical Oncology, American College of Clinical Pharmacology, American Federation for Medical Research, American Society of Hematology, New York Academy of SciencesDisclosure: Nothing to disclose.
+Clarence Sarkodee Adoo, MD, FACP Consulting Staff, Department of Bone Marrow Transplantation, City of Hope Samaritan BMT Program
+Clarence Sarkodee Adoo, MD, FACP is a member of the following medical societies: American College of Physicians-American Society of Internal Medicine, American Society of Hematology, American Society of Clinical OncologyDisclosure: Nothing to disclose.

@@ -1,0 +1,22 @@
+Acute Lymphoblastic Leukemia Staging: Classification for Acute Lymphoblastic Leukemia
+The World Health Organization (WHO)
+ [1] and French-American-British (FAB)classifications for acute lymphoblastic leukemia (ALL) are provided below.
+The WHO classifies ALL as B-lymphoblastic leukemia/lymphoma or T-lymphoblastic leukemia/lymphoma. The 2016 revision includes several provisional entities.
+B lymphoblastic leukemia/lymphoma:
+T lymphoblastic leukemia/lymphoma:
+FAB classification of acute lymphoblastic leukemia (for historical purposes)
+ALL-L1: Small cells with homogeneous nuclear chromatin, a regular nuclear shape, small or no nucleoli, scanty cytoplasm, and mild to moderate basophilia
+ALL-L2: Large, heterogeneous cells with variable nuclear chromatin, an irregular nuclear shape, 1 or more nucleoli, a variable amount of cytoplasm, and variable basophilia
+ALL-L3: Large, homogeneous cells with fine, stippled chromatin; regular nuclei; prominent nucleoli; and abundant, deeply basophilic cytoplasm. The most distinguishing feature is prominent cytoplasmic vacuolation
+Overview
+What is the WHO classification of acute lymphoblastic leukemia (ALL)?
+What is the FAB classification of acute lymphoblastic leukemia (ALL)?
+Arber DA, Orazi A, Hasserjian R, Thiele J, Borowitz MJ, Le Beau MM, et al. The 2016 revision to the World Health Organization classification of myeloid neoplasms and acute leukemia. Blood. 2016 May 19. 127 (20):2391-405. [Medline]. [Full Text].
+Bennett JM, Catovsky D, Daniel MT, et al. Proposals for the classification of the acute leukaemias. French-American-British (FAB) co-operative group. Br J Haematol. 1976 Aug. 33(4):451-8. [Medline]. 
+Karen Seiter, MD Professor, Department of Internal Medicine, Division of Oncology/Hematology, New York Medical College
+Karen Seiter, MD is a member of the following medical societies: American Association for Cancer Research, American College of Physicians, American Society of HematologyDisclosure: Received honoraria from Novartis for speaking and teaching; Received consulting fee from Novartis for speaking and teaching; Received honoraria from Celgene for speaking and teaching.
+Jasmeet Anand, PharmD, RPh Adjunct Instructor, University of Nebraska Medical Center College of Pharmacy; Editor-in-Chief, Medscape Drug ReferenceDisclosure: Nothing to disclose.
+Christopher D Braden, DO Hematologist/Oncologist, Chancellor Center for Oncology at Deaconess Hospital; Medical Director, Deaconess Hospital Outpatient Infusion Centers; Chairman, Deaconess Hospital Cancer Committee
+Christopher D Braden, DO is a member of the following medical societies: American Society of Clinical Oncology, American Society of HematologyDisclosure: Nothing to disclose.
+Koyamangalath Krishnan, MD, FRCP, FACP Dishner Endowed Chair of Excellence in Medicine, Professor of Medicine, James H Quillen College of Medicine at East Tennessee State University
+Koyamangalath Krishnan, MD, FRCP, FACP is a member of the following medical societies: Alpha Omega Alpha, American College of Physicians-American Society of Internal Medicine, American Society of Hematology, Royal College of PhysiciansDisclosure: Nothing to disclose.
