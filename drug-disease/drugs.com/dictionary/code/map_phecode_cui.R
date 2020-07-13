@@ -1,7 +1,0 @@
-load("~/Dropbox/00_Harvard/Share/NingHua-summer-project/dictionary/map.RData")
-ls()
-ls(phecode.cuis.list)
-junk=lapply(names(phecode.cuis.list), function(xx) c(xx,paste(phecode.cuis.list[[xx]], collapse="|")))
-mytable=do.call(rbind, junk)
-colnames(mytable)=c("PheCode", "CUI")
-write.csv(mytable, file="map_phecode_cui.csv", row.names=F)
