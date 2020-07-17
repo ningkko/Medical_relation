@@ -1,0 +1,67 @@
+------------------ 2020-07-16 13:03:49 ------------------
+mSDManual/ has 1046 titles mapped to PheCode using exact mapping. Mapping rate: 0.248574.
+wikipedia/ has 3828 titles mapped to PheCode using exact mapping. Mapping rate: 0.033532.
+mayoclinic/ has 540 titles mapped to PheCode using exact mapping. Mapping rate: 0.520231.
+medlineplus/ has 924 titles mapped to PheCode using exact mapping. Mapping rate: 0.258101.
+medicine_txts/ has 536 titles mapped to PheCode using exact mapping. Mapping rate: 0.048111.
+surgery_txts/ has 120 titles mapped to PheCode using exact mapping. Mapping rate: 0.049000.
+pediatrics_txts/ has 41 titles mapped to PheCode using exact mapping. Mapping rate: 0.045913.
+
+------------------ 2020-07-16 19:28:01 ------------------
+mSDManual/ has 1138 titles mapped to PheCode using exact mapping.
+ The source has 4650 drugs. Overall mapping rate: 0.244731.
+The source has 441 drugs with >= 1 CUI mappings. Mapping rate: 2.580499
+
+surgery_txts/ has 126 titles mapped to PheCode using exact mapping.
+ The source has 2629 drugs. Overall mapping rate: 0.047927.
+The source has 179 drugs with >= 1 CUI mappings. Mapping rate: 0.703911
+
+wikipedia/ has 3812 titles mapped to PheCode using exact mapping.
+ The source has 197884 drugs. Overall mapping rate: 0.019264.
+The source has 120073 drugs with >= 1 CUI mappings. Mapping rate: 0.031747
+
+mayoclinic/ has 570 titles mapped to PheCode using exact mapping.
+ The source has 1104 drugs. Overall mapping rate: 0.516304.
+The source has 65 drugs with >= 1 CUI mappings. Mapping rate: 8.769231
+
+medlineplus/ has 1085 titles mapped to PheCode using exact mapping.
+ The source has 4156 drugs. Overall mapping rate: 0.261068.
+The source has 575 drugs with >= 1 CUI mappings. Mapping rate: 1.886957
+
+medicine_txts/ has 280 titles mapped to PheCode using exact mapping.
+ The source has 5917 drugs. Overall mapping rate: 0.047321.
+The source has 346 drugs with >= 1 CUI mappings. Mapping rate: 0.809249
+
+pediatrics_txts/ has 44 titles mapped to PheCode using exact mapping.
+ The source has 944 drugs. Overall mapping rate: 0.046610.
+The source has 50 drugs with >= 1 CUI mappings. Mapping rate: 0.880000
+
+------------------ 2020-07-16 19:46:55 ------------------
+mSDManual/ has 1138 titles mapped to PheCode using exact mapping.
+ The source has 4650 drugs. Overall mapping rate: 0.244731.
+The source has 4209 drugs with >= 1 CUI mappings. Mapping rate: 0.270373
+
+surgery_txts/ has 126 titles mapped to PheCode using exact mapping.
+ The source has 2629 drugs. Overall mapping rate: 0.047927.
+The source has 2450 drugs with >= 1 CUI mappings. Mapping rate: 0.051429
+
+wikipedia/ has 3812 titles mapped to PheCode using exact mapping.
+ The source has 197884 drugs. Overall mapping rate: 0.019264.
+The source has 77811 drugs with >= 1 CUI mappings. Mapping rate: 0.048991
+
+mayoclinic/ has 570 titles mapped to PheCode using exact mapping.
+ The source has 1104 drugs. Overall mapping rate: 0.516304.
+The source has 1039 drugs with >= 1 CUI mappings. Mapping rate: 0.548604
+
+medlineplus/ has 1085 titles mapped to PheCode using exact mapping.
+ The source has 4156 drugs. Overall mapping rate: 0.261068.
+The source has 3581 drugs with >= 1 CUI mappings. Mapping rate: 0.302988
+
+medicine_txts/ has 280 titles mapped to PheCode using exact mapping.
+ The source has 5917 drugs. Overall mapping rate: 0.047321.
+The source has 5571 drugs with >= 1 CUI mappings. Mapping rate: 0.050260
+
+pediatrics_txts/ has 44 titles mapped to PheCode using exact mapping.
+ The source has 944 drugs. Overall mapping rate: 0.046610.
+The source has 894 drugs with >= 1 CUI mappings. Mapping rate: 0.049217
+

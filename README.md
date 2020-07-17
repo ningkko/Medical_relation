@@ -1,7 +1,10 @@
-# UMLS-Mapping
-Crosswalks of data scraped from everywhere.
+### Paths
+1. Mappings to Phecodes: mapping results/
+2. NER on titles: title_results/
 
-Currently this project has:
-- PheCodes-CUIs-Disease-Generic Names-Brand Names-CUIs-RXNorms of data from [drugs.com](drug.com)\
-For documentation and evaluations click [here](https://docs.google.com/document/d/1_Z5ddvA3-F_kr7k873oCFksNscmLST6nmONuf3WSbTI/edit?usp=sharing)
-- MedScape Drug-Disease Conditions articles (See documentation of how it's scraped [here](https://docs.google.com/document/d/1braCaXNtjnTiuPc64KEnI0rDJGbmDJfgS_MYgKwARGk/edit?usp=sharing))
+### Notes
+1. Disease terms with no CUI mappings were inclueded in calculating mapping rates
+2. Medscape data is divided into the last three files in the summary).
+
+### For summaries on mapping rates, see exact_cui_log.txt
+
