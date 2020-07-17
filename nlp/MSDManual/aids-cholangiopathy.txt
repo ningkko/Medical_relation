@@ -1,0 +1,15 @@
+aids-cholangiopathy
+Ali A. Siddiqui
+By 
+, MD, Thomas Jefferson University
+
+(See also Overview of Biliary Function.)
+Before the advent of antiretroviral therapy, cholangiopathy occurred in 25% of patients with AIDS, especially in those with a low CD4 count (< 100/μL). The most common pathogen is Cryptosporidium parvum. Others include cytomegalovirus, microsporidia, and Cyclospora sp. Papillary stenosis or intrahepatic or extrahepatic sclerosing cholangitis develops in most patients. Over half have both.
+Common symptoms include right upper quadrant and epigastric pain and diarrhea. A few patients have fever and jaundice. Severe pain usually indicates papillary stenosis. Milder pain suggests sclerosing cholangitis. The diarrhea reflects small-bowel infection, often cryptosporidiosis.
+Usually ultrasonography and ERCP
+Imaging usually begins with ultrasonography, which is noninvasive and very accurate (> 95%). However, ERCP is usually necessary. ERCP provides the diagnosis, enables clinicians to take a sample for small-bowel biopsy for identification of the causative organism, and provides a therapeutic opportunity to relieve strictures. CT and magnetic resonance cholangiopancreatography likely have supportive roles.
+Abnormal liver function test results (especially a high alkaline phosphatase level) are consistent with cholestasis.
+Endoscopic procedures
+Endoscopic sphincterotomy, often done during ERCP, can markedly relieve pain, jaundice, and cholangitis in patients with papillary stenosis. Isolated or dominant strictures can be stented endoscopically. Antimicrobial therapy is given to treat the infection but alone does not reduce the biliary tract damage or relieve symptoms.
+Because of its use in primary sclerosing cholangitis, ursodeoxycholic acid may have a role in treating intrahepatic ductal sclerosis and cholestasis.
+Merck & Co., Inc., Kenilworth, NJ, USA (known as MSD outside of the US and Canada) is a global healthcare leader working to help the world be well. From developing new therapies that treat and prevent disease to helping people in need, we are committed to improving health and well-being around the world.  The Manual was first published in 1899 as a service to the community.  The legacy of this great resource continues as the Merck Manual in the US and Canada and the MSD Manual outside of North America.  Learn more about our commitment to Global Medical Knowledge.

@@ -1,0 +1,128 @@
+Xanthogranulomatous Pyelonephritis Imaging: Practice Essentials, Radiography, Computed Tomography
+Xanthogranulomatous pyelonephritis (XGP), which presents a variety of imaging challenges, develops via an unusual suppurative, granulomatous reaction to chronic infection, often in the presence of chronic obstruction from a calculus, stricture, or tumor. XGP is characterized histologically by the presence of foamy, lipid-containing macrophages (xanthoma cells), diffuse infiltration with plasma cells, and histiocytes. Commonly isolated organisms are Proteus species and E. coli.
+ [1] 
+Renal calculi have been reported in 76% of cases and hydronephrosis in 81% of cases.
+ [1] 
+XGP is more common in women than in men; female patients with XGP usually have a history of recurrent or chronic urinary tract infections.
+ [2, 3, 4, 5] Presenting symptoms may include pyuria, flank pain, fever, dysuria, pyuria, hematuria, proteinuria, or microscopic hematuria.
+ [3, 6] A palpable flank mass may be present, which may be tender or demonstrate costovertebral angle tenderness. XGP is rare in children.
+ [4] 
+Two forms of XGP are described—a diffuse, or global, form (83-92% of patients) and a focal form (approx. 10%).
+ [1] 
+XGP has been termed the great imitator because it may be misdiagnosed as a renal neoplasm, especially if the lesion is focal. Typically, plain abdominal radiographs demonstrate a large renal calculus (staghorn in 75% of patients), whereas intravenous urograms demonstrate an enlarged, poorly opacified kidney that is associated with a centrally obstructing calculus.
+(See the images below.)
+Ultrasonographic findings of diffuse disease depict an enlarged kidney that usually preserves the reniform shape. Multiple hypoechoic areas may exist; these represent hydrocalyces, small abscesses, or granulomas. The obstructing calculus may not create shadowing.
+Computed tomography should be performed to help make a preoperative diagnosis, but final confirmation is made by pathologic exam.
+ [7, 8, 9, 10, 1] 
+XGP almost always occurs unilaterally. The kidney is involved either globally or focally. Changes of XGP have been described in kidneys destroyed as a result of pyonephrosis, in renal cell carcinoma, in transitional cell carcinoma, and, rarely, in a renal cyst. These focal pathologic changes are detectable only through histologic analysis; they usually do not appear on images.
+The treatment of patients with XGP usually involves intensive antimicrobial therapy, but surgery is invariably required to completely eradicate the infection and the accompanying calculus and/or obstruction. Kidney-sparing surgery may be undertaken in patients with focal disease.
+The following imaging modalities can be used in the evaluation and management of patients with XGP:
+Ultrasonography - The initial examination in most patients of any age who have urinary symptoms
+Radiography - Plain radiographic findings confirm the presence of renal calculi
+Computed tomography (CT) scanning - Demonstrates retroperitoneal involvement more clearly than do other images
+Isotopic renography - Useful in demonstrating relative renal functions before surgery
+Angiography - Occasionally performed to further characterize a focal renal mass and to plan surgery
+CT angiography (CTA) and magnetic resonance angiography (MRA) - Are replacing conventional imaging techniques
+No radiologic features are characteristic of XGP, but in the condition's diffuse form, some CT scan and ultrasonographic features may be sufficiently typical to suggest a preoperative diagnosis in the appropriate clinical setting.
+ [11, 12] 
+Radionuclide studies usually do not contribute to the diagnosis of XGP, but isotopic renography is extremely useful in assessing differential renal function when surgery is contemplated.
+Focal disease cannot be diagnosed with confidence radiologically and should be regarded as malignant until proven otherwise. The importance of urine cultures in assessing an unexplained renal mass cannot be overemphasized.
+Image findings may mimic Wilms tumor, neuroblastoma, clear cell carcinoma, or pyonephrosis. Tissue biopsy has been recommended to confirm the diagnosis.
+ [1] 
+Preoperative differentiation of XGP from chronic pyelonephritis on the basis of clinical, bacteriologic, and radiologic criteria is problematic.
+ [11] Patients with XGP are more likely to be middle-aged women with diabetes mellitus. A history urinary tract infections can be found in both XGP and chronic pyelonephritis.
+XGP and chronic pyelonephritis both present with flank pain and tenderness. However, anemia, hematuria, and bacteriuria are more frequent in patients with XGP than in those with chronic pyelonephritis. In one study, Proteus mirabilis was detected in over 50% patients with XGP and in a minority of the group with chronic pyelonephritis.
+ [11] Nephromegaly and renal calculi are more frequently seen in both pathologies. XGP has a higher rate of postoperative complications.
+In xanthogranulomatous pyelonephritis (XGP), a plain scout radiograph obtained before intravenous urography typically shows a staghorn calculus (see the image below). Additional, smaller calcifications may be seen scattered throughout the renal area, and a soft-tissue mass may be identified.
+If present, perinephric extension may produce ill-defined renal margins, and a large soft-tissue mass may be seen occupying the renal fossa. A thickened Gerota fascia is occasionally demonstrated.
+After the administration of contrast material, findings depend on the morphologic type of XGP. An absent nephrogram or a focally absent nephrogram may occur.
+On nephrotomography, some opacification of the kidney may occur, and a mass may be seen. A central, opacified mass may correspond to a xanthoma.
+When the inflammatory process extends into perinephric tissues, the renal outline is obscured. Inflammation from XGP may extend into the perirenal space, pararenal space, ipsilateral psoas muscle, colon, spleen, diaphragm, posterior abdominal wall, and/or skin. This inflammation may obscure the renal outline.
+Focal disease may appear as any other renal space-occupying lesion, especially when it is not associated with a calculus. The focal lesion usually shows no function or a patchy nephrogram; this may be associated with splaying and stretching of the calyces. If a focal, solitary, noncystic lesion is seen, the differential diagnosis is that of a solid mass.
+Retrograde pyelography may show a complete obstruction at the ureteropelvic junction, infundibulum, or proximal ureter.
+Although plain radiographs may suggest a renal calculus and a soft-tissue mass, and although an intravenous urogram may suggest no renal function on the affected side, the findings of neither method can confirm the diagnosis of XGP.
+Differentiating acute pyelonephritis, other chronic renal infections (eg, tuberculosis), straightforward renal calculus disease, and renal neoplasms from XGP on plain radiographs and intravenous urograms is not always possible.
+A primary adenocarcinoma of the renal pelvis has been reported that presented with long-term nephrolithiasis and hydronephrosis features suggestive of xanthogranulomatous pyelonephritis. However, the postoperative histopathologic report showed mucinous adenocarcinoma of the renal pelvis with signet ring cell formation. Although mucinous adenocarcinoma is a rare tumor, it should nevertheless be considered in the differential diagnosis of xanthogranulomatous pyelonephritis.
+ [13] 
+Imaging findings, clinical presentation, and urine cytology in xanthogranulomatous pyelonephritis may mimic renal cell carcinoma on urine cytology. A case report described left radical nephrectomy that confirmed the diagnosis of xanthogranulomatous pyelonephritis. This report emphasizes that xanthogranulomatous pyelonephritis should be considered in the differential diagnosis of renal cell carcinoma.
+ [14] 
+CT scanning is the most useful investigation for the preoperative assessment of xanthogranulomatous pyelonephritis (XGP).
+ [2, 6, 15, 16, 17, 18] CT scan findings depend on the morphologic type of XGP. In diffuse disease, CT scans may show a staghorn calculus within a nonfunctioning kidney.
+ [7, 8] 
+(See the image below.)
+Although the reniform shape is maintained, the renal parenchyma is destroyed and is replaced by low-attenuating masses. The attenuation values in these masses vary from -10 to 30 Hounsfield units (HU), depending on the lipid content. Other characteristics of XGP on CT scans include the following:
+The renal sinus may not be identifiable
+Fine calcifications are occasionally discerned within the xanthomatous masses
+Small gas collections are sometimes seen in intrarenal abscesses
+The Gerota fascia is invariably thickened and identified
+Extrarenal extension of XGP is well depicted on CT scans and has been described in the diffuse and focal forms
+Enhanced CT images show ring enhancement in areas of granulation tissue; the xanthomatous tissue does not enhance
+The definition of cortical renal abscesses is improved on enhanced images
+In focal XGP, a large mass is identified in an otherwise functioning kidney; the mass is usually low attenuating and fails to enhance on CT scans, but rim enhancement may be seen
+Calculi are often associated with the central portion of the mass
+Uptake of 18-fluorodeoxyglucose (FDG) in positron emission tomography (PET) has been described in xanthogranulomatous pyelonephritis in an elderly male with from pyrexia, weight loss, and suspected urinary tract infection. Thus, xanthogranulomatous pyelonephritis should be considered with when evaluating positive PET scan findings.
+ [19] 
+None of the features described above are characteristic of XGP, but they are sufficiently typical of the diffuse form of XGP to suggest a preoperative diagnosis in the appropriate clinical setting, especially by low CT scan values.
+Focal disease cannot be diagnosed with confidence with radiologic images, and the lesions should be regarded as malignant until proven otherwise. The importance of urine cultures in assessing an unexplained renal mass cannot be overemphasized.
+Uncomplicated renal calculus disease, acute pyelonephritis with renal abscess formation and perinephric spread, chronic renal infections (eg, renal tuberculosis), and renal neoplasms cannot always be differentiated confidently from XGP on the basis of CT scan findings alone.
+A few reports describing the magnetic resonance imaging (MRI) appearances of xanthogranulomatous pyelonephritis (XGP) have been published.
+ [6, 17, 20, 21, 22, 23] Documented findings include the presence of a large mass in the renal fossa that appears multiloculated. Abscesses and calyces demonstrate intermediate signal intensity on T1-weighted images and high signal intensity on T2-weighted images. Calcification and renal calculi appear as signal voids. MRI appears to be extremely sensitive in outlining perinephric spread.
+ [17] Residual parenchyma in the unaffected kidney may appear normal.
+MRI findings have been inconsistent, with varying degrees of signal change described in areas involved by the inflammatory process compared with normal, uninvolved renal tissue. In general, CT scan findings appear to be more helpful than those obtained with other modalities.
+Similar to CT scan results, MRI features are not reliable for differentiating XGP from complicated and uncomplicated renal calculus disease, acute pyelonephritis with perinephric spread, and renal neoplasms.
+Renal ultrasonographic findings in xanthogranulomatous pyelonephritis (XGP) demonstrate an enlarged kidney that tends to maintain the reniform shape.
+ [6, 15, 16] 
+(See the images below.)
+Other ultrasonographic characteristics of XGP include the following:
+Loss of corticomedullary differentiation occurs
+Parenchymal calcification is uncommon, but when present, it appears as central echogenic foci with associated acoustic shadowing
+The renal pelvis is small because of fibrosis, but hypoechoic dilatation occurs in the calyces, which have an echogenic rim
+The renal parenchyma is replaced by hypoechoic masses, which frequently have low-level internal echoes (see the image below)
+Sound transmission is usually not enhanced, because the hypoechoic areas are not simple, fluid-filled spaces
+Renal cortical tissue is markedly thinned and may have scattered cystic collections that represent abscesses
+The obstructing calculus usually does not create shadowing
+Although ultrasonographic features are not specific to XGP, the failure to depict a normal kidney associated with a staghorn calculus suggests the diagnosis. Ultrasonographic results are not routinely helpful in identifying renal calculi, and ultrasonography is less sensitive than other modalities in demonstrating extrarenal spread.
+The ultrasonographic appearance of XGP may be mimicked by a simple hydronephrosis associated with a calculus, pyonephrosis, renal tuberculosis, renal cystic neoplasm, and renal lymphoma. In simple hydronephrosis, the dilatated calyces are sharply defined and demonstrate enhanced through-transmission. Pyonephrosis often demonstrates fluid-debris levels.
+Angiographic features described in diffuse xanthogranulomatous pyelonephritis (XGP) include stretching of the segmental and/or interlobular arteries around large, avascular masses, similar to that seen in hydronephrosis. Attenuation occurs in major renal arteries, and peripheral vessels lack arborization. Inhomogeneity of the nephrogram may mimic hydronephrosis. In the late arterial phase, hypervascularity or arterial blush may be noted around the periphery of the masses due to granulation tissue.
+(See the images below.)
+The focal form of XGP is usually hypovascular. Intrarenal veins are stretched and compressed by inflammatory renal masses. The renal vein may be encased or occluded, but inferior vena cava thrombosis has not been described.
+Angiography no longer plays a diagnostic role in XGP, although the authors occasionally use angiography to characterize focal renal masses or to plan surgery. The invasive catheter technique is being replaced with CTA and MRA with reformatting images.
+The angiographic appearance of XGP may mimic that of hydronephrosis or avascular renal neoplasms.
+Begum T, Huq ME, Ahmed M. Xanthogranulomatous pyelonephritis. BMJ Case Rep. 2016 Jun 15. 2016:[Medline]. 
+Korkes F, Favoretto RL, Bróglio M, et al. Xanthogranulomatous pyelonephritis: clinical experience with 41 cases. Urology. 2008 Feb. 71(2):178-80. [Medline]. 
+Fan CM, Whitman GJ, Chew FS. Xanthogranulomatous pyelonephritis. AJR Am J Roentgenol. 1995 Oct. 165(4):1008. [Medline]. [Full Text].
+Clapton WK, Boucaut HA, Dewan PA, Bourne AJ, Byard RW. Clinicopathological features of xanthogranulomatous pyelonephritis in infancy. Pathology. 1993 Apr. 25(2):110-3. [Medline]. 
+Chuang CK, Lai MK, Chang PL, et al. Xanthogranulomatous pyelonephritis: experience in 36 cases. J Urol. 1992 Feb. 147(2):333-6. [Medline]. 
+Loffroy R, Guiu B, Watfa J, et al. Xanthogranulomatous pyelonephritis in adults: clinical and radiological findings in diffuse and focal forms. Clin Radiol. 2007 Sep. 62(9):884-90. [Medline]. 
+Garrido-Abad P, Rodríguez-Cabello MÁ, Vera-Berón R, Platas-Sancho A. Bear Paw Sign: Xanthogranulomatous Pyelonephritis. J Radiol Case Rep. 2018 Nov. 12 (11):18-24. [Medline]. 
+Morales C, Opazo V, Bassa C, López L, Araos F, Madrid P, et al. Xanthogranulomatous pyelonephritis: A case report. Urol Case Rep. 2018 Jul. 19:65-66. [Medline]. 
+Marinacci LX, Rosales I. Xanthogranulomatous Pyelonephritis. N Engl J Med. 2018 Mar 8. 378 (10):940. [Medline]. 
+Stoica I, O'Kelly F, McDermott MB, Quinn FMJ. Xanthogranulomatous pyelonephritis in a paediatric cohort (1963-2016): Outcomes from a large single-center series. J Pediatr Urol. 2018 Apr. 14 (2):169.e1-169.e7. [Medline]. 
+Afgan F, Mumtaz S, Ather MH. Preoperative diagnosis of xanthogranulomatous pyelonephritis. Urol J. 2007 Summer. 4(3):169-73. [Medline]. 
+Kuo CC, Wu CF, Huang CC, et al. Xanthogranulomatous pyelonephritis: critical analysis of 30 patients. Int Urol Nephrol. 2011 Mar. 43(1):15-22. [Medline]. 
+Chang CP, Wang SS, Wen MC, Ou YC. Mucinous adenocarcinoma of the renal pelvis masquerading as xanthogranulomatous pyelonephritis. Urology. 2013 Jun. 81(6):e40-1. [Medline]. 
+Inouye BM, Chiang G, Newbury RO, Holmes N. Adolescent xanthogranulomatous pyelonephritis mimicking renal cell carcinoma on urine cytology: an atypical presentation. Urology. 2013 Apr. 81(4):885-7. [Medline]. 
+Craig WD, Wagner BJ, Travis MD. Pyelonephritis: radiologic-pathologic review. Radiographics. 2008 Jan-Feb. 28(1):255-77; quiz 327-8. [Medline]. 
+Charrada-Ben Farhat L, Saïed W, Dali N, et al. [Imaging features of xanthogranulomatous pyelonephritis]. J Radiol. 2007 Sep. 88(9 pt 1):1171-7. [Medline]. 
+Feldberg MA, Driessen LP, Witkamp TD, van Leeuwen MS, van Waes PF. Xanthogranulomatous pyelonephritis: comparison of extent using computed tomography and magnetic resonance imaging in one case. Urol Radiol. 1988. 10(2):92-4. [Medline]. 
+Rajesh A, Jakanani G, Mayer N, et al. Computed tomography findings in xanthogranulomatous pyelonephritis. J Clin Imaging Sci. 2011. 1:45. [Medline]. [Full Text].
+Joshi P, Lele V, Shah H. Fluorodeoxyglucose positron emission tomography-computed tomography findings in a case of xanthogranulomatous pyelonephritis. Indian J Nucl Med. 2013 Jan. 28(1):49-50. [Medline]. [Full Text].
+Soler R, Pombo F, Gayol A, Rodríguez J. Focal xanthogranulomatous pyelonephritis in a teenager: MR and CT findings. Eur J Radiol. 1997 Jan. 24(1):77-9. [Medline]. 
+Mulopulos GP, Patel SK, Pessis D. MR imaging of xanthogranulomatous pyelonephritis. J Comput Assist Tomogr. 1986 Jan-Feb. 10(1):154-6. [Medline]. 
+LiPuma JP. Magnetic resonance imaging of the kidney. Radiol Clin North Am. 1984 Dec. 22(4):925-41. [Medline]. 
+Gaudiano C, Clementi V, Busato F, et al. Renal diffusion tensor imaging: is it possible to define the tubular pathway? A case report. Magn Reson Imaging. 2011 Sep. 29(7):1030-3. [Medline]. 
+Ali Nawaz Khan, MBBS, FRCS, FRCP, FRCR Consultant Radiologist and Honorary Professor, North Manchester General Hospital Pennine Acute NHS Trust, UK
+Ali Nawaz Khan, MBBS, FRCS, FRCP, FRCR is a member of the following medical societies: American Association for the Advancement of Science, American Institute of Ultrasound in Medicine, British Medical Association, Royal College of Physicians and Surgeons of the United States, British Society of Interventional Radiology, Royal College of Physicians, Royal College of Radiologists, Royal College of Surgeons of EnglandDisclosure: Nothing to disclose.
+Colm Boylan, MBBCh, MRCP, FRCR Assistant Professor of Radiology, McMaster University School of Medicine; Staff Radiologist, St Joseph's Hospital, Canada
+Colm Boylan, MBBCh, MRCP, FRCR is a member of the following medical societies: Royal College of RadiologistsDisclosure: Nothing to disclose.
+Brendan Costello, MD, MBBCh, FRCS(Ed), FRCS(Eng) Clinical Director, Department of Urology, North Manchester General Hospital, UK
+Brendan Costello, MD, MBBCh, FRCS(Ed), FRCS(Eng) is a member of the following medical societies: British Medical AssociationDisclosure: Nothing to disclose.
+Khalid Mahmood, MBBS Locum Appointment Training Specialist Registrar, Department of Radiology-Paediatric, Royal Liverpool (Alder Hey) Children's Hospital, UKDisclosure: Nothing to disclose.
+Eugene C Lin, MD Attending Radiologist, Teaching Coordinator for Cardiac Imaging, Radiology Residency Program, Virginia Mason Medical Center; Clinical Assistant Professor of Radiology, University of Washington School of Medicine
+Eugene C Lin, MD is a member of the following medical societies: American College of Nuclear Medicine, American College of Radiology, Radiological Society of North America, Society of Nuclear Medicine and Molecular ImagingDisclosure: Nothing to disclose.
+John L Haddad, MD Clinical Associate Professor, Department of Radiology, Weill Medical College of Cornell University; Director of Body MRI, Department of Radiology, Methodist Hospital in Houston
+John L Haddad, MD is a member of the following medical societies: American College of Radiology, American Medical Association, and Radiological Society of North America
+Disclosure: Nothing to disclose. 
+Sumaira MacDonald, MBChB, PhD, MRCP, FRCR Lecturer, Sheffield University Medical School; Endovascular Fellow, Sheffield Vascular Institute
+Sumaira MacDonald, MBChB, PhD, MRCP, FRCR is a member of the following medical societies: British Medical Association, Royal College of Physicians, and Royal College of Radiologists
+Disclosure: Nothing to disclose. 

@@ -1,0 +1,84 @@
+Waldenstrom Macroglobulinemia Staging: Diagnostic Studies
+Recommended diagnostic studies to evaluate a suspected diagnosis of Waldenstrom macroglobulinemia/lymphoplasmacytic lymphoma are as follows
+ [1] :
+Optional studies, if clinically indicated, include the following:
+Kastritis et al developed and validated an updated international prognostic score system for Waldenström macroglobulinemia.
+ [2]  The system uses the following criteria:
+Based on the total score, the system classifies patients into 5 risk groups (see table 1 below).
+Table 1. Prognostic scoring system for Waldenstrom macroglobulinemia (Open Table in a new window)
+Score
+Stage
+3-year WM-related mortality 
+5-year overall survival
+10-year overall survival
+0
+Very low
+0%
+95%
+84%
+1
+Low
+10%
+86%
+59%
+2
+Intermediate
+14%
+78%
+37%
+3
+High
+38%
+47%
+19%
+4-5
+Very high
+48%
+36%
+9%
+ 
+ 
+Overview
+How is Waldenstrom macroglobulinemia/lymphoplasmacytic lymphoma diagnosed?
+How is the prognostic score for Waldenstrom macroglobulinemia/lymphoplasmacytic lymphoma determined?
+[Guideline] Kastritis E, Leblond V, Dimopoulos MA, Kimby E, Staber P, Kersten MJ, et al. Waldenström's macroglobulinaemia: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann Oncol. 2018 Oct 1. 29 (Suppl 4):iv270. [Medline]. [Full Text].
+Kastritis E, Morel P, Duhamel A, et al. A revised international prognostic score system for Waldenström's macroglobulinemia. Leukemia. 2019 Nov. 33 (11):2654-2661. [Medline]. 
+Score
+Stage
+3-year WM-related mortality 
+5-year overall survival
+10-year overall survival
+0
+Very low
+0%
+95%
+84%
+1
+Low
+10%
+86%
+59%
+2
+Intermediate
+14%
+78%
+37%
+3
+High
+38%
+47%
+19%
+4-5
+Very high
+48%
+36%
+9%
+Joseph M Tuscano, MD Associate Chief, Department of Hematology/Oncology/Internal Medicine, Veterans Administration Northern California System of Clinics; Professor, Department of Internal Medicine, Division of Hematology/Oncology, University of California at Davis School of Medicine
+Joseph M Tuscano, MD is a member of the following medical societies: American Association of Immunologists, American College of Physicians, American Society of Hematology, American Society for Blood and Marrow TransplantationDisclosure: Received honoraria from Genentech for speaking and teaching.
+Christina Poh, MD Fellow, Division of Hematology and Oncology, UC Davis Health, University of California, Davis, School of Medicine
+Christina Poh, MD is a member of the following medical societies: American Association for Cancer Research, American Medical Association, American Society of Clinical Oncology, American Society of Hematology, California Medical Association, Hemostasis and Thrombosis Research SocietyDisclosure: Nothing to disclose.
+Mary L Windle, PharmD Adjunct Associate Professor, University of Nebraska Medical Center College of Pharmacy; Editor-in-Chief, Medscape Drug ReferenceDisclosure: Nothing to disclose.
+Christopher D Braden, DO Hematologist/Oncologist, Chancellor Center for Oncology at Deaconess Hospital; Medical Director, Deaconess Hospital Outpatient Infusion Centers; Chairman, Deaconess Hospital Cancer Committee
+Christopher D Braden, DO is a member of the following medical societies: American Society of Clinical Oncology, American Society of HematologyDisclosure: Nothing to disclose.
+Emmanuel C Besa, MD Professor Emeritus, Department of Medicine, Division of Hematologic Malignancies and Hematopoietic Stem Cell Transplantation, Kimmel Cancer Center, Jefferson Medical College of Thomas Jefferson University
+Emmanuel C Besa, MD is a member of the following medical societies: American Association for Cancer Education, American Society of Clinical Oncology, American College of Clinical Pharmacology, American Federation for Medical Research, American Society of Hematology, New York Academy of SciencesDisclosure: Nothing to disclose.

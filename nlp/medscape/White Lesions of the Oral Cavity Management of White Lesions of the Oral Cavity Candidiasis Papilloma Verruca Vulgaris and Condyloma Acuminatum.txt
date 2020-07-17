@@ -1,0 +1,218 @@
+White Lesions of the Oral Cavity: Management of White Lesions of the Oral Cavity, Candidiasis, Papilloma, Verruca Vulgaris, and Condyloma Acuminatum
+Many white lesions involving the oral mucosa are benign and do not require treatment. These include congenital or developmental conditions such as white sponge nevus, keratosis follicularis, hereditary benign intraepithelial dyskeratosis, pachyonychia congenita, and Fordyce granules. Other benign conditions that do not require intervention include skin and mucosal grafts, materia alba associated with the gingiva or tongue, and keratotic lesions such as hairy tongue. In contrast, many diseases that may require dental intervention can cause whitening of the oral mucosa, depending on symptoms and potential morbidity or mortality.
+This article presents the most recent information related to the management of several types of white lesions of the oral cavity.
+See Clues in the Oral Cavity: Are You Missing the Diagnosis?, a Critical Images slideshow, to help identify the causes of abnormalities of the oral cavity.
+Candidiasis has a variable presentation but can consist of slightly elevated, whitened plaques that can be wiped away to leave a bleeding capillary bed. Candidiasis can result from a patient’s use of broad-spectrum antibiotics or corticosteroids over a prolonged period, use of medications or presence of disease that causes severe oral dryness (xerostomia), disease that causes immunosuppression, poor oral hygiene, or poorly fitting prosthetics.
+ [1] 
+The 2 types of candidiasis that cause white oral tissue include pseudomembranous candidiasis and chronic/hyperplastic candidiasis. Tongue annular plaques have also been reported to be associated with candidal infection.
+ [2] 
+Given that this yeastlike fungal organism is opportunistic and proliferates in the presence of an imbalance in normal oral flora, one of the approaches to reestablishing oral flora equilibrium and eliminating infection is via the use of antifungal medication. Multiple studies have shown a number of drugs to be efficacious.
+ [3, 4] Topical antifungal agents include nystatin (Mycostatin, Nilstat) oral suspension, nystatin ointment, ketoconazole (Nizoral) cream, nystatin topical powder, clotrimazole (Mycelex) troches, and clotrimazole or miconazole nitrate vaginal creams. Dosages and dispensing information is covered elsewhere (see topics below). These medications should be applied to the oral mucosa and to any removable oral prostheses. The latter should be soaked in an antifungal denture-soaking solution.
+Consultation with the patient’s physician is warranted if the recurrent candidiasis is the result of prolonged corticosteroid or other immunosuppressant use or from diabetes. In these cases, treatment of the disease may need to include systemic antifungal agents, which can interfere or interact with other prescribed medications (eg, ketoconazole, fluconazole, itraconazole) or compromise liver function in patients with liver disease. Treatment of xerostomia and conditions causing the problem (eg, diabetes) may also improve one of the underlying conditions predisposing a patient to candidiasis.
+A number of interesting but relatively untested therapeutic approaches may yet find their way into the management of oral candidiasis. For example, there is limited in vitro evidence that probiotic intervention with Streptococcus salivarius K12 might reduce growth of Candida.
+ [5] Other novel interventions being studied include the use of cranberry proanthocyanidins to inhibit the adherence of Candida albicans to epithelial cells and as a means of reducing cytokine secretion,
+ [6] photodynamic therapy (Photodithazine® (PDZ)) with photosensitizing dyes such as methylene blue or toluidine blue,
+ [7, 8] and an aqueous extract of garlic mouthrinse to reduce denture stomatitis caused by Candida.
+ [9] 
+Also see Candidiasis, Candidiasis Empiric Therapy, Mucosal Candidiasis, Chronic Mucocutaneous Candidiasis, and Noncandidal Fungal Infections of the Mouth.
+A variety of genetic mutations in the human papillomavirus (HPV) causes conditions such as papilloma, verruca vulgaris, and condyloma acuminatum. These conditions present clinically as flat plaques, exophytic spiky projections, or pedunculated
+ [10] exophytic cauliflowerlike growths that are pinkish-white or white in appearance. One variant of the oral wart, oral florid papillomatosis, can affect the skin as well as mucocutaneous tissues, including the oral mucosa. This condition is characterized by multiple warty or verrucous lesions. Papilloma lesions can develop anywhere in the mouth and pharynx/tonsillar region. All should be considered precancerous in nature.
+The reported prevalence of HPV-associated oral warts in the general population is approximately 5%, and the lesions reportedly are present in 5% of HIV-seropositive subjects but up to 23% of HIV-seropositive subjects on highly active antiretroviral therapy.
+ [11] Several studies suggest that HPV type 16 (HPV-16) is a primary cause of oral squamous cell carcinoma in men (smoking and alcohol use are also linked to the etiology of oral cancer in men). Research suggests that the prevalence of HPV is approximately the same for men and women, but HPV-16 accounts for 28% of all HPV detected in the oral region.
+ [12] While found throughout the mouth, HPV-16 lesions reportedly are most likely to occur at the base of the tongue and oropharynx (tonsils), and it is in these areas that the prevalence of squamous cell carcinoma appears to be increasing significantly.
+ [13] This is in contrast to other non-HPV, alcohol- and smoking-related cancers, which have declined over the same period.
+In current practice, no medical treatment is effective for eliminating the HPV, but HPV vaccination shows potential for preventing some oral lesions as it has demonstrated efficacy in reducing HPV-16 at other sites.
+ [14] Much more basic and clinical research, including prospective randomized controlled trials, remain to be concluded before final conclusions can be made regarding vaccination as a means of treating papilloma. The problem is complex. For example, recent data appear to demonstrate that short-peptide vaccines may not be effective in therapeutic vaccines against HPV-16–induced cancer, while long-peptide vaccines containing both CD4 and CD8 T-cell epitopes that require dendritic-cell processing are very efficient.
+ [15] 
+Nonetheless, given the potential for cervical cancer consequent to HPV-16 infection, the US Centers for Disease Control and Prevention (CDC) has recommended vaccination for young girls.
+ [16] Further, given that HPV-16 has now been linked to neoplasms of the tongue and tonsils in adult males, future recommendations may include vaccination for boys. At present, for the vaccination to be effective, it must be provided before the subject becomes sexually active.
+Treatment of oral warts is primarily surgical in nature. Therapy that is suggested in the literature as intervention for intraoral lesions includes laser ablation, loop electrosurgical excision, incisional and excisional biopsy, carbon dioxide laser treatment, interferon-alfa injection, and surgery. Lesions on the lips reportedly can be removed using podofilox cream,
+ [17] imiquimod ointment, or fluorouracil 2% topical preparations.
+ [18] Podofilox (Condylox) is an antimitotic topical preparation that is typically used as an intervention for genital and anal condyloma. However, it is not approved by the US Food and Drug Administration (FDA) for oral use at this time.
+It should be appreciated that most suggested treatments for oral warts are based not on randomized controlled trials, or even comparative studies, but are based on anecdotal evidence or uncontrolled case series.
+ [19] One of the problems with basing treatment on uncontrolled case studies is that oral warts may dissipate over time without treatment. In addition, interventions deemed appropriate for the management of skin lesions have not been studied for oral lesions (eg, oral zinc sulfate treatment).
+ [20] 
+Finally, as would be expected, the use of antiretroviral therapy does not appear to reduce the prevalence of HPV-16 in patients with HIV infection. In one study,
+ [21] it was demonstrated that while the prevalence of HPV-16 infection was significantly higher in HIV-infected patients than in non–HIV-infected controls, the difference between those who were on and were not on antiretroviral therapy was not significant with respect to the disease. Antiretroviral use did not alter the prevalence of the virus.
+ [22] 
+Leukoplakia is a term used to describe a noninfectious change in the mucosal epithelium characterized by a white plaquelike lesion that cannot be rubbed off.
+ [23] In most cases, lesions defined by clinical examination as leukoplakia consist of epithelial hyperkeratosis, hyperparakeratosis, hyperorthokeratosis, and combinations of these changes with acanthosis, and they are benign. However, it has been reported that approximately 20% of leukoplakia lesions develop dysplasia that involves a number of changes in epithelial cellular morphology, including pleomorphism, hyperchromatism, and other cytologic changes. When leukoplakia is found in the region of the floor of the mouth and lateral tongue, the percentage of dysplasia has been reported at greater than 40%.
+ [24] Hence, until proven otherwise, leukoplakia should be considered a premalignant lesion.
+It should also be appreciated that when leukoplakia is interspersed with areas of erythema, the risk of dysplasia and malignant conversion is greater.
+ [25] When cytologic changes are extensive and extend from the basal cell layer through the epithelium, the condition is defined as carcinoma in situ.
+Oral keratotic (leukoplakia) lesions can vary considerably in size and surface configuration, depending on their location. The condition can present as single or multifocal smooth plaques and as extensive fissured or roughly corrugated lesions. The initial step in management, regardless of size, is the acquisition of a tissue specimen via biopsy (or biopsies) to precisely define the level of cellular atypia and potential for malignancy. It is not within the scope of this article to describe the many different procedures that can be used to acquire mucosal tissue. For further information, see Oral Tissue Biopsy and Oral Brush Biopsy With Computer-Assisted Analysis.
+For large lesions with varying surface characteristics, best practice is for the acquisition of multiple tissue samples via incisional biopsy. Should subsequent pathology studies be positive for severe dysplasia, carcinoma in situ, or squamous cell carcinoma, use of an incisional technique allows the cancer surgeon (eg, oral surgeon, ear nose throat [ENT] surgeon, oncologist) and the cancer team to more precisely determine the margins of the original condition.
+Post incisional biopsy, assuming the histology is consistent only with mild dysplasia, a number of therapeutic interventions may be considered depending on the extent of the lesion(s). As previously noted, if biopsy results show the lesion to be a squamous cell carcinoma, referral to a cancer specialist should follow so that the condition can be adequately triaged for management.
+ [26] 
+Isolated and relatively small leukoplakia or mildly dysplastic lesions that can be easily accessed can be removed by scalpel surgery (excisional biopsy). With lesions less than 5 mm in diameter, a punch biopsy may work well. If surgical excision is to be considered, care must be taken to excise beyond the obvious margins of the plaque to ensure total elimination of the dysplasia. If the lesion is located on the ventral tongue or floor of the mouth, frequent follow-up should be provided post removal because of potential recurrence and squamous conversion.
+ [27] 
+Large lesions may be excised with carbon dioxide laser.
+ [28] This procedure is quite useful in regions with high vascularity as it produces a bloodless surgical field.
+ [29] 
+Transoral carbon dioxide laser resection has also been used by cancer specialists to treat T1/T2-staged oral squamous cell carcinoma (low-risk carcinoma). In a prospective study, 90 patients with lesions of the tongue, floor of the mouth, and buccal mucosa were treated with carbon dioxide laser resection and assessed for 3-year disease-specific and disease-free survival. Eighty-one patients had T1N0 and 9 had T2N0 disease. Most of the patients had moderately differentiated oral squamous cell carcinoma, with the rest having moderately to poorly differentiated carcinoma. The depth of the lesions was determined to be a mean of 5.7 mm, and tumor clearance post treatment was thought to have been achieved in 73 patients.
+Recurrence was reported in 12% of patients (11), with this showing as an ulcer of the tongue or buccal mucosa. Most of these patients were self-reported ex-smokers or drinkers. The 3-year survival rate was 86.7%, but 9 of the 12 who died did so from non–cancer-related causes.
+ [30] 
+Curettage and electrodesiccation may also be considered for the excision of larger lesions.
+ [31] 
+Chemopreventative approaches currently include the use of drugs such as beta-carotene, trans -retinoic acid, and 5-fluorouracil. Currently undergoing investigation is the cyclooxygenase (COX)–2 formulation, celecoxib, and imiquimod has been showing promise for future use.
+Imiquimod is an immunomodulatory agent that has been found to reduce mild dysplasia to hyperkeratosis in an animal model of carcinogenesis.
+ [32] To achieve these results, 5% imiquimod cream was applied to the dysplastic lesions for 16 weeks. Celecoxib is currently being studied in a phase II trial to determine if it is effective in preventing cancer in patients with leukoplakia or dysplasia.
+ [33] 
+Beta-carotene has been shown to support remission of oral leukoplakia.
+ [34, 35] 
+In a pilot crossover study, subjects who smoked demonstrated better improvement than nonsmokers (81.2% vs 28.6%).
+ [36] 
+In a multicenter, double-blind, placebo-controlled trial, 50 subjects received beta-carotene at 60 mg/d for 6 months, with half then randomized to receive a placebo for 12 months and the other half to continue beta-carotene. Thirty-eight of the 50 participants were determined to have dysplasia at initial biopsy. A second biopsy at 6 months revealed improvement in the degree of dysplasia in 39% of subjects.
+Only 4 of 50 subjects (8%) demonstrated disease progression at 6 months, with one having biopsy-confirmed squamous cell carcinoma. Typically, a pinkish color returned to the tissue following a thinning of the leukoplakic lesion. This was followed by a decrease in the size of the lesion. A significant difference in response was observed between those on placebo and those continuing the drug. These results were sustained for 1 year.
+ [37] 
+The long-term efficacy of retinoid therapy, however, has been called into question, as systematic reviews assessing multiple studies have suggested that the frequency of relapse may be high in subjects using beta-carotenes.
+ [38] 
+The use of isotretinoin (13-cis retinoic acid [13-cRA]) has been associated with a number of adverse reactions,
+ [39] including hyperuricemia,
+ [40] and it also must be avoided in women planning to become pregnant. Therefore, it should not be considered first-line therapy. If it is used, baseline and periodic serology studies and close monitoring for adverse effects (eg, elevated triglycerides) should be performed. If clinicians are willing to prescribe the isotretinoin (Accutane), they must first enroll in an FDA-sponsored iPledge system in order to receive the medication. In addition, iPledge does not allow the use of the drug to exceed 5-6 months, so its off-label use for the management of dysplasia may not be feasible.
+Other chemotherapeutic agents with limited support include vitamin E, beta-carotene, and selenium.
+ [41, 42] Selenium supplementation as a means of reducing oral dysplasia has not been well studied, but there is evidence that selenium levels may be low in men with oral cancer who smoke.
+ [43] It should be appreciated that a recent Cochrane report involving systematic review of numerous studies involving selenium (none involving oral dysplasia, however) found no convincing evidence to support selenium supplementation and cancer risk reduction.
+ [44] 
+Photodynamic therapy involves the preinjection of a photosensitizer agent, typically porfimer sodium (Photofrin), followed by exposure to light of variable wavelength. The sensitizing agent enters all cells but is eliminated from healthy cells within 24-72 hours, leaving damaged, dysplastic, or neoplastic cells susceptible to an active form of oxygen that is released from cells with the drug upon light exposure. The FDA has approved this technique for treatment of esophageal cancer and non–small cell lung cancer, as well as for Barrett esophagus, a precancerous condition.
+ [45] 
+The application of this therapy in dentistry is a recent occurrence, and a number of studies suggest it may be a useful strategy in treating oral dysplasia as well as cancer.
+ [46, 47, 48, 49] Light penetration of tissue is limited to only a few millimeters, so the use of this system in the mouth, which also provides reasonable access, has promise. However, the outcome may be dependent on a number of tissue parameters, including lesion size, color, degree of dysplasia, and surface keratin thickness.
+ [50] 
+Evidence suggests that topical (vs systemic) 5-aminolevulinic acid photodynamic therapy (ALA-PDT) may effectively eliminate oral verrucous hyperplasia as well as oral erythroleukoplakia.
+ [51] Research related to the light dynamics suggests that light-emitting diode (LED) light is as effective for treating lesions as laser light. In a prospective, nonrandomized, comparative study reported by Yu and colleagues, 20 oral erythroleukoplakia lesions were treated with topical ALA-PDT using 635-nm LED light and 26 oral erythroleukoplakia lesions were treated with topical ALA-PDT using 635-nm laser light. The difference in clinical outcomes was not found to be significant. All 40 lesions were reported as exhibiting a complete response to therapy after 3.6 treatments. Greater response rates occurred with small lesions, pink-to-red lesions, and lesions with epithelial dysplasia or thin keratin.
+ [52] Similar results were found for the management of biopsy-confirmed dysplasia.
+ [52] 
+Oral squamous cell carcinoma appears to be effectively treated with photodynamic therapy. In one prospective clinical study, the effect of surface illumination m-tetrahydroxyphenylchlorin (mTHPC) photodynamic therapy on T1/T2-weighted N0 squamous cell carcinoma of the tongue, floor of the mouth, and buccal mucosa was evaluated in 38 patients (with 89.5% self-identified as ex-smokers or current smokers). After several treatment applications spaced over 6-7 months, 26 of 38 patients demonstrated healthy oral mucosa at the primary tumor site. Subsequent biopsies revealed 10 of the original study cohort with dysplasia and 6 with recurrent squamous cell carcinoma. The overall recurrence rate was 15.8%, and the 5-year survival rate was 84.2%, suggesting the intervention was as potentially useful for treating low-risk cancer as other more invasive strategies.
+ [53] 
+The precise number of applications appears variable, but the authors of one study suggest complete remission can be achieved with fewer than 7 applications delivered once a week.
+ [50] The degree of light is another variable that may differ depending on the type of pathology present. In one study, the light dose used therapeutically for dysplasia was 50 J/cm2 and for carcinoma was 75 J/cm2.
+ [49] 
+Adverse reactions associated with the procedure are temporary and include edema, pain, hoarseness, and skin phototoxicity.
+ [49] In an attempt to reduce irradiation of healthy tissue and eliminate some of the adverse effects of photodynamic therapy, a “lightpipe” device has been studied and described and may prove useful.
+ [54] 
+The treatment of nicotinic contact stomatitis is to eliminate the offending nicotine product. However, dental therapy is complicated by psychosocial issues that include addiction, so multidisciplinary referral should be considered for what is likely to be complex behavioral management.
+ [55] 
+Discontinuation of cinnamon effectively eliminates hyperkeratosis associated with its use.
+ [56] 
+For additional information, see Nicotine Stomatitis, Contact Stomatitis, Aphthous Stomatitis, and Denture Stomatitis.
+Oral lichen planus (OLP) has a variety of clinical presentations, including a reticular form characterized by lacy striations or lines termed Wickham striae; annular lesions; solid, whitened, slightly elevated plaques of variable size; or a combination of these features. Reticular lesions are reported to constitute approximately 70% or more of the disease presentations.
+ [57] The lesions of reticular OLP are typically painless and occur most frequently on the buccal mucosa, gingiva, and tongue. When OLP involves mucosal erythema along with the whitened lesions (termed erosive lichen planus), the condition can be painful.
+ [58] OLP is a chronic disease without a known cure. Painful lesions are best managed symptomatically.
+ [59] Reticular lesions do not need management as they are not typically painful.
+The World Health Organization (WHO) has classified OLP as a potentially premalignant lesion,
+ [60] but this declaration is not without controversy.
+ [61] Lesions that do transform are observed to include both whitened tissue as well as erythema. The conversion rate is estimated to be 0.4-7.1% per year.
+ [62, 63] The literature on OLP now includes the term “oral lichenoid lesions” as a descriptor for lesions that do convert to squamous cell carcinoma.
+ [63] 
+A systematic review evaluated evidence regarding malignant transformation of oral lichen planus (OLP) to squamous cell carcinoma (SCC). The study concluded that a small subset of patients with a diagnosis of OLP eventually developed SCC. The most common demographic characteristics of patients in this subset were similar to the most common demographic characteristics associated with OLP in general. These included being female, older, and affected in areas common to this condition. The authors further concluded that it is prudent for clinicians to pursue continued regular observation and follow-up in patients with these conditions, even in patients who do not fit a traditional high-risk category for oral SCC.
+ [64] 
+Conversion to lichenoid dysplasia is of potential concern because the condition may be neglected owing to the clinician thinking it is reticular in nature and benign.
+ [65] Hence, best practice is to obtain a biopsy specimen from white lesions that involve adjacent erythema when reasonable intervention fails to provide resolution. Routine follow-up is also highly recommended in patients with potential for conversion (e.g., those with mucosal sites demonstrating erosive or erythematous change).
+ [66] 
+A vast number of interventions for the treatment of OLP are described in the literature. These include topical tacrolimus,
+ [67] aloe vera,
+ [68] topical cyclosporin,
+ [69] intralesional
+ [70] or topical/systemic steroids,
+ [71, 72] rapamycin (a drug with both immunosuppressive and antitumor properties),
+ [73] drug combinations (e.g., cyclosporine with triamcinolone acetonide,
+ [69] tacrolimus powder in Orabase 0.1%),
+ [74] and retinoids (both systemic [etretinate] and topical [tretinoin]).
+ [75] 
+The problem is that no standard intervention exists for OLP, regardless of type, and the treating clinician is left to define a protocol on the basis of authoritarian texts versus evidence-based support. Underscoring this difficulty, one systematic review concludes that prospective randomized controlled trials evaluating the various pharmacologic strategies for managing OLP over time are limited; and another review
+ [76] does not appear to support the efficacy of one specific treatment over another.
+ [77] 
+At present, the factors that should be considered by a clinician treating OLP are the chronic nature of the condition and the potential adverse effects of medications used over a prolonged period. Best practice includes using low doses, alternate-day therapy, and adjunctive therapy when appropriate.
+ [75] It should be appreciated that other than surgery, no medication-based treatment eliminates reticular OLP lesions.
+In cases of a lichenoid reaction following medication usage, consultation with the patient’s physician regarding withdrawal and substitution, over time, may improve the condition.
+ [78] If the mucosal lichenoid condition is related to contact with dental material,
+ [79] the offending source of the lesions should be removed.
+ [80] 
+Surgical techniques include the use of scalpel surgery or carbon dioxide laser ablation.
+ [81] 
+For additional information, see Oral Lichen Planus and Oral Manifestations of Drug Reactions.
+Salerno C, Pascale M, Contaldo M, Esposito V, Busciolano M, Milillo L, et al. Candida-associated denture stomatitis. Med Oral Patol Oral Cir Bucal. 2011 Mar 1. 16(2):e139-43. [Medline]. 
+Kayhan TÇ, Bllaç C, Bllaç DB, Ecemls T, Ermertcan AT. Annular plaques on the tongue: what is your diagnosis?. Ann Dermatol. 2011 Nov. 23(4):548-50. [Medline]. [Full Text].
+Collins CD, Cookinham S, Smith J. Management of oropharyngeal candidiasis with localized oral miconazole therapy: efficacy, safety, and patient acceptability. Patient Prefer Adherence. 2011. 5:369-74. [Medline]. [Full Text].
+Bensadoun RJ, Daoud J, El Gueddari B, et al. Comparison of the efficacy and safety of miconazole 50-mg mucoadhesive buccal tablets with miconazole 500-mg gel in the treatment of oropharyngeal candidiasis: a prospective, randomized, single-blind, multicenter, comparative, phase III trial in patients treated with radiotherapy for head and neck cancer. Cancer. 2008 Jan 1. 112(1):204-11. [Medline]. 
+Ishijima SA, Hayama K, Burton JP, Reid G, Okada M, Matsushita Y, et al. Effect of Streptococcus salivarius K12 on the in vitro growth of Candida albicans and its protective effect in an oral candidiasis model. Appl Environ Microbiol. 2012 Apr. 78(7):2190-9. [Medline]. [Full Text].
+Feldman M, Tanabe S, Howell A, Grenier D. Cranberry proanthocyanidins inhibit the adherence properties of Candida albicans and cytokine secretion by oral epithelial cells. BMC Complement Altern Med. 2012 Jan 16. 12:6. [Medline]. [Full Text].
+Pupo YM, Gomes GM, Santos EB, Chaves L, Michel MD, Kozlowski VA Jr, et al. Susceptibility of Candida albicans to photodynamic therapy using methylene blue and toluidine blue as photosensitizing dyes. Acta Odontol Latinoam. 2011. 24(2):188-92. [Medline]. 
+Carmello JC, Alves F, G Basso F, de Souza Costa CA, Bagnato VS, Mima EG, et al. Treatment of Oral Candidiasis Using Photodithazine®- Mediated Photodynamic Therapy In Vivo. PLoS One. 2016. 11 (6):e0156947. [Medline]. 
+Bakhshi M, Taheri JB, Shabestari SB, Tanik A, Pahlevan R. Comparison of therapeutic effect of aqueous extract of garlic and nystatin mouthwash in denture stomatitis. Gerodontology. 2012 Jun. 29(2):e680-4. [Medline]. 
+Stoopler ET, Balasubramaniam R. Images in clinical medicine. Human papillomavirus lesions of the oral cavity. N Engl J Med. 2011 Oct 27. 365(17):e37. [Medline]. 
+Feller L, Khammissa RA, Wood NH, Marnewick JC, Meyerov R, Lemmer J. HPV-associated oral warts. SADJ. 2011 Mar. 66(2):82-5. [Medline]. 
+Kreimer Ar, et al. Oral human papillomavirus in healthy individuals: a systematic review of the literature. Sex Transm Dis. 2010. 37(6):366-91. 
+Chaturvedi AK, Engels EA, Anderson WF, Gillison ML. Incidence trends for human papillomavirus-related and -unrelated oral squamous cell carcinomas in the United States. J Clin Oncol. 2008 Feb 1. 26(4):612-9. [Medline]. 
+Markowitz LE, Dunne EF, Saraiya M, Lawson HW, Chesson H, Unger ER. Quadrivalent Human Papillomavirus Vaccine: Recommendations of the Advisory Committee on Immunization Practices (ACIP). MMWR Recomm Rep. 2007 Mar 23. 56:1-24. [Medline]. 
+Balwit JM, Kalinski P, Sondak VK, Coulie PG, Jaffee EM, Gajewski TF, et al. Review of the 25th annual scientific meeting of the International Society for Biological Therapy of Cancer. J Transl Med. 2011 May 12. 9:60. [Medline]. [Full Text].
+Global routine vaccination coverage, 2009. MMWR Morb Mortal Wkly Rep. 2010 Oct 29. 59(42):1367-71. [Medline]. 
+Weiss A, Dym H. Oral lesions caused by human papillomavirus. Available at http://www.clinicaladvisor.com/oral-lesions-caused-by-human-papillomavirus/article/193918/. Accessed: 2/5/12.
+Jennifer Fidalgo. the human papilloma virus. Available at http://www.ehow.com/how_6600611_remove-oral-warts.html. Accessed: 2/4/12.
+Swineford SL, Drucker CR. Palliative treatment of paraneoplastic acanthosis nigricans and oral florid papillomatosis with retinoids. J Drugs Dermatol. 2010 Sep. 9(9):1151-3. [Medline]. 
+Mun JH, Kim SH, Jung DS, Ko HC, Kim BS, Kwon KS, et al. Oral zinc sulfate treatment for viral warts: an open-label study. J Dermatol. 2011 Jun. 38(6):541-5. [Medline]. 
+Amornthatree K, Sriplung H, Mitarnun W, Nittayananta W. Impacts of HIV infection and long-term use of antiretroviral therapy on the prevalence of oral human papilloma virus type 16. 2011. 
+Feller L, Khammissa RA, Wood NH, Marnewick JC, Meyerov R, Lemmer J. HPV-associated oral warts. SADJ. 2011 Mar. 66(2):82-5. [Medline]. 
+Chapter IV. Premalignant Lesions. Available at http://www.oralcancerfoundation.org/cdc/cdc_chapter4.htm.. Accessed: 2/5/12.
+Axéll T, Pindborg JJ, Smith CJ, van der Waal I. Oral white lesions with special reference to precancerous and tobacco- related lesions: conclusions of an international symposium held in Uppsala, Sweden, May 18-21 1994. International Collaborative Group on Oral White Lesions. J Oral Pathol Med. 1996 Feb. 25(2):49-54. [Medline]. 
+Silverman S Jr, Gorsky M, Lozada F. Oral leukoplakia and malignant transformation. A follow-up study of 257 patients. Cancer. 1984 Feb 1. 53(3):563-8. [Medline]. 
+Chapter VI. State of the Science Multidisciplinary Tumor Board Concept. Available at http://oralcancerfoundation.org/cdc/cdc_chapter6.htm. Accessed: 2/5/12.
+Vedtofte P, Holmstrup P, Hjørting-Hansen E, Pindborg JJ. Surgical treatment of premalignant lesions of the oral mucosa. Int J Oral Maxillofac Surg. 1987 Dec. 16(6):656-64. [Medline]. 
+Chiesa F, Sala L, Costa L, Moglia D, et al. Excision of oral leukoplakias by CO2 laser on an out-patient basis: a useful procedure for prevention and early detection of oral carcinomas. Tumori. 1986 Jun 30. 72(3):307-12. [Medline]. 
+Santos NR, Aciole GT, Marchionni AM, Soares LG, dos Santos JN, Pinheiro AL. A feasible procedure in dental practice: the treatment of oral dysplastic hyperkeratotic lesions of the oral cavity with the CO2 laser. Photomed Laser Surg. 2010 Oct. 28 Suppl 2:S121-6. [Medline]. 
+Jerjes W, Upile T, Hamdoon Z, Mosse CA, Akram S, Hopper C. Prospective evaluation of outcome after transoral CO(2) laser resection of T1/T2 oral squamous cell carcinoma. Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 2011 Aug. 112(2):180-7. [Medline]. 
+Crispian Scully. Dermatologic Manifestations of Oral Leukoplakia Treatment & Management. Available at http://emedicine.medscape.com/article/1075448-treatment#a1128. Accessed: 2/5/12.
+Gkoulioni V, Eleftheriadou A, Yiotakis I, Ferekidou E, Chrisovergis A, Lazaris ACh, et al. The efficacy of imiquimod on dysplastic lesions of the oral mucosa: an experimental model. Anticancer Res. 2010 Jul. 30(7):2891-6. [Medline]. 
+in bioportfolio. Available at http://www.bioportfolio.com/resources/trial/122049/Celecoxib-In-Preventing-Cancer-In-Patients-With-Oral-Leukoplakia-And-or-Head.html. Accessed: 2/5/12.
+Garewal HS, Katz RV, Meyskens F, et al. Beta-carotene produces sustained remissions in patients with oral leukoplakia: results of a multicenter prospective trial. Arch Otolaryngol Head Neck Surg. 1999 Dec. 125(12):1305-10. [Medline]. 
+Medline Plus, Beta-Carotene. Available at http://www.nlm.nih.gov/medlineplus/druginfo/natural/999.html. Accessed: 2/7/12.
+Malaker K, Anderson BJ, Beecroft WA, Hodson DI. Management of oral mucosal dysplasia with beta-carotene retinoic acid: a pilot cross-over study. Cancer Detect Prev. 1991. 15(5):335-40. [Medline]. 
+Garewal HS, Katz RV, Meyskens F, et al. Beta-carotene produces sustained remissions in patients with oral leukoplakia: results of a multicenter prospective trial. Arch Otolaryngol Head Neck Surg. 1999 Dec. 125(12):1305-10. [Medline]. 
+Lodi G, Sardella A, Bez C, Demarosi F, Carrassi A. Interventions for treating oral leukoplakia. Cochrane Database Syst Rev. 2006 Oct 18. CD001829. [Medline]. 
+Papadimitrakopoulou VA, Lee JJ, William WN Jr, et al. Randomized trial of 13-cis retinoic acid compared with retinyl palmitate with or without beta-carotene in oral premalignancy. J Clin Oncol. 2009 Feb 1. 27(4):599-604. [Medline]. [Full Text].
+Choi WJ, Ford ES, Curhan G, Rankin JI, Choi HK. The independent association of serum retinol and β-carotene levels with hyperuricemia- A national population study. Arthritis Care Res (Hoboken). Nov 10 2011. 10:1002/acr:20692. 
+Toma S, Micheletti A, Giacchero A, et al. Selenium therapy in patients with precancerous and malignant oral cavity lesions: preliminary results. Cancer Detect Prev. 1991. 15(6):491-4. [Medline]. 
+Stich HF, Rosin MP, Hornby AP, Mathew B, Sankaranarayanan R, Nair MK. Remission of oral leukoplakias and micronuclei in tobacco/betel quid chewers treated with beta-carotene and with beta-carotene plus vitamin A. Int J Cancer. 1988 Aug 15. 42(2):195-9. [Medline]. 
+Rogers MA, Thomas DB, Davis S, Weiss NS, Vaughan TL, Nevissi AE. A case-control study of oral cancer and pre-diagnostic concentrations of selenium and zinc in nail tissue. Int J Cancer. 1991 May 10. 48(2):182-8. [Medline]. 
+Dennert G, Zwahlen M, Brinkman M, Vinceti M, Zeegers MPA, Horneber M. Selenium for preventing cancer. Cochrane Database of Systematic Reviews. 2011. Issue 5. Art. No.:CD005195. [Full Text].
+National Cancer Institute. Available at http://www.cancer.gov/cancertopics/factsheet/Therapy/photodynamic. Accessed: 2/7/12.
+Konopka K, Goslinski T. Photodynamic therapy in dentistry. J Dent Res. 2007 Aug. 86(8):694-707. [Medline]. 
+Lin HP, Chen HM, Yu CH, Yang H, Wang YP, Chiang CP. Topical photodynamic therapy is very effective for oral verrucous hyperplasia and oral erythroleukoplakia. J Oral Pathol Med. 2010 Sep. 39(8):624-30. [Medline]. 
+Jerjes W, Upile T, Hamdoon Z, Alexander Mosse C, Morcos M, Hopper C. Photodynamic therapy outcome for T1/T2 N0 oral squamous cell carcinoma. Lasers Surg Med. 2011 Aug. 43(6):463-9. [Medline]. 
+Rigual NR, Thankappan K, Cooper M, et al. Photodynamic therapy for head and neck dysplasia and cancer. Arch Otolaryngol Head Neck Surg. 2009 Aug. 135(8):784-8. [Medline]. [Full Text].
+Yu CH, Chen HM, Hung HY, Cheng SJ, Tsai T, Chiang CP. Photodynamic therapy outcome for oral verrucous hyperplasia depends on the clinical appearance, size, color, epithelial dysplasia, and surface keratin thickness of the lesion. Oral Oncol. 2008 Jun. 44(6):595-600. [Medline]. 
+Lin HP, Chen HM, Yu CH, Yang H, Wang YP, Chiang CP. Topical photodynamic therapy is very effective for oral verrucous hyperplasia and oral erythroleukoplakia. J Oral Pathol Med. 2010 Sep. 39(8):624-30. [Medline]. 
+Yu CH, Lin HP, Chen HM, Yang H, Wang YP, Chiang CP. Comparison of clinical outcomes of oral erythroleukoplakia treated with photodynamic therapy using either light-emitting diode or laser light. Lasers Surg Med. 2009 Nov. 41(9):628-33. [Medline]. 
+Jerjes W, Upile T, Hamdoon Z, Mosse CA, Akram S, Hopper C. Photodynamic therapy outcome for oral dysplasia. Lasers Surg Med. 2011 Mar. 43(3):192-9. [Medline]. 
+Canavesi C, Cassarly WJ, Foster TH, Rolland JP. Lightpipe device for delivery of uniform illumination for photodynamic therapy of the oral cavity. Appl Opt. 2011 Jun 1. 50(16):2322-5. [Medline]. [Full Text].
+Spangler JG, Salisbury PL 3rd. Smokeless tobacco: epidemiology, health effects and cessation strategies. Am Fam Physician. 1995 Oct. 52(5):1421-30, 1433-4. [Medline]. 
+Endo H, Rees TD. Clinical features of cinnamon-induced contact stomatitis. Compend Contin Educ Dent. 2006 Jul. 27(7):403-9; quiz 410, 421. [Medline]. 
+Fernández-González F, Vázquez-Álvarez R, Reboiras-López D, Gándara-Vila P, García-García A, Gándara-Rey JM. Histopathological findings in oral lichen planus and their correlation with the clinical manifestations. Med Oral Patol Oral Cir Bucal. 2011 Aug 1. 16(5):e641-6. [Medline]. 
+Usatine RP, Tinitigan M. Diagnosis and treatment of lichen planus. Am Fam Physician. 2011 Jul 1. 84(1):53-60. [Medline]. 
+Carbone M, Arduino PG, Carrozzo M, et al. Course of oral lichen planus: a retrospective study of 808 northern Italian patients. Oral Dis. 2009 Apr. 15(3):235-43. [Medline]. 
+Pindborg JJ, Reichart PA, Smith CJ, van der Waal I. World Health Organization International Histological Classification of Tumours. Berlin, Springer. Histological typing of cancer and precancer of the oral mucosa. 2nd ed. 1997. 87: 235-43. 
+Gonzalez-Moles MA, Scully C, Gil-Montoya JA. Oral lichen planus: controversies surrounding malignant transformation. Oral Dis. 2008 Apr. 14(3):229-43. [Medline]. 
+Scully C, Beyli M, Ferreiro MC, Ficarra G, Gill Y, Griffiths M, et al. Update on oral lichen planus: etiopathogenesis and management. Crit Rev Oral Biol Med. 1998. 9(1):86-122. [Medline]. 
+van der Meij EH, Mast H, van der Waal I. The possible premalignant character of oral lichen planus and oral lichenoid lesions: a prospective five-year follow-up study of 192 patients. Oral Oncol. 2007 Sep. 43(8):742-8. [Medline]. 
+Fitzpatrick SG, Hirsch SA, Gordon SC. The malignant transformation of oral lichen planus and oral lichenoid lesions: a systematic review. J Am Dent Assoc. 2014 Jan. 145(1):45-56. [Medline]. 
+Fatahzadeh M, Rinaggio J, Chiodo T. Squamous cell carcinoma arising in an oral lichenoid lesion. J Am Dent Assoc. 2004 Jun. 135(6):754-9; quiz 796. [Medline]. 
+Eisen D. The clinical features, malignant potential, and systemic associations of oral lichen planus: a study of 723 patients. J Am Acad Dermatol. 2002 Feb. 46(2):207-14. [Medline]. 
+Laeijendecker R, Tank B, Dekker SK, Neumann HA. A comparison of treatment of oral lichen planus with topical tacrolimus and triamcinolone acetonide ointment. Acta Derm Venereol. 2006. 86(3):227-9. [Medline]. 
+Mansourian A, Momen-Heravi F, Saheb-Jamee M, et al. Comparison of aloe vera mouthwash with triamcinolone acetonide 0.1% on oral lichen planus: a randomized double-blinded clinical trial. Am J Med Sci. 2011 Dec. 342(6):447-51. [Medline]. 
+Thongprasom K, Chaimusig M, Korkij W, Sererat T, Luangjarmekorn L, Rojwattanasirivej S. A randomized-controlled trial to compare topical cyclosporin with triamcinolone acetonide for the treatment of oral lichen planus. J Oral Pathol Med. 2007 Mar. 36(3):142-6. [Medline]. 
+Brauns B, Stahl M, Schön MP, Zutt M. Intralesional steroid injection alleviates nail lichen planus. Int J Dermatol. 2011 May. 50(5):626-7. [Medline]. 
+Thongprasom K, Dhanuthai K. Steriods in the treatment of lichen planus: a review. J Oral Sci. 2008 Dec. 50(4):377-85. [Medline]. 
+Lozada-Nur F, Miranda C. Oral lichen planus: topical and systemic therapy. Semin Cutan Med Surg. 1997 Dec. 16(4):295-300. [Medline]. 
+Soria A, Agbo-Godeau S, Taïeb A, Francès C. Treatment of refractory oral erosive lichen planus with topical rapamycin: 7 cases. Dermatology. 2009. 218(1):22-5. [Medline]. 
+Lozada-Nur FI, Sroussi HY. Tacrolimus powder in Orabase 0.1% for the treatment of oral lichen planus and oral lichenoid lesions: an open clinical trial. Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 2006 Dec. 102(6):744-9. [Medline]. 
+Lozada-Nur F, Miranda C. Oral lichen planus: topical and systemic therapy. Semin Cutan Med Surg. 1997 Dec. 16(4):295-300. [Medline]. 
+Suresh SS, Chokshi K, Desai S, Malu R, Chokshi A. Medical Management of Oral Lichen Planus: A Systematic Review. J Clin Diagn Res. 2016 Feb. 10 (2):ZE10-5. [Medline]. 
+Lodi G, Carrozzo M, Furness S, Thongprasom K. Interventions for treating oral lichen planus: a systematic review. Br J Dermatol. 2012 May. 166(5):938-47. [Medline]. 
+Schlosser BJ. Lichen planus and lichenoid reactions of the oral mucosa. Dermatol Ther. 2010 May-Jun. 23(3):251-67. [Medline]. 
+Camisa C, Taylor JS, Bernat JR Jr, Helm TN. Contact hypersensitivity to mercury in amalgam restorations may mimic oral lichen planus. Cutis. 1999 Mar. 63(3):189-92. [Medline]. 
+Bolewska J, Holmstrup P, Møller-Madsen B, Kenrad B, Danscher G. Amalgam associated mercury accumulations in normal oral mucosa, oral mucosal lesions of lichen planus and contact lesions associated with amalgam. J Oral Pathol Med. 1990 Jan. 19(1):39-42. [Medline]. 
+van der Hem PS, Egges M, van der Wal JE, Roodenburg JL. CO2 laser evaporation of oral lichen planus. Int J Oral Maxillofac Surg. 2008 Jul. 37(7):630-3. [Medline]. 
+Jeff Burgess, DDS, MSD (Retired) Clinical Assistant Professor, Department of Oral Medicine, University of Washington School of Dental Medicine; (Retired) Attending in Pain Center, University of Washington Medical Center; (Retired) Private Practice in Hawaii and Washington; Director, Oral Care Research AssociatesDisclosure: Nothing to disclose.
+Anil P Punjabi, MD, DDS Clinical Associate Professor, Department of Oral and Maxillofacial Surgery, Loma Linda University School of Dentistry; Clinical Associate Professor, Department of Plastic Surgery, Loma Linda University School of Medicine; Chairman, Department of Plastic, Maxillofacial and Reconstructive Surgery, Vice Chairman, Department of Surgery, Redlands Community Hospital; Medical Director, Terracina Surgical Arts 
+Anil P Punjabi, MD, DDS is a member of the following medical societies: American Cleft Palate-Craniofacial Association, American Medical Association, American Society of Plastic SurgeonsDisclosure: Nothing to disclose.

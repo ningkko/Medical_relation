@@ -1,0 +1,127 @@
+Vulvar Cancer Treatment Protocols: Treatment Protocols
+Primary vulvar cancer is rare; American Cancer Society estimates for 2017 are for 6020 new cases and 1150 deaths.
+ [1] Vulvar cancers consist largely of squamous cell carcinomas. Other histologies, such as melanoma, adenocarcinoma, sarcoma, and basal cell carcinoma, are less common. The treatment of vulvar cancer in this guideline focuses on squamous cell histology and does not include the treatment of preinvasive disease.
+Treatment recommendations are as follows:
+Early-stage vulvar cancer is primarily treated surgically with radical vulvectomy plus inguinofemoral lymphadenectomy; margins should be ≥1 cm
+ [2] 
+Reexcision may be considered if margins are positive or < 8 mm
+ [3] ; alternatively, adjuvant radiation may be used rather than reexcision, especially if a repeat procedure would result in excessive morbidity
+ [4] 
+Inguinofemoral lymphadenectomy is performed based on the risk factors of the primary tumor (see Table 1, below); if the surgeon has adequate experience with sentinel lymph node dissection, this technique may be substituted for complete inguinofemoral lymphadenectomy
+ [5, 6] 
+Adjuvant radiation is based on pathologic risk factors (see below)
+Stage II with extension to the distal third of the urethra or distal third of the vagina or with anal involvement can be treated with radical local excision with bilateral inguinofemoral lymphadenectomy; radiation to these regions can also be considered
+Table 1. Summary of Indications for Inguinofemoral Lymphadenectomy
+ [7]  (Open Table in a new window)
+Inguinofemoral lymphadenectomy 
+Tumor size (cm) 
+Stromal invasion (mm) 
+No lymph node dissection required
+≤2 cm
+≤1 (without lymphovascular space involvement)
+Ipsilateral
+≤2 cm
+≤1 (plus lymphovascular space involvement)
+≤2 cm
+>1 mm
+>2 cm
+Any
+Bilateral
+Same as ipsilateral and
+- Midline tumor (< 1 cm)
+or
+- Involves anterior labia minora
+or
+- Positive ipsilateral lymph node (if lesion ≥2 cm and depth ≥5 mm)
+ [8] 
+Indications for adjuvant treatment of metastatic groin lymph nodes include the following
+ [9] :
+One lymph node micrometastasis (<5 mm): No adjuvant radiotherapy
+Any lymph node macrometastasis ≥5 mm: Adjuvant radiotherapy
+Two or more lymph node micrometastases (<5 mm): Adjuvant radiotherapy, including inguinal and pelvic fields
+Any extracapsular spread: Adjuvant radiotherapy, 45 Gy in 25 fractions
+ [9] 
+Oonk et al examined the size of the metastatic disease in sentinel lymph nodes and found that micrometastasis >2 mm carried a risk of recurrence; the investigators suggested that adjuvant treatment or completion inguinofemoral lymph node dissection be performed for such sentinel lymph nodes.
+ [10] 
+A National Cancer Data Base (NCDB) analysis of 1797 patients with vulvar cancer who underwent extirpative surgery with confirmed inguinal nodal involvement treated with adjuvant radiotherapy concluded that the addition of adjuvant chemotherapy resulted in a 38% reduction in mortality risk. Unadjusted median survival with and without adjuvant chemotherapy was 44.0 versus 29.7 months, respectively (P=0.001).
+ [11] 
+Treatment recommendations are as follows:
+There is no significant difference in overall survival rates or in treatment-related adverse events when chemoradiation (primary or neoadjuvant) is compared with primary surgery
+ [12] 
+Radical surgery (radical vulvectomy plus bilateral lymphadenectomy): If partial removal of other involved structures is needed (eg, urethra, vagina, anus, bladder, rectum) and/or pelvic exenteration is necessary, consider preoperative chemoradiation
+Chemoradiation (with or without subsequent completion surgery): This approach has been shown to decrease the need for exenterative surgery
+ [13] ; a wide range of regimens have been discussed in the literature, but there is no clear standard of care
+ [14] 
+Radiation: Total of 47.6-57.6 Gy divided into 28 fractions
+ [13, 15] 
+Concurrent chemotherapy: Most cancer centers have extrapolated from the cervical cancer literature and use weekly cisplatin as a chemosensitizer
+ [16] ; a phase II study documented the safety and efficacy of weekly cisplatin (40 mg/m2 IV, not to exceed 70 mg/dose)
+ [15, 17] ; previously studied regimens have included cisplatin plus 5FU
+ [13, 18] and 5FU plus mitomycin C,
+ [19] but these are not as commonly used
+There are no standard treatment guidelines for metastatic vulvar cancer; however, the following should be noted:
+Chemotherapy regimens for metastatic vulvar cancer are similar to those used for metastatic cervical cancer
+Combinations of chemotherapy and radiation can be considered
+Chemotherapy options: Cisplatin is an active single agent in vulvar cancer, and cisplatin-based combinations have been reported to yield higher response rates
+ [20, 21, 22, 23] ; erlotinib has also demonstrated some anecdotal responses but is not a standard of care
+ [24] 
+Recurrent vulvar cancer can be grouped into local (regional), groin, and distant categories, and the following should be noted:
+Local recurrence carries a good prognosis and can be treated with resection or radiation
+Recurrences in the groin carry a poor prognosis; a select few of these patients may benefit from surgical resection and radiation
+Distant recurrence is treated with chemotherapy; paclitaxel has been used as a single agent
+ [25] 
+American Cancer Society. Cancer Facts & Figures 2017. American Cancer Society. Available at http://www.cancer.org/content/dam/cancer-org/research/cancer-facts-and-statistics/annual-cancer-facts-and-figures/2017/cancer-facts-and-figures-2017.pdf. Accessed: January 20, 2017.
+Khanna N, Rauh LA, Lachiewicz MP, Horowitz IR. Margins for cervical and vulvar cancer. J Surg Oncol. 2016 Mar. 113 (3):304-9. [Medline]. 
+Heaps JM, Fu YS, Montz FJ, Hacker NF, Berek JS. Surgical-pathologic variables predictive of local recurrence in squamous cell carcinoma of the vulva. Gynecol. Oncology. United States: 1990. 309-14. 
+Faul CM, Mirmow D, Huang Q, Gerszten K, Day R, Jones MW. Adjuvant radiation for vulvar carcinoma: improved local control. Int J Radiat Oncol Biol Phys. United States: 1997. 381-9. 
+McCann GA, Cohn DE, Jewell EL, Havrilesky LJ. Lymphatic mapping and sentinel lymph node dissection compared to complete lymphadenectomy in the management of early-stage vulvar cancer: A cost-utility analysis. Gynecol Oncol. 2015 Feb. 136 (2):300-4. [Medline]. 
+Levenback C, Coleman RL, Burke TW, Bodurka-Bevers D, Wolf JK, Gershenson DM. Intraopertive lymphatic mapping and sentinel node identification with blue dye in patients with vulvar cancer. Gynecol Oncol. 2001/11. 83(2):276-81. 
+Sedlis A, Homesley H, Bundy BN, et al. Positive groin lymph nodes in superficial squamous cell vulvar cancer. A Gynecologic Oncology Group Study. Am J Obstet Gynecol. United States: 1987. 1159-64. 
+Gonzalez Bosquet J, Magrina JF, Magtibay PM, Gaffey TA, Cha SS, Jones MB, et al. Patterns of inguinal groin metastases in squamous cell carcinoma of the vulva. Gynecol Oncol. 2007 Jun. 105(3):742-6. [Medline]. 
+Homesley HD, Bundy BN, Sedlis A, Adcock L. Radiation therapy versus pelvic node resection for carcinoma of the vulva with positive groin nodes. Obstet Gynecol. 1986 Dec. 68(6):733-40. [Medline]. 
+Oonk MH, van Hemel BM, Hollema H, de Hullu JA, Ansink AC, Vergote I, et al. Size of sentinel-node metastasis and chances of non-sentinel-node involvement and survival in early stage vulvar cancer: results from GROINSS-V, a multicentre observational study. Lancet Oncol. 2010 Jul. 11(7):646-52. [Medline]. 
+Gill BS, Bernard ME, Lin JF, Balasubramani GK, Rajagopalan MS, Sukumvanich P, et al. Impact of adjuvant chemotherapy with radiation for node-positive vulvar cancer: A National Cancer Data Base (NCDB) analysis. Gynecol Oncol. 2015 Jun. 137 (3):365-72. [Medline]. 
+Shylasree TS, Bryant A, Howells RE. Chemoradiation for advanced primary vulval cancer. Cochrane Database Syst Rev. 2011 Apr 13. CD003752. [Medline]. 
+Moore DH, Thomas GM, Montana GS, Saxer A, Gallup DG, Olt G. Preoperative chemoradiation for advanced vulvar cancer: a phase II study of the Gynecologic Oncology Group. Int J Radiat Oncol Biol Phys. United States: 1998. 79-85. 
+Mahner S, Prieske K, Grimm D, Trillsch F, Prieske S, von Amsberg G, et al. Systemic treatment of vulvar cancer. Expert Rev Anticancer Ther. 2015 Jun. 15 (6):629-37. [Medline]. 
+Moore DH, Ali S, Koh WJ, et al. A phase II trial of radiation therapy and weekly cisplatin chemotherapy for the treatment of locally-advanced squamous cell carcinoma of the vulva: A gynecologic oncology group study. In:. Gynecol Oncol. Elsevier Inc; 2011. 
+Gaffney DK, Du Bois A, Narayan K, et al. Patterns of care for radiotherapy in vulvar cancer: a Gynecologic Cancer Intergroup study. Int J Gynecol Cancer. United States: 2009. 163-7. 
+Mak RH, Halasz LM, Tanaka CK, et al. Outcomes after radiation therapy with concurrent weekly platinum-based chemotherapy or every-3-4-week 5-fluorouracil-containing regimens for squamous cell carcinoma of the vulva. Gynecol Oncol. United States: Elsevier Inc; 2011. 101-7. 
+Montana GS, Thomas GM, Moore DH, et al. Preoperative chemo-radiation for carcinoma of the vulva with N2/N3 nodes: a gynecologic oncology group study. Int J Radiat Oncol Biol Phys. United States: 2000. 1007-13. 
+Landoni F, Maneo A, Zanetta G, et al. Concurrent preoperative chemotherapy with 5-fluorouracil and mitomycin C and radiotherapy (FUMIR) followed by limited surgery in locally advanced and recurrent vulvar carcinoma. Gynecol Oncol. United States: 1996. 321-7. 
+Gadducci A, Cionini L, Romanini A, Fanucchi A, Genazzani AR. Old and new perspectives in the management of high-risk, locally advanced or recurrent, and metastatic vulvar cancer. Crit Rev Oncol Hematol. Ireland: 2006. 227-41. 
+Shimizu Y, Hasumi K, Masubuchi K. Effective chemotherapy consisting of bleomycin, vincristine, mitomycin C, and cisplatin (BOMP) for a patient with inoperable vulvar cancer. Gynecol Oncol. 1990 Mar. 36(3):423-7. [Medline]. 
+Cormio G, Loizzi V, Gissi F, et al. Cisplatin and vinorelbine chemotherapy in recurrent vulvar carcinoma. Oncology. Basel, Switzerland: S. Karger AG,; 2009. 281-4. 
+Tomao F, Di Tucci C, Marchetti C, Perniola G, Bellati F, Panici PB. Role of chemotherapy in the management of vulvar carcinoma. Crit Rev Oncol Hematol. Elsevier Ireland Ltd; .; 2011. 
+Bacha OM, Levesque E, Renaud MC, Lalancette M. A case of recurrent vulvar carcinoma treated with erlotinib, an EGFR inhibitor. Eur J Gynaecol Oncol. 2011. 32(4):423-4. [Medline]. 
+Witteveen PO, van der Velden J, Vergote I, et al. Phase II study on paclitaxel in patients with recurrent, metastatic or locally advanced vulvar cancer not amenable to surgery or radiotherapy: a study of the EORTC-GCG (European Organisation for Research and Treatment of Cancer--Gynaecological Cancer G... Ann Oncol. England: 2009. 1511-6. 
+Inguinofemoral lymphadenectomy 
+Tumor size (cm) 
+Stromal invasion (mm) 
+No lymph node dissection required
+≤2 cm
+≤1 (without lymphovascular space involvement)
+Ipsilateral
+≤2 cm
+≤1 (plus lymphovascular space involvement)
+≤2 cm
+>1 mm
+>2 cm
+Any
+Bilateral
+Same as ipsilateral and
+- Midline tumor (< 1 cm)
+or
+- Involves anterior labia minora
+or
+- Positive ipsilateral lymph node (if lesion ≥2 cm and depth ≥5 mm)
+ [8] 
+Elizabeth L Jewell, MD, MHSc Assistant Member, Department of Surgery, Division of Gynecology, Memorial Sloan-Kettering Cancer Center; Assistant Attending Surgeon, Department of Surgery, Division of Gynecology, Memorial Hospital for Cancer and Allied Diseases; Assistant Professor, Department of Obstetrics and Gynecology, Weill Cornell Medical College
+Elizabeth L Jewell, MD, MHSc is a member of the following medical societies: Alpha Omega Alpha, American College of Obstetricians and Gynecologists, Society of Gynecologic OncologyDisclosure: Nothing to disclose.
+Mary L Windle, PharmD Adjunct Associate Professor, University of Nebraska Medical Center College of Pharmacy; Editor-in-Chief, Medscape Drug ReferenceDisclosure: Nothing to disclose.
+Christopher D Braden, DO Hematologist/Oncologist, Chancellor Center for Oncology at Deaconess Hospital; Medical Director, Deaconess Hospital Outpatient Infusion Centers; Chairman, Deaconess Hospital Cancer Committee
+Christopher D Braden, DO is a member of the following medical societies: American Society of Clinical Oncology, American Society of HematologyDisclosure: Nothing to disclose.
+Yukio Sonoda, MD Associate Professor, Weill Cornell Medical College; Associate Attending Surgeon, Gynecology Service, Department of Surgery, Memorial Hospital for Cancer and Allied Diseases; Associate Member, Memorial Sloan-Kettering Cancer Center
+Yukio Sonoda, MD is a member of the following medical societies: AAGL, American College of Obstetricians and Gynecologists, American College of Surgeons, American Medical Association, American Society of Clinical Oncology, International Gynecologic Cancer Society, Japanese Medical Society of America, Korean American Medical Assocation, Society of Gynecologic Oncology, Society of Laparoendoscopic SurgeonsDisclosure: Nothing to disclose.
+Beatrice Cormier, MD Fellow in Gynecologic Oncology, Memorial Sloan-Kettering Cancer Center
+Disclosure: Nothing to disclose.

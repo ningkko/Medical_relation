@@ -1,0 +1,52 @@
+airway-establishment-and-control
+Vanessa Moll
+By 
+, MD, DESA, Emory University School of Medicine, Department of Anesthesiology, Division of Critical Care Medicine
+Airway management consists of
+Clearing the upper airway
+Maintaining an open air passage with a mechanical device
+Sometimes assisting respirations
+(See also Overview of Respiratory Arrest.)
+There are many indications for airway control (see table Situations Requiring Airway Control).
+Methods of establishing an airway include
+Basic techniques such as head and neck positioning, abdominal thrusts, and back blows (see also How to Do the Heimlich Maneuver in the Conscious Adult and How to Treat the Choking Conscious Infant.)
+Supraglottic methods such as bag-valve-mask and laryngeal mask airways
+Infraglottic techniques (tracheal intubation)
+Surgical airways
+Whatever airway management techniques are used, tidal volume should be 6 to 8 mL/kg (significantly less than previously recommended) and ventilatory rate should be 8 to 10 breaths/min (significantly slower than previously recommended to avoid negative hemodynamic consequences). Slower rates are commonly used in patients with severe air trapping (eg, acute asthma, COPD), and passive oxygenation without positive pressure ventilation shows promise in the first minutes after cardiac arrest. Smaller volumes and slower respiratory rates are also desirable in any state of hemodynamic instability; however, it is important to keep in mind that positive pressure ventilation is the opposite of physiologically normal negative pressure ventilation. In cardiac arrest, physiologic demands are significantly less, and in non-arrest, the benefits of hypoventilation in hemodynamic stability and lung protection often outweigh the negative effects of permissive hypercapnia and moderate hypoxia.
+
+
+Classification
+
+
+Examples
+Emergencies
+Cardiac arrest
+Respiratory arrest or apnea (eg, due to CNS disease, drugs, or hypoxia)
+Deep coma, when the tongue relaxes to occlude the glottis
+Acute laryngeal edema
+Laryngospasm
+Foreign body at the larynx (eg, “cafe coronary”)
+Drowning
+Upper airway trauma
+Head or high spinal cord injuries
+Urgencies
+Respiratory failure
+Need for ventilatory support (eg, in acute respiratory distress syndrome, smoke or toxic inhalation, respiratory burns, gastric aspiration, exacerbations of COPD or asthma, diffuse infectious or other parenchymal lung problems, neuromuscular diseases, respiratory center depression, or extreme respiratory muscle fatigue)
+Need to relieve the work of breathing in patients in shock or with low cardiac output or myocardial stress that must be decreased
+Before gastric lavage in patients with an oral drug overdose and altered consciousness
+Before esophagogastroscopy in patients with upper GI bleeding
+Before bronchoscopy in patients with marginal respiratory status
+Before radiologic procedures in patients with altered sensorium, particularly if sedation is required
+To relieve airway obstruction caused by soft tissues of the upper airway and provide optimal position for bag-valve-mask ventilation and laryngoscopy, the operator flexes the patient’s neck to elevate the head until the external auditory meatus is in the same plane as the sternum and positions the face roughly parallel to the ceiling (see figure Head and neck positioning to open the airway). This position is slightly different from the previously taught head tilt position. The mandible should be displaced upward by lifting the lower jaw and submandibular soft tissue or by pushing the rami of the mandible upward (see figure Jaw lift).
+A: The head is flat on the stretcher; the airway is constricted. B: The ear and sternal notch are aligned, with the face parallel to the ceiling, opening the airway. Adapted from Levitan RM, Kinkle WC: The Airway Cam Pocket Guide to Intubation, ed. 2. Wayne (PA), Airway Cam Technologies, 2007.
+Anatomic restriction, various abnormalities, or considerations caused by trauma (eg, inadvisability of moving a possibly fractured neck) may obviate the operator’s ability to properly position the neck, but careful attention to optimal positioning when possible can maximize airway patency and improve bag-valve-mask ventilation and laryngoscopy.
+Obstruction by dentures and oropharyngeal foreign material (eg, blood, secretions) may be removed by finger sweep of the oropharynx and suction, taking care not to push the material deeper (more likely in infants and young children, in whom a blind finger sweep is contraindicated). Deeper material can be removed with Magill forceps or by suction.
+The Heimlich maneuver (for more detailed instructions, see How to do the Heimlich Maneuver) consists of manual thrusts to the upper abdomen or, in the case of pregnant or extremely obese patients, chest thrusts until the airway is clear or the patient becomes unconscious; it is the preferred initial method in the awake, choking patient.
+In conscious adults, the rescuer stands behind the patient with arms encircling the patient’s midsection. One fist is clenched and placed midway between the umbilicus and xiphoid. The other hand grabs the fist, and a firm inward and upward thrust is delivered by pulling with both arms (see Figure Abdominal thrusts with victim standing or sitting).
+An unconscious adult with an upper airway obstruction is initially managed with CPR. In such patients, chest compressions increase intrathoracic pressure in the same manner that abdominal thrusts do in conscious patients. Rescuers should examine the oropharynx before each set of breaths and use their fingers to remove any visible objects. Direct laryngoscopy with suction or Magill forceps can also be used to remove a foreign body in the proximal airway, but once an object has passed through the vocal cords positive pressure from below the obstruction is most likely to be successful.
+In older children, the Heimlich maneuver may be used. However, in children < 20 kg (typically < 5 yr), very moderate pressure should be applied, and the rescuer should kneel at the child’s feet rather than astride.
+In infants< 1 yr, the Heimlich maneuver should not be done. Infants should be held in a prone, head-down position. The rescuer should support the head with the fingers of one hand while delivering 5 back blows (see figure Back blows—infant). Five chest thrusts should then be delivered with the infant in a head-down position with the infant’s back on the rescuer’s thigh (supine—see figure Chest thrusts—infant). This sequence of back blows and chest thrusts is repeated until the airway is cleared. For more detailed instructions, see How To Treat the Choking Conscious Infant
+Back blows are delivered with the infant in a head-down position to dislodge foreign bodies from the tracheobronchial tube. (Adapted from Standards and Guidelines for Cardiopulmonary Resuscitation [CPR] and Emergency Cardiac Care [ECC], in the Journal of the American Medical Association 25:2956 and 2959, June 6, 1986. Copyright 1986, American Medical Association.)
+Chest thrusts are delivered on the lower half of the sternum, just below the nipple level.
+Merck & Co., Inc., Kenilworth, NJ, USA (known as MSD outside of the US and Canada) is a global healthcare leader working to help the world be well. From developing new therapies that treat and prevent disease to helping people in need, we are committed to improving health and well-being around the world.  The Manual was first published in 1899 as a service to the community.  The legacy of this great resource continues as the Merck Manual in the US and Canada and the MSD Manual outside of North America.  Learn more about our commitment to Global Medical Knowledge.

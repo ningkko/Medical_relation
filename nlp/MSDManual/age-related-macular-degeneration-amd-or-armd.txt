@@ -1,0 +1,62 @@
+age-related-macular-degeneration-amd-or-armd
+Sonia Mehta
+By 
+, MD, Vitreoretinal Diseases and Surgery Service, Wills Eye Hospital, Sidney Kimmel Medical College at Thomas Jefferson University
+
+AMD is the leading cause of permanent, irreversible vision loss in older adults. It is more common among whites.
+Risk factors include the following:
+Age
+Genetic variants (eg, abnormal complement factor H)
+Family history
+Smoking
+Cardiovascular disease
+Hypertension
+Obesity
+Sun exposure
+A diet low in omega-3 fatty acids and dark green leafy vegetables
+Two different forms occur:
+Dry (nonexudative or atrophic): All AMD starts as the dry form. About 85% of people with AMD have only dry AMD.
+Wet (exudative or neovascular): Wet AMD occurs in about 15% of people.
+Although only 15% of patients with AMD have the wet form, 80 to 90% of the severe vision loss caused by AMD results from wet AMD.
+Dry AMD causes changes of the retinal pigment epithelium, typically visible as dark pinpoint areas. The retinal pigment epithelium plays a critical role in keeping the cones and rods healthy and functioning well. Accumulation of waste products from the rods and cones can result in drusen, which appear as yellow spots. Areas of chorioretinal atrophy (referred to as geographic atrophy) occur in more advanced cases of dry AMD. There is no elevated macular scar (disciform scar), edema, hemorrhage, or exudation.
+Wet AMD occurs when new abnormal blood vessels develop under the retina in a process called choroidal neovascularization (abnormal new vessel formation). Localized macular edema or hemorrhage may elevate an area of the macula or cause a localized retinal pigment epithelial detachment. Eventually, untreated neovascularization causes a disciform scar under the macula.
+The loss of central vision occurs over years and is painless, and most patients retain enough vision to read and drive. Central blind spots (scotomas) usually occur late in the disease and can sometimes become severe. Symptoms are usually bilateral.
+Funduscopic changes include the following:
+Changes in the retinal pigment epithelium
+Drusen
+Areas of chorioretinal atrophy
+Rapid vision loss, usually over days to weeks, is more typical of wet AMD. The first symptom is usually visual distortion, such as a central blind spot (scotoma) or curving of straight lines (metamorphopsia). Peripheral vision and color vision are generally unaffected; however, the patient may become legally blind (< 20/200 vision) in the affected eye, particularly if AMD is not treated. Wet AMD usually affects one eye at a time; thus, symptoms of wet AMD are often unilateral.
+Funduscopic changes include the following:
+Subretinal fluid, appearing as localized retinal elevation
+Retinal edema
+Gray-green discoloration under the macula
+Exudates in or around the macula
+Detachment of retinal pigment epithelium (visible as an area of retinal elevation)
+Subretinal hemorrhage in or around the macula
+Funduscopic examination
+Color fundus photography
+Fluorescein angiography
+Optical coherence tomography
+Both forms of AMD are diagnosed by funduscopic examination. Visual changes can often be detected with an Amsler grid. Color photography and fluorescein angiography are done when findings suggest wet AMD. Angiography shows and characterizes subretinal choroidal neovascular membranes and can delineate areas of geographic atrophy. Optical coherence tomography (OCT) aids in identifying intraretinal and subretinal fluid and can help assess response to treatment.
+Dietary supplements for high-risk dry or unilateral wet AMD
+Intravitreal antivascular endothelial growth factor drugs or laser treatments for wet AMD
+Supportive measures
+There is no way to reverse damage caused by dry AMD. Patients with extensive drusen, pigment changes, and/or geographic atrophy can reduce the risk of developing advanced AMD by 25% by taking daily supplements of the following:
+Zinc oxide 80 mg
+Copper 2 mg
+Vitamin C 500 mg
+Vitamin E 400 units
+Lutein 10 mg/zeaxanthin 2 mg (or beta-carotene 15 mg or vitamin A 28,000 units for patients who have not smoked)
+In current and former smokers, beta-carotene can increase the risk of lung cancer. Recently, substitution of beta-carotene with lutein plus zeaxanthin has been shown to have comparable efficacy (1). Therefore, such a substitution should be considered in current or former smokers. The zinc component of these supplements increases risk of hospitalization for genitourinary tract disorders. Some patients taking beta-carotene also have yellowing of the skin. Reducing cardiovascular risk factors as well as regularly eating foods high in omega-3 fatty acids and dark green leafy vegetables may help slow disease progression; however, recent large trials have not shown that taking supplements of omega-3 fatty acids reduces disease progression.
+Patients with unilateral wet AMD should take the daily nutritional supplements that are recommended for dry AMD to reduce the risk of AMD-induced vision loss in the other eye. The choice of other treatments depends on the size, location, and type of neovascularization. Intravitreal injection of antivascular endothelial growth factor (anti-VEGF) drugs (usually ranibizumab, bevacizumab, or aflibercept) can substantially reduce the risk of vision loss and can help restore reading vision in up to one third of patients. In a small subset of patients, thermal laser photocoagulation of neovascularization outside the fovea may prevent severe vision loss. Photodynamic therapy, a type of laser treatment, also helps under specific circumstances. Corticosteroids (eg, triamcinolone) are sometimes injected intraocularly along with an anti-VEGF drug. Other treatments, including transpupillary thermotherapy, subretinal surgery, and macular translocation surgery, are seldom used.
+1. Age-Related Eye Disease Study 2 Research Group: Lutein + zeaxanthin and omega-3 fatty acids for age-related macular degeneration: The age-related eye disease study 2 (AREDS2) randomized clinical trial. JAMA 309(19):2005-15, 2013. doi: 10.1001/jama.2013.4997. Clarification and additional information. JAMA 310(2):208, 2013. doi:10.1001/jama.2013.6403.
+For patients who have lost central vision, low-vision devices such as magnifiers, high-power reading glasses, large computer monitors, and telescopic lenses are available. Also, certain types of software can display computer data in large print or read information aloud in a synthetic voice. Low-vision counseling is advised.
+AMD is more common among whites and is the leading cause of permanent vision loss in older adults.
+AMD can be dry (nonexudative or atrophic) or wet (exudative or neovascular).
+Although 85% of AMD is dry, 80 to 90% of severe vision loss caused by AMD results from the wet type.
+Funduscopic changes in dry AMD include drusen, areas of chorioretinal atrophy, and changes to the retinal pigment epithelium.
+Funduscopic changes in wet AMD include retinal edema and localized elevation, detachment of the retinal pigment epithelium, a gray-green discoloration under the macula, and exudates in and around the macula.
+If patients have AMD on funduscopy, do color fundus photography, fluorescein angiography, and optical coherence tomography.
+Prescribe dietary supplements for unilateral wet or high-risk dry AMD.
+Treat wet AMD with intravitreal antivascular endothelial growth factor drugs or laser therapy.
+Merck & Co., Inc., Kenilworth, NJ, USA (known as MSD outside of the US and Canada) is a global healthcare leader working to help the world be well. From developing new therapies that treat and prevent disease to helping people in need, we are committed to improving health and well-being around the world.  The Manual was first published in 1899 as a service to the community.  The legacy of this great resource continues as the Merck Manual in the US and Canada and the MSD Manual outside of North America.  Learn more about our commitment to Global Medical Knowledge.
