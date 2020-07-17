@@ -1,10 +1,16 @@
-### Paths
-1. Mappings to Phecodes: mapping results/
-2. NER on titles: title_results/
+# UMLS-Mapping
+### Crosswalks of data scraped from everywhere.
 
-### Notes
-1. Disease terms with no CUI mappings were inclueded in calculating mapping rates
-2. Medscape data is divided into the last three files in the summary).
+## Currently this project has:
 
-### For summaries on mapping rates, see exact_cui_log.txt
+### Drug-RxNorms Mapping of data from drugs.com
+For documentation and evaluations [click here](https://docs.google.com/document/d/1_Z5ddvA3-F_kr7k873oCFksNscmLST6nmONuf3WSbTI/edit?usp=sharing)
 
+### Disease-PheCodes Mapping of data from drugs.com
+For documentation and evaluations [click here](https://docs.google.com/document/d/1KUbgcE6ODoSuk-Nxhq9kiDf0zVGkKbUeqqnBXA8bDD4/edit?usp=sharing)
+
+### MedScape Drug-Disease Conditions articles 
+(See documentation of how it's scraped [here](https://docs.google.com/document/d/1braCaXNtjnTiuPc64KEnI0rDJGbmDJfgS_MYgKwARGk/edit?usp=sharing))
+
+### Run NER on titles
+See documentation at README.md in the ner/ folder
