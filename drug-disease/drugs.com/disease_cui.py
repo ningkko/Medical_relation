@@ -1,3 +1,8 @@
+# Author: Ning Hua        
+# yhua@smith.edu
+
+
+
 import pandas as pd
 import numpy as np
 import ast
@@ -6,7 +11,7 @@ import json
 # -------------- Read source data ---------------
 print("Reading source data...")
 
-df = pd.read_csv("output/drug_disease.csv")
+df = pd.read_csv("../source data/drug_disease.csv")
 df = df.replace(np.nan, '', regex=True)
 # drop rows with only OTC
 df_rx = df[df["RX/OTC"] != 'otc']
@@ -40,7 +45,7 @@ print("Number of all diseases: %i" %len(all_names))
 
 print("Mapping from strings to CUI using broad_dictionary...")
 #--------------- Mapping from CUI to Phe ------------------
-with open('../mapping data/dictionary/str_cui_dict_updated.json', 'r') as fp:
+with open('../../mapping data/dictionary/str_cui_dict_updated.json', 'r') as fp:
     str_cui_dict_updated = json.load(fp)
 
 # ------------ mapping --------------

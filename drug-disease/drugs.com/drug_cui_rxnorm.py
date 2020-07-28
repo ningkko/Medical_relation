@@ -1,14 +1,17 @@
+# Author: Ning Hua        
+# yhua@smith.edu
+
 import pandas as pd
 import numpy as np
 import json
 
 # ================= dictionaries from umls ===============
-with open('../mapping data/dictionary/str_cui_dict_updated.json', 'r') as fp:
+with open('../../mapping data/dictionary/str_cui_dict_updated.json', 'r') as fp:
     str_cui_dic = json.load(fp)
 
 #================ Read source data ======================
 
-df = pd.read_csv("output/drug_disease.csv").replace(np.nan, '', regex=True)
+df = pd.read_csv("output/disease_pheCode.csv").replace(np.nan, '', regex=True)
 df_rx = df[df["RX/OTC"] != 'otc']
 
 def _unique(lst):
@@ -128,7 +131,7 @@ print("After combining CUIs derived from generic names and brand names, %f of th
 # =================== CUI - RXNorm strings =======================
 
 print("Reading string - RXNorm dictionary...\n...")
-with open('../mapping data/dictionary/cui_str_dict_updated.json', 'r') as cui_str_fp:
+with open('../../mapping data/dictionary/cui_str_dict_updated.json', 'r') as cui_str_fp:
     cui_rxnorm_dic = json.load(cui_str_fp)
 
 # map combined cui to rxnorms using the cui_rxnorm_dic we just created
@@ -166,7 +169,7 @@ with open("missing/missing_cuis_in_cui2rxn.txt",'w') as file:
 
 # =================== RXNorm strings to RXNorms =======================
 print("Mapping rxnorm strings to rxnorms...")
-with open('../mapping data/dictionary/str_rxnorm_dict.json', 'r') as cui_str_fp:
+with open('../../mapping data/dictionary/str_rxnorm_dict.json', 'r') as cui_str_fp:
     str_rxnorm_dict = json.load(cui_str_fp)
 rxnorms = []
 missing = []
