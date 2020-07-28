@@ -18,7 +18,7 @@ def _unique(lst):
     '''returns a list with unique values'''
     return list(np.unique(np.array(lst)))
 
-def _clean_generic_name(x):
+def _clean_name(x):
     x = x.replace(" )","")
     x = x.replace("|and ","/")
     return x
@@ -63,8 +63,26 @@ def _map(names, _dict, unique_names):
 	return mapped_list, mapped_num,missing_names
 
 
+# ---------- drug names to cui ---------------
+drug_names = df_rx["drug"].apply(lambda x: _clean_name(x))
+drug_names_unique = _unique(drug_names)
+if "" in drug_names_unique:
+ 	drug_names_unique.remove("")
+cui_codes_drug, mapped_drug_num, missing_drug_names = _map(drug_names, str_cui_dic, unique_names=drug_names_unique)
+mapping_rate_drug = mapped_drug_num/len(drug_names_unique)
+print("Mapping rate(drug names to CUI): %f.\nMissing %i drug names." % (mapping_rate_drug, len(missing_drug_names)))
+df_rx["cui_from_drug_name"] = cui_codes_drug
+
+missing_drug_names_df = pd.DataFrame(missing_drug_names)
+missing_drug_names_df.columns = ["rug names"]
+missing_drug_names_df["CUIs"] = ""*len(missing_drug_names)
+
+missing_drug_names_df.to_csv("missing/missing drug names.csv", index=False)
+
+
+
 # ---------- generic names to cui ---------------
-generic_names = df_rx["generic name"].apply(lambda x: _clean_generic_name(x))
+generic_names = df_rx["generic name"].apply(lambda x: _clean_name(x))
 generic_names_unique = _unique(generic_names)
 generic_names_unique.remove("")
 
@@ -85,7 +103,8 @@ missing_generic_names_df.to_csv("missing/missing generic names.csv", index=False
 
 # ---------- brand names to cui ---------------
 
-brand_names = df_rx["brand names"]
+brand_names = df_rx["brand names"].apply(lambda x: _clean_name(x)).apply(lambda x: _clean_name(x))
+
 brand_names_unique = _unique(brand_names)
 brand_names_unique.remove("")
 
@@ -97,9 +116,11 @@ print("Mapping rate(brand names to CUI): %f.\nMissing %i brand names." % (mappin
 
 df_rx["cui_from_brand"] = cui_codes_brand
 
-missing_terms_df = pd.DataFrame(missing_brand_names)
-missing_terms_df.columns = ["CUIs"]
-missing_terms_df.to_csv("missing/missing brand names.csv", index=False)
+missing_brand_df = pd.DataFrame(missing_brand_names)
+missing_brand_df.columns = ["CUIs"]
+missing_brand_df["CUIs"] = ""*len(missing_generic_names)
+
+missing_brand_df.to_csv("missing/missing brand names.csv", index=False)
 
 
 # ---------- combine generic cuis and brand cuis ---------------
@@ -120,13 +141,14 @@ def combine_CUIs(li_1, li_2):
 	    i += 1
 	return combined_cui
 
-combined_cui = combine_CUIs(cui_codes_gen, cui_codes_brand)
+combined_cui_gen_brand = combine_CUIs(cui_codes_gen, cui_codes_brand)
+combined_cui = combine_CUIs(cui_codes_drug, combined_cui_gen_brand)
 non_empty_cuis_df = pd.DataFrame(combined_cui).replace("", np.nan, regex=True).dropna()
 mapping_rate_str_cui = len(non_empty_cuis_df) / len(combined_cui)
 
 df_rx["combined_cui"] = combined_cui
 
-print("After combining CUIs derived from generic names and brand names, %f of the drug names have at least one CUI." % mapping_rate_str_cui)
+print("After combining CUIs derived from drug names, generic names, and brand names, %f of the drug names have at least one CUI." % mapping_rate_str_cui)
 
 # =================== CUI - RXNorm strings =======================
 
