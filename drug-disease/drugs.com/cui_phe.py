@@ -1,154 +1,147 @@
+# Author: Ning Hua 
+# yhua@smith.edu
+
 import pandas as pd
 import numpy as np
 import ast
 import json
+from datetime import datetime
 
-# -------------- Read source data ---------------
-print("Reading source data...")
+with open("output/cui2phe_log.txt","a") as log:
+    now = datetime.now()
+    log.write(now.strftime("%Y-%m-%d %H:%M:%S\n"))
+    log.write("\n")
+    # -------------- Read source data ---------------
+    print("Reading source data...")
 
-df = pd.read_csv("output/PheCode_rxNorm.csv")
-df = df.replace(np.nan, '', regex=True)
-# drop rows with only OTC
-df_rx = df[df["RX/OTC"] != 'otc']
+    df = pd.read_csv("output/disease_pheCode.csv")
+    df = df.replace(np.nan, '', regex=True)
+    # drop rows with only OTC
+    df_rx = df[df["RX/OTC"] != 'otc']
+
+    all_cuis = df_rx["cui_from_disease"].to_list()
+
+    #--------------- Mapping from CUI to Phe ------------------
+    with open('../../mapping data/dictionary/cui_phe_dict.json', 'r') as fp:
+        cui_phe_dict = json.load(fp)
+    with open('../../mapping data/dictionary/cui_phe_dict_extended.json', 'r') as fp:
+        cui_phe_dict_extended = json.load(fp)
+
+    # ------------ mapping function --------------
 
 
-# ------------- Flatten disease names -----------------
-other_names = df_rx["other names"].to_list()
-all_names = []
+    def _unique(lst):
+        """returns a list with unique values"""
+        return list(np.unique(np.array(lst)))
 
-name = df_rx["disease name"].to_list()
-for i in range((len(name))):
-    new_line = []
-    # add the disease name
-    new_line.append(name[i])
-    
-    # see of the disease have other names
-    if other_names[i]:
-        other_names_list = other_names[i].split("|")
+    def mapping_cui_to_phe(dictionary_name, all_cuis):
 
-        new_line += other_names_list
-
-    all_names.append(new_line)
-
-def _unique(lst):
-"""returns a list with unique values"""
-return list(np.unique(np.array(lst)))
-
-unique_all_names = _unique(all_names)
-
-print("Number of all diseases: %i" %len(all_names))
-
-print("Mapping from strings to CUI using broad_dictionary...")
-#--------------- Mapping from CUI to Phe ------------------
-with open('../mapping data/dictionary/str_cui_dict_updated.json', 'r') as fp:
-    str_cui_dict_updated = json.load(fp)
-
-# ------------ mapping --------------
-mapped_num = 0
-# map our data
-cui_codes = []
-multiple_cui_instances = []
-
-prev_disease = []
-
-# keep track of what is not found
-missing_disease = []
-i = 0
-for disease in all_names:
-
-    cur_cuis = []
-    for name in disease:
-        if name in missing_terms_dict:
-             cur_cuis.append(missing_terms_dict[name])
-
-        name = name.replace(" prophylaxis", "")
-        name = name.replace(" human","").replace("human", "")
-
-        if name in str_cui_dic:
-             cur_cuis.append(str_cui_dic[name])
-
-    cur_cuis = _unique(cur_cuis)
-
-    if disease != prev_disease:
-        if len(cur_cuis) > 0:
-            mapped_num += 1
+        if dictionary_name == "cui_phe_dict":
+            dictionary = cui_phe_dict
         else:
-            missing_disease.append("|".join(disease))
+            dictionary = cui_phe_dict_extended
 
-    cui_codes.append("|".join(cur_cuis))
-    i += 1
-    prev_disease = disease
+        mapped_num = 0
+        # map our data
+        phecodes = []
+        error = {}
+        error_num = 0
+        prev_cui = ""
 
-mapping_rate_str2cui = mapped_num/len(_unique(all_names))
-print("Mapping rate from disease strings to CUI: %f. %i unique strings are missing."%(mapping_rate_str2cui, len(set(missing_disease))))
-with open("missing_disease_str.txt", 'w') as file:
-    file.write("\n".join(missing_disease))
-df_rx["cui_from_disease"] = cui_codes
+        # keep track of what is not found
+        missing_cuis = []
+        missing_cui = 0
+        missing_term = 0
+        i = 0
+        l = len(all_cuis)
+        # 
+        for term_cuis in all_cuis:
+            cur_phecodes = []
+            print(i/l)
+            if term_cuis == prev_cui and prev_cui!="":
+                cur_phecodes = phecodes[-1]
+
+            else:
+                if term_cuis:
+                    # loop through all cuis of the term
+                    term_missing_cuis = []
+
+                    for cui in term_cuis.split("|"):
+                        # print("cui: %s"%cui)
+                        cur_phecode = [value for key, value in dictionary.items() if cui in key]
+                        # print("phecode: %s"%str(cur_phecode))
+                        if not cur_phecode:
+                            term_missing_cuis.append(cui)
+                            # print("missing_cui: %s"%cui)
+                            missing_cui += 1
+
+                        else: # check if for 1 cui we found multiple-class phecodes
+                            # e.g. 670.1 and 670 are both class 600. But 630 and 600 are not.
+                            phe_class = []
+                            for phe in cur_phecode:
+                                phe_class.append(int(phe))
+                            # if the current cui is mapped to phecodes of more than 1 class, track it.
+                            if len(set(phe_class))>1:
+                                error_num += 1
+                                if cui not in error:
+                                    error[cui] = list(set(cur_phecode))
+                                else:
+                                    for phe in cur_phecode:
+                                        if cui not in error[cui]:
+                                            error[cui].append(phe) 
+
+                            # else we found some right mapping to phecode. Add it to the phecode list of the current term
+                            else:
+                                cur_phecodes.append("|".join(list(set(map(str,cur_phecode)))))
+
+                    if term_missing_cuis:
+                        missing_cuis.append("|".join(term_missing_cuis))
+
+            phecodes.append("|".join(_unique(cur_phecodes)))
+           
+            if term_cuis != prev_cui:
+                if len(cur_phecodes) > 0:
+                    mapped_num += 1
+                else:
+                    missing_term += 1
+
+            prev_cui = term_cuis
+            i += 1
+
+        mapping_rate_cui2phe = mapped_num/len(_unique(all_cuis))
+
+        
+        log.write("\n\nUsing map %s...\nMapping rate from CUI strings to PheCode: %f.\n%i unique cuis are missing. %i unique disease terms are missing. \n%i errors detected."%(dictionary_name, mapping_rate_cui2phe, missing_cui, missing_term, error_num))
+
+        return phecodes, missing_cuis,error
 
 
-#--------------- Map from CUI to Phe usicd ICD CUIS------------------
-1. check if matches multiple columns
-2. chekc if icd & phecui not matching
+    # #--------------- Map from CUI to Phe using cui_phe_dict ------------------
 
-print("Mapping from CUI to PheCodes using icdcui_phecode_dict...")
-with open('../mapping data/dictionary/phecui_phecode_dict.json', 'r') as fp:
-    phecui_phecode_dict = json.load(fp)
+    print("Mapping using cui_phe_dict built from icd_cui+phecode_extended_cui : phecode...")
+    phecodes, missing_cuis, error = mapping_cui_to_phe("cui_phe_dict", all_cuis)
 
-# unstack the dataframe
-def _unstack(frame):
-    data = []
+    with open("missing/missing_cuis_inCUI2Phe.txt", 'w') as file:
+        file.write("\n".join(set(missing_cuis)))
 
-    for i in frame.itertuples():
-        lst = i[0]
-        for col2 in lst:
-            data.append([i[1], col2])
+    with open("output/error_cui2phe.json", 'w') as fp:
+        json.dump(error, fp, indent=4)
 
-    frame_unstacked = pd.DataFrame(data=data, columns=frame.columns)
-    return frame_unstacked
+    df_rx["phecode"] = phecodes
 
+    #--------------- Map from CUI to Phe using cui_phe_dict_extended ------------------
 
-phe_cui_df_unstacked = pd.DataFrame(data=data, columns=phe_cui_df.columns)
+    print("Mapping using cui_phe_dict_extended built from icd_extended_cui+phecode_extended_cui : phecode...")
+    phecodes_extended, missing_cuis_extended,error_extended = mapping_cui_to_phe("cui_phe_dict_extended", all_cuis)
 
+    with open("missing/missing_cuis_inCUI2Phe_extended.txt", 'w') as file:
+        file.write("\n".join(missing_cuis_extended))
 
+    with open("output/error_cui2phe_extended.json", 'w') as fp:
+        json.dump(error_extended, fp, indent=4)
 
-# Map
-mapped_num_cui2phe = 0
-# map our data
-phe_codes = []
+    df_rx["phecode_extended"] = phecodes_extended
 
-missing_cui_phe = []
-prev_cui = ""
-i = 0
-for cui_codes in cui_codes:
-    cur_phes = []
-    codes = _unique(cui_codes.split("|"))
+    df_rx.to_csv("output/disease_pheCode.csv", index=False)
 
-    for cui in codes:
-        if cui in cui_phe_dict:
-            cur_phes.append(cui_phe_dict[cui])
-    cur_phes = _unique(cur_phes)
-
-    if cui_codes!= prev_cui:
-        if len(cur_phes) > 0:
-            mapped_num_cui2phe += 1
-        else:
-            missing_cui_phe.append(cui_codes)
-
-    phe_codes.append("|".join(cur_phes))
-    i += 1
-    prev_cui = cui_codes
-
-df_rx["phe_from_CUI"] = phe_codes
-df_rx.to_csv("output/PheCode_rxNorm.csv")
-
-
-
-with open('../mapping data/dictionary/phecui_phecode_dict.json', 'r') as fp:
-    icdcui_phecode_dict.json
-
-# ================= summary ===============
-mapping_percentage_cui2phe = mapped_num_cui2phe/len(_unique(cui_codes_list))
-print("Mapping rate from CUI to PheCodes: %f. %i unique CUIs are missing."%(mapping_percentage_cui2phe, len(set(missed_cui_phe))))
-with open("missing_disease_cuis.txt", 'w') as file:
-    file.write("\n".join(missing_cui_phe))
-
+    log.write("\n---------------------- End ----------------------\n")

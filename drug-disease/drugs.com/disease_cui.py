@@ -39,9 +39,7 @@ def _unique(lst):
     """returns a list with unique values"""
     return list(np.unique(np.array(lst)))
 
-unique_all_names = _unique(all_names)
-
-print("Number of all diseases: %i" %len(all_names))
+print("Number of all diseases: %i" %len( _unique(all_names)))
 
 print("Mapping from strings to CUI using broad_dictionary...")
 #--------------- Mapping from CUI to Phe ------------------
@@ -90,4 +88,4 @@ with open("missing_disease_str.txt", 'w') as file:
     file.write("\n".join(missing_disease))
 df_rx["cui_from_disease"] = cui_codes
 
-df_rx.to_csv("output/disease_pheCode.csv")
+df_rx.to_csv("output/disease_pheCode.csv", index=False)
