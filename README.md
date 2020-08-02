@@ -13,4 +13,4 @@ For documentation and evaluations [click here](https://docs.google.com/document/
 (See documentation of how it's scraped [here](https://docs.google.com/document/d/1braCaXNtjnTiuPc64KEnI0rDJGbmDJfgS_MYgKwARGk/edit?usp=sharing))
 
 ### Run NER on titles
-See documentation at README.md in the ner/ folder
+See documentation at [README.md in the ner/ folder](https://github.com/ningkko/UMLS-Mapping/blob/master/ner/README.md)
