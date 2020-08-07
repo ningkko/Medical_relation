@@ -55,7 +55,7 @@ for i in range(len(va_path)):
 	if c_root:
 		diff_level.append(phs_path[i].count(".")-c_root.count("."))
 	else:
-		diff_level.append(np.nan)
+		diff_level.append(0)
 		no_c_root.append(loinc[i]+" | VA: "+va_path[i]+" | PHS: "+phs_path[i])
 		print("No common root at "+loinc[i]+" | VA: "+va_path[i]+" | PHS: "+phs_path[i])
 

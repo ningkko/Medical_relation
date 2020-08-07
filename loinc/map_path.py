@@ -24,7 +24,7 @@ loincs = []
 print("Mapping...")
 for loinc_raw in phs_df["feature_id"]:
 	i += 1
-	print(i/l)
+	# print(i/l)
 
 	loinc = loinc_raw.split(":")[1].lower()
 	loincs.append(loinc)
@@ -38,7 +38,7 @@ for loinc_raw in phs_df["feature_id"]:
 		
 missing_loincs = list(set(missing_loincs))
 
-print("%f LOINCs in the PHS file were mapping. %i unique LOINCs were missing. Missing terms stored in missing/phs.txt."%(mapped_loinc/l,len(missing_loincs)))
+print("%f LOINCs in the PHS file were mapped. %i unique LOINCs were missing. Missing terms stored in missing/phs.txt."%(mapped_loinc/l,len(missing_loincs)))
 with open("missing/loincs.txt","w") as f:
 	f.write("\n".join(missing_loincs))
 
@@ -64,7 +64,7 @@ paths = []
 print("Mapping...")
 for ShortName in va_df["ShortName"]:
 	i += 1
-	print(i/l)
+	# print(i/l)
 
 	ShortName = _clean(ShortName)
 
@@ -77,7 +77,7 @@ for ShortName in va_df["ShortName"]:
 		
 missing_loincs = list(set(missing_loincs))
 
-print("%f ShortNames in the VA file were mapping. %i unique ShortNames were missing. Missing terms stored in missing/VA.txt."%(mapped_loinc/l,len(missing_loincs)))
+print("%f ShortNames in the VA file were mapped. %i unique ShortNames were missing. Missing terms stored in missing/VA.txt."%(mapped_loinc/l,len(missing_loincs)))
 with open("missing/shortname.txt","w") as f:
 	f.write("\n".join(missing_loincs))
 
