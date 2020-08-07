@@ -15,9 +15,22 @@ def h_count(x):
 		return 1
 	return x.count(".")+2
 
-h_counts = hierarchy_df["PATH_TO_ROOT"].apply(lambda x: h_count(x))
-hierarchy_dict =  dict(zip(hierarchy_df["CODE"].apply(lambda x: x.lower()), h_counts))
+# h_counts = hierarchy_df["PATH_TO_ROOT"].apply(lambda x: h_count(x))
+# hierarchy_dict =  dict(zip(hierarchy_df["CODE"].apply(lambda x: x.lower()), h_counts))
 
-with open("/n/data1/hsph/biostat/celehs/yih798/loinc/mapping_data/hierarchy_dict.json", "w") as fp:
-    json.dump(hierarchy_dict, fp, sort_keys=True, indent=4)
+# with open("/n/data1/hsph/biostat/celehs/yih798/loinc/mapping_data/hierarchy_dict.json", "w") as fp:
+#     json.dump(hierarchy_dict, fp, sort_keys=True, indent=4)
 
+# loinc-path mapping
+# path_dict =  dict(zip(hierarchy_df["CODE"].apply(lambda x: x.lower()), hierarchy_df["PATH_TO_ROOT"]))
+# with open("/n/data1/hsph/biostat/celehs/yih798/loinc/mapping_data/path_dict.json", "w") as fp:
+#     json.dump(path_dict, fp, sort_keys=True, indent=4)
+
+def _clean(x):
+	if " " in x:
+		x = x.replace(" ", "")
+	return x.lower()
+
+text_dict =  dict(zip(hierarchy_df["CODE_TEXT"].apply(lambda x: _clean(x)), hierarchy_df["PATH_TO_ROOT"]))
+with open("/n/data1/hsph/biostat/celehs/yih798/loinc/mapping_data/text_dict.json", "w") as fp:
+    json.dump(text_dict, fp, sort_keys=True, indent=4)

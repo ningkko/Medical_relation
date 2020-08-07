@@ -2,13 +2,16 @@
 # yhua@smith.edu
 
 import pandas as pd
+
 # 1. VA mapping: CoreTeam_bestLabMap_11182019.xlsx. You will need columns: ShortName, Source and LOINC; rows where ShortName!=NULL. 
+
 va_df = pd.read_excel("raw_data/CoreTeam_bestLabMap_11182019.xlsx")
 
-va_df = va_df.dropna(subset=["ShortName"])
-output_df = va_df[["ShortName", "Source", "LOINC"]]
-print("%i unique short names found"%len(output_df["ShortName"].unique()))
-# 428 unique short names found
+va_df = va_df.dropna(subset=["ShortName", "Source", "LOINC"])
+
+output_df = va_df[["ShortName", "Source", "LOINC"]].drop_duplicates().dropna()
+print("%i unique lines in CoreTeam_bestLabMap_11182019.xlsx were found."%len(output_df["ShortName"]))
+# 88 unique short names found
 
 output_df.to_csv("mapping_data/core_team.csv", index=False)
 
@@ -16,11 +19,11 @@ output_df.to_csv("mapping_data/core_team.csv", index=False)
 phs_df = pd.read_csv("raw_data/feature_codebook.tsv",sep="\t")
 
 # keep rows with the substring "LOINC" in the "feature_id" column
-phs_df = phs_df[phs_df["feature_id"].str.contains("LOINC")]
+phs_df = phs_df[phs_df["feature_id"].str.contains("LOINC")].drop_duplicates()
 print("%i lines in feature_codebook.tsv contains loinc code"%len(phs_df))
 # 41298 rows
 
-phs_df.to_csv("mapping_data/phs_loinc.csv", index=False）
+phs_df.to_csv("mapping_data/phs_loinc.csv", index=False)
 
 
 
