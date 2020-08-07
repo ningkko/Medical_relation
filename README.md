@@ -26,3 +26,9 @@ If you don't, read the paper [Clinical Concept Embeddings Learned from Massive S
 Medical Data](https://arxiv.org/pdf/1804.01486.pdf)
 
 TODO: Add PPMISVD documentation 
+
+### 7. Loinc Roll-Up
+Logical Observation Identifiers Names and Codes (LOINC) is a database and universal standard for identifying medical laboratory observations. 
+
+See documentation [here](https://docs.google.com/document/d/1fMmjrmlKOHVhPnxR3My1TnL4azSzdA_7BSg7912uz2c/edit?usp=sharing
+)
