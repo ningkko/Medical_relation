@@ -21,7 +21,7 @@ mapped_loinc = 0
 missing_loincs = []
 paths = []
 loincs = []
-print("Mapping...")
+print("Mapping PHS...")
 for loinc_raw in phs_df["feature_id"]:
 	i += 1
 	# print(i/l)
@@ -49,12 +49,48 @@ phs_mapping_df = phs_mapping_df.drop_duplicates().sort_values(by=['LOINC']).drop
 phs_mapping_df.to_csv("output/phs_path.csv", index=False)
 
 
-# -------------------- va --------------------
-def _clean(x):
-	if " " in x:
-		x = x.replace(" ", "")
+# -------------------- va by shortname--------------------
+# def _clean(x):
+# 	if " " in x:
+# 		x = x.replace(" ", "")
 
-	return x.lower()
+# 	return x.lower()
+
+# l = len(va_df)
+# i = 0
+# mapped_loinc = 0
+# missing_loincs = []
+# paths = []
+# print("Mapping VA shortnames...")
+# for ShortName in va_df["ShortName"]:
+# 	i += 1
+# 	# print(i/l)
+
+# 	ShortName = _clean(ShortName)
+# 	loinc = va_df["LOINC"]
+
+# 	if ShortName in text_dict:
+# 		paths.append(text_dict[ShortName])
+# 		mapped_loinc += 1
+# 	else:
+# 		missing_loincs.append(ShortName)
+# 		paths.append("")
+
+# missing_loincs = list(set(missing_loincs))
+
+# print("%f ShortNames in the VA file were mapped. %i unique ShortNames were missing. Missing terms stored in missing/VA.txt."%(mapped_loinc/l,len(missing_loincs)))
+# with open("missing/shortname.txt","w") as f:
+# 	f.write("\n".join(missing_loincs))
+
+# va_mapping_df = pd.DataFrame(va_df["LOINC"])
+# va_mapping_df.columns = ["LOINC"]
+# va_mapping_df["path"] = paths
+# va_mapping_df = va_mapping_df.drop_duplicates().sort_values(by=['LOINC']).dropna()
+# va_mapping_df.to_csv("output/va_path_text.csv", index=False)
+		
+
+
+# -------------------- va by loinc --------------------
 
 l = len(va_df)
 i = 0
@@ -62,27 +98,29 @@ mapped_loinc = 0
 missing_loincs = []
 paths = []
 print("Mapping...")
-for ShortName in va_df["ShortName"]:
+
+for loinc in va_df["LOINC"]:
 	i += 1
 	# print(i/l)
 
-	ShortName = _clean(ShortName)
-
-	if ShortName in text_dict:
-		paths.append(text_dict[ShortName])
+	loinc = loinc.lower()
+	if loinc in h_dict:
+		paths.append(h_dict[loinc])
 		mapped_loinc += 1
 	else:
-		missing_loincs.append(ShortName)
+		missing_loincs.append(loinc)
 		paths.append("")
 		
+
 missing_loincs = list(set(missing_loincs))
 
-print("%f ShortNames in the VA file were mapped. %i unique ShortNames were missing. Missing terms stored in missing/VA.txt."%(mapped_loinc/l,len(missing_loincs)))
-with open("missing/shortname.txt","w") as f:
+print("%f loincs in the VA file were mapped. %i unique loincs were missing. Missing terms stored in missing/VA_loincs.txt."%(mapped_loinc/l,len(missing_loincs)))
+with open("missing/VA_loincs.txt","w") as f:
 	f.write("\n".join(missing_loincs))
 
 va_mapping_df = pd.DataFrame(va_df["LOINC"])
 va_mapping_df.columns = ["LOINC"]
 va_mapping_df["path"] = paths
 va_mapping_df = va_mapping_df.drop_duplicates().sort_values(by=['LOINC']).dropna()
-va_mapping_df.to_csv("output/va_path.csv", index=False)
+va_mapping_df.to_csv("output/va_path_loinc.csv", index=False)
+		
