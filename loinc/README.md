@@ -5,24 +5,49 @@ should have a hierarchical number 7 since it has 6 linear parents.
 
 For a detailed documentation, visit [here](https://docs.google.com/document/d/1fMmjrmlKOHVhPnxR3My1TnL4azSzdA_7BSg7912uz2c/edit?usp=sharing)
 
-## make_dict.py
+## output/roll_up
+- raw.csv
+csv roll_up results in loinc codes
+
+- other csv 
+csv roll_up results translated to human-readable texts.
+
+- g2
+with numbers of common nodes greater than 2
+
+- g3
+with numbers of common nodes greater than 3
+
+- dist pngs
+A distribution graph for common nodes shared by VA paths and PHS paths.
+![dist](common_node_dist.png)
+
+
+## Two rolling method:
+![rollup](loinc.png)
+
+The result of the first roll_up method is stored in the common_root column of the csv files.\
+The result of the second method is stored in the before and roll_up_to columns in the csv files.
+
+## scripts
+#### make_dict.py
 1. {LOINC_code : hierarchy_level} dictionary from Loinc_2/MultiAxialHierarchy.csv
 2. {TEXT_code : ROOT_PATH} dictionary from Loinc_2/MultiAxialHierarchy.csv
 
-## make_data.py
+#### make_data.py
 cleans raw data.
 
-## map_path.py
+#### map_path.py
 1. Maps loinc_PHS to root_path
 2. Maps ShortName_VA to root_path
 
-## compare_path.py
+#### compare_path.py
 Merge VA_paths and PHS_paths
 
-## output/compare_path.py
+#### compare_path.py
 Plot the roll_up level distribution
 
-## map_phs_hnum.py
+#### map_phs_hnum.py
 maps LOINC codes in feature_book (PHS) with LOINC hierarchy levels.
 
 ## raw_data/ 
