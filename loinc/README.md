@@ -20,7 +20,7 @@ with numbers of common nodes greater than 3
 
 - dist pngs
 A distribution graph for common nodes shared by VA paths and PHS paths.
-![dist](common_node_dist.png)
+![dist](output/common_node_dist.png)
 
 
 ## Two rolling method:
