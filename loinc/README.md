@@ -23,7 +23,7 @@ A distribution graph for common nodes shared by VA paths and PHS paths.
 ![dist](output/common_node_dist.png)
 
 
-## Two rolling method:
+## Two rolling methods:
 ![rollup](loinc.png)
 
 The result of the first roll_up method is stored in the common_root column of the csv files.\
