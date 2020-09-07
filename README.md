@@ -32,3 +32,6 @@ Logical Observation Identifiers Names and Codes (LOINC) is a database and univer
 
 See documentation [here](https://docs.google.com/document/d/1fMmjrmlKOHVhPnxR3My1TnL4azSzdA_7BSg7912uz2c/edit?usp=sharing
 )
+
+### 8. PheCode to CPT code Mapping
+In progress. See [documentation](https://docs.google.com/document/d/1Hh0aPIVisUUo2T2cMcYDL8b4ya-qyDvR4FOqTtPh_a8/edit?usp=sharing)
