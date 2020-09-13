@@ -1,0 +1,78 @@
+# Ning Hua
+# yhua@smith.edu
+
+import pandas as pd 
+import numpy as np
+import json
+import re
+
+# >  Try enhance cui-cpt using strings
+# CUI(cpt)-STR(CUI)-CPT(STR)-CPT
+output_df = pd.read_csv("phe_cui_cpt.csv", encoding="Latin").replace(np.nan,"",regex=True)
+
+def de_paren(x):
+	p = re.compile(r'\([^)]*\)')
+	return re.sub(p, '', x)
+def _clean_name(x):
+    x = de_paren(x.lower().replace(",","").replace("-","").replace(" / ", "/").replace("|and","/")).strip()
+    return x
+
+
+with open("dicts/cui_str_dict.json","r") as fp:
+	cui_str_dict = json.load(fp)
+
+def _map(x , _dict):
+	x = x.split("|")
+	li = []
+	for c in x:
+		# c = _clean_name(c)
+		if c in _dict:
+			# print(c)
+			li.append(_dict[c])
+	return "|||".join(li)
+
+def _map_extended(x, _dict):
+	x = x.split("|")
+	li = []
+	for c in x:
+		if c.split(":")[0] in _dict:
+			li.append(_dict[c.split(":")[0]]+":"+c.split(":")[1])
+	return "|||".join(li)
+
+output_df["cpt_str"] = output_df["cpt_cui"].apply(lambda x: _map(x,cui_str_dict))
+output_df["cpt_str_extended"] = output_df["cpt_cui_extended"].apply(lambda x: _map_extended(x,cui_str_dict))
+
+
+# ------- map str to phe ------------
+
+with open("dicts/str_phe_dict.json","r") as fp:
+	str_phe_dict = json.load(fp)
+
+def _map_str(x, _dict):
+	xs = x.split("|||")
+	li = []
+	for x in xs:
+		for c in x.split("|"):
+			print(c)
+			if "[0]" in c or "[1]" in c:
+				if _clean_name(c.split(":")[0]) in _dict:
+					li.append(_dict[_clean_name(c.split(":")[0])]+":"+c.split(":")[1])
+			else:
+				if _clean_name(c) in _dict:
+				# print(c)
+					li.append(_dict[_clean_name(c)])
+	return "|".join(li)
+
+
+output_df["cpt(str)"] = output_df["cpt_str"].apply(lambda x:_map_str(x, str_phe_dict))
+output_df["cpt_extended(str)"] = output_df["cpt_str"].apply(lambda x:_map_str(x, str_phe_dict))
+output_df["cpt"] = output_df["cpt(cui)"]+"|"+output_df["cpt_extended(cui)"]+"|"+output_df["cpt(str)"]+"|"+output_df["cpt_extended(str)"]
+output_df["cpt"] = output_df["cpt"].apply(lambda x: x.strip("|"))
+# output_df = output_df.drop(["str_icd","str_phe","cpt(icd_cui)","cpt(extended)"],axis=1)
+
+output_df.to_csv("phe_cui_str_cpt.csv",index=False)
+full_output = output_df[(output_df["cpt"]!="")]
+
+print("%f phecodes (%i out of %i) mapped."%(len(full_output)/len(output_df),len(full_output),len(output_df)))
+cui_cpt = len(output_df[(output_df["cpt(str)"]!="")|(output_df["cpt_extended(str)"]!="")])
+print("%i cui(cpt) mapped to cpt"%(cui_cpt))
