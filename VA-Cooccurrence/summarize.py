@@ -10,9 +10,10 @@ import sys
 import shutil
 from glob import glob
 
+script_path = '/n/data1/hsph/biostat/celehs/SHARE/COOCCURRENCE_PMI_EMBEDDING/va/from_everett_nlp/VARV4T-04/'
 folder_path = '/n/data1/hsph/biostat/celehs/SHARE/COOCCURRENCE_PMI_EMBEDDING/va/from_everett_nlp/VARV4T-04/COOCCURRENCE_MATRIX_ASYMMETRIC_NLP_ZERO/'
 sub_folders = glob(folder_path+"/*/")
-
+print(sub_folders)
 # Csv Structure1: Subfolder, #files 
 # Csv Structure2: Subfolder, filename, file_size, #pairs, #unique_pairs, code1, code2
 # Csv Structure3 (overall): unique code, frequency 
@@ -29,30 +30,32 @@ s2_unique_pairs = []
 
 s2_sub_paths = []
 
-# fields for structure3
-s3 = pd.DataFrame(columns=["code","count"])
+
+s1 = pd.read_csv(script_path + "output/s1.csv")
+s3 = pd.read_csv(script_path + "output/s3.csv")
 s3 = s3.astype('int')
 
-for folder in sub_folders[:1]:
 
+for folder in sub_folders:
+    # print(folder)
     s1_subf.append(folder.split("/")[-2])
     files = [i for i in os.listdir(folder) if i.endswith('.parquet')]
+    s1_numbers.append(len(files))
 
-    l = len(files)
-    s1_numbers.append(l)
-    i = 0    
     for file in files:
-        i += 1
-        print(i/l)
-
+        print(file)
         # -------- structure 2 --------------
         s2_filename.append(file.split("/")[-1])
-        s2_filesize.append(0.000001*os.path.getsize(folder+file))
+        s2_filesize.append(format(0.000001*os.path.getsize(folder+file),'.2f'))
         # read parquet file
-        p = pd.read_parquet(folder+file)
+        try:
+            p = pd.read_parquet(folder+file)
+        except IOError:
+            continue
+
         s2_npairs.append(len(p))
-        p["ij"] = p["i"].apply(lambda x:str(x))+","+p['j'].apply(lambda x:str(x))
-        s2_unique_pairs.append(len(p['ij'].unique()))
+        # p["ij"] = p["i"].apply(lambda x:str(x))+","+p['j'].apply(lambda x:str(x))
+        s2_unique_pairs.append(len(p[["i","j"]].drop_duplicates()))
         # print("s2 built...")
         # -------- structure 3 --------------
 
@@ -88,22 +91,23 @@ for folder in sub_folders[:1]:
 
     s2 = pd.DataFrame(s2)
     s2["p==up"] = s2["pairs"]==s2["unique_pairs"]
-    s2.to_csv("s2.csv", index=False)
-    s2_sub_paths.append(folder+"s2.csv")
+    s2.to_csv(script_path+"s2/"+folder.split("/")[-2]+".csv", index=False)
+    s2_sub_paths.append(script_path+"s2/"+folder.split("/")[-2]+".csv")
 
-s3.to_csv("output/s3.csv", index=False)
 
-s1 = pd.DataFrame(columns=["foldername","#files"])
-s1["foldername"] = s1_subf
-s1["#files"] = s1_numbers
+    s3.to_csv("output/s3.csv", index=False)
 
-s1.to_csv("output/s1.csv", index=False)
+    s1_new = pd.DataFrame(columns=["foldername","#files"])
+    s1_new["foldername"] = s1_subf
+    s1_new["#files"] = s1_numbers
+    s1 = pd.concat([s1,s1_new])
+    s1.to_csv(script_path+"output/s1.csv", index=False)
 
 
 s2 = pd.DataFrame(columns=["file name","size","pairs","unique_pairs","folder"])
 for subf in s2_sub_paths:
-    p = pd.read_csv(s2_subf)
+    p = pd.read_csv(subf)
     p["folder"] = subf.split("/")[-2]
     s2 = pd.concat(s2,p)
 
-s2.to_csv("output/s2.csv", index=False)
+s2.to_csv(script_path+"output/s2.csv", index=False)
