@@ -33,5 +33,7 @@ Logical Observation Identifiers Names and Codes (LOINC) is a database and univer
 See documentation [here](https://docs.google.com/document/d/1fMmjrmlKOHVhPnxR3My1TnL4azSzdA_7BSg7912uz2c/edit?usp=sharing
 )
 
+For a clearer understanding of what each Loinc TTY means in the UMLS database, what MTHU#, LA#, LG# are, and how can these codes be mapped to Loinc codes, see [LOINC TTY and Mapping](https://docs.google.com/document/d/1_OTmCOjJtNM2A-W7OpLRBlxHBJYsB5BlmhFaDLGsEnQ/edit?usp=sharing)
+
 ### 8. PheCode to CPT code Mapping
 In progress. See [documentation](https://docs.google.com/document/d/1Hh0aPIVisUUo2T2cMcYDL8b4ya-qyDvR4FOqTtPh_a8/edit?usp=sharing)
