@@ -4,7 +4,7 @@ If you have any question about UMLS (I think I have a fairly good understanding 
 
 -- Ning
 
-### Crosswalks of data scraped from everywhere. Work for the [CELEHS](https://celehs.hms.harvard.edu/) group at HMS
+### Work done at the [CELEHS](https://celehs.hms.harvard.edu/) group at HMS
 A doc on all links I have: [click here](https://docs.google.com/document/d/1bUWSk_qSs-gtChQsYYjqabRDIDAZKYCUQwg0QiDXU6I/edit?usp=sharing)
 
 ## Currently this project has:
@@ -17,10 +17,10 @@ For documentation and evaluations [click here](https://docs.google.com/document/
 ### 3. MedScape Drug-Disease Conditions articles 
 (See documentation of how it's scraped [here](https://docs.google.com/document/d/1braCaXNtjnTiuPc64KEnI0rDJGbmDJfgS_MYgKwARGk/edit?usp=sharing))
 
-### 4. Running NER on titles
+### 4. Running NER on articles
 See documentation at [README.md in the ner/ folder](https://github.com/ningkko/UMLS-Mapping/blob/master/ner/README.md)
 
-### 5. Running NLP on titles and contents
+### 5. Running NLP on articles
 Not much stored here but you can find how to load data to a database using python [here](https://github.com/ningkko/UMLS-Mapping/tree/master/nlp).
 
 ### 6. PPMISVD
@@ -41,4 +41,11 @@ See documentation [here](https://docs.google.com/document/d/1fMmjrmlKOHVhPnxR3My
 For a clearer understanding of what each Loinc TTY means in the UMLS database, what MTHU#, LA#, LG# are, and how can these codes be mapped to Loinc codes, see [LOINC TTY and Mapping](https://docs.google.com/document/d/1_OTmCOjJtNM2A-W7OpLRBlxHBJYsB5BlmhFaDLGsEnQ/edit?usp=sharing)
 
 ### 8. PheCode to CPT code Mapping
-In progress. See [documentation](https://docs.google.com/document/d/1Hh0aPIVisUUo2T2cMcYDL8b4ya-qyDvR4FOqTtPh_a8/edit?usp=sharing)
+See [documentation](https://docs.google.com/document/d/1Hh0aPIVisUUo2T2cMcYDL8b4ya-qyDvR4FOqTtPh_a8/edit?usp=sharing)
+
+
+### 9. Golden standard CUI-CODE relations (PheCode, CPT, CCS, RxNorm, LOINC)
+Done
+
+### 10. Auto-mapping model
+In progress
