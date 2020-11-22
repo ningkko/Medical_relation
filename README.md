@@ -1,4 +1,4 @@
-# UMLS-Mapping
+# Medical Relation
 I stopped updating because I don't have time. 
 If you have any question about UMLS (I think I have a fairly good understanding of it now) or if you are working on training models for medical relations (struggling on this) please [contact me](yining_hua@college.harvard.edu)
 
