@@ -1,4 +1,9 @@
 # UMLS-Mapping
+I stopped updating because I don't have time. 
+If you have any question about UMLS (I think I have a fairly good understanding of it now) or if you are working on training models for medical relations (struggling on this) please [contact me](yining_hua@college.harvard.edu)
+
+-- Ning
+
 ### Crosswalks of data scraped from everywhere. Work for the [CELEHS](https://celehs.hms.harvard.edu/) group at HMS
 A doc on all links I have: [click here](https://docs.google.com/document/d/1bUWSk_qSs-gtChQsYYjqabRDIDAZKYCUQwg0QiDXU6I/edit?usp=sharing)
 
