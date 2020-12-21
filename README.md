@@ -45,7 +45,7 @@ See [documentation](https://docs.google.com/document/d/1Hh0aPIVisUUo2T2cMcYDL8b4
 
 
 ### 9. Golden standard CUI-CODE relations (PheCode, CPT, CCS, RxNorm, LOINC)
-Done
+See automapping/source/archive/
 
 ### 10. Auto-mapping model
 In progress
