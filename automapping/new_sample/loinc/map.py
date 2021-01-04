@@ -11,8 +11,12 @@ import json
 # d_str_cui = dict(zip(base["STR"],base["CUI"]))
 
 # print(d_str_cui)
-df = pd.read_csv("ARCHIVE/loinc.tsv",sep='\t',encoding='Latin')
-ddf = pd.read_csv("loinc_rolled.csv",encoding='Latin')
+df = pd.read_csv("/n/data1/hsph/biostat/celehs/yih798/automapping/source/rollup/ARCHIVE/loinc.tsv",sep='\t',encoding='Latin')
+ddf = pd.read_csv("/n/data1/hsph/biostat/celehs/yih798/automapping/source/rollup/loinc_rolled.csv",encoding='Latin')
+df['STR'] = df["STR"].astype(str)
+df['STR'] = df[['CODE','STR']].groupby(['CODE'])['STR'].transform(lambda x: '||'.join(x))
+df[["CODE","STR"]].drop_duplicates()
+
 # print(df)
 def m(x):
 	if x.upper().lower()==x:
@@ -44,9 +48,9 @@ with open("/n/data1/hsph/biostat/celehs/yih798/drug-disease/mapping/dictionary/c
 def m2(x):
 	'''map cui to rolled up string'''
 	if x in d:
-		return d[x].split("||")[0]
-	return ""
-
+		# return d[x].split("||")[0]
+		return d[x]
+	return x
 # print(df["cui"])
 
 df["cui_terms"] = df["cui"].apply(lambda x: m2(x))
@@ -72,6 +76,8 @@ df["code"] = df["CODE"]
 # 	str_d = json.load(fp)
 
 df=df[["cui","cui_terms","code","code_terms","hierarchy"]]
+df["cui"]=df["cui"].str.split("|")
+df=df.explode("cui")
 df=df.sort_values("cui")
 # print(df)
 
